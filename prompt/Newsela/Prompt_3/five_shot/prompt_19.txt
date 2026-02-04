@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Los investigadores siguieron a un grupo de cerca de 50 estudiantes de sexto grado hacia un campamento al aire libre en el Sur de California.
+* Oración simplificada: El estudio siguió a cerca de 50 estudiantes de sexto grado hacia un campamento al aire libre.## Un grupo es examinado en un campamento al aire libre
+
+* Oración original: Gracias al anuncio de Cook, las empresas de tecnología, que son algunas de las compañías más ricas y poderosas del mundo, tienen una nueva oportunidad de apoyar la igualdad.
+* Oración simplificada: Las empresas de tecnología son algunas de las compañías más ricas y poderosas del mundo.Gracias al anuncio de Cook, tienen una nueva oportunidad de apoyar los derechos de los gais en todo el mundo.
+
+* Oración original: En un mundo donde los lugares de trabajo están cada vez más automatizados y las relaciones empleador-empleado se están deteriorando, los valores estipulados en las normas laborales de la OIT son ahora más necesarios que nunca.
+* Oración simplificada: En un mundo donde los centros de trabajo están cada vez más automatizados y las relaciones empleador-empleado empeoran, los valores y las normas laborales de la OIT son más necesarias que nunca.
+
+* Oración original: Explica que las medidas educativas tienen como objetivo invalidar las restricciones a la educación religiosa que fueron previamente impuestas por el denominado "Golpe de Estado suave" de Turquía en 1997, cuando el ejército en el poder — considerándose como garante de los principios seculares de Ataturk — presionó al gobierno islámico hasta entregar su poder y procedió a cerrar las escuelas vocacionales religiosas de clase media.
+* Oración simplificada: Afirma que las medidas educativas significan retirar las restricciones a la educación religiosa que fueron impuestas en 1997.Al mismo tiempo, el ejército, que se ve a sí mismo como garante de los valores seculares de Ataturk, tuvo el suficiente poder para retirar del poder al gobierno islámico.En un hecho histórico que se conoció como "Golpe de Estado suave", el ejército también llegó a cerrar las escuelas vocacionales religiosas.
+
+* Oración original: Los expertos dicen que la indignación pública debido a los recientes asesinatos podría generar un cambio real.
+* Oración simplificada: Los expertos dicen que la furia causada por los asesinatos podría impulsar un cambio verdadero.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

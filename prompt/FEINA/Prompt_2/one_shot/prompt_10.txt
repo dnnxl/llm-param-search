@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Si el resultado final es cero o cercano a cero, significa que no tiene capacidad de pago, por lo que no debería tomar un crédito en este momento.
+* Oración simplificada: Usted no tiene capacidad de pago si el resultado es cero o cercano a cero. Por lo tanto, no debería endeudarse en este momento.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

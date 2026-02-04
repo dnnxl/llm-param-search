@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La información fue publicada esta semana en la revista Current Biology.
+* Oración simplificada: La información fue publicada esta semana en un artículo de la revista Current Biology.
+
+* Oración original: Makenzie dice que le encantan todas las oportunidades que tiene en el colegio para hacer ejercicio.
+* Oración simplificada: Makenzie dice que le encantan todas las oportunidades que hay para hacer ejercicio en la escuela.
+
+* Oración original: Muchas de las manifestaciones las ha liderado una organización llamada Concerned Student 1950, cuyo nombre viene del año en que la universidad aceptó al primer estudiante negro.
+* Oración simplificada: Una organización llamada Concerned Student 1950, cuyo nombre viene del año en que la universidad aceptó al primer estudiante de la raza negra y cuyos miembros se están manifestando desde el 2 de noviembre, ha liderado muchas manifestaciones.
+
+* Oración original: Están reduciendo o eliminando los espectáculos de delfines.
+* Oración simplificada: Están reduciendo o suspendiendo los espectáculos de delfines.
+
+* Oración original: Aun cuando los investigadores sospechaban desde hacía mucho tiempo que los pesticidas mataban a las mariposas, la investigación de Rand documenta las cantidades letales y revela que la fumigación podría tener efectos de larga duración.
+* Oración simplificada: Aun cuando los investigadores sospechaban que los pesticidas mataban a las mariposas, la investigación de Rand documentó las cantidades letales.También reveló que la fumigación podría tener efectos de larga duración.
+
+* Oración original: Nuestra invasión ha destruido los hábitats naturales de animales y plantas.
+* Oración simplificada: Por medio de nuestras acciones hemos destruido los hábitats naturales de animales y plantas.
+
+* Oración original: LOS ÁNGELES — Durante décadas, los fabricantes de juguetes creyeron el "evangelio de la industria": Los niños quieren construir cosas y las niñas quieren jugar con princesas.
+* Oración simplificada: LOS ÁNGELES — Durante décadas, los fabricantes de juguetes creyeron que los niños querían construir cosas y las niñas querían jugar con princesas.
+
+* Oración original: Además, aporta una nueva dimensión cultural a una controversia sobre la vida salvaje que anteriormente se centraba en los desacuerdos sobre la ciencia y sobre cuántos osos son necesarios.
+* Oración simplificada: Además, le añade un aspecto cultural a la controversia sobre la conservación de la vida salvaje.Antes, la discusión solo se centraba en los desacuerdos científicos y en cuántos osos son demasiados.
+
+* Oración original: Primero tendrá elecciones internas, entre los republicanos.
+* Oración simplificada: Primero tendrá elecciones internas entre los republicanos.Estas se llaman primarias.
+
+* Oración original: LOS ÁNGELES — Es un misterio sobre las tortugas marinas que ha tenido perplejos a los científicos por décadas: ¿Cómo hace una tortuga hembra, que viaja a través de miles de millas en mar abierto cada año, para regresar a la misma playa en la que depositó sus huevos?
+* Oración simplificada: LOS ÁNGELES — Es un misterio que ha asombrado por décadas a los científicos: ¿Cómo pueden las tortugas marinas navegar de vuelta a la misma playa donde nacieron para poner allí sus huevos?Después de todo, las tortugas marinas viajan a través de miles de millas en mar abierto cada año — aunque son las hembras las que encuentran el camino de regreso al lugar donde nacieron.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

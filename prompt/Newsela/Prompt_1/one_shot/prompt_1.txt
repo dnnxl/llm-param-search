@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Tras explorar entre las casi 3,5 millones de toneladas de basura que recoge anualmente el Departamento de Sanidad de la Ciudad de Nueva York, Nagle concluye que "somos una cultura desechable que vive demasiado rápido".
+* Oración simplificada: Así que, ¿cuál es la conclusión a la que ha llegado Nagle tras explorar entre las casi 3,5 millones de toneladas de basura que recoge anualmente el Departamento de Sanidad de la Ciudad de Nueva York?"Somos una cultura que vive demasiado rápido", dice Nagle.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

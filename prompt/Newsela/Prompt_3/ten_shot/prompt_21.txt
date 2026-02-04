@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: "Tiene recordatorios diarios.
+* Oración simplificada: ## Recordatorios diarios"Tiene recordatorios diarios.
+
+* Oración original: Estas fotos cambian cualquier idea de que los británicos de origen africano eran invisibles en la sociedad.
+* Oración simplificada: Se creía que los británicos de la raza negra eran todos pobres.
+
+* Oración original: Green Roofs for Healthy Cities no mantiene un registro de la cantidad total de techos verdes existentes en Norte América sino solo en relación al crecimiento anual en las ciudades principales.
+* Oración simplificada: No hay un registro de la cantidad total de techos verdes existentes en Norte América.
+
+* Oración original: Esto encaja con nuestra comprensión acerca de nuestro propio Sistema Solar, pero es posible que hayamos estado muy equivocados sobre qué es "la norma".
+* Oración simplificada: Esto encaja con nuestra comprensión acerca de nuestro propio Sistema Solar, pero es posible que se trate de una equivocación.
+
+* Oración original: Mutanabbi se encuentra abarrotada con los altos y bajos de la civilización.
+* Oración simplificada: Mutanabbi se encuentra abarrotada con las altas y bajas de la civilización.
+
+* Oración original: Pero el presidente no está de acuerdo con ellos.
+* Oración simplificada: Dijo no estar de acuerdo con ellos.
+
+* Oración original: Entre los inmigrantes puestos en libertad recientemente se encontraba Juliana Tecu, quien huyó de Guatemala con su hija de 9 años luego de que su exmarido amenazara con matarla.
+* Oración simplificada: Entre los inmigrantes puestos en libertad recientemente se encontraba Juliana Tecu, una mujer que huyó de Guatemala con su hija luego de que su exmarido amenazara con matarla.Su hijo, que vive en Los Ángeles, pagó la fianza de 4.000 dólares con la ayuda de amigos y parientes.
+
+* Oración original: Pero incluso en la vida salvaje es cada vez más difícil para los osos actuar de forma natural.
+* Oración simplificada: Pero incluso en la vida salvaje se está haciendo difícil para los osos actuar de forma natural.
+
+* Oración original: Eso dejó a mucha gente pensando sobre si muchas cosas producidas ahora por los cuentapropistas de Cuba serían autorizadas.
+* Oración simplificada: Eso dejó a mucha gente pensando, preguntándose qué podrían los cubanos realmente vender a los consumidores de Estados Unidos.
+
+* Oración original: ALEPPO, Siria — La capilla en la mezquita del siglo XII parece un apartamento de soltero -tazas de té y café cubrían la mayoría de las superficies y las colillas de cigarro estaban por todos lados.
+* Oración simplificada: ALEPPO, Siria — La capilla en la mezquita del siglo XII era un desorden — tazas de té y café cubriendo la mayoría de las superficies y las colillas de cigarros estaban por todos lados.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Los oficiales atrapaban a 3.000 personas al día.
+* Oración simplificada: Arrestaban a 3.000 personas al día.
+
+* Oración original: Después de la tormenta, Mockler prestaba sus servicios en Our Lady of Fatima en Biloxi donde pudo constatar cómo la asistencia de hispanos a la iglesia creció sobremanera para luego decrecer.
+* Oración simplificada: Después del paso de la tormenta, Mockler prestaba sus servicios en la iglesia Our Lady of Fatima, donde la asistencia de hispanos creció notablemente para luego disminuir.
+
+* Oración original: En un estudio controlado aleatorio, las personas son colocadas en diferentes grupos escogidos al azar.
+* Oración simplificada: El estudio fue controlado.En un estudio controlado las personas son colocadas en diferentes grupos escogidos al azar.
+
+* Oración original: Tras terminar la escuela superior, fue entrenador de básquetbol de escuela intermedia.
+* Oración simplificada: Se graduó de una escuela superior en Akron en 1998 y fue entrenador de básquetbol de escuelas intermedias.
+
+* Oración original: Eso la impacienta.
+* Oración simplificada: Eso la inquieta.
+
+* Oración original: Los equipos de deportes universitarios están todos fuera del alcance de los discapacitados, pero UC Berkeley confía en abrir la puerta con el _goalball_, un deporte de golpes y a veces sangriento en el que los jugadores ciegos se apoyan en el sonido, tacto, comunicación y determinación para arrojar una esfera aproximadamente del tamaño de un balón de baloncesto por una cancha de 18 metros de largo, superando a tres oponentes y anotar en la portería.
+* Oración simplificada: Los equipos de deporte universitario están todos fuera del alcance de los discapacitados, pero UC Berkeley confía en abrir la puerta con el goalball.Se trata de un deporte de golpes y ligeramente sangriento practicado por jugadores no videntes y también aquellos con vista.Se apoyan en sus sentidos —sonido, tacto y oído— para arrojar una pelota aproximadamente del tamaño de un balón de baloncesto por una cancha de 18 metros de largo y hacia la portería.
+
+* Oración original: Además de Berkeley, dos universidades están formando equipos.
+* Oración simplificada: ## Se necesitan otros equiposAdemás de Berkeley, dos universidades han empezado a formar sus propios equipos de goalball.
+
+* Oración original: Casi la mitad de los _millennials_ negros comentan sobre las noticias publicadas en Facebook.
+* Oración simplificada: Los _millennials_ de todas las razas ven las noticias en Facebook.
+
+* Oración original: También conocen los hoteles en los que pueden hospedarse y las tiendas donde conseguirán ropa para cuando haga más frío.
+* Oración simplificada: También conocen los hoteles donde pueden hospedarse y las tiendas que venden ropa para climas fríos.
+
+* Oración original: Uno de los rivales de Disney, DreamWorks Animation, tenía el año pasado un grupo de investigación y desarrollo de unas 120 personas, entre los que estaban varios antiguos empleados del Laboratorio de Propulsión a Reacción de la NASA, en Pasadena (California).
+* Oración simplificada: Se usan computadoras para dibujar los personas y la ambientación, y hacer que parezca como que se mueven.Uno de los rivales de Disney, DreamWorks Animation, tiene un grupo de unas 120 personas dedicadas a la investigación y el desarrollo.El grupo incluye a científicos y técnicos que trabajaban antes para la NASA.La NASA es la agencia del gobierno que lanza cohetes y satélites.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

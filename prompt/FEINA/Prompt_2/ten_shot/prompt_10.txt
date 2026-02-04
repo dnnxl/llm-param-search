@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Pues bien, el primer principio indicaba que se deben incrementar las entradas de efectivo; lo cual se traducía en un mayor número de ventas.
+* Oración simplificada: El primer principio mencionaba que debemos aumentar las entradas de efectivo. Esto se convertía en más ventas.
+
+* Oración original: Programas de entrenamiento financiero han ayudado a los consumidores a aumentar sus ahorros (en promedio más de US $1,500) y reducir sus niveles de deuda (en promedio más de US $ 2,000).
+* Oración simplificada: Programas de entrenamiento financiero han ayudado a los consumidores a aumentar sus ahorros y reducir sus niveles de deuda.
+
+* Oración original: Hay demasiadas personas en la sociedad viviendo de cheque en cheque, que es lo mismo que de salario en salario y que al mismo tiempo no manejan bien su dinero.
+* Oración simplificada: Muchas personas viven de cheque en cheque y no administran bien su dinero.
+
+* Oración original: ¿Es importante realizar los pagos de su tarjeta de crédito a tiempo?
+* Oración simplificada: ¿Es importante pagar su tarjeta de crédito a tiempo?
+
+* Oración original: Más concretamente, los bienes A y B son independientes cuando una variación del precio del bien A no influye en la cantidad demandada del bien B, manteniéndose constante todo lo demás.
+* Oración simplificada: Concretamente, dos bienes son independientes cuando una variación del precio de uno no influye en la demanda del otro. Por esto, todo lo demás se mantiene constante.
+
+* Oración original: ¿Cómo se relaciona el costo de oportunidad y las tres variables financieras: riesgo, liquidez y rentabilidad y qué relación existe entre ellas?
+* Oración simplificada: ¿Cómo se relaciona el costo de oportunidad y las tres variables financieras de riesgo, liquidez y rentabilidad? ¿Cuál es la relación entre ellas?
+
+* Oración original: Finalmente, debe elaborar una lista con todos sus activos son aquellas cosas que posee y debe evaluarlas.
+* Oración simplificada: Activos. Para finalizar, elabore una lista con todos sus activos, es decir, estime el valor de todos los objetos que tiene.
+
+* Oración original: En función de los espacios que cada vez han conquistado más en la sociedad, que antes las discriminaba, ellas se han capacitado profesionalmente, han accedido a estudios y obtención de diplomas en instituciones de enseñanza de todas las categorías, tanto en zonas rurales como urbanas y, así es como han podido comprobar lo valioso de su aporte y la capacidad ejecutiva y productiva que tienen, para ayudar al bienestar social que tiene en la economía uno de sus pilares principales.
+* Oración simplificada: En función de los espacios que han conquistado en la sociedad que antes las discriminaba, ellas se han capacitado profesionalmente, han accedido a estudios y obtención de diplomas en instituciones de enseñanza de todas las categorías, tanto en zonas rurales como urbanas.  Así es como han podido comprobar lo valioso de su aporte y la capacidad ejecutiva y productiva que tienen, para ayudar al bienestar social que tiene uno de sus pilares principales en la economía.
+
+* Oración original: Impuestos y contribuciones: Los impuestos pueden ser directos e indirectos. Los primeros gravan las rentas y el capital de las personas, los segundos gravan los gastos de consumo. Las contribuciones gravan a los bienes raíces y son proporcionales al avalúo o tasación que hace el Estado de esos bienes. - Empresas estatales que proporcionan utilidades directamente por las ventas de bienes y servicios. - Préstamos, que pueden ser tanto internos como externos, lo que a su vez origina la deuda pública.
+* Oración simplificada: Los impuestos y las contribuciones. Los impuestos son directos o indirectos. Los directos gravan las rentas y el dinero de las personas. Los indirectos gravan los gastos de consumo. Las contribuciones gravan las propiedades en proporción con su valor. Empresas estatales proveedoras de ganancias directas por los bienes y servicios. Préstamos internos o externos que provocan la deuda pública.
+
+* Oración original: En los pueblos donde el principio de la elección se extiende a todo, no hay propiamente hablando carrera pública.
+* Oración simplificada: En los pueblos donde el principio de la elección se extiende a todo no existe la carrera pública.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

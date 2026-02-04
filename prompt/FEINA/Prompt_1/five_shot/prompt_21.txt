@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Pero, a partir de entonces, ocurre una desmembración del imperio al mismo tiempo que un acrecentamiento del poder de los grandes señores, al grado de que el rey llegó a ser un noble más, a veces con autoridad inferior a la de los condes pues, aún cuando éstos teóricamente reconocían su jerarquía superior, en la realidad negaban su autoridad, llegándose al extremo de que un descendiente de Carlo Magno muriera en la prisión del conde de Vermandois.
+* Oración simplificada: Pero, a partir de entonces ocurre una desmembración del imperio al mismo tiempo que un acrecentamiento del poder de los grandes señores al grado de que el rey llegó a ser un noble más. A veces con autoridad inferior a la de los condes, pues, aun cuando estos reconocían su jerarquía, en la realidad negaban su autoridad y llegaban al extremo de que un descendiente de Carlo Magno muriera en la prisión del conde de Vermandois.
+
+* Oración original: La dimensión moral en los impuestos: En otra parte de este capítulo se afirmó que además de todas las implicaciones económicas, políticas, financieras y sociales que implican los impuestos y la tributación, ellos encarnan también una problemática de profunda sustentación y explicación moral y ética, ya que como dice Adams: En última instancia, el aspecto moral de los impuestos debería aplicarse tanto al Estado como al contribuyente.
+* Oración simplificada: La dimensión moral en los impuestos. En otra parte de este capítulo se afirmó que además de todas las implicaciones económicas, políticas, financieras y sociales DE los impuestos y la tributación, ellos encarnan también una problemática de profunda sustentación y explicación moral y ética. como dice Adams: En última instancia, el aspecto moral de los impuestos debería aplicarse tanto al Estado como al contribuyente.
+
+* Oración original: Los segundos, son aquellos cuya demanda u oferta no depende del comportamiento de los precios de otros bienes o productos.
+* Oración simplificada: Los bienes independientes son aquellos productos que en su oferta o demanda no dependen del comportamiento de los precios de otros bienes o productos.
+
+* Oración original: Definir el dinero, apropiadamente, debe incluir una definición más amplia que incluya todos los aspectos de la oferta monetaria.
+* Oración simplificada: Una definición amplia del dinero debe incluir todos los aspectos de la oferta monetaria.
+
+* Oración original: Sin embargo, para ser más conservador, si esos bonos son variables y no están garantizados, quizás es mejor no tomarlos en cuenta.
+* Oración simplificada: Sin embargo, si esos bonos son variables y no están garantizados, quizás es mejor no tomarlos en cuenta.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

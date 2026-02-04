@@ -1,0 +1,44 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: El intercambio de mercancías se inició con el trueque, anteriormente descrito, cuya base de funcionamiento se fundamenta en el valor relativo de las mercancías involucradas y el mutuo interés de las partes.
+* Oración simplificada: El intercambio de mercancías inició con el trueque. En este el valor de la mercancía era relativo y había acuerdo entre las partes.
+
+* Oración original: Incluya también pagos de fondos de mutuales, de intereses sobre los ahorros, bolsa de dinero, etc.
+* Oración simplificada: Incluya también pagos de fondos de mutuales, ingresos de intereses sobre los ahorros, pagos en bolsa de valores, etcétera.
+
+* Oración original: El dinero que colocas en una cuenta personal de jubilación con frecuencia se puede deducir de tus ingresos gravables, lo que te permite pagar menos en impuestos cada año.
+* Oración simplificada: El dinero que se coloca en una cuenta personal de jubilación con frecuencia se puede deducir de sus ingresos gravables, esto le permite pagar menos en impuestos cada año.
+
+* Oración original: Realizables: Ahorraré $100 semanales desde la última semana de Julio hasta mis vacaciones de fin de año, y no: Participaré en todos los concursos de radio para ganarme el dinero para mi viaje de fin de año."
+* Oración simplificada: Realizables. Por ejemplo, una meta realizable es proponerse ahorrar cien dólares semanales desde la última semana de julio hasta las vacaciones de fin de año, mientras que no lo es participar en todos los concursos de radio para ganar el dinero para un viaje de fin de año.
+
+* Oración original: OBJETO DEL CRÉDITO FUENTE DEL CRÉDITO BENEFICIOS COMPRA DE CASA BANCOS (CRÉDITO HIPOTECARIO) ACCEDER A BIENES Y SERVICIOS DE FORMA ANTICIPADA CON LA OBLIGACIÓN DE PAGAR A FUTUROCOMPRA DE AUTOPRÉSTAMO AUTOMOTRIZVIAJES AGENCIAS DE VIAJE CONSUMO CASAS COMERCIALES TARJETAS DE CRÉDITOBANCOS Y CASAS COMERCIALES
+ Pero ¡cuidado!
+* Oración simplificada: OBJETO DEL CRÉDITO. COMPRA DE CASA. ORIGEN DEL CRÉDITO, BANCOS. BENEFICIOS. ACCEDER A BIENES Y SERVICIOS ANTICIPADAMENTE CON LA OBLIGACIÓN DE PAGAR A FUTURO. Tenga cuidado.
+
+* Oración original: De cierto modo, lo global se contrapone a lo tribal, entendiendo esto último como la conveniencia de la defensa de las culturas locales, en su mayoría de orígenes ancestrales.
+* Oración simplificada: Lo global se opone a lo tribal. Esto último es la conveniencia de defender las culturas locales.
+
+* Oración original: Para este tipo de inversiones es recomendable la asesoría profesional de especialistas en la materia o de entidades financieras, de la bolsa o evaluadoras de riesgo.
+* Oración simplificada: Para estas inversiones se recomienda asesoría profesional de especialistas o de entidades financieras, de la bolsa o evaluadoras de riesgo.
+
+* Oración original: Dentro de éstos se encuentran los impuestos al valor agregado (IVA, impuesto al consumo de personas y empresas) y los impuestos especiales a gasolinas, alcoholes y tabacos.
+* Oración simplificada: Dentro de éstos se encuentran los impuestos al valor agregado como el impuesto sobre el valor añadido, el impuesto al consumo de personas y empresas, y los impuestos especiales a gasolinas, alcoholes y tabacos.
+
+* Oración original: La valoración de los títulos depende, en primer lugar, si la transacción se genera en mercado primario o mercado secundario.
+* Oración simplificada: La valoración de los títulos depende de si la transacción se genera en mercado primario o mercado secundario.
+
+* Oración original: Pueden ser transferidos a otras personas y a otros bancos mediante una sola firma o varias según los propietarios de la cuenta (Endoso).
+* Oración simplificada: Se pueden transferir a otras personas y bancos mediante una firma o varias según los dueños de la cuenta.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

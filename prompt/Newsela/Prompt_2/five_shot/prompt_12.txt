@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Los oficiales atrapaban a 3.000 personas al día.
+* Oración simplificada: Arrestaban a 3.000 personas al día.
+
+* Oración original: Los niños y niñas imitan lo que ocurre a su alrededor.
+* Oración simplificada: Los niños y niñas imitan lo que ven.
+
+* Oración original: NUEVA YORK — El martes, un grupo de expertos en construcción determinó que la nueva torre World Trade Center de Nueva York es el rascacielos más alto del país y aceptó que su aguja forma parte de un diseño cuya altura alcanza los 1.776 pies y que desplaza del puesto número uno al famoso edificio Willis Tower de Chicago.
+* Oración simplificada: NUEVA YORK — El martes, un grupo de expertos en construcción determinó que la nueva torre World Trade Center de Nueva York es el rascacielos más alto del país.El grupo reconoció que la aguja del edificio forma parte de un diseño que alcanza los 1.776 pies de altura.De esta manera, el edificio desplaza del puesto número uno al famoso rascacielos Willis Tower, ubicado en la ciudad de Chicago.## Una aguja le roba el título a Chicago
+
+* Oración original: Estas son algunas de las conclusiones de un análisis del diario Los Angeles Times, en donde se recolectaron datos sobre accidentes en 57 parques temáticos a lo largo del sur de California durante seis años.
+* Oración simplificada: Estas son algunas de las conclusiones de una investigación realizada por el periódico Los Angeles Times.Se analizaron datos de accidentes en parques temáticos a lo largo del sur de California durante seis años.
+
+* Oración original: Pero en el tema de cómo lidiar con las fuerzas policiales, la residente de Hawthorne de 39 años de edad, no sabía qué consejo darle.
+* Oración simplificada: ## Padres no saben qué aconsejarPero la residente de Hawthorne, no sabía qué consejo darle sobre cómo lidiar con las policía.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,21 @@
+Simplifica el siguiente segmento discursivo dado los siguientes ejemplos:
+
+Por ejemplo:
+* Segmento original: El papel de las empresas: son productoras de los bienes y servicios destinados a satisfacer necesidades de uso y consumo de la población.
+* Segmento simplificado: El papel de las empresas. Son productoras de bienes y servicios para satisfacer necesidades de las personas.
+
+* Segmento original: La forma de organización social y económica que los países adopten en la solución del problema económico es lo que se denomina un sistema económico, dándose en éste, a la vez, los llamados agentes económicos que son principalmente el Estado, las comunidades y las familias y las empresas de los tres sectores económicos ya varias veces mencionados.
+* Segmento simplificado: El sistema económico es la forma de organización social y económica adoptada por los países en la solución de un problema económico. A la vez se dan los agentes económicos como el Estado, las familias, las comunidades y las empresas.
+
+* Segmento original: ¿Acaso se abstiene de presupuestar porque hay algunos lujos a los que usted sencillamente no quiere ceder?
+* Segmento simplificado: ¿Hay lujos que usted no quiere dejar y por eso se abstiene de presupuestar?
+
+* Segmento original: En muchas ocasiones los administradores se preguntan a dónde va el dinero si la empresa es exitosa en ventas.
+* Segmento simplificado: Muchas veces los administradores se preguntan a dónde va el dinero si la empresa vende mucho.
+
+* Segmento original: Entonces, según la pirámide de Maslow dispondríamos de: necesidades fisiológicas básicas: son necesidades fisiológicas básicas para mantener la homeostasis, dentro de estas se incluyen: necesidad de respirar, necesidad de beber agua, necesidad de dormir, necesidad de regular la homeostasis (ausencia de enfermedad), necesidad de comer, necesidad de liberar desechos corporales, necesidad sexual.
+* Segmento simplificado: Según la pirámide de Maslow dispondríamos de necesidades fisiológicas básicas para mantener la homeostasis, como necesidad de respirar, de tomar agua, de dormir, de regular la homeostasis, de comer, de liberar desechos corporales y sexual.
+
+Simplifica el siguiente segmento:
+* Segmento original: PREPROCESS_TEXT
+* Segmento simplificado: 

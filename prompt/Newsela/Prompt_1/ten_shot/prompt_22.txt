@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: —Busque en el Better Business Bureau y en las reseñas en línea para encontrar un operador con buena reputación.
+* Oración simplificada: En primer lugar, deben buscar reseñas en línea para encontrar un operador con buena reputación.El Better Business Bureau, por ejemplo, es una organización que ayuda a las personas a encontrar empresas confiables.
+
+* Oración original: Su cartel menciona que fue soldado en Irak y el hombre dice que ahora la gente le da más dinero.
+* Oración simplificada: Dice que el cartel funciona y que ahora la gente le da más dinero.
+
+* Oración original: "La mayoría de los sistemas solares en el universo tienen muchas de las súper-Tierras con periodos orbitales alarmantemente cortos", comenta Greg Laughlin, astrofísico de la Universidad de California en Santa Cruz.
+* Oración simplificada: La mayoría de los sistemas solares en el universo tienen muchos de esos planetas, comenta Greg Laughlin, un científico de la Universidad de California en Santa Cruz: "nuestro Sistema Solar se está volviendo un bicho raro", añadió.
+
+* Oración original: ## Encargados de reunir información
+* Oración simplificada: ## Compartiendo información
+
+* Oración original: Hace poco Arizona se convirtió en el primer estado que exige un examen de ciudadanía estadounidense.
+* Oración simplificada: Hace poco Arizona se convirtió en el primer estado en exigir el examen de ciudadanía estadounidense.
+
+* Oración original: La labor de Ehlers es tratar de aumentar la sensación de bienestar de la población.
+* Oración simplificada: La labor de este departamento es tratar de aumentar la sensación de felicidad de la población.
+
+* Oración original: Limpian las paredes del pueblo pintadas con grafiti, les dan de comer a los indigentes y enseñan a los adultos a usar una computadora.
+* Oración simplificada: Allí aprenden a reparar computadoras.Limpian las paredes del pueblo pintadas con grafiti.Ellos les dan de comer a los indigentes.También enseñan a los adultos a usar una computadora.
+
+* Oración original: Su compañía tiene sede en Dubai, Emiratos Árabes Unidos.
+* Oración simplificada: Su compañía tiene sede en Dubai, una ciudad de Emiratos Árabes Unidos.
+
+* Oración original: Al día siguiente, el Gobierno francés informó que 10 aviones militares habían lanzado 20 bombas sobre varios objetivos en Al Raqa (Siria), considerada la capital del territorio ocupado por el grupo.
+* Oración simplificada: El Gobierno francés informó el domingo que 10 aviones militares habían lanzado 20 bombas sobre varios objetivos en Al Raqa (Siria).
+
+* Oración original: Puro movimiento, elegancia, velocidad y fuerza.
+* Oración simplificada: La hembra era puro movimiento, elegancia, velocidad y fuerza.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Los mismos problemas el día en que hay que pagar los impuestos prediales y de patrimonio.
+* Oración simplificada: Suceden los mismos problemas el día de pago de los impuestos prediales y de patrimonio.
+
+* Oración original: En este escenario, la creación de aplicaciones innovadoras, a través del uso de medios tecnológicos, para el etiquetado de productos y su identificación y precio, han aportado bastante al campo de la tecnologización de las finanzas y el comercio.
+* Oración simplificada: En este contexto, la creación de aplicaciones innovadoras para etiquetar, identificar y poner precio a productos.
+
+* Oración original: Entre los diferentes aspectos coincidentes y que favorece, además de las personas implicadas en el cambio, a quienes trabajan por el mismo, como es el propósito de este libro y de la institución que lo patrocina, se encuentra, entre otros, que las actitudes distan de ser realidades inmutables, que el cambio de actitudes no es necesariamente un proceso incontrolable y, finalmente, que el cambio de actitudes se favorece cuando hay un curso deliberado en la búsqueda de metas y objetivos precisos y fijado de antemano, curso deliberado que se expresa técnicamente en un esquema de planificación.
+* Oración simplificada: Estas teorías coinciden en que las actitudes son realidades cambiables y que este cambio es un proceso controlable. Finalmente, acuerdan que el cambio de actitudes progresa cuando hay una constante búsqueda de metas precisas y fijadas en un esquema de planificación. Esto favorece a los implicados en el cambio y los que trabajan por él, como este libro y su patrocinador.
+
+* Oración original: De hecho, un gobierno que actúa de esta manera perdería, bajo el principio del Gran privilegio el derecho a gobernar, y sería lo que nosotros hemos llamado un esposo infiel.
+* Oración simplificada: De hecho, un gobierno que actúa de esta manera perdería el derecho a gobernar bajo el principio del Gran privilegio.
+
+* Oración original: El seguro de automóvil también se ha hecho muy popular, dado el crecimiento de los robos de los mismos en los países, especialmente, en los llamados en vías de desarrollo como, por ejemplo, los del área central y suramericana, aún cuando de este mal no se escapan también los países desarrollados.
+* Oración simplificada: El seguro de automóvil también se ha hecho muy popular. Esto se debe al crecimiento del robo de carros en casi todos los países.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

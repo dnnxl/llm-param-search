@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Dicen que la informática es importante para su futuro porque les enseña a ser creativos y a pensar de forma lógica.
+* Oración simplificada: La informática les enseña a pensar de forma ordenada.Además, las computadoras serán parte de su futuro.
+
+* Oración original: Jim Taylor, autor de _Raising Generation Tech_ ("Criar a la generación tech"), afirma que en la actualidad no hay ninguna prueba de que el aprendizaje de códigos o informático funcione o sea necesario.
+* Oración simplificada: Jim Taylor, autor de "Raising Generation Tech", dice que en la actualidad no hay prueba alguna de que el aprendizaje informático funcione.
+
+* Oración original: En 2010, un examen nacional evaluó el progreso de la educación.
+* Oración simplificada: En 2010, se evaluó el progreso de la educación.
+
+* Oración original: "El guepardo es su animal favorito, ya que es el animal más veloz que existe", dijo Clement.
+* Oración simplificada: Su animal favorito es el guepardo, el animal más rápido del mundo.
+
+* Oración original: En el año 2000 instaló el primer techo verde en la alcaldía.
+* Oración simplificada: El primer techo verde lo hizo encima de la alcaldía.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

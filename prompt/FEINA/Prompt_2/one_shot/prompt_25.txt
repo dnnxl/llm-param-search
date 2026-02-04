@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: La SUPERCIAS ejerce sus actividades en el mercado de capitales a través de la Intendencia Nacional del Mercado de Valores y la Dirección Regional del Mercado de Valores con sus respectivas áreas; las cuales velan por el cumplimiento de los objetivos de canalización de recursos que tiene este mercado, bajo la Ley del Mercado de Valores (Superintendencia de Compañías, Valores y Seguros, 2020).
+* Oración simplificada: La Superintendencia trabaja en el mercado de capitales mediante la Intendencia Nacional del Mercado de Valores y la Dirección Regional del Mercado de Valores con sus respectivas áreas. Estas velan por cumplir los objetivos de canalización de recursos de este mercado, bajo la Ley del Mercado de Valores.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

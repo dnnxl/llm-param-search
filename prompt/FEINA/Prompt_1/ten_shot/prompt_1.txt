@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Dicha norma señala que el titular puede endosar el documento a un tercero, esto es, transferirlo cediendo los correspondientes derechos de cobro, prorrogar la fecha de pago o protestar en caso de no pago en la fecha convenida.
+* Oración simplificada: Dicha norma señala que el titular puede endosar el documento a un tercero, transferirlo al ceder los correspondientes derechos de cobro, prorrogar la fecha de pago o protestar en caso de no pago en la fecha convenida.
+
+* Oración original: ¿En qué consiste el PIB y el PIB per cápita?
+* Oración simplificada: ¿En qué consiste el Producto Interno Bruto y el Producto Interno Bruto per cápita?
+
+* Oración original: Al buscar a éste hay que asegurarse de que sea confiable, ya que hay mucha gente deshonesta en estos ámbitos del manejo financiero y otras que prometen cosas que no son posibles y que no se pueden cumplir.
+* Oración simplificada: Cuando busque al asesor debe asegurarse de que sea confiable porque hay muchas personas deshonestas en el ámbito financiero.
+
+* Oración original: ¿qué datos públicos puedo consultar sobre su situación financiera?
+* Oración simplificada: ¿Cuáles datos públicos puedo consultar sobre su situación financiera?
+
+* Oración original: Empresas Financieras No Bancarias: Son personas jurídicas, cuenta de los bancos u otras entidades públicas o privadas reguladas por ley especial, que realizan intermediación financiera en los términos definidos en la Ley Orgánica del Banco Central de Costa Rica.
+* Oración simplificada: Las empresas financieras no bancarias son personas jurídicas, cuenta bancaria y otras entidades reguladas por ley especial. Intermedian financieramente en los términos de la Ley Orgánica del Banco Central de Costa Rica.
+
+* Oración original: Se pueden buscar y encontrar sitios donde la comida tiene un precio razonable, pero no ir a sitios que tienen decorados pomposos, papel de colgadura, alfombra, jefe de meseros y todas esas extras por las cuales pagan muchas personas normalmente.
+* Oración simplificada: Es mejor buscar lugares donde la comida tiene un precio razonable y no ir a lugares lujosos.
+
+* Oración original: El hombre en cambio HACE ALGO para tratar de convertir sus sueños en realidades.
+* Oración simplificada: El hombre en cambio hace algo para convertir sus sueños en realidades.
+
+* Oración original: El precio del cobre (o sueldo de Chile) es un índice que indica el valor de la libra de cobre en los mercados internacionales.
+* Oración simplificada: El precio del cobre indica el valor de la libra de cobre en los mercados internacionales.
+
+* Oración original: Uno de los proyectos, que constantemente se presentan en la elaboración de presupuestos, es la eficiencia de gastos.
+* Oración simplificada: Uno de los proyectos que constantemente se presentan en la elaboración de presupuestos es la eficiencia de gastos.
+
+* Oración original: En relación con el nivel de vida, digamos, continúan Cao García y Hailstones, que si cualquiera de nosotros pudiese entrar en la casa de un obrero industrial de hace cien años creería que está entrando a un mundo diferente.
+* Oración simplificada: En relación con el nivel de vida, Cao García y Hailstones dicen que si cualquiera de nosotros entrara en la casa de un obrero industrial de hace cien años creería que entra a un mundo diferente.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

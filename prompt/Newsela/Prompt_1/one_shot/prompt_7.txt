@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: También aprenden a apreciar lo que tienen y a ser considerados con las personas alrededor del mundo que son menos privilegiadas que ellos.
+* Oración simplificada: Además, los estudiantes aprenden acerca de las personas en otros países que son menos privilegiadas que ellos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

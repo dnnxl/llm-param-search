@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Los colosos arquitectónicos dieron un gran salto hacia arriba en la década de 1960, cuando se descubrió que, agrupando entre sí varias partes de un rascacielos, se aumentaba la estabilidad de la estructura.
+* Oración simplificada: Los edificios dieron un salto hacia arriba en la década de 1960.
+
+* Oración original: Sin embargo, la posibilidad de usar el EEG con los preescolares es todavía muy remota.
+* Oración simplificada: Sin embargo, falta mucho tiempo para que se pueda usar el EEG con los preescolares.
+
+* Oración original: Sin embargo, se observaron variaciones en la manera en que los grupos utilizan Facebook.
+* Oración simplificada: Sin embargo, se observaron diferencias en el modo en que utilizan Facebook.
+
+* Oración original: Algunas veces están en las personas cuando nacen.
+* Oración simplificada: A veces las personas nacen con ellos.
+
+* Oración original: Todd se mantuvo en contacto con muchos de los indigentes a quienes les entregó letreros y cuenta que aunque algunos habían obtenido resultados exitosos, no todos los letreros habían logrado fomentar la caridad.
+* Oración simplificada: Todd creó la página web "The Urban Type Experiment" para presentar fotos de todos sus letreros.Según el artista, quien se mantuvo en contacto con muchos de los participantes, hubo casos en que los letreros sirvieron de ayuda, aunque no todos los indigentes tuvieron la misma suerte.
+
+* Oración original: No hubo tiempo para decir adiós.
+* Oración simplificada: No hubo tiempo para decirse adiós.
+
+* Oración original: Honda Motor Co. se afianzó como líder en el campo de los androides cuando presentó a Asimo, un robot con apariencia de niño que habla y camina.
+* Oración simplificada: Honda Motor Co. era la compañía líder en robots.Creó a Asimo, un robot con apariencia de niño que habla y camina.
+
+* Oración original: Consiguieron que 22 escuelas secundarias y universidades "rechazaran a Taco Bell" y ya no vendieran su comida en cafeterías escolares.
+* Oración simplificada: Consiguieron que 22 escuelas dejaran de vender comida de Taco Bell a la hora del almuerzo.
+
+* Oración original: Las escuelas y los grupos de padres tratan de ayudar a reducir los costos para los estudiantes de bajos ingresos que muestran el deseo de practicar deportes, indicó.
+* Oración simplificada: Las escuelas y los grupos de padres intentan ayudar a bajar los costos para los estudiantes de bajos recursos que demuestran el deseo de practicar deportes, dijo Clark.
+
+* Oración original: Se enfocaron en los detalles, invitando a amigos a que probaran y examinaran sus múltiples recetas de hamburguesas y el ketchup que compraron en Pakistán cuando no pudieron encontrar una marca afgana que les gustara.
+* Oración simplificada: Se enfocaron en los detalles, invitando a amigos a que probaran recetas de hamburguesas y varias clases de ketchup.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

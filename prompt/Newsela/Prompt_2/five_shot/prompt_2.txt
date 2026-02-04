@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: El Álamo es parte de un grupo de cinco iglesias católicas localizadas en Texas.
+* Oración simplificada: El Álamo se encuentra en Texas.Es parte de un grupo de cinco iglesias católicas.
+
+* Oración original: Esta ciudad se considera la capital del territorio ocupado por el Estado Islámico.
+* Oración simplificada: Esta ciudad de Siria se considera la capital del Estado Islámico.
+
+* Oración original: Las respuestas fueron diferentes cuando el niño que decidía era el que recibía más caramelos que su compañero.
+* Oración simplificada: Fue diferente cuando el niño que decidía era el que tenía más caramelos que su amigo.
+
+* Oración original: Mientras tanto Toews, se inició como practicante de la justicia restaurativa en los años 90 mientras hacía su servicio voluntario.
+* Oración simplificada: Mientras tanto Toews, comenzó con la justicia restaurativa en los años 90 mientras hacía su servicio voluntario.
+
+* Oración original: Cientos de hectáreas de las otrora vibrantes arboledas, imágenes perfectas de postal que han prosperado durante siglos, son ahora cementerios donde troncos retorcidos de árboles muertos sobresalen como zombis arbóreos, de un suelo fértil en el que la hierba y las flores crecen sin problema.
+* Oración simplificada: Cientos de hectáreas de las que fueran vibrantes arboledas en otra época —imágenes de postal que han perdurado durante siglos y siglos— son ahora cementerios donde troncos retorcidos de árboles muertos sobresalen como zombis arbóreos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

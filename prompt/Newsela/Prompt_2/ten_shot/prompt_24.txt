@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Los grupos que promueven este deporte han adoptado normas de seguridad voluntarias.
+* Oración simplificada: Muchas compañías de tirolesas han creado sus propias normas de seguridad.
+
+* Oración original: Los trozos de goma de mascar fueron cayendo a medida que la suave lluvia golpeaba la pared.
+* Oración simplificada: Los trozos de goma de mascar fueron cayendo.
+
+* Oración original: Durante la marcha, miles de prisioneros tuvieron que caminar más de 97 kilómetros (60 millas) en condiciones terribles.
+* Oración simplificada: Estuvo en la Marcha de la Muerte de Bataán, durante la cual miles de prisioneros tuvieron que caminar más de 97 kilómetros (60 millas) en condiciones terribles.
+
+* Oración original: El primer ministro británico, David Cameron, la criticó como "divisoria, poco útil y sencillamente errónea".
+* Oración simplificada: La idea anunciada por Trump provocó críticas inmediatas como la  del primer ministro británico, David Cameron, quien la criticó como "divisoria, inútil y sencillamente equivocada".
+
+* Oración original: Si todos los mosquitos nacen con la bacteria, no transmitirán la enfermedad a través de sus picaduras.
+* Oración simplificada: ## Evitan la transmisión de enfermedadesSi todos los mosquitos nacen con la bacteria, sus picaduras no transmitirán la enfermedad.
+
+* Oración original: Había fotografías de sus paseos en grupo, zapatos a la antigua y guantes de gala.
+* Oración simplificada: Había viejas fotos, zapatos y guantes de gala.
+
+* Oración original: Dentro de la nueva propuesta de la FDA también se incluirá la revisión de los tamaños de las porciones para reflejar los datos más recientes en los hábitos de los consumidores.
+* Oración simplificada: La propuesta de la FDA también revisaría los tamaños de las porciones para reflejar los datos más recientes en los hábitos de los consumidores.
+
+* Oración original: ## Más oportunidades para los estudiantes
+* Oración simplificada: ## Los estudiantes trabajan y practican juntos
+
+* Oración original: La pareja inició un acuerdo de declaración de culpabilidad para reducir la sentencia accediendo a pagar cerca de 11.000 dólares como estipendios atrasados de matrícula para así liberar a Olesia García de cargos y aminorar los cargos y la multa de su esposo.
+* Oración simplificada: La pareja aceptó pagar cerca de 11.000 dólares por costos de matrícula atrasados para liberar a Olesia García de acusaciones y para reducir las acusaciones y la multa de su esposo.
+
+* Oración original: Los científicos dicen que eso es muy peligroso.
+* Oración simplificada: Los científicos dicen que hacen falta unas reglas para las tirolesas.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

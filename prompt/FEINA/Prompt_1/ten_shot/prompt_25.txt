@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Numerosas personas en el mundo y en nuestro país afrontan problemas como éste, lo cual es muy deprimente porque además de una carga social costosa para el Estado, lo es más aún para las familias o parientes, que ante la indiferencia o subadministración de aquél para responder por tal servicio se ven compelidas a asumirlo por sí mismas y cuando no hay recursos, que es lo común, ahí si fue Troya.
+* Oración simplificada: Muchas personas afrontan problemas como este. Esto es deprimente porque significa una carga social costosa para el Estado y sobre todo para las familias. Pues deben asumir este servicio por la indiferencia de la persona para hacerlo y es más problemático cuando no hay recursos.
+
+* Oración original: Anteriormente, se había señalado lo siguiente: El concepto de libertad financiera se establece sobre la base del tratamiento que se le asigna a los conceptos de ingreso, consumo, ahorro, inversión y rentabilidad.
+* Oración simplificada: Anteriormente, se señaló que la libertad financiera se establece sobre el tratamiento asignado a los conceptos de ingreso, consumo, ahorro, inversión y rentabilidad.
+
+* Oración original: Pero ¿de dónde podría surgir el ahorro para hacer inversiones? La respuesta tiene relación con que los ingresos de las personas, cualquiera que sea su origen, pueden tener hasta dos destinos: el consumo y, si queda algo, el ahorro.
+* Oración simplificada: Pero ¿de dónde podría surgir el ahorro para hacer inversiones? Los ingresos de las personas pueden tener hasta dos destinos: el consumo y el ahorro.
+
+* Oración original: Tasa de interés (i): es el porcentaje que el banco paga anual o mensual por la cuenta de ahorro.
+* Oración simplificada: La letra i es para expresar la tasa de interés, este es el porcentaje de dinero que el banco paga anual o mensual por la cuenta de ahorro.
+
+* Oración original: Se aplica en la rentabilidad de las inversiones (es lo que se gana) y en los créditos como costo de préstamo (gasto por interés).
+* Oración simplificada: Se aplica en la rentabilidad de las inversiones y en los créditos como costo de préstamo.
+
+* Oración original: Por tanto, el primer punto de interés es incrementar las ventas; para lo cual existen diferentes estrategias: promociones, descuentos, generación de nuevas líneas de productos, marketing relacional, telemarketing, ventas cruzadas o atadas, entre otras.
+* Oración simplificada: Por eso, el primer punto de interés es aumentar las ventas. Para ello, hay diferentes estrategias como promociones, descuentos, nuevos productos, mercadeo relacional, telemercadeo, ventas cruzadas.
+
+* Oración original: El empresarialismo es un concepto multidimensional que exige: creatividad, iniciativa, valores, espíritu de superación, espíritu de ahorro, metas para el desarrollo digno de la vida, disposición a la innovación y al cambio, entre otros.
+* Oración simplificada: El empresarialismo exige creatividad, iniciativa, valores, espíritu de superación, espíritu de ahorro, metas para una vida digna, disposición al cambio y a la innovación.
+
+* Oración original: Las fuentes de datos para la preparación de indicadores financieros son precisamente las de los estados financieros de las compañías.
+* Oración simplificada: Los estados financieros de las empresas son las fuentes de datos para hacer los indicadores financieros.
+
+* Oración original: Por ejemplo, el cobre chileno es considerado un commodity porque entrega un valor de referencia aceptado internacionalmente y lo constituye en una especie de moneda para precios de operaciones en tiempo real o a futuro.
+* Oración simplificada: Por ejemplo, el cobre chileno es un commodity porque entrega un valor de referencia aceptado internacionalmente. Es una moneda para precios de operaciones en tiempo real o a futuro.
+
+* Oración original: Uno necesita el poder del sueño para que éste trabaje para uno.
+* Oración simplificada: Necesitamos el poder del sueño.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

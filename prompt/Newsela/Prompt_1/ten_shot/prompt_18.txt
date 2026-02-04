@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Afuera hay áreas de sombra donde la gente puede sentarse a descansar.
+* Oración simplificada: Afuera, habrá zonas de sombra para que la gente pueda sentarse a descansar.
+
+* Oración original: A ella y al cofundador Grant Nelson les llevó más de un año de planificación, investigación y de desarrollar programa tras programa.
+* Oración simplificada: Le tomó más de un año de planificación, investigación y de desarrollar programa tras programa junto con el cofundador Grant Nelson.
+
+* Oración original: El equipo utilizó iPads y teléfonos para grabar sus cantos.
+* Oración simplificada: El grupo grabó sus cantos utilizando iPads y teléfonos.
+
+* Oración original: En cuanto a la educación, en el año 2013 el estado tuvo que ajustar de manera dramática su sistema financiero escolar para poder otorgar una mayor cantidad de dinero a los estudiantes de bajos ingresos, que están aprendiendo inglés y que se encuentran bajo el cuidado de una familia sustituta y los votantes aprobaron un aumento de impuestos temporal para proveer a los colegios con una suma complementaria de 7 mil millones de dólares.
+* Oración simplificada: En el año 2013 el estado tuvo que ajustar su sistema financiero escolar para poder conceder más dinero a los estudiantes de bajos ingresos, que están aprendiendo inglés.Los votantes aprobaron un aumento de impuestos temporal para proveer a los colegios con una suma complementaria de 7 mil millones de dólares.
+
+* Oración original: Los resultados revelaron que los niños más jóvenes consumían diariamente 83 calorías provenientes de la pizza y los adolescentes consumían 143 de estas calorías en un promedio diario.
+* Oración simplificada: Los resultados revelaron que los niños más jóvenes consumen, en promedio, 83 calorías diarias provenientes de la pizza, mientras que los adolescentes consumen 143 calorías de pizza cada día.
+
+* Oración original: Mientras tanto, las normativas cada vez más frecuentes tanto en Estados Unidos como en el resto del mundo están obligando a los fabricantes de automóviles a intercambiar rendimiento por mayor economía de combustible y menos emisiones.
+* Oración simplificada: ## Nuevos desafíos para los fabricantes de automóvilesMientras tanto, las normativas son cada vez más frecuentes tanto en Estados Unidos como en el resto del mundo.Esto está obligando a los fabricantes de automóviles a fabricar autos más ecológicos que funcionan más kilómetros por litro de combustible.
+
+* Oración original: En todo el mundo, un tercio de los empleadores encuestados se quejan de que no pueden encontrar trabajadores con las habilidades adecuadas para las vacantes que tienen.
+* Oración simplificada: En una encuesta reciente, un tercio de los empleadores del mundo se quejó de que no encuentran trabajadores con las habilidades adecuadas para las vacantes que tienen.
+
+* Oración original: "Ver estas imágenes exquisitas tiene un aspecto sanador", dijo Vera Ingrid Grant, directora de la Galería Cooper de Arte Africano y Afroestadounidense en la Universidad de Harvard.
+* Oración simplificada: "Ver estas exquisitas fotografías tiene un efecto sanador", dijo Vera Ingrid Grant, directora de la Galería Ethelbert Cooper de Arte Africano y Afroamericano en Harvard University.
+
+* Oración original: — La creciente competencia global en los mercados laborales y los campos de investigación ha empujado a las escuelas estadounidenses a producir en masa estudiantes más inteligentes y mejor preparados.
+* Oración simplificada: BATES COUNTY, Mo.—Hay mucha presión en las escuelas estadounidenses por sacar estudiantes más inteligentes y mejor preparados.Los campos de mercado laboral del mundo e investigación científica son más competitivos.
+
+* Oración original: A pesar de todo, el informe argumenta que el gobierno de Rusia o las autoridades del mundo de fútbol de ese país no han hecho lo suficiente para luchar contra el problema.
+* Oración simplificada: Sin embargo, el informe argumenta que no se ha hecho lo suficiente.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

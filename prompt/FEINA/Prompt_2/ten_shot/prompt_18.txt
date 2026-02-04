@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Este modelo nos ha sido presentado por los autores referenciados en el título.
+* Oración simplificada: Los autores referenciados en el título nos han presentado este modelo.
+
+* Oración original: De todos esos versos sencillamente brota todo tipo de orientaciones prácticas.
+* Oración simplificada: De todos esos versos salen orientaciones prácticas.
+
+* Oración original: También es conveniente tener en cuenta los pasivos de la empresa, aunque en realidad estos pueden no determinar las expectativas de inversión, ya que como se dijo antes, la empresa en el proceso de planeación, ha analizado cuál es el grado de endeudamiento al que puede llegar para obtener los rendimientos esperados.
+* Oración simplificada: También es conveniente tener en cuenta los pasivos de la empresa, aunque en realidad estos pueden no determinar las expectativas de inversión, ya que la empresa en el proceso de planeación ha analizado cuál es el grado de endeudamiento al que puede llegar para obtener los rendimientos esperados.
+
+* Oración original: En este caso, lo que se ajusta es el valor presente del bono, es decir, el precio del bono en el mercado cae, de modo que alguien que compre dicho bono recibe un descuento con respecto al precio al que se negociaba el título antes del alza en la tasa de interés.
+* Oración simplificada: En este caso, lo que se ajusta es el valor presente del bono, es decir el precio del bono en el mercado cae. De modo que alguien que compre dicho bono recibe un descuento con respecto al precio al que se negociaba el título antes del alza en la tasa de interés.
+
+* Oración original: El precio de los bienes o servicios es determinado por el comprador ya que, al ser único, posee el poder de mercado y los numerosos oferentes deben adaptarse a sus exigencias.
+* Oración simplificada: El comprador determina el precio de los bienes o servicios por ser el único. Es decir, posee el poder mercantil y los numerosos vendedores deben adaptarse a sus exigencias.
+
+* Oración original: La riqueza genera renta y la renta aumenta la riqueza, por lo que la renta es una variable flujo que refleja la variación en el tiempo de dos niveles de riqueza.
+* Oración simplificada: La riqueza genera renta y la renta aumenta la riqueza, por ello, la renta es una variable flujo, es decir, una variable que mide la variación de los niveles de riqueza en el tiempo.
+
+* Oración original: Dado que allí se plantean conceptos generales que pueden ser válidos para cualquier inversor, sin consideración de tiempo y país, se ha optado por transcribir dichas preguntas y respuestas en toda su dimensión, como un ejemplo de la situación:
+* Oración simplificada: Ya que allí se plantean conceptos generales que pueden ser válidos para cualquier inversor sin consideración de tiempo y país, se ha optado por transcribir dichas preguntas y respuestas en toda su dimensión como un ejemplo de la situación:
+
+* Oración original: La tasa de impuesto ha sido fluctuante en el tiempo, en 2016 se fijó en 0,066 % sobre el monto del documento aplicado a cada mes y fracción entre la fecha de aceptación y la de vencimiento, sin que exceda de 0,8 %.
+* Oración simplificada: La tasa de impuesto ha sido fluctuante en el tiempo, en dos mil dieciséis se fijó en cero coma cero sesenta y seis por ciento sobre el monto del documento aplicado a cada mes y fracción entre la fecha de aceptación y la de vencimiento, sin que exceda de cero coma ocho por ciento.
+
+* Oración original: ¡Cuánto más sencillo sería aceptar dinero de quien tuviere un aparato de televisión que necesitara reparación, y luego comprar sus comestibles y otros artículos con ese dinero!
+* Oración simplificada: Sería más fácil reparar un televisor, aceptar el dinero y luego comprar lo que se necesita.
+
+* Oración original: Si está considerando hacer una donación a una institución de caridad, solicite documentación por escrito primero y verifique las credenciales de la organización, antes de dar toda su información personal.
+* Oración simplificada: Si está considerando hacer una donación a una institución de caridad solicite documentación por escrito primero y verifique las credenciales de la organización antes de dar toda su información personal.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

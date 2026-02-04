@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: "No es un equilibrio difícil de lograr, la danza siempre está en primer lugar".
+* Oración simplificada: ## La danza siempre está en primer lugar"No es un equilibrio difícil de lograr.La danza siempre está en primer lugar".
+
+* Oración original: Ambos padres caminan a su trabajo desde su apartamento en Pioneer Square, donde el cuarto de lavar también sirve como dormitorio para la pequeña.
+* Oración simplificada: Ambos padres caminan a su trabajo desde su apartamento en Pioneer Square.En el pequeño espacio, el cuarto de lavar también sirve como dormitorio para Elea.
+
+* Oración original: "Ha sucedido este mismo año y en esta clase", afirma David Cutcliffe, entrenador del equipo de Duke.
+* Oración simplificada: David Cutcliffe, entrenador del equipo de Duke, afirmó que canceló un fichaje este mismo año por culpa del comportamiento del jugador en las redes sociales.
+
+* Oración original: El escenario en Israel es muy diferente.
+* Oración simplificada: El escenario en Israel es muy diferente.## Chefs palestinos conquistan Israel
+
+* Oración original: Descubrieron que dichas células se comportaban de forma idéntica a las de los elefantes y que se autodestruían cuando eran expuestas a drogas dañinas.
+* Oración simplificada: Descubrieron que las células de ratón se comportaban igual a las de los elefantes y se autodestruían.
+
+* Oración original: Pero las escuelas no podían  reemplazar el recreo o la clase de educación física.
+* Oración simplificada: El ejercicio nuevo no reemplaza el recreo o la clase de gimnasia.
+
+* Oración original: Los ejecutivos de Adidas se encontraban entre los asistentes a dicha conferencia, la cual incluyó a los líderes de las 567 tribus reconocidas federalmente.
+* Oración simplificada: A dicha conferencia asistieron los ejecutivos de Adidas y los líderes de las 567 tribus reconocidas por el gobierno de Estados Unidos.
+
+* Oración original: Descubrió su amor a la comida cuando cocinaba con sus compañeros de cuarto.
+* Oración simplificada: Descubrió su amor a la comida cuando cocinaba para sus amigos.
+
+* Oración original: La nueva lista de los bienes que pueden ser comerciados resulta ser bastante larga.
+* Oración simplificada: Resulta que la lista es bastante larga.
+
+* Oración original: ## Un problema en expansión
+* Oración simplificada: ## Gran problema
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

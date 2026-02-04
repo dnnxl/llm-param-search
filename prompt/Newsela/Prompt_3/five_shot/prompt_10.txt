@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Tanto el correo electrónico como el referirse a los nativos hawaianos como una "horda", aun cuando sus ancestros han vivido en las islas durante siglos, generaron acusaciones de racismo.
+* Oración simplificada: En abril, un profesor de California envió a varios colegas una petición para apoyar la instalación del telescopio.Su correo electrónico incluía las expresiones de otro científico que afirmaba que "una horda de nativos hawaianos" estaba amenazando la seguridad de los trabajadores del TMT.Hablar así de los nativos, aun cuando sus ancestros han vivido en las islas durante siglos, generó acusaciones de racismo.
+
+* Oración original: Los agentes de vida silvestre de Montana, Idaho y Wyoming han defendido las cazas como una forma de ayudar a controlar a los osos problemáticos.
+* Oración simplificada: Los agentes de Montana, Idaho y Wyoming piensan que la cacería podría ayudar a controlar a los osos.
+
+* Oración original: Altamente criticada entonces por su ingenuidad, la cantautora de 24 años —quien recientemente ocasionó revuelo por haber retirado su música de Spotify, el servicio de transmisiones en línea más grande del mundo— se valió nada menos que de la reconocida plataforma de Rupert Murdoch para dar a conocer su parecer tan optimista de que "la industria de la música no está desapareciendo… apenas está cobrando vida".
+* Oración simplificada: Altamente ridiculizada por entonces al considerarla carente de sofisticación, la cantautora de 24 años se valió de la prensa nacional para dar a conocer su optimista parecer: "La industria de la música no está desapareciendo… apenas está cobrando vida", escribió.
+
+* Oración original: Después, en un análisis se encontró testosterona y fue suspendido durante 50 partidos, y—aunque Purita negó haberle proporcionado estimulantes— la situación desalentó a los equipos.
+* Oración simplificada: Después, encontraron testosterona en un examen y Colón fue suspendido durante 50 partidos, lo cual desalentó a los equipos.
+
+* Oración original: Nadie sabe con exactitud cuántos distritos han optado por programas de cuatro días.
+* Oración simplificada: Nadie sabe con exactitud cuántos distritos han elegido el horario de cuatro días.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

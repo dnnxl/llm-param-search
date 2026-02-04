@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Ambos tenían buenos empleos y, para reducir los gastos, acordaron tener autos confiables más antiguos.
+* Oración simplificada: Ambos tenían buenos trabajos. Acordaron tener carros más antiguos para reducir los gastos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Si se aumenta la producción de bienes y servicios, y los hay en abundancia para todos, entonces los precios no siguen subiendo, sino que se mantienen estables y el salario se puede distribuir en tal forma que alcance para lo esencial y aun permita dejar algunos colones que sirvan para otras necesidades como la recreación y ojalá también para el ahorro.
+* Oración simplificada: Si aumenta la producción de bienes y servicios, entonces los precios se mantienen estables. Además, el salario puede alcanzar para las necesidades básicas, la recreación y el ahorro.
+
+* Oración original: Las empresas, que son agentes económicos conjuntamente con los consumidores individuales, los hogares o familias, el gobierno y el sector externo, y no nos referimos sólo a las grandes, sino también a las pequeñas y a las medianas, cumplen un doble papel principal en la economía.
+* Oración simplificada: Igual que los demás consumidores, todas las empresas son agentes económicos y cumplen un doble papel principal en la economía.
+
+* Oración original: Los riesgos varían según el tipo de bono que compres.
+* Oración simplificada: Los riesgos varían según el tipo de bono comprado.
+
+* Oración original: Todo este comercio interno genera un valor monetario que estimulará a las empresas y personas no solo a consumir bienes y servicios, sino también a ahorrar, para poder contar con los recursos que permitan generar más inversiones en el futuro.
+* Oración simplificada: Todo este comercio interno genera un valor monetario que estimulará a las empresas y personas a consumir bienes y servicios. También incita el ahorro para contar con recursos que permitan invertir más en el futuro.
+
+* Oración original: Acciones comune: Instrumento financiero que da a su poseedor derecho a voto en las asambleas de accionistas y a recibir la parte proporcional de los flujos cuando la empresa decida distribuirlos a sus dueños (dividendos).
+* Oración simplificada: Acciones comunes: Instrumento financiero que da al poseedor derecho a voto en las asambleas de accionistas. También a recibir la parte proporcional de los flujos cuando la empresa decida distribuirlos a sus dueños.
+
+* Oración original: m: número de veces que el interés se acumula al año, 4 si son cuatro veces al año (trimestralmente) y 2 si son dos veces al año (semestralmente).
+* Oración simplificada: M es el número de veces acumulado el interés al año. Cuatro si son cuatro veces al año y dos sin son dos veces.
+
+* Oración original: Como se puede inferir, entonces, la productividad es ventajosa para todos.
+* Oración simplificada: Se infiere que la productividad es ventajosa para todos.
+
+* Oración original: Frente al uso masivo de medios tecnológicos, dinero plástico, monedas digitales y operaciones financieras electrónicas cabe preguntarse ¿por cuánto tiempo más será necesaria la Casa de Moneda y el dinero físico de hoy?
+* Oración simplificada: Frente al uso masivo de medios tecnológicos, dinero plástico, monedas digitales y operaciones financieras electrónicas cabe preguntarse ¿por cuánto tiempo más será necesaria la Casa de Moneda y el dinero físico de hoy?
+
+* Oración original: Estudia las variables globales que afectan el comportamiento económico de un país, tales como la producción total, el ingreso nacional, el gasto nacional, la inversión, el consumo, la balanza de pagos, y otras como la inflación, el empleo, etc.
+* Oración simplificada: Esta rama estudia las variables globales que afectan el comportamiento de un país. Unos ejemplos de estas variables son la producción total, el ingreso nacional, el gasto nacional, la inversión, el consumo, la balanza de pagos, la inflación, el empleo, entre otros.
+
+* Oración original: Luego, el banco gira un cheque a nombre de la persona o empresa que el solicitante desee, que es de caja, el cual está protegido y, por tanto, tiene un valor convencional.
+* Oración simplificada: Luego, el banco hace un cheque a nombre de la persona o empresa pedido por el solicitante.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

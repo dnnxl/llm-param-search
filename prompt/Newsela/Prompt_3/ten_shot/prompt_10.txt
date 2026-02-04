@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: La _girl scout_ Taylor Duzel, de 12 años, de Santa Ana (California), volvió más convencida sobre la idea de hacer una carrera profesional en ciencias.
+* Oración simplificada: La _girl scout_ Taylor Duzel, de 12 años, fue una de las que levantó la mano cuando Stanley les preguntó a las chicas quiénes querían seguir una carrera en materias de STEM.Ella salió más convencida y queriendo hacer una carrera en medicina.Duzel disfruta de la clase de ciencias pero desde su punto de vista, enfrenta un gran obstáculo.
+
+* Oración original: Después de cinco días, los estudiantes obtuvieron un promedio correcto de 31 por ciento.
+* Oración simplificada: Después de cinco días en el campamento, los estudiantes mejoraron al acertar tres de cada 10 sentimientos.
+
+* Oración original: Más de 87 millones viven en Estados Unidos.
+* Oración simplificada: Más de 87 millones viven en EE.UU.
+
+* Oración original: Los conflictos entre los osos y los seres humanos en la región de Yellowstone han aumentado, y eso complica todavía más la decisión.
+* Oración simplificada: Recientemente, los osos han atacado a personas en la región de Yellowstone.Los ataques hacen que la decisión sea más difícil.
+
+* Oración original: Después de que su hijo fuera asesinado por un miembro de una pandilla de adolescentes, Azim Khamisa, buscó al abuelo del joven responsable así como al agresor para que todos pudieran sanar juntos.
+* Oración simplificada: El hijo de Khamisa fue asesinado por uno de los miembros de una pandilla de adolescentes.Después de eso, Khamisa buscó al abuelo del muchacho responsable y al asesino para que todos pudieran sanar juntos.
+
+* Oración original: Algunos opinaron que Honda se enfocó demasiado en querer copiar los movimientos humanos, y no le dedicó el tiempo suficiente a pensar cómo hacerlo útil.
+* Oración simplificada: Algunos dijeron que Honda se enfocó demasiado en querer copiar los movimientos de las personas, y no le dedicó suficiente tiempo a pensar cómo hacerlo útil.
+
+* Oración original: "La industria alimentaria está realmente deseosa de que la gente no sepa cuánta azúcar hay", señaló Nestle.
+* Oración simplificada: "Éstas realmente no quieren que sepas cuánta azúcar hay", añadió.
+
+* Oración original: Ivonne Kienast, investigadora de primates del Instituto Max Planck de Antropología Evolutiva, captó la imagen en el Parque Nacional Bateke Plateau de Gabón, donde no se había visto ningún león desde 1995.
+* Oración simplificada: Henschel, de 40 años de edad, ha vivido casi la mitad de su vida en Gabón, un país de África Occidental donde no se habían visto leones desde 1995.En enero, la investigadora Ivonne Kienast, del Instituto Max Planck de Antropología Evolutiva, con sede en Alemania, grabó por casualidad a un león mientras estudiaba a los chimpancés en el Parque Nacional Bateke Plateau de Gabón.
+
+* Oración original: Morales dice que estos jóvenes no deberían verse castigados por ello.
+* Oración simplificada: Morales dice que estos jóvenes no deberían verse castigados por ello y están tratando de decirles lo que les sucederá si se mudan.
+
+* Oración original: "No tienen toda una generación de mentoras que puedan decirles: vengan a Broadcom y vean cómo es ser ingeniera".
+* Oración simplificada: Paula Golden, de Broadcom, afirma que esto se debe en parte a que no existen muchos ejemplos de mujeres como Nygren."No tienen toda una generación de mentoras que puedan decirles: vengan a Broadcom y vean cómo es ser ingeniera".
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

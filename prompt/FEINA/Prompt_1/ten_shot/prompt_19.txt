@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La Inversión: Instrumento para Aumentar el Ahorro ¿Qué recomendaciones podría dar a una persona que desea invertir en títulos valores, o bien que posea estos y quiera aprovecharlos al máximo o mejorar sus condiciones?
+* Oración simplificada: La Inversión: es el instrumento para aumentar el ahorro. ¿Qué recomendaciones podría dar a una persona que desea invertir en títulos valores o que posea estos y quiera aprovecharlos al máximo o mejorar sus condiciones?
+
+* Oración original: Sólo el nombre de la meta y su respectivo número de orden, según la jerarquía de que antes se habló, por ejemplo: 1) Comprar un seguro de vida, 2) Cambiar el automóvil por uno más nuevo.
+* Oración simplificada: Sólo el nombre de la meta y su respectivo número de orden según la jerarquía de que antes se habló, por ejemplo: primero, comprar un seguro de vida, segundo, cambiar el automóvil por uno más nuevo.
+
+* Oración original: Se pone énfasis en algunos principios y buenas prácticas de educación financiera y la toma de conciencia en esta materia.
+* Oración simplificada: Se enfatiza en las buenas prácticas y la toma de conciencia de la educación financiera.
+
+* Oración original: La obligación de cotizar comenzó con la declaración de impuestos de abril de 2019 por las rentas del 2018, dando cobertura por servicios previsionales, a partir de julio de 2019, a trabajadores con honorarios.
+* Oración simplificada: La obligación de cotizar comenzó con la declaración de impuestos de abril de dos mil diecinueve por las rentas del dos mil dieciocho. Con cobertura por servicios previsionales a trabajadores con honorarios.
+
+* Oración original: Realizar análisis vertical al estado de resultados permite identificar en qué rubros se utiliza el dinero que se obtiene de las ventas.
+* Oración simplificada: Realizar el análisis vertical al estado de resultados permite identificar los rubros donde se utiliza el dinero obtenido de las ventas.
+
+* Oración original: Según los mismos Bodie y Merton: Un fondo de inversión es una cartera de acciones, bonos y otros activos comprados a nombre de un grupo de inversionistas y administrados por un compañía profesional de inversiones u otra institución financiera.
+* Oración simplificada: Según Bodie y Merton: Un fondo de inversión es una cartera de acciones, bonos y otros recursos comprados por un grupo de inversionistas. Son administrados por una compañía de inversiones o una financiera.
+
+* Oración original: El cliente firma una escritura de prenda, en donde se compromete a pagar la suma prestada, ofreciendo en garantía de pago un bien mueble, que el acreedor previamente ha aceptado.
+* Oración simplificada: El cliente firma una escritura de prenda. En esta, se compromete a pagar la suma prestada y ofrece un bien mueble aceptado por el acreedor como garantía.
+
+* Oración original: Al respecto debe señalarse que la educación financiera sirve, en este caso y como ya se anticipó, para contribuir con la formación, en el manejo de herramientas financieras, de la población en general y, como se mencionó anteriormente y, de manera particular, de la conformada por jóvenes entre los 15 y los 20 años, que a su vez comprenden dos subpoblaciones: la población que estudia en la educación diversificada y la que no estudia y que, por consiguiente, está fuera de las aulas y quizás parte de ella, involucrada en la fuerza laboral del país.
+* Oración simplificada: Al respecto, la educación financiera contribuye con la formación en el manejo de herramientas financieras de la población en general, y de los jóvenes entre los quince y veinte años en particular, que a su vez comprenden dos subpoblaciones: quienes estudian en la educación diversificada y quienes no, y por consiguiente una parte está involucrada en la fuerza laboral del país.
+
+* Oración original: Agregue cualquier otra fuente de ingreso ingresos por trabajos que usted hace fuera de las horas laborales.
+* Oración simplificada: Agregue cualquier otra fuente de ingreso, por ejemplo, ingresos por trabajos que usted hace fuera de las horas laborales.
+
+* Oración original: Es decir, la vida de cualquier persona, está inmersa dentro de un entorno económico que necesita conocer para tener suficiente base y tomar las decisiones correctas que le permitan avanzar sin tropezarse con obstáculos que se presentan por falta del dominio de este tema, tal es el caso de no saber como acceder a un crédito, tener deudas excesivas, o simplemente renunciar o perder el empleo sin contar con las previsiones de ahorro necesarias para hacer frente a las obligaciones cotidianas y mensuales.
+* Oración simplificada: Es decir, cada persona está inmersa en un entorno económico que necesita conocer para tomar decisiones correctas y avanzar sin obstáculos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

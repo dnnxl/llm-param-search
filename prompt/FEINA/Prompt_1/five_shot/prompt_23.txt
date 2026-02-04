@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Por ejemplo, en una comunidad la basura se recoge y se vende como alimento para ciertos animales o se procesa para abono.
+* Oración simplificada: Por ejemplo, una comunidad recoge la basura y la vende como alimento para ciertos animales o se procesa para abono.
+
+* Oración original: Una vez realizado el estado de resultados proyectado, corresponde el análisis del flujo de caja.
+* Oración simplificada: Ya realizado el estado de resultados proyectado, corresponde el análisis del flujo de caja.
+
+* Oración original: Desde el nivel más agregado de la función primordial de la asignación eficiente de recursos, distingamos seis funciones básicas o centrales que desempeña el sistema financiero: Proporcionar medios para transferir recursos económicos a través del tiempo, entre países y entre empresas.
+* Oración simplificada: Hay seis funciones básicas del sistema financiero: Facilitar medios para transferir recursos económicos en el tiempo, entre países y entre empresas.
+
+* Oración original: Mantén la relación entre deuda e ingresos por debajo del 20 por ciento (sin incluir la deuda hipotecaria).
+* Oración simplificada: Mantén la relación entre deuda e ingresos por debajo del veinte por ciento.
+
+* Oración original: La frecuencia y el periodo de pago: La frecuencia se refiere a cada cuánto se debe pagar el seguro.
+* Oración simplificada: Cuarto, la frecuencia y el periodo de pago. La frecuencia es cada cuanto se paga el seguro.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Hay muchas bailarinas como ella, pero no hay suficientes papeles principales.
+* Oración simplificada: Hay muchas bailarinas y pocos papeles principales.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

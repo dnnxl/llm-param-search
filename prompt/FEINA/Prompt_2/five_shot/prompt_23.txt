@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Ya que los costos varían permanentemente, dado que algunas familias son más grandes que otras, y puesto que algunas requieren más por miembro que otras, varían los cálculos del costo real de proveer las necesidades familiares, pero por ello mismo, en la administración de las finanzas personales y familiares, un buen comienzo para diferentes decisiones es conocer, a partir del presupuesto, con otros beneficios que este aporta, qué es o cuánto es lo que requiere su familia para su sostenimiento.
+* Oración simplificada: Los cálculos del gasto real de proveer las necesidades familiares varían permanentemente por la cantidad de miembros o por el gasto que implica cada uno de ellos. Por esto, se debe conocer qué o cuánto se requiere para sostener a su familia al momento de tomar decisiones y al administrar las finanzas personales y familiares.
+
+* Oración original: Mucha seguridad y mayor conveniencia por estar ubicados en lugares estratégicos, como gasolineras, centros comerciales y cerca de las principales paradas de buses en lobbys, 24 horas.
+* Oración simplificada: Son seguros y están los lugares estratégicos.
+
+* Oración original: Para realizar una inversión se debe contar con recursos financieros (dinero).
+* Oración simplificada: Para realizar una inversión se debe contar con recursos financieros.
+
+* Oración original: Si alguien deseare más información, podría obtenerla en las oficinas de la Red Financiera BAC - CREDOMATIC de los países de la región en que se encuentra esta empresa.
+* Oración simplificada: Puede obtener información de las oficinas de la Red Financiera Banco de América Central Honduras Credomatic de los países en que se encuentra esta empresa.
+
+* Oración original: Los límites sobre el seguro de desempleo están previstos en la ley n.728 de 2001.
+* Oración simplificada: Los límites sobre el seguro de desempleo están previstos en la Ley número setecientos veintiocho de dos mil uno.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

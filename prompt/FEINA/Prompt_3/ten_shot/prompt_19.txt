@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: ¿Es correcto?
+* Oración simplificada: ¿Es correcto?
+
+* Oración original: En las diversas definiciones sobre el sistema financiero se identifican claramente los tres elementos principales como son: las instituciones financieras o intermediarias, los activos o instrumentos financieros y los mercados financieros, donde interactúan; asimismo, las regulaciones que permiten el funcionamiento adecuado del mismo.
+* Oración simplificada: En las diversas definiciones del sistema financiero hay tres elementos principales: las instituciones financieras, los activos y los mercados financieros. Además de las regulaciones para su adecuado funcionamiento.
+
+* Oración original: Muchos bancos lo ofrecen cuando usted tiene un préstamo con ellos, para que en caso de perder su trabajo, su cuota del préstamo sea pagada mientras usted consigue otro trabajo (con un plazo máximo que varía de banco a banco).
+* Oración simplificada: Muchos bancos lo ofrecen junto con el préstamo para que su cuota sea pagada si pierde su trabajo y mientras consigue otro. El plazo máximo varía entre bancos.
+
+* Oración original: También puedes usar los ahorros para juntar el monto mínimo necesario para hacer una inversión.
+* Oración simplificada: También puedes ahorrar para recaudar el monto mínimo necesario para invertir.
+
+* Oración original: Lo más inteligente que usted puede hacer es trabajar en un área débil de su vida, atacarla, enfrentar su temor y hacer algo para corregirla.
+* Oración simplificada: Lo más inteligente que usted puede hacer es trabajar en un área débil de su vida, y hacer algo para corregirla.
+
+* Oración original: Como se podrá analizar, el presupuesto resulta casi totalmente ajustado, de tal manera que no queda faltando ni sobrando casi nada en relación con los ingresos y con los egresos o gastos.
+* Oración simplificada: El presupuesto resulta casi ajustado, porque no falta nada ni sobra mucho en relación con los ingresos y con los gastos.
+
+* Oración original: Más bien replicó: Voy a pedir dinero prestado.
+* Oración simplificada: Más bien le dijo que iba a pedir dinero prestado.
+
+* Oración original: Al pagar los impuestos, utilizar el medio de pago que además de seguridad no le signifique ningún recargo económico, por ejemplo, por el pago en cheque o con tarjeta.
+* Oración simplificada: Segundo. Al pagar los impuestos, utilizar el medio de pago más seguro y que no le genere ningún recargo económico, por ejemplo, con el pago en cheque o con tarjeta.
+
+* Oración original: Sin el torno y la polea, por ejemplo, que son bienes producidos por la transformación del hierro y el acero, sería imposible el funcionamiento de muchas fábricas y la producción de muchas cosas útiles como las refrigeradoras y las cocinas.
+* Oración simplificada: El torno y la polea son bienes producidos por la transformación del hierro y el acero. Sería imposible el funcionamiento de muchas fábricas y la producción de muchos objetos útiles como las refrigeradoras y las cocinas.
+
+* Oración original: Con menos frecuencia, pero más peligroso, es que alguien puede abrir nuevas cuentas en su nombre utilizando su dirección, su número de cédula de identidad robado, u otras formas de identificación personal, y realizar compras u obtener crédito en su nombre.
+* Oración simplificada: Con menos frecuencia, pero más peligroso es que alguien puede abrir nuevas cuentas en su nombre con su dirección, su número de cédula de identidad robado u otras formas de identificación personal, y realizar compras u obtener crédito en su nombre.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: En pocas palabras, se trata de ser una especie de soporte permanente de sí mismo, de la esposa y de los hijos hasta cuando éstos lleguen a la edad en que pueden responsabilizarse de ellos mismos.
+* Oración simplificada: Es decir, es una especie de soporte permanente para sí mismo, su pareja y sus hijos hasta cuando estos se independicen.
+
+* Oración original: Gozar de buena salud para disfrutar los viajes con mi familia.
+* Oración simplificada: Tener salud para disfrutar los viajes familiares.
+
+* Oración original: En los años indicados el saldo es de superávit pues los flujos de ingresos son superiores a los de egresos.
+* Oración simplificada: En los años mencionados el saldo es de ganancia. Porque los ingresos son superiores a los gastos.
+
+* Oración original: Sin duda, estaremos de acuerdo en que el metal en un automóvil de último modelo es más útil que un montón de mineral de hierro o unos pocos lingotes de acero.
+* Oración simplificada: Sin duda, el metal de un carro de último modelo es más útil que un montón de mineral de hierro o unos lingotes de acero.
+
+* Oración original: El sentido de utilidad es un concepto de mucha importancia en la producción, de allí que Hailstones 39 y Cao García la clasifiquen, según se reconoce con más frecuencia, en cuatro categorías, así: 1) de forma, 2) de lugar, 3) de tiempo y 4) de posesión.
+* Oración simplificada: El sentido de utilidad es muy importante en la producción. Hailstones y Cao García la clasifican en cuatro categorías. La primera es de forma, la segunda es de lugar, la tercera es de tiempo y la cuarta es de posesión.
+
+* Oración original: El aporte del IVA al presupuesto fiscal fluctúa entre el 40 % y 50 % del gasto e inversión fiscal.
+* Oración simplificada: El aporte del impuesto al valor agregado al presupuesto fiscal varía entre el cuarenta y cincuenta por ciento del gasto e inversión fiscal.
+
+* Oración original: OBJETO DEL CRÉDITO FUENTE DEL CRÉDITO BENEFICIOS COMPRA DE CASA BANCOS (CRÉDITO HIPOTECARIO) ACCEDER A BIENES Y SERVICIOS DE FORMA ANTICIPADA CON LA OBLIGACIÓN DE PAGAR A FUTUROCOMPRA DE AUTOPRÉSTAMO AUTOMOTRIZVIAJES AGENCIAS DE VIAJE CONSUMO CASAS COMERCIALES TARJETAS DE CRÉDITOBANCOS Y CASAS COMERCIALES
+ Pero ¡cuidado!
+* Oración simplificada: OBJETO DEL CRÉDITO. COMPRA DE CASA. ORIGEN DEL CRÉDITO, BANCOS. BENEFICIOS. ACCEDER A BIENES Y SERVICIOS ANTICIPADAMENTE CON LA OBLIGACIÓN DE PAGAR A FUTURO. Tenga cuidado.
+
+* Oración original: ¿Cuál es la relación entre la empresa, los consumidores y el Estado?
+* Oración simplificada: ¿Cómo se relacionan la empresa, los consumidores y el Estado?
+
+* Oración original: La reducción de gastos, y no la obtención de más ingresos, es la clave para asumir el control de sus finanzas.
+* Oración simplificada: Reducir los gastos es la clave para controlar las finanzas.
+
+* Oración original: No olvidar también que la acción financiera con los hijos e hijas, no puede perder nunca la dimensión educativa.
+* Oración simplificada: No olvidemos que la acción financiera con los hijos e hijas no puede perder el enfoque.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

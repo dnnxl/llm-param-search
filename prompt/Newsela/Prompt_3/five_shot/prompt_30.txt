@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: La decisión cumple la visión de los diseñadores del edificio World Trade Center, quienes querían demostrar que Nueva York no tenía miedo de levantar una estructura todavía más alta en lugar de las Torres Gemelas.
+* Oración simplificada: La decisión cumple la visión de los diseñadores del edificio World Trade Center.Querían demostrar que Nueva York no tenía miedo de levantar un edificio aún más alto en lugar de las Torres Gemelas.
+
+* Oración original: Y, además, reciben peores calificaciones en la universidad o se cambian con más frecuencia a carreras "menos difíciles".
+* Oración simplificada: También, cuando reciben calificaciones más bajas en la universidad o se cambian a carreras "menos difíciles".
+
+* Oración original: Antes de Hyperion, el proceso de reproducir la luz era tedioso, ya que había que hacer un seguimiento individual de la trayectoria de cada rayo de luz.
+* Oración simplificada: ## ¡He visto la luz!Antes de Hyperion, el proceso de creación de la luz por animación era tedioso, ya que había que hacer un seguimiento individual del modo en que cada rayo de luz se movía y se veía.
+
+* Oración original: Aunque ahora es muy fácil para cualquiera encontrar información en la Internet.
+* Oración simplificada: Aunque ahora es muy fácil encontrar de todo en la Internet.
+
+* Oración original: Las cámaras que grabaron el incidente fueron puestas allí por Jeff Sikich, un científico que trabaja para el Servicio de Parques Nacionales.
+* Oración simplificada: Jeff Sikich es un científico que trabaja para el Servicio de Parques Nacionales.Capturó esa cacería con una cámara que había puesto en el lugar.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

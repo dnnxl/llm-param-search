@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Las comunidades y las familias contribuyen a su vez a las empresas con el trabajo necesario para la producción de los bienes y servicios, recibiendo a cambio como pago un ingreso en dinero (salarios) que les permite a su vez la adquisición de bienes y servicios ofrecidos por las mismas empresas en el amplio ámbito del mercado.
+* Oración simplificada: Las comunidades y las familias contribuyen a las empresas con el trabajo necesario para la producción de los bienes y servicios. A cambio reciben un salario para adquirir bienes y servicios ofrecidos por las mismas empresas en el ámbito del mercado.
+
+* Oración original: Lleve un cuaderno cuando vaya de compras y anote cada una de sus compras, así como su monto correspondiente.
+* Oración simplificada: Escriba en un cuaderno cada compra y su monto.
+
+* Oración original: En cualquier caso, tanto la liquidez como la solvencia son variables que deben permanecer en constante observación.
+* Oración simplificada: La liquidez y la solvencia son dos variables que se deben observar constantemente.
+
+* Oración original: El nivel de vida de un país depende de su capacidad para producir bienes y servicios.
+* Oración simplificada: La calidad de vida de un país depende de su capacidad para generar productos y servicios.
+
+* Oración original: Si bien es cierto, los accionistas son parte de la empresa, pero si alguna persona externa compra acciones, estaría siendo financiamiento externo.
+* Oración simplificada: Los accionistas son parte de la empresa, pero si alguna persona externa compra acciones sería financiamiento externo.
+
+* Oración original: Le puedo asegurar que nunca he hecho nada importante en mi vida, que no me pareciera muy difícil de lograr cuando estaba comenzando.
+* Oración simplificada: Le puedo asegurar que nunca he hecho nada importante en mi vida que no me pareciera muy difícil de lograr cuando estaba comenzando.
+
+* Oración original: Se ha definido evaluar niveles de ingreso desde $1,600,000 hasta $1,000,000.
+* Oración simplificada: Definimos evaluar niveles de ingreso desde millón seiscientos dólares hasta un millón de dólares.
+
+* Oración original: Esto es importante, porque si tienes todo tu dinero, o la mayor parte, en un solo lugar (ya sea el mercado de acciones, bienes inmuebles o incluso bonos municipales emitidos por el gobierno de tu ciudad) corres un gran riesgo de perderlo todo si algo sale mal.
+* Oración simplificada: Esto es importante porque cuando tienes todo tu dinero en un solo lugar te arriesgas a perderlo todo si algo sale mal.
+
+* Oración original: En algunos casos, el crédito personal se ve reforzado con garantías de bienes inmuebles (bienes no movibles), por ejemplo lotes o casas (Garantía hipotecaria).
+* Oración simplificada: En algunos casos, el crédito personal se refuerza con garantías de bienes inmuebles, como lotes o casas. Por esto, corresponde a una garantía hipotecaria.
+
+* Oración original: Sin embargo, recuerde que siempre debe tratar de pagar más que el monto mínimo por mes, aún cuando su situación financiera no le permita cancelar la totalidad de su saldo de una sola vez.
+* Oración simplificada: Siempre intente pagar más que el monto mínimo mensual.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

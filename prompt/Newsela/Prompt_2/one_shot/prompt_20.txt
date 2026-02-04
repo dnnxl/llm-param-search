@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: La escuela debería empezar más tarde por la mañana, dice la AAP.
+* Oración simplificada: Tal vez deberían de levantarse más tarde por la mañana.Es por esto que los médicos de la Academia Americana de Pediatría están diciendo ahora que la escuela debería empezar más tarde.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

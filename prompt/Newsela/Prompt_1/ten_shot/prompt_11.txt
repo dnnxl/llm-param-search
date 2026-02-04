@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Las compañías de parques temáticos estadounidenses están gastando mucho dinero en Asia.
+* Oración simplificada: Los gigantes estadounidenses de los parques temáticos están construyendo en Asia.
+
+* Oración original: ## Pagan dinero y se van
+* Oración simplificada: ## Pagan dinero y siguen pescando
+
+* Oración original: Esto incluye clases de yoga en la mañana, clubes de carreras y caminatas en la tarde, además incluyeron 10 minutos de ejercicios en el escritorio.
+* Oración simplificada: Clases de yoga en las mañanas y clubes de carreras y caminatas en las tardes.Además incluyeron 10 minutos de ejercicios en el escritorio.
+
+* Oración original: Las escuelas, parques y otras comodidades importan, dijo.
+* Oración simplificada: Las escuelas y los parques importan, agregó.
+
+* Oración original: Durante una entrevista la semana pasada en una estación de autobuses de San Antonio, dijo que pasó 17 días en las instalaciones de Dilley después de cruzar sin permiso hacia Estados Unidos a fines de junio.
+* Oración simplificada: Durante una entrevista realizada la semana pasada en una estación de autobuses de San Antonio, Tecu dijo que pasó 17 días en las instalaciones de Dilley después de entrar a Estados Unidos sin permiso a fines de junio.
+
+* Oración original: En los almacenes de Toys for Tots se organizó una actividad familiar durante la cual los niños podían ayudar a sus padres a seleccionar y empaquetar juguetes destinados para niños necesitados.
+* Oración simplificada: ## Los niños también ayudaronEn los almacenes de Toys for Tots se organizó una actividad familiar.La idea era que los niños ayudaran a sus padres a seleccionar y empaquetar juguetes destinados para niños necesitados.
+
+* Oración original: Aunque las mujeres todavía necesitan el permiso de un familiar del sexo masculino para asistir a la universidad, casarse o viajar al extranjero, algunas comienzan a asumir nuevos papeles en el mundo del trabajo y, gracias a ello, también van obteniendo un cierto grado de independencia económica.
+* Oración simplificada: A pesar de que las mujeres aún necesitan el permiso de un hombre de su familia para asistir a la universidad, casarse o viajar al extranjero, algunas comienzan a asumir nuevos papeles en el mundo del trabajo.Gracias a ello, también van adquiriendo un cierto grado de independencia.## Conquistan poco a poco el mundo laboral
+
+* Oración original: Además serviría para mejorar las tasas de alfabetización en Braille, que se ubican alrededor del 8,5 por ciento entre los 60.000 niños invidentes que van a la escuela en el país, según la American Printing House for the Blind.
+* Oración simplificada: También opinan que mejoraría las tasas de alfabetización en Braille.Según la American Printing House for the Blind, sólo alrededor del 8,5 por ciento de los 60.000 niños invidentes que van a la escuela en el país, pueden leer en Braille.
+
+* Oración original: Pasaron a hacer los arreglos para examinar el cadáver de George.
+* Oración simplificada: Sterling y los otros conservacionistas comenzaron a hacer arreglos para examinar el cadáver de George.
+
+* Oración original: La reglamentación número 1.150 de California Rules of Court, aprobada en 1984, otorga a los jueces estatales amplia discreción para autorizar juicios televisados.
+* Oración simplificada: La reglamentación número 1.150 de California Rules of Court se aprobó en 1984.Esta normativa da libertad a los jueces estatales para autorizar juicios televisados.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

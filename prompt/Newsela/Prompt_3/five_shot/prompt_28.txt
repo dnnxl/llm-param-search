@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Para ello aplicaron sus conocimientos sobre ciencia.
+* Oración simplificada: Para ello aplicaron sus conocimientos de ciencia.
+
+* Oración original: ", le preguntaron sus padres.
+* Oración simplificada: ", le preguntaron sus padres.Sus padres le preguntaron si le habría gustado no ser daltónico.
+
+* Oración original: Trasladar la ciencia informática a las escuelas garantiza que todo el mundo tenga la oportunidad de alfabetizarse digitalmente, explicó Yasmin Kafai, profesora de ciencias del aprendizaje en la Graduate School of Education de la University of Pennsylvania.
+* Oración simplificada: Llevar la informática a las escuelas garantiza que todo el mundo tenga la oportunidad de alfabetizarse digitalmente, opina Yasmin Kafai, profesora en la University of Pennsylvania.
+
+* Oración original: decía, mientras el sol se filtraba resplandeciente por entre las ramas de los árboles que habían perdido su follaje durante el invierno.
+* Oración simplificada: decía, mientras el sol se filtraba resplandeciente entre las ramas de los árboles que habían perdido sus hojas en invierno.
+
+* Oración original: Buck cuenta que decidió mudarse a Sandy City (Utah) por las pocas oportunidades de trabajo que hay en California.
+* Oración simplificada: Buck cuenta que se fue a vivir a Sandy City (Utah).Ella no consigue trabajo en California.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

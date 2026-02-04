@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La adolescente, que nació con el sexo masculino pero que sabe que no es un varón, entró a su escuela –la preparatoria Marina High School de la ciudad de Huntington Beach– por primera vez en agosto como Cassidy Lynn Campbell.
+* Oración simplificada: La adolescente nació con el sexo masculino.Pero por como se siente, sabe que no es un varón.
+
+* Oración original: Como cirujano ortopédico de los Steelers de Nueva York en la NFL, Bradley pasa bastante tiempo explicando exactamente lo que puede lograr la terapia.
+* Oración simplificada: Jim Bradley es cirujano ortopédico de los Steelers de Nueva York en la NFL.Pasa bastante tiempo explicando exactamente lo que puede lograr el tratamiento.
+
+* Oración original: Sus esfuerzos han tenido éxito.
+* Oración simplificada: Sus esfuerzos valieron la pena.
+
+* Oración original: WICHITA (Kansas) —  Cuando Seth Ogden, de ocho años, era más pequeño, su abuela le preguntó acerca de las rosas del jardín.
+* Oración simplificada: WICHITA (Kansas) —  Seth Ogden tiene ocho años.Cuando era más pequeño, su abuela le preguntó por las rosas del jardín.
+
+* Oración original: Sus dueños lo descuidaron y alguien llamó a Wolf Run.
+* Oración simplificada: Sus dueños lo trataron muy mal.
+
+* Oración original: Aseguraron que no se les preguntó su opinión sobre los osos.
+* Oración simplificada: Dicen que no se les preguntó lo que piensan sobre los osos.
+
+* Oración original: El año antes de que se aplicaran, hubo cerca de 11.500 suspensiones y 167 expulsiones.
+* Oración simplificada: El año antes de que se aplicaran, 11.500 estudiantes fueron suspendidos y 167 fueron expulsados.
+
+* Oración original: La _girl scout_ Taylor Duzel, de 12 años, de Santa Ana (California), volvió más convencida sobre la idea de hacer una carrera profesional en ciencias.
+* Oración simplificada: La _girl scout_ Taylor Duzel, de 12 años, fue una de las que levantó la mano cuando Stanley les preguntó a las chicas quiénes querían seguir una carrera en materias de STEM.Ella salió más convencida y queriendo hacer una carrera en medicina.Duzel disfruta de la clase de ciencias pero desde su punto de vista, enfrenta un gran obstáculo.
+
+* Oración original: El programa de profesores visitantes chinos, que se inició en 2007, actualmente está presente en 30 estados.
+* Oración simplificada: ## Gran éxito de los programas de profesores visitantes chinosEl programa de maestros visitantes chinos, que se inició en 2007, actualmente está presente en 30 estados.
+
+* Oración original: El alquiler y la seguridad de Wembley para los dos partidos cuesta 3,4 millones de dólares.
+* Oración simplificada: Puede que traiga 42 millones de dólares adicionales, sumando un total de 94 millones de dólares.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

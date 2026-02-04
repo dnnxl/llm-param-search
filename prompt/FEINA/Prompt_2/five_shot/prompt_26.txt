@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Se prevé que el uso masivo de estas monedas virtuales, cuya esencia es evitar la presencia de intermediarios ?como los bancos? en el proceso de creación del dinero y en las transacciones que se realicen con este, produzcan, en el cortísimo plazo, cambios radicales en el sistema financiero, incluso la desaparición de instituciones dedicadas tradicionalmente a captar dinero, prestarlo y entregar servicios e intermediaciones financieras.
+* Oración simplificada: Se espera que el uso de estas monedas virtuales produzca cambios importantes en el sistema financiero a corto plazo. Incluso la desaparición de instituciones financieras tradicionales.
+
+* Oración original: Si repentinamente, las tasas de interés suben al 10% y se tuviera que vender dicho título, un potencial comprador tendría dos alternativas: ir a comprar un nuevo bono con intereses al 10%, y recibir al final $1,100, ó comprárselo al primer inversionista a $950, de manera que cuando venza y reciba los $1,050, se gane los $100 que implica invertir a la nueva tasa de interés.
+* Oración simplificada: Si repentinamente las tasas de interés suben al diez por ciento y se tuviera que vender dicho título, un potencial comprador tendría dos alternativas: ir a comprar un nuevo bono con intereses al diez por ciento y recibir al final mi cien dólares, o comprárselo al primer inversionista a novecientos cincuenta dólares.  De manera que cuando venza y reciba los mil cincuenta dólares se gane los cien dólares que implica invertir a la nueva tasa de interés.
+
+* Oración original: Entre estos, destacamos el código de barra y código QR.
+* Oración simplificada: Entre ellos están el código de barra y el QR.
+
+* Oración original: Además de esto, dichas personas en su proceso evolutivo, en un momento dado, no podrán trabajar más o ser víctimas de una enfermedad o de un accidente que las inhabilite, para seguir respondiendo por la subsistencia de si mismas y de sus familiares, porque como dicen Alonso, Brailovsky y Ortiz, quienes serán un gran aporte en éste y otros capítulos de este libro:  Todos tenemos hacia nosotros o hacia nuestra familia una responsabilidad financiera propia o personal que consiste en proveer de los recursos suficientes que satisfagan las necesidades de cumplir gastos personales.
+* Oración simplificada: Además, dichas personas no podrán trabajar más en alguna etapa evolutiva o podrían ser víctimas de una enfermedad o accidente inhabilitante. Entonces, no podrán responder por su subsistencia y de sus familiares. Alonso, Brailovsky y Ortiz señalan que todos tenemos una responsabilidad financiera personal hacia nosotros o nuestra familia. Esta consiste en proveer los recursos suficientes para satisfacer los gastos personales.
+
+* Oración original: Se supone que el saldo es de $1000 y el pago mensual mínimo es de $40.
+* Oración simplificada: Supuestamente el saldo es de mil dólares y la mensualidad mínima es de cuarenta dólares.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

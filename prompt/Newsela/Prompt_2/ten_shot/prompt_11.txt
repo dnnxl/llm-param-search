@@ -1,0 +1,44 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Si esto no funcionaba, se enviaba al estudiante a hablar con el orientador.
+* Oración simplificada: Si no funciona, el estudiante debe hablar con el orientador.
+
+* Oración original: A pesar de su nombre, este pez no es realmente un róbalo y tampoco suele venir de Chile.
+* Oración simplificada: Este pez no es realmente un róbalo.Tampoco viene de Chile.Lo llaman así porque es un nombre más bonito.
+
+* Oración original: Bajo los nuevos estándares, los estudiantes no enfrentan sanción alguna en términos de puntos por no entregar la tarea a tiempo.
+* Oración simplificada: Bajo los estándares nuevos, los estudiantes no enfrentan pena alguna en términos de puntos por no entregar la tarea.
+
+* Oración original: Mientras que el parásito está en gran medida en macacos, se transmite a los seres humanos a través de mosquitos.
+* Oración simplificada: La malaria se pasa a los seres humanos a través de zancudos.
+
+* Oración original: Walter T. Richardson —un ministro del Departamento de Policía de Miami-Dade— espera que el baile pueda cambiar a los prisioneros.
+* Oración simplificada: Walter T. Richardson trabaja en el Departamento de Policía de Miami-Dade.Él espera que el baile pueda cambiar a los prisioneros.
+
+* Oración original: El Museo Americano de Historia Natural tiene un nuevo visitante animal.
+* Oración simplificada: El Museo Americano de Historia Natural contará con un nuevo huésped animal.
+
+* Oración original: Para entender cómo funciona el geomagnetismo, puede imaginarse que hay un imán gigante en forma de barra dentro de la Tierra.
+* Oración simplificada: ##Un campo natural de imanes
+Para entender cómo trabaja el geomagnetismo, imagine un enorme imán en forma de barra dentro de la Tierra.Sus dos extremos generan una poderosa carga magnética que viaja en línea recta a través de la Tierra hacia la atmósfera.
+
+* Oración original: Vender aguacates podría significar mucho dinero para los productores colombianos.
+* Oración simplificada: Vender aguacates podría suponer mucho dinero para Colombia.
+
+* Oración original: La llevaron hasta la frontera y la dejaron esa misma noche en Tijuana, donde tuvo que empezar desde cero sin ningún contacto.
+* Oración simplificada: Los funcionarios del gobierno la detuvieron y la llevaron hasta la frontera de México.Esa misma noche la dejaron en Tijuana.Allí tuvo que empezar desde cero sin conocer a nadie.
+
+* Oración original: No nos informaron que debíamos estar atentos al surgimiento de ampollas o roces, así que quizás no sabían siquiera que era una posibilidad", dijo.
+* Oración simplificada: "No nos advirtieron de estar pendientes de ampollas o roces, así que quizás no sabían siquiera que era una posibilidad".
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

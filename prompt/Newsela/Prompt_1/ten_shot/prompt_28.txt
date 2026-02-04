@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: El deporte también conocido como Ping-Pong, se parece al tenis, pero se juega en un espacio cerrado en una mesa dividida por una estrecha red.
+* Oración simplificada: El deporte es también conocido como Ping-Pong.Se parece al tenis, pero se juega en una mesa dividida por una red.
+
+* Oración original: KLEINMACHNOW, Alemania — Klaus-Jurgen Warnick se detiene frente a los restos del punto de control del Muro de Berlín, subido en una bicicleta eléctrica con aire moderno.
+* Oración simplificada: KLEINMACHNOW, Alemania — Montado en una bicicleta eléctrica, Klaus-Jurgen Warnick circula alrededor de los restos del punto de control del Muro de Berlín.
+
+* Oración original: Pero Isay comenta que no es difícil hacer una entrevista.
+* Oración simplificada: Isay dice que hacer una entrevista no es tan difícil como puede parecer.
+
+* Oración original: Muchas de las personas en esa cárcel son inmigrantes.
+* Oración simplificada: Cantaron en la parte de afuera de una cárcel.Muchas de las personas en esa cárcel son inmigrantes.Necesitaban un permiso para mudarse.
+
+* Oración original: Rice escribió en Twitter que no le gustaba la manera en que se estaba haciendo el proyecto.
+* Oración simplificada: Hace poco, escribió sobre el TMT en Twitter.Dijo que no le gustaba la manera en que se estaba haciendo el proyecto.
+
+* Oración original: Fui a Vincennes junto con algunos estudiantes voluntarios de la escuela de derecho para ofrecerle asistencia legal a estos niños.
+* Oración simplificada: Fui a Vincennes junto con algunos estudiantes voluntarios de la escuela de derecho.Fuimos allá para ayudar a estos niños.
+
+* Oración original: Pero el trabajo de restauración requeriría a un taxidermista muy especial.
+* Oración simplificada: ## Una preservación muy especialPero el trabajo para restaurar el cadáver de George requeriría a un taxidermista muy especial.
+
+* Oración original: Muchos de esos pacientes, como Nisha, de 19 años, una estudiante de ingeniería del estado de Madhya Pradesh (centro), tienen tuberculosis (TB).
+* Oración simplificada: Muchos de esos pacientes —como Nisha, una joven de 19 años— tienen tuberculosis (TB).
+
+* Oración original: El caso de asesinato de O.J.
+* Oración simplificada: El caso de O.J.
+
+* Oración original: Guvener y su familia son cristianos, él es un pastor que dirige la Iglesia Protestante en la ciudad de Diyarbakir, al sudeste de Turquía.
+* Oración simplificada: Guvener y su familia son cristianos.Él es un pastor que dirige la Iglesia Protestante en la ciudad de Diyarbakir.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

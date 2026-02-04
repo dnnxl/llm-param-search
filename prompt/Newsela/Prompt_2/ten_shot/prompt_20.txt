@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Cuando el bebé de 1 año de Jessica Ryan se lastimó el mes pasado en un accidente, los rayos X mostraron que se había fracturado la tibia o la espinilla.
+* Oración simplificada: Cuando Hudson, de 1 año, se lastimó el mes pasado, los rayos X mostraron una espinilla fracturada.
+
+* Oración original: Las entrevistas de este año permitirán recordar algunos de los eventos que sucedieron en 1920.
+* Oración simplificada: Las historias de este año permitirán recordar algunos eventos que sucedieron en 1920.
+
+* Oración original: Normalmente el 34,3 por ciento de los niños y adolescentes estadounidenses de entre 2 y 19 años de edad come ya sea pizza, pollo frito, tacos o cualquier otro plato preparado en un restaurante de comida rápida.
+* Oración simplificada: Cada día, el 34,3 por ciento de los niños y adolescentes estadounidenses come pizza, pollo frito, tacos o cualquier otro plato preparado en un restaurante de comida rápida.
+
+* Oración original: ¿Cómo han podido evitar el drama propio de los clubes de chicas y lograr mantener una amistad tan unida durante tantos años?
+* Oración simplificada: Han podido evitar el drama propio de los clubes de chicas y lograr mantener una amistad increíblemente unida durante todos estos años, y algunas creen que los valores culturales japoneses de cohesión y armonía de grupo han ayudado a mantenerlas unidas.
+
+* Oración original: Así lo hizo, y después de algunas búsquedas en internet Shubham aprendió sobre Braille, el sistema de escritura de puntos en relieve usado por los invidentes.
+* Oración simplificada: Shubham lo hizo.Con unas pocas búsquedas en internet, aprendió sobre el Braille, el sistema de escritura usado por los ciegos.
+
+* Oración original: También dicen que esta carne es mejor para el medio ambiente, y los animales tienen una mejor vida mientras crecen.
+* Oración simplificada: También dicen que se trata mejor a los animales mientras crecen.
+
+* Oración original: Todos han muerto, ya sea atropellados en una autopista o luchando contra un macho adulto".
+* Oración simplificada: Algunos murieron arrollados cuando trataron de cruzar la autopista.Otros murieron luchando contra un macho adulto.
+
+* Oración original: Los grupos que promueven este deporte han adoptado normas de seguridad voluntarias.
+* Oración simplificada: Muchas compañías de tirolesas han creado sus propias normas de seguridad.
+
+* Oración original: ", presume Ahmed Salim Ghani.
+* Oración simplificada: ", preguntó Ahmed Salim Ghani.
+
+* Oración original: Glen Martin es el presidente de Wisconsin Giant Pumpkin Growers.
+* Oración simplificada: Martin es presidente de Wisconsin Giant Growers.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

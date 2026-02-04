@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Los exprisioneros que cuentan con una familia unida y amorosa tienen más posibilidades de evitar cometer otro crimen y regresar de nuevo a la cárcel.
+* Oración simplificada: Las relaciones sólidas con la familia son fundamentales para que cuando los prisioneros vuelven a sus hogares no regresen a la cárcel.
+
+* Oración original: Él es el director del Departamento de Horticultura, o ciencia de las plantas, de la Universidad de Wisconsin-Madison.
+* Oración simplificada: Él es un profesor de la Universidad de Wisconsin-Madison y estudia horticultura, o ciencia de las plantas.
+
+* Oración original: Los mosquitos se reproducen en el agua estancada.
+* Oración simplificada: Los mosquitos crecen en el agua estancada.
+
+* Oración original: Su hijo, Alex, tenía 5 años, Ryan 3, y Brannon solo 2.
+* Oración simplificada: Alex tenía 5 años, Ryan 3, y Brannon solo 2.
+
+* Oración original: Todd, de 23 años, explica que quería "lograr que la gente se sienta más dispuesta a hablar con ellos cuando les pasa caminando al lado y más dispuesta a contribuir".
+* Oración simplificada: Todd quiere que la gente deje de ignorar a los indigentes.Su meta es "lograr que la gente se sienta más dispuesta a hablar con ellos cuando les pasa caminando al lado".
+
+* Oración original: Está aumentando la demanda de cobre, cobalto, oro y otros elementos necesarios para la fabricación de celulares y demás productos de alta tecnología.
+* Oración simplificada: Algunos de los materiales que se buscan son cobre, cobalto y oro.Estos metales se usan en la construcción de celulares, computadoras y otros equipos de alta tecnología.
+
+* Oración original: Su hijo, Noah, cursa el octavo grado.
+* Oración simplificada: Su hijo está en octavo grado.
+
+* Oración original: Querían darle una segunda oportunidad.
+* Oración simplificada: Era una segunda oportunidad.
+
+* Oración original: Los defensores de los refugiados afirman que más de la mitad de las personas que han llegado últimamente presentan argumentos legítimos que requieren de una audiencia, bajo las leyes tanto internacionales como las de los Estados Unidos, para determinar si califican o no como refugiados.
+* Oración simplificada: ## Emigrantes o ¿refugiados?Los defensores de los refugiados dicen que más de la mitad de las personas que han llegado últimamente tienen argumentos reales que por ley requieren de una audiencia.## Identificar a los verdaderos refugiados
+
+* Oración original: Diseñado por un equipo de expertos taxidermistas, la pieza representa a George luciendo majestuoso; con el cuello estirado y su caparazón pulido.
+* Oración simplificada: La exposición fue diseñada por un equipo de taxidermistas.El resultado es George luciendo majestuoso con el cuello estirado y su caparazón pulido.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

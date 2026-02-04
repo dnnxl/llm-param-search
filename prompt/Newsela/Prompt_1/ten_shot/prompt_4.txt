@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: RAMALLAH, Cisjordania — Cuando Sari Sakakini abrió su restaurante de comida palestina Orjuwan, tenía la esperanza de abrir muchos más en todo el mundo.
+* Oración simplificada: RAMALLAH, Cisjordania — Sari Sakakini abrió su restaurante de comida palestina el año pasado.Quería abrir muchos más en todo el mundo.
+
+* Oración original: Aunque las mujeres todavía necesitan el permiso de un familiar del sexo masculino para asistir a la universidad, casarse o viajar al extranjero, algunas comienzan a asumir nuevos papeles en el mundo del trabajo y, gracias a ello, también van obteniendo un cierto grado de independencia económica.
+* Oración simplificada: A pesar de que las mujeres aún necesitan el permiso de un hombre de su familia para asistir a la universidad, casarse o viajar al extranjero, algunas comienzan a asumir nuevos papeles en el mundo del trabajo.Gracias a ello, también van adquiriendo un cierto grado de independencia.## Conquistan poco a poco el mundo laboral
+
+* Oración original: Es realmente asombroso el elevado número de inmigrantes provenientes del Sudeste Asiático que abandonan los estudios: el 40 por ciento de los hmongs, el 38 por ciento de los laosianos y el 35 por ciento de los camboyanos no llegan a graduarse de la preparatoria, según informa White House Initiative.
+* Oración simplificada: El número de inmigrantes provenientes del Sudeste Asiático que abandonan sus estudios es realmente sorprendente.
+
+* Oración original: ### A FAVOR: Los gobernadores quieren proteger sus estados
+* Oración simplificada: ### A FAVOR: Nuestros gobernadores quieren proteger a los Estados Unidos.
+
+* Oración original: Fue durante esa pandemia cuando los científicos descubrieron que la peste la producía una bacteria y que, frecuentemente, también la transmitían las pulgas.
+* Oración simplificada: Durante esa pandemia, los científicos descubrieron que la peste la producía una bacteria y también las pulgas.
+
+* Oración original: Según estas reglas, los estudiantes con problemas de conducta deben recibir castigos rápidos y severos.
+* Oración simplificada: Dicen que hay que castigar a los estudiantes con problemas de conducta.Ahora, las cosas están cambiando.Algunas escuelas tienen normas nuevas y no suspenden a los estudiantes tan rápido.
+
+* Oración original: Además se obligó a todos los campistas a guardar su comida en cajas especiales que los osos no pueden abrir.
+* Oración simplificada: ¿Por qué todo mejoró?Y las personas aprendieron a guardar su comida.
+
+* Oración original: Hasta ahora, las pruebas con animales y los experimentos con seres humanos indican que la aplicación de estas técnicas presenta poco riesgo.
+* Oración simplificada: Hasta ahora, las pruebas con animales y los experimentos con seres humanos indican que estos métodos implican poco riesgo.
+
+* Oración original: "Una vez que tienes los síntomas, el cerebro es más frágil", dijo Canty, un segundo golpe podría "causar una lesión potencialmente fatal", agregó.
+* Oración simplificada: El cerebro está bajo mayor riesgo una vez que hay signos de una conmoción, dijo Canty.Un segundo golpe podría causar una lesión muy grave, agregó.
+
+* Oración original: No se sabe si los doctores deberían usar el CRISPR simplemente para fortalecer a los niños y hacerlos más inteligentes, fuertes o cambiar su físico.
+* Oración simplificada: Muchas personas quieren pagar a doctores para que sus hijos sean más inteligentes, fuertes o lindos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

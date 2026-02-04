@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: SEÚL, Corea del Sur — Niños con mascarillas con lindos dibujos —y adultos con mascarillas normales— caminan por las calles y las estaciones de metro de Seúl.
+* Oración simplificada: SEÚL, Corea del Sur — Ver adultos y niños caminando por las calles las estaciones de metro de Seúl con mascarillas es una escena común en estos días.## Mascarillas protectoras
+
+* Oración original: La población actual de Puerto Rico es de 3,6 millones de personas, mientras que en 2009 la isla contaba con 4 millones de residentes.
+* Oración simplificada: La población actual de la isla es de 3,6 millones de personas, mientras que en 2009 vivían allí 4 millones de residentes.
+
+* Oración original: Y con su última jugada de retirar su música de Spotify, fortalece el lazo con sus admiradores al hacerles comprar su álbum demostrando así cuánto la quieren.
+* Oración simplificada: ## Lograr conectarse con los admiradoresY al retirar Swift su música de Spotify, fortalece el lazo con sus seguidores al hacerles comprar su álbum demostrando así cuánto la quieren.
+
+* Oración original: Una nueva encuesta sugiere que este sistema podría estar causando un serio problema.
+* Oración simplificada: Un nuevo estudio sugiere que las cuotas deportivas podrían estar causando un serio problema.
+
+* Oración original: El informe hace especial hincapié en las conductas ofensivas por parte de aficionados de los equipos de Moscú CSKA, Dinamo, Lokomotiv y Spartak, y el Zenit de San Petersburgo.
+* Oración simplificada: El informe destaca sobre todo conductas ofensivas por parte de seguidores de cinco equipos rusos de fútbol.
+
+* Oración original: ## ¿Quién quiere votar?
+* Oración simplificada: ## ¿Por qué no vota más gente?
+
+* Oración original: Un entrenador, Igor Gamula, incluso hizo comentarios insultantes contra jugadores de color de su propio equipo.
+* Oración simplificada: Los aficionados gritan insultos contra las personas de color a jugadores de África.Un entrenador de fútbol ruso incluso hizo comentarios contra jugadores de color de su propio equipo.Un entrenador, llamado Igor Gamula, incluso hizo comentarios insultantes contra jugadores de color de su propio equipo.
+
+* Oración original: En el mes de diciembre, cuando se haya completado este refugio, ubicado en una zona industrial de Honolulu, tendrá la capacidad para alojar provisionalmente hasta 87 personas a la vez.
+* Oración simplificada: En el mes de diciembre, cuando se haya completado, el refugio tendrá la capacidad de alojar provisionalmente a un máximo de 87 personas.
+
+* Oración original: Un estudio encontró que la diferencia en el desempeño entre los niños de familias ricas y pobres se puede explicar porque los cerebros de los niños crecieron de formas distintas.
+* Oración simplificada: Los niños de familias ricas se desempeñan mejor en la escuela.Los niños de familias pobres tienen más problemas.Los científicos dicen que los cerebros de estos niños crecen de formas diferentes.
+
+* Oración original: En Estados Unidos, por ejemplo, cerca de una tercera parte de los adultos sufre de obesidad y otra tercera parte tiene un ligero sobrepeso.
+* Oración simplificada: Más de una tercera parte de los estadounidenses es considerada con sobrepeso, u obesa.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

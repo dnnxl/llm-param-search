@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Este es un concepto muy frecuente en las relaciones familiares, empresariales y aún en el nivel del Estado.
+* Oración simplificada: Este es un concepto muy frecuente en los contextos familiares, empresariales y estatales.
+
+* Oración original: Para la fórmula se debe expresar en formato decimal.
+* Oración simplificada: La fórmula se debe expresar en formato decimal.
+
+* Oración original: Teóricamente, los costos y gastos variables podrían moverse de manera similar, mientras que los fijos deberían presentar menores variaciones debido a que no dependen directamente de los ingresos.
+* Oración simplificada: Los costos y gastos variables podrían moverse similarmente. Los fijos deberían variar menos porque no dependen directamente de los ingresos.
+
+* Oración original: La riqueza nacional, nos dice el mencionado Diccionario Espasa, es el Conjunto de bienes y servicios que posee una nación para estimar la riqueza de un país, como el método del balance o inventario, que consiste en sumar el valor de todos los activos que tiene una nación, o el método consiste en capitalizar la renta percibida por la población a un tipo de interés estimado.
+* Oración simplificada: En el diccionario Espasa dice que la riqueza nacional es el conjunto de bienes y servicios que posee una nación para calcular la riqueza de un país. Por ejemplo, este cálculo se hace con el método del balance o inventario, que consiste en sumar el precio de todos los activos que tiene una nación, o también consiste en capitalizar la renta cobrada a la población por medio de un nuevo interés estipulado.
+
+* Oración original: He cometido muchos errores errores financieros durante mi vida.
+* Oración simplificada: He cometido muchos errores financieros durante mi vida.
+
+* Oración original: El término súper líquidos se refiere a activos que pueden convertirse en efectivo rápidamente; por ejemplo, las cuentas corrientes pueden hacerse efectivas a través del factoring; los documentos por cobrar pueden efectivizarse a través de operaciones de descuento (Izaguirre, 2020).
+* Oración simplificada: El término súper líquidos refiere a activos que pueden convertirse en efectivo rápidamente. Por ejemplo, las cuentas corrientes se efectivan mediante la factorización. Los documentos por cobrar se pueden efectivar mediante los descuentos.
+
+* Oración original: Para adquirirlo hay diferentes modalidades según la empresa u organización aseguradora y según también el plan que se solicite.
+* Oración simplificada: Para adquirirlo hay diferentes modalidades según la aseguradora y según el plan que se solicite.
+
+* Oración original: Crecimiento económico expresión empleada para explicar el mejoramiento de la economía medida en función y en proporción del producto interno bruto (PIB) de los países.
+* Oración simplificada: El crecimiento económico es la expresión usada para explicar el mejoramiento de la economía. Esta se mide según el Producto Interno Bruto de los países.
+
+* Oración original: Tradicionalmente, los pequeños negocios definen sus precios en base a sus costos.
+* Oración simplificada: Tradicionalmente, las pequeñas empresas definen sus precios según sus costos.
+
+* Oración original: ¿Sabías que muchas personas que tienen salarios superiores a $100 000 creen que están arruinadas gran parte del tiempo?
+* Oración simplificada: ¿Sabías que muchas personas con salarios superiores a cien mil dólares creen que están arruinadas?
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

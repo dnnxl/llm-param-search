@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Una economía ideal, perfectamente competitiva, extrae de los recursos existentes en la sociedad la cantidad máxima posible de bienes y servicios útiles, de manera que todos los habitantes del país puedan acceder a ellos y gozar de sus beneficios.
+* Oración simplificada: Una economía ideal y perfectamente competitiva extrae la cantidad máxima posible de bienes y servicios útiles de los recursos existentes en la sociedad. De esta manera, todos los habitantes del país pueden acceder a ellos y gozar de sus beneficios.
+
+* Oración original: Una de sus principales aplicaciones se encuentra en las operaciones de descuentos bancarios o factoring (Izaguirre, 2020).
+* Oración simplificada: Su principal aplicación está en las operaciones de descuentos bancarios.
+
+* Oración original: El interés de los Estados en conservar el medio ambiente nacional, indica una voluntad de sacrificar bienes y servicios para impedir el deterioro de los dones de la naturaleza.
+* Oración simplificada: Los Estados tienen interés por conservar el medio ambiente. Esto implica voluntad para sacrificar bienes y servicios para impedir el deterioro de la naturaleza.
+
+* Oración original: Constituye un gasto para el deudor y una utilidad para la persona o entidad que presta.
+* Oración simplificada: Es un gasto para el deudor y una ganancia para el prestamista.
+
+* Oración original: Lavado de dinero: (Lavado o blanqueo de capitales, lavado de activos, etc.). Es el proceso por medio del cual es encubierto el origen de los fondos generados mediante el ejercicio de algunas actividades ilegales o criminales (tráfico de drogas o estupefacientes, contrabando de armas, corrupción, desfalco, fraude, crímenes de guante blanco etc.
+* Oración simplificada: Lavado de dinero es el proceso de encubrir el origen de los fondos generados mediante el ejercicio de algunas actividades ilegales o criminales.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

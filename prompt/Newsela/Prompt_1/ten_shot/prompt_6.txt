@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Cuando el grano se pone muy caliente y el agua en su interior alcanza la temperatura de ebullición – por arriba de los 100 grados C°  (212 grados Fahrenheit) – ésta se transforma en vapor.
+* Oración simplificada: Cuando el grano se pone muy caliente – con una temperatura mayor de 100 grados centígrados (212 grados Fahrenheit) – el agua en su interior alcanza su temperatura de ebullición y se convierte en vapor.
+
+* Oración original: Al hacer todo esto, se liberan de las situaciones que les impiden a muchos jóvenes de zonas pobres cumplir sus sueños.
+* Oración simplificada: Cuando hacen todo esto, se liberan de aquellas cosas que les impiden cumplir sus sueños.
+
+* Oración original: Las historias de todas las personas son importantes
+* Oración simplificada: Todas las personas pueden contar algo.
+
+* Oración original: También ha habido casos en los que la Unión de Fútbol de Rusia castigó a las víctimas.
+* Oración simplificada: En ocasiones, la Unión de Fútbol de Rusia castiga a las víctimas.
+
+* Oración original: Ese número es mayor al de cualquier otro país.
+* Oración simplificada: Eso significa que hay más que en cualquier otro país.
+
+* Oración original: Aunque tiene mucha competencia: hay más de una docena de mujeres que también tienen sus negocios de comida cerca al de ella.
+* Oración simplificada: Pero tiene competencia: más de una docena de mujeres que también venden comida cerca de ella.
+
+* Oración original: Todas estas ciudades están en Europa.
+* Oración simplificada: Todas están en Europa.
+
+* Oración original: La encuesta de KidSay muestra que un 33 por ciento de las niñas mayores eligen servicios de _streaming_ como Netflix, Hulu y Amazon Video como primera opción para ver programas.
+* Oración simplificada: La encuesta de KidSay muestra que una tercera parte de las niñas mayores eligen Netflix, Hulu y Amazon Video como primera opción para ver programas.
+
+* Oración original: Usan el peso cubano y el peso cubano convertible (CUC).
+* Oración simplificada: Ellos usan tanto el peso cubano como el peso cubano convertible (CUC).
+
+* Oración original: Aproximadamente un 47 por ciento de la población estadounidense se identifica con alguna denominación protestante, en comparación con las cifras del año 2007, donde el número de personas era equivalente a poco más de la mitad de la población.
+* Oración simplificada: El informe descubrió que los protestantes, que solían dominar la población estadounidense, ya no representan la mayoría; de hecho, aproximadamente un 47 por ciento de la población estadounidense se identifica con alguna denominación protestante, en comparación con las cifras del año 2007 donde el número de personas era equivalente a poco más de la mitad de la población.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: La gente está siendo precavida porque hay un brote del Síndrome Respiratorio del Oriente Medio (MERS, por sus siglas en inglés).
+* Oración simplificada: La gente se protege de la enfermedad llamada Síndrome Respiratorio del Oriente Medio (MERS, por sus siglas en inglés).
+
+* Oración original: Para estudiar este asunto, los investigadores se fijaron en cuántos niños mueren antes de su quinto cumpleaños.
+* Oración simplificada: Para estudiar este asunto, los investigadores observaron la frecuencia de muerte en niños antes de su quinto cumpleaños alrededor del mundo.
+
+* Oración original: Como consecuencia, los grupos de defensa de los niños exigen que Mattel cese la producción de Hello Barbie.
+* Oración simplificada: Varios grupos de defensa de los derechos infantiles están pidiendo a Mattel que deje de fabricar Hello Barbie.
+
+* Oración original: "Las montañas sirvieron de barrera y eso, al final del día, logró que se evitara que pasara el viento", dijo el secretario federal de Turismo, Enrique de la Madrid, quien calificó de una "suerte extraordinaria" que lugares como Puerto Vallarta no resultaran afectados.
+* Oración simplificada: "Las montañas sirvieron de barrera y eso, al final del día, logró que se evitara que pasara el viento", dijo Enrique de la Madrid, secretario federal de Turismo.El hombre añadió que había sido una "suerte" que lugares como Puerto Vallarta no resultaran afectados por la tormenta.
+
+* Oración original: Skaziak y Jason Walters tienen una organización.
+* Oración simplificada: Skaziak y Jason Walters se encargan de los perros que no tienen dueño.
+
+* Oración original: ## El milagro económico alemán
+* Oración simplificada: ## El caso alemán
+
+* Oración original: Estos y otros problemas tienen algo en común.
+* Oración simplificada: Estos problemas tienen algo en común.
+
+* Oración original: Paul Ryan, Presidente de la Cámara de Representantes, quien asumiera por vez primera el puesto tradicional del Representante ubicado atrás del Presidente de la nación, expresó que "los nobles clichés de Obama y su nostálgica retórica pueden muy bien ser útiles como hermosos extractos, pero no explican cómo" solucionar los problemas.
+* Oración simplificada: Paul Ryan, presidente de la Cámara de Representantes, expresó que "los nobles clichés de Obama y su nostálgico discurso pueden ser útiles como hermosos extractos pero no explican cómo" solucionar los problemas.
+
+* Oración original: Según Phaka, los residentes internacionales que atienden a los rinocerontes no suben fotografías ni vídeos a las redes sociales, y desactivan los sistemas de geolocalización (GPS) de sus cámaras y teléfonos para no dar a conocer su ubicación.
+* Oración simplificada: Por motivos de seguridad, el orfanato no indica cuántos animales hay en sus instalaciones.Tampoco revela dónde está ubicado.De hecho, para no dar a conocer su ubicación, las personas que trabajan en el centro desactivan los sistemas de GPS de sus cámaras y teléfonos.También evitan subir fotografías y vídeos a las redes sociales.
+
+* Oración original: Es parte de la lista de canciones de Spotify de la primera dama.
+* Oración simplificada: También está en la lista de canciones favoritas de Michelle.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

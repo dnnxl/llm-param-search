@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Y en una cuarta hoja, escriba Activos.
+* Oración simplificada: Y en una cuarta hoja escriba activos.
+
+* Oración original: Piensa en comprar algo que "quieres", que es caro o que consideras un lujo.
+* Oración simplificada: Piensa en comprar algo deseado, caro o lujoso.
+
+* Oración original: Todos los cálculos pueden ayudar a tomar decisiones a la hora de elegir un portafolio de inversiones, aunque se debe tener presente que nada permite predecir qué sucederá en el mercado, tomar las precauciones necesarias es la única medida que se puede tomar frente a la incertidumbre.
+* Oración simplificada: Todos los cálculos pueden ayudar a tomar decisiones a la hora de elegir un portafolio de inversiones, aunque se debe tener presente que nada permite predecir qué sucederá en el mercado. Tomar las precauciones necesarias es la única medida que se puede tomar frente a la incertidumbre.
+
+* Oración original: Por otro lado, bajo el enfoque de utilidad perpetua, como se asume que la operación continua, el capital de trabajo no se recupera.
+* Oración simplificada: Bajo el enfoque de utilidad perpetua no se recupera el capital de trabajo. Porque asumimos que la operación continúa.
+
+* Oración original: Si se desea un dato más cercano, se puede tomar el flujo acumulado anterior al positivo y dividir lo que falte recuperar por el valor mensualizado del flujo del siguiente año.
+* Oración simplificada: Si queremos un dato más cercano podemos tomar el flujo acumulado anterior al positivo. Y dividir el faltante por el valor mensual del flujo del siguiente año.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

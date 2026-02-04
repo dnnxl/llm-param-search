@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: El Firewall es un software que se complementa con los antivirus para ofrecer la máxima seguridad en sus comunicaciones vía Internet.
+* Oración simplificada: El Firewall es un software que se complementa con los antivirus. Este ofrece la máxima seguridad en sus comunicaciones vía Internet.
+
+* Oración original: Este nivel de endeudamiento o de riesgo, como lo llaman los autores antes citados en que nos estamos apoyando permite, una deuda razonable que le implique un pago mensual equivalente al 30% de los ingresos o hasta el 40% si también se incluye un crédito hipotecario.
+* Oración simplificada: Este nivel de endeudamiento o de riesgo permite una deuda razonable que le implique un pago mensual equivalente al treinta por ciento de los ingresos o hasta el cuarenta por ciento si también se incluye un crédito hipotecario.
+
+* Oración original: Luego de eso, por consenso, podría definirse un porcentaje de crecimiento que implique una mejora para la organización.
+* Oración simplificada: Luego de eso, por consenso podría definirse un porcentaje de crecimiento que implique una mejora para la organización.
+
+* Oración original: Con la seguridad financiera, que debe ser también objetivo de la educación, se busca fomentar el buen manejo de las finanzas personales para un futuro financiero seguro y mejorar la capacidad de los educadores y educadoras para ofrecer programas efectivos, brindando vitalidad económica y calidad de vida a las familias y a sus comunidades.
+* Oración simplificada: La seguridad financiera busca fomentar el buen manejo de las finanzas personales para un futuro seguro. También, mejorar la capacidad de las personas educadoras para ofrecer programas efectivos que promuevan la calidad de vida.
+
+* Oración original: Si la agencia determina que la información que contiene el informe es inexacta, el acreedor debe notificar a las otras agencias de informes crediticios sobre la existencia del error para que ellos también puedan corregir la información.
+* Oración simplificada: Si la agencia determina que la información del informe es incorrecta, el acreedor notifica a las otras agencias sobre el error para su corrección.
+
+* Oración original: ¿Quién podrá leer tus mensajes?
+* Oración simplificada: ¿Quién leerá tus mensajes?
+
+* Oración original: La discriminación de grado 1 o discriminación perfecta es el tipo de discriminación más complicada de alcanzar.
+* Oración simplificada: La discriminación de grado uno es la más difícil de alcanzar.
+
+* Oración original: Luego, el mismo autor agrega, y aunque extenso, pero dada su importancia lo transcribiremos en toda su dimensión:
+* Oración simplificada: Luego, el mismo autor agrega una opinión extensa, pero se trascribirá completa por su importancia:
+
+* Oración original: La gente dudaría de almacenar sus riquezas en la forma de dinero si supieran que el valor adquisitivo del dinero fuera a decaer sustancialmente durante el período durante el cual el dinero fuese a ser guardado.
+* Oración simplificada: La gente no guardaría sus riquezas en forma de dinero si supiera que su valor fuera a decaer durante ese período en el que está guardado.
+
+* Oración original: Buscan a esas unidades de Gasto con Superávit el lugar que se adecue a su voluntad de inversión.
+* Oración simplificada: Buscan las unidades de gasto con excedente un lugar adecuado a la inversión.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Los que ya partieron comenzarán una nueva vida, incierta en Haití, la región más pobre de La Española, isla que hoy comparten los dos países.
+* Oración simplificada: Los que ya partieron comenzarán una nueva vida en Haití, la región más pobre de La Española, isla que comparten ambos países.
+
+* Oración original: Él es médico e investigador en la Universidad de California, Los Ángeles.
+* Oración simplificada: Wong es médico y trabaja en la Universidad de California, Los Ángeles.
+
+* Oración original: Los músculos del pez se contraían hasta quedar agotados.
+* Oración simplificada: Los músculos del desafortunado animal se contraen hasta el cansancio.
+
+* Oración original: "Eso no le sucede a la mayoría de los bailarines en sus debuts… verse criticados de esa manera.
+* Oración simplificada: La joven bailarina hubiese preferido tener más tiempo para practicar su papel."Eso no le sucede a la mayoría de los bailarines en sus debuts".
+
+* Oración original: Los circuitos están conectados para encender las luces y un ventilador.
+* Oración simplificada: Los circuitos encienden las luces y un ventilador.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: A muchos padres les inquieta que las vidas de sus hijos giren en torno a las tareas, especialmente en la secundaria y la preparatoria, decía Cheryl Masterman, la madre de Zach.
+* Oración simplificada: A muchos padres les inquieta que las vidas de sus hijos giren alrededor a las tareas, especialmente mientras van creciendo, decía Cheryl Masterman, la madre de Zach.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

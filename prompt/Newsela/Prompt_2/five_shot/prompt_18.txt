@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: ## Un brillo de ojos hecho especialmente
+* Oración simplificada: ## Un día inesperadamente triste## La mirada en sus ojos volvió
+
+* Oración original: Mientras tanto, un estudio llevado a cabo en el año 2013, descubrió, basándose en los índices de mortalidad de los tiburones y en el nivel de pesca a escala mundial, que los seres humanos matan anualmente un promedio de 100 millones de tiburones alrededor del mundo.
+* Oración simplificada: Mientras tanto, un estudio llevado a cabo en el 2013 descubrió que los seres humanos matan anualmente un promedio de 100 millones de tiburones alrededor del mundo.
+
+* Oración original: No es la primera vez que se utiliza la _Wolbachia_ para combatir las enfermedades que transmiten los mosquitos.
+* Oración simplificada: Los científicos ya habían usado la _Wolbachia_ para combatir enfermedades transmitidas por los mosquitos, como el dengue, pero esta es la primera vez que se utiliza la bacteria en los Estados Unidos.
+
+* Oración original: Consideran que da mala suerte, comentó Marks.
+* Oración simplificada: Consideran que da mala suerte, comentó Marks.Marks ha trabajado en muchos proyectos en Asia.
+
+* Oración original: Los "Miércoles de caminata" la profesora de educación física, Elisabeth Spaulding, pone el disco Kidz Bop —con actuaciones infantiles de canciones populares— mientras los niños dan vueltas caminando dentro del gimnasio.
+* Oración simplificada: Los "Miércoles de caminata" la profesora de educación física, Elisabeth Spaulding pone música mientras los niños dan vueltas caminando dentro del gimnasio.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

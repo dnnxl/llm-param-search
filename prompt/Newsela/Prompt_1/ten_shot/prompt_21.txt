@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Esta profesora de 59 años aseguró que estuvo horas sudando y vomitando en la estación de primeros auxilios del parque, y que finalmente fue tratada por los paramédicos que fueron solicitados en el parque.
+* Oración simplificada: Esta profesora de 59 años aseguró que estaba sudando y vomitando en la estación de primeros auxilios del parque, y que fue atendida por los paramédicos en el parque.
+
+* Oración original: Una de las especies más amenazadas, el cocodrilo cubano, está en un riesgo de extinción superior al que habían previsto los científicos.
+* Oración simplificada: Ahora tiene un riesgo incluso mayor de desaparecer que el que habían previsto los científicos.Ahora el cocodrilo cubano corre el riesgo de perder lo que le hace distinto.
+
+* Oración original: Los investigadores hallaron que los jóvenes que actuaban por delante de su edad, por ejemplo, teniendo relaciones amorosas o robando, eran considerados más populares.
+* Oración simplificada: Estos niños parecían más mayores de lo que eran por las cosas que hacían, por ejemplo, relaciones amorosas tempranas o robos de pequeñas cosas.Los investigadores observaron que los jóvenes que tenían relaciones amorosas o cometían delitos menores eran considerados más populares.
+
+* Oración original: Prefieren que pensemos que están en todas partes y que les temamos, que estemos molestos y ofendamos a los musulmanes de todo el mundo.
+* Oración simplificada: Quieren que creamos que están en todas partes y que les tengamos miedo.Quieren que estemos molestos y maltratemos a los musulmanes de todo el mundo.
+
+* Oración original: Cuando Gotham buscaba una ubicación en Chicago para expandir su marca, Method le propuso crear una asociación.
+* Oración simplificada: Cuando Gotham buscaba un lugar en Chicago para su negocio, Method le dijo que se unieran.
+
+* Oración original: Aunque también podría ser una respuesta al escrutinio internacional cada vez mayor.
+* Oración simplificada: Sin embargo, también podría ser una respuesta al escrutinio internacional, que es cada vez mayor.
+
+* Oración original: También fue un reto, pues cuando pintaba en un lienzo, eran obras de tamaño natural, mientras que pintar en una pantalla de 3,5 pulgadas es una cosa totalmente diferente.
+* Oración simplificada: El cambio del lienzo al iPhone también fue un reto para Hall debido al cambio de tamaño.Antes, él había estado creando obras de tamaño natural.Ahora estaba pintando en una pantalla de 3,5 pulgadas, algo totalmente diferente.
+
+* Oración original: Entonces le sugirió a la encargada de la escuela Crouse, Angela Harper, la idea de crear una liga de básquetbol en el sexto grado.
+* Oración simplificada: Entonces Earley habló con la encargada de la escuela Crouse, Angela Harper.Le sugirió la idea de crear una liga de básquetbol de sexto grado.
+
+* Oración original: Nick Kerelchuk es el gerente de Digital Commons.
+* Oración simplificada: Nick Kerelchuk maneja Digital Commons en la biblioteca Martin Luther King.
+
+* Oración original: Los funcionarios de la administración señalaron que esto ayudará a los consumidores a cumplir con las directrices de dieta, que recomiendan que los estadounidenses disminuyan la ingesta de azúcar añadido.
+* Oración simplificada: Los miembros del gobierno dijeron que esto ayudará a los consumidores a cumplir con las directrices de la dieta, que recomiendan que los estadounidensesdisminuyan el consumo del azúcar añadido.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

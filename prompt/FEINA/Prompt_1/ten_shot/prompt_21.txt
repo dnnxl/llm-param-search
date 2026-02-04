@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: En este sentido, la educación financiera comprende los siguientes aspectos: Una amplia visión del concepto de educación financiera, como una herramienta que permite contribuir con la formación integral de las personas, para un adecuado desempeño en la vida personal financiera y en el manejo de la economía, asimismo, personal, familiar y social; es decir, dando importancia al desarrollo de conocimientos, actitudes, destrezas, valores, hábitos y costumbres favorables al logro de una libertad, independencia y cultura financiera, en el contexto del desarrollo económico y social del país.
+* Oración simplificada: En este sentido, la educación financiera es una herramienta que permite contribuir con la formación integral de las personas para un adecuado desempeño en el manejo de las finanzas personales, familiares y sociales. Da importancia al desarrollo de conocimientos, actitudes, valores y hábitos favorables al logro de una cultura financiera en el contexto del desarrollo económico y social del país.
+
+* Oración original: Los pagos automáticos eliminan la posibilidad de que olvides los pagos o te atrases.
+* Oración simplificada: Los pagos automáticos evitan olvidar los pagos o retrasarlos.
+
+* Oración original: Transferir dinero entre sus cuentas: se pueden realizar transferencias electrónicas de fondos, todos los días del año.
+* Oración simplificada: Transferir dinero entre nuestras cuentas, todos los días.
+
+* Oración original: Por otro lado se observa una reducción de los otros ingresos en 17%, así como un incremento del 8% en el gasto de intereses.
+* Oración simplificada: Por otro lado, vemos una reducción de los otros ingresos en diecisiete por ciento. Y un aumento del ocho por ciento en el gasto de intereses.
+
+* Oración original: Cada vez que usted ejecuta con éxito una Micrometa, se amplían sus oportunidades de lograr finalmente metas mayores.
+* Oración simplificada: Cada vez que usted ejecuta con éxito una micrometa se amplían sus oportunidades de lograr finalmente metas mayores.
+
+* Oración original: Al seguir de cerca sus cuentas, se asegura de que los pagos por Internet, los pagos automáticos y los gastos diarios no le estén causando problemas.
+* Oración simplificada: Así, se asegura de que los pagos por Internet, los automáticos y los gastos diarios no le generen problemas.
+
+* Oración original: La letra de cambio tiende a diferir el pago prioritariamente y su utilización es múltiple (compras a crédito, préstamos, arrendamientos, cancelación de obligaciones, operaciones de descuento, etc.
+* Oración simplificada: La letra de cambio aplica el pago prioritariamente y su uso es múltiple.
+
+* Oración original: Utilidad de lugar La utilidad de lugar ocurre cuando un producto o servicio es más útil en un sitio que en otro.
+* Oración simplificada: La utilidad de lugar ocurre cuando un producto o servicio es más útil en un lugar que en otro.
+
+* Oración original: Mantenerme dentro de los límites del contrato del teléfono celular para no tener que pagar cargos por uso adicional.
+* Oración simplificada: Mantenerme dentro de los límites del contrato del celular para no pagar cargos adicionales.
+
+* Oración original: Se ha creado pues en esta fábrica nuevas oportunidades de trabajo, y algunas personas que antes estaban desocupadas encuentran aquí posibilidades de empleo y podrán devengar un salario con el cual puedan atender sus necesidades y las de sus familias.
+* Oración simplificada: En esta fábrica se crearon nuevas oportunidades laborales. Así, algunas personas desempleadas encontraron empleo y tendrán un salario para atender sus necesidades y las de sus familias.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

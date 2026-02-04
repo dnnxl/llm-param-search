@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Llenó el molde con espuma, entonces, encima de la espuma, Dante añadió arcilla para moldear el cuerpo de George.
+* Oración simplificada: Luego llenó el molde con espuma.En la parte superior de la espuma, Dante añadió arcilla para moldear el cuerpo de George.
+
+* Oración original: Stephen Dobson, un científico de Kentucky, propuso un plan que podría ayudar a solucionar el problema de Los Angeles.
+* Oración simplificada: Stephen Dobson es un científico de Kentucky.
+
+* Oración original: Una de las cabezas a las que se refiere es la del virólogo Donato Boscia.
+* Oración simplificada: La primera persona en descubrir la bacteria fue el virólogo Donato Boscia.
+
+* Oración original: Ahora trata de recuperarse.
+* Oración simplificada: Ahora quiere recuperarse.
+
+* Oración original: Cuando la Granja sea inaugurada, abarcará una superficie de 75.000 pies cuadrados —casi dos acres— y, de acuerdo Viraj Puri, el Presidente Ejecutivo de Gotham Greens, producirá una cantidad de fruto correspondiente a la producción de una granja de 40 acres de extensión.
+* Oración simplificada: Cuando la granja abra cubrirá una superficie de 75.000 pies cuadrados, casi dos acres.De acuerdo con Viraj Puri, el Presidente de Gotham Greens, se producirá una cantidad de fruto igual a la de una granja de 40 acres de extensión.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

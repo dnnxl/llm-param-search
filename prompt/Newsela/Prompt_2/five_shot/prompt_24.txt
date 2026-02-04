@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: El mayor uso de la informática en el transporte abrirá el sector a nuevos participantes.
+* Oración simplificada: El mayor uso de computadoras en el transporte abrirá el sector a nuevas empresas.Estas nuevas empresas permitirán que la gente alquile autos para pequeños trayectos.
+
+* Oración original: El experimento se llevó a cabo mediante el uso de una máquina con una palanca que el niño debía jalar cuando decidía aceptar el reparto — en cuyo caso cada niño recibía un tazón con caramelos — y una segunda palanca que debía jalar cuando decidía rechazarlo — en cuyo caso los caramelos se depositaban en un tercer cuenco del cual ninguno de los dos niños podía comer.
+* Oración simplificada: El experimento se llevó a cabo mediante el uso de una máquina con dos palancas que el niño podía jalar.Si decidía aceptar la distribución —en cuyo caso cada niño recibía un plato con caramelos— jalaba la primera palanca.Si el niño decidía rechazar la distribución, jalaba la segunda palanca, en cuyo caso los caramelos se depositaban en un tercer plato del cual ninguno de los dos niños podía comer.
+
+* Oración original: El matemático inglés Sir Gilbert Walker se vale de su equipo de oficinistas de origen hindú para, a modo de computadora humana virtual, analizar datos climatológicos mediante los cuales ha podido establecer la relación existente entre las recurrentes sequías y escasez de vientos estacionales o monzones, con las cambiantes presiones atmosféricas que tienen lugar en el este y el oeste del Pacífico.
+* Oración simplificada: A principios del siglo XX, Sir Gilbert Walker, un matemático inglés que trabajaba en la India, le pidió a su equipo de trabajo que recopilara datos sobre el clima.Al analizarlos, Walker relacionó la escasez de monzones, o vientos estacionales, y sus consecuentes sequías con el cambio en las presiones atmosféricas en el este y el oeste del océano Pacífico.
+
+* Oración original: No se sabe si esto se debe a que la película es muy popular entre los activistas que están a favor de la democracia.
+* Oración simplificada: No se sabe si la razón fue porque la película es muy popular entre las personas que apoyan la democracia.
+
+* Oración original: Esos porcentajes son especialmente preocupantes, declaró, teniendo en cuenta la cantidad de niños que llevan férulas.
+* Oración simplificada: Esos porcentajes son particularmente preocupantes, declaró Abzug, teniendo en cuenta la enorme cantidad de niños que llevan férulas.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Los retiros de las cuentas personales de jubilación Roth funcionan así: Después de los 59 años y medio, puedes retirar el dinero que colocaste más los intereses acumulados en la cuenta, sin pagar impuestos por ninguna parte de ese dinero.
+* Oración simplificada: Los retiros de las cuentas personales de jubilación Roth funcionan así, después de los cincuenta y nueve años y medio, puede retirar el dinero inicial depositado más los intereses acumulados en la cuenta, sin pagar impuestos por ninguna parte de ese dinero.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

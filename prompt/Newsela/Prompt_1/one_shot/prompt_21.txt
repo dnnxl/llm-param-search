@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Dice que sus hijos están preocupados y le hacen muchas preguntas, pero que entienden la situación.
+* Oración simplificada: Sus hijos están preocupados y le hacen muchas preguntas, pero entienden la situación.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

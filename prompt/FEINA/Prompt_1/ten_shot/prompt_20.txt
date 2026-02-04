@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La cuarta parte, entre los 45 y los 55, aproximadamente, es la del máximo desarrollo financiero.
+* Oración simplificada: La cuarta parte va aproximadamente entre los cuarenta y cinco y cincuenta y cinco años. Además, es la del máximo desarrollo financiero.
+
+* Oración original: Como se indicó en la figura, el punto de partida de la contabilidad financiera es la asignación de cuentas para cada transacción.
+* Oración simplificada: Según la figura, el inicio de la contabilidad financiera es la asignación de cuentas para las transacciones.
+
+* Oración original: El aporte del IVA al presupuesto fiscal fluctúa entre el 40 % y 50 % del gasto e inversión fiscal.
+* Oración simplificada: El aporte del impuesto al valor agregado al presupuesto fiscal varía entre el cuarenta y cincuenta por ciento del gasto e inversión fiscal.
+
+* Oración original: Sin embargo, la desventaja de ella es que compromete parte del ingreso futuro de la persona, y si no se es consciente y organizado se puede adquirir más deuda de la que se puede pagar, corriendo el gran riesgo de descarrilar su plan financiero y su futuro.
+* Oración simplificada: Sin embargo, la desventaja de esta es que compromete parte del ingreso futuro de la persona. Por esto, se puede adquirir más deuda de la pagable si no se es consciente y organizado. Así, se arriesga a perjudicar su plan financiero y su futuro.
+
+* Oración original: La más importante de todas: no despreciar la planeación.
+* Oración simplificada: La más importante de todas es no despreciar la planeación.
+
+* Oración original: La primera es que su hijo será quien en última instancia tendrá que pagar los servicios de salud de esos millones de ancianos que no pueden pagar por sí mismos.
+* Oración simplificada: La primera, su hijo deberá pagar los servicios de salud de esos millones de ancianos que no pueden pagar por sí mismos.
+
+* Oración original: Así como el estado de resultados se orienta a mostrar la solvencia de la operación, el EFE se orienta a analizar la liquidez de la misma (Ross, Westerfield, & Bradford, 2018).
+* Oración simplificada: El estado de resultados evidencia la solvencia de la operación. El estado de flujo de efectivo analiza la liquidez de la operación.
+
+* Oración original: Dinero: Cualquier cosa de aceptación general que se utiliza en el intercambio de bienes y servicios o en cualquier transacción financiera. Medio de pago o de cambio.
+* Oración simplificada: El dinero es cualquier cosa de aceptación general utilizado en el intercambio de bienes y servicios o en cualquier transacción financiera. También es el medio de pago o de cambio.
+
+* Oración original: Por otro lado, los costos fijos no dependen de la producción o venta, por tanto, su presupuestación se realiza en base a las cifras históricas, manteniendo el promedio.
+* Oración simplificada: Por otro lado, los costos fijos no dependen de la producción o venta. Por tanto, su presupuestación se realiza en base a las cifras históricas al mantener el promedio.
+
+* Oración original: Entre los datos de interés de la tabla anterior se puede mencionar que: El costo de ventas y gastos variables se han incrementado, sin embargo su peso con respecto a los ingresos ha disminuido; lo que implica mayor eficiencia.
+* Oración simplificada: Entre los datos interesantes destacan: El costo de ventas y gastos variables aumentaron. Sin embargo, su peso sobre los ingresos disminuyó. Esto implica mayor eficiencia.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

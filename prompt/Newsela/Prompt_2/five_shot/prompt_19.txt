@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Piensan que es asombroso", dijo Xu.
+* Oración simplificada: Piensan que es algo asombroso", dijo Xu.
+
+* Oración original: Cuando la chica tenía 13 años, se lastimó la espalda y tuvo que dejar la gimnasia.
+* Oración simplificada: Pero se lastimó la espalda y tuvo que dejar la gimnasia.
+
+* Oración original: Sin embargo, recientemente eliminó el teatro diciendo que necesitaba reducir gastos.
+* Oración simplificada: Pero hace poco eliminó el teatro diciendo que necesitaba reducir gastos.
+
+* Oración original: Algunos, tales como los linces Bob y Apache, vienen de hogares donde trataron de mantenerlos como mascotas.
+* Oración simplificada: Bob y Apache son linces.Vienen de hogares donde las personas trataron de mantenerlos como mascotas.Crecieron demasiado como para tenerlos en casa.
+
+* Oración original: El grupo finalmente dio con sus coyotes, pero tuvieron que pasar otra noche a la intemperie, durmiendo contra unas rocas, cerca de una granja.
+* Oración simplificada: Finalmente, el grupo dio con su coyote, pero tuvieron que pasar otra noche a la intemperie durmiendo contra unas rocas.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

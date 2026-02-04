@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: "Cuando ves que tanta gente viene aquí, no te sientes en peligro", dice Salaam Musa, de 30 años de edad.
+* Oración simplificada: "Cuando ves que viene tanta gente, no te sientes en peligro", dice Salaam Musa, de 30 años.
+
+* Oración original: Continuó diciendo que la música "es la herramienta más fuerte que tenemos para llamar la atención y dar voz a los que no la tienen".
+* Oración simplificada: También dijo que la música es una manera de llamar la atención y dar voz a los que no la tienen.
+
+* Oración original: "La mayoría de la gente simplemente piensa que es un genio.
+* Oración simplificada: ## **No cree que es un genio, sino una persona normal**"La mayoría de la gente simplemente piensa que es un genio.
+
+* Oración original: Sus heladas profundidades contienen enormes depósitos minerales que jamás fueron explotados.
+* Oración simplificada: Sus heladas profundidades contienen tesoros en forma de minerales.
+
+* Oración original: Un indicador del momento que se está viviendo, comentó, es que ahora las mujeres de Uganda hasta trabajan en la construcción de carreteras.
+* Oración simplificada: Es un indicador de la época cambiante, comentó, las mujeres de Uganda ahora hasta trabajan en la construcción de carreteras.
+
+* Oración original: Llegar a un gimnasio o club deportivo también requiere pagarle a un conductor, porque a las mujeres no se les permite conducir en Arabia Saudita.
+* Oración simplificada: Las mujeres también tienen que pagarle a un conductor para llegar allí porque a las mujeres no se les permite conducir en Arabia Saudita.
+
+* Oración original: El territorio controlado por un macho adulto puede ser tan grande como unos 500 kilómetros cuadrados.
+* Oración simplificada: Cada puma macho adulto necesita tener su propio territorio, el cual puede ser tan grande como unos 500 kilómetros cuadrados.Si otro macho adulto entra en su territorio, entonces ocurre una pelea.
+
+* Oración original: Dice que, como trabajadora social, se da cuenta de que hay familias que no pueden costear el precio de la sesión fotográfica.
+* Oración simplificada: La mujer afirma que hay familias que no pueden costear el precio de la sesión fotográfica y considera que las exposiciones navideñas, así como los escaparates festivos de Macy's en el centro de Chicago, son una especie de "regalo" para los compradores.
+
+* Oración original: S. Blair Hedges es profesor en Temple University y tampoco trabajó en el estudio.
+* Oración simplificada: S. Blair Hedges es profesor en Temple University, y tampoco fue parte del estudio.Hedges estudia el desarrollo de los genes.
+
+* Oración original: Se encontraron ornamentos de oro y huesos de águilas y niños en un cofre de ofrendas.
+* Oración simplificada: Se encontró un cofre de ofrendas que contenía en su interior ornamentos de oro y huesos de águilas y de niños.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

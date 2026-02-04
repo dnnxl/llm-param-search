@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Como Nisha de 19 años, muchos de esos pacientes tienen una enfermedad que se llama tuberculosis (TB).
+* Oración simplificada: La joven Nisha de 19 años era una de las personas.Ella y muchos de esos pacientes tienen una enfermedad terrible que se llama tuberculosis (TB).
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

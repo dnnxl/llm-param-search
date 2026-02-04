@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Puede ser que quiera comprar algo ahora porque tiene descuento.
+* Oración simplificada: Puede que quiera comprar algo ahora porque tiene descuento.
+
+* Oración original: Pero si la persona se ve avocada a las vulnerabilidades señaladas y a otras contingencias y de pronto no tiene recursos económicos, no tiene flujos de ingresos para enfrentarse a ellas, ahí si fue Troya, como se dice popularmente.
+* Oración simplificada: Pero se agrava el problema si la persona lidia con las vulnerabilidades señaladas y otras sin recursos económicos para enfrentarlas.
+
+* Oración original: Subjetividad: Perteneciente o relativo al sujeto, considerado en oposición al mundo externo. Relativo a nuestro modo de sentir o pensar, y no al objeto en sí mismo.
+* Oración simplificada: Subjetividad, perteneciente o relativo al sujeto, interpretación que se da en oposición al mundo externo. Relativo a nuestro modo de sentir o pensar y no al objeto en sí mismo.
+
+* Oración original: Cuando vaya a depositar una fuerte suma de dinero, no se lo entregue a ningún funcionario o persona del público que le ofrezca realizar su trámite más rápido en caja rápida, eso no existe.
+* Oración simplificada: Cuando vaya a depositar una fuerte suma de dinero, no se lo entregue a ningún funcionario o persona del público que le ofrezca realizar su trámite más rápido en caja rápida, eso no existe.
+
+* Oración original: En todos los casos, la entidad que ofrezca el servicio de intermediación a un cliente debe estar en capacidad de enviar periódicamente los estados de cuenta correspondientes, así como de entregarlos a los clientes cuando estos así lo requieran.
+* Oración simplificada: En todos los casos la entidad que ofrezca el servicio de intermediación a un cliente debe estar en capacidad de enviar periódicamente los estados de cuenta correspondientes y de entregarlos a los clientes cuando lo requieran.
+
+* Oración original: Control total de sus Tarjetas de Crédito: se puede llevar control de las tarjetas de crédito accesando a los estados de cuenta, a los pagos de saldos o reportes en cualquier momento.
+* Oración simplificada: Podemos controlar las tarjetas crédito porque vemos los estados de cuenta, los pagos o reportes en cualquier momento.
+
+* Oración original: En el desordenado estado en que estuvo Europa durante el régimen feudal, los soberanos se veían obligados a contentarse con cargar de impuestos a solo aquéllos que por sus flaquezas no podían resistirse a pagarlos, y a los magnates, aunque gustosamente les ayudaban en caso urgente, rehusaban constantemente sujetarse a contribución alguna permanente.
+* Oración simplificada: En Europa, durante el desordenado régimen feudal, los soberanos estaban obligados a cargar de impuestos solo a quienes eran vulnerables y no se oponían a pagarlos. Esto sucedía porque los magnates, aunque ayudaban a los soberanos en casos urgentes, se rehusaban constantemente a dar alguna contribución permanente.
+
+* Oración original: Es una anotación del banco en el cheque, o lo firman personas autorizadas para ello.
+* Oración simplificada: Es una anotación den banco en el cheque.
+
+* Oración original: Sin embargo, y este es un vacío que no sólo se identifica en esta autora sino prácticamente en todos los autores y autoras que se han ocupado del asunto, ya que no se ocupan o prescinden, absurdamente, del aspecto económico o financiero y que siguiendo el lenguaje de aquella, aquí llamaríamos precisamente el yo financiero.
+* Oración simplificada: Este es un vacío que no sólo se identifica en esta autora, sino prácticamente en todos los autores y autoras que se han ocupado del asunto. Ya que prescinden del aspecto económico o financiero y que llamaríamos precisamente el yo financiero de acuerdo con el lenguaje de aquella.
+
+* Oración original: Protege tu equipo con una contraseña para proteger la información que contiene el teléfono que perdiste o te robaron.
+* Oración simplificada: Protege la información de tu equipo con una contraseña.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

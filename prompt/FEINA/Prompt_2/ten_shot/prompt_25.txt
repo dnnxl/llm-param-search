@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Estos recursos pueden provenir de cualquiera de los reinos de la naturaleza y son aprovechados por los habitantes de muy diversas maneras.
+* Oración simplificada: Estos recursos provienen de cualquier reino natural. Los habitantes los aprovechan de diversas maneras.
+
+* Oración original: Querámoslo o no, todos somos consumidores de bienes y servicios, y para acceder a esto tenemos que utilizar el dinero y los diferentes medios de pago, que se han ido diseñando.
+* Oración simplificada: Todos consumimos bienes y servicios. Para eso usamos el dinero y los diferentes medios de pago diseñados.
+
+* Oración original: ¿Cuándo estamos en presencia de monopolio?
+* Oración simplificada: ¿Cuándo estamos en un monopolio?
+
+* Oración original: Permite realmente a una persona administrar el dinero que gana, cualquiera que sea la cantidad, así como fijar metas financieras de la misma manera que se fijan metas personales y profesionales.
+* Oración simplificada: Permite a una persona administrar el dinero que gana sin importar la cantidad. Además, facilita fijar metas financieras como se fijan metas personales y profesionales.
+
+* Oración original: Si tus hábitos de consumo son el resultado de motivaciones problemáticas, quizás sea bueno que reflexiones sobre ellas, ya sea solo o con un consejero.
+* Oración simplificada: Si tus hábitos de consumo resultan de motivaciones problemáticas, puedes reflexionar sobre ellas solo o con un consejero.
+
+* Oración original: Las estéticas están relacionadas con el deseo del orden y de la belleza, tanto de lo que rodea al ser humano, como de si mismo.
+* Oración simplificada: Las estéticas se relacionan con el deseo del orden y la belleza de lo que rodea al ser humano y de sí mismo.
+
+* Oración original: Esto es correcto desde un punto de vista económico en cuanto el dinero puede usarse para comprar el equipo, los materiales y el trabajo necesarios para producir otros bienes, porque si alguien quiere fabricar zapatos necesita cuero, clavos y martillos.
+* Oración simplificada: Esto es correcto desde el punto de vista económico porque el dinero se puede usar para comprar equipo, materiales y trabajo para producir otros bienes. Si alguien fabrica zapatos necesita cuero, clavos y martillos.
+
+* Oración original: Las personas recién casadas, el comerciante que quiere triunfar, el empresario, el farmacéutico, la madre de familia, el electricista, todas necesitan carburante y ese carburante, es gasolina, ese empuje para seguir avanzando siempre es el entusiasmo.
+* Oración simplificada: Muchas personas necesitan el entusiasmo para avanzar.
+
+* Oración original: Estas necesidades serían derivaciones de las necesidades básicas, expresándose las primeras, en la forma de deseo de saber la causa de las cosas y de encontrarse pasivo frente al mundo.
+* Oración simplificada: Estas necesidades se derivan de las necesidades básicas. Las primeras se expresan como deseo de saber la causa de las cosas y de encontrarse pasivo frente al mundo.
+
+* Oración original: Hay que ver dónde es que se está en el proceso y esto requerirá de muchos ajustes, de muchas cositas.
+* Oración simplificada: Hay que ver en qué parte del proceso se está y esto necesitará muchos ajustes.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

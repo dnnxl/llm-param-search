@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: En cambio, después de tomar la bebida que no era real, hubo un aumento más bajo.
+* Oración simplificada: Los niveles no subieron casi con la bebida que no era real.
+
+* Oración original: Otra explicación bastante común tiene que ver con la familiaridad.
+* Oración simplificada: Otra explicación tiene que ver con la familiaridad.
+
+* Oración original: El programa comenzó hace dos años, y desde entonces ha enviado a unos 400 empleados de la empresa a trabajar en África durante períodos de dos o tres semanas.
+* Oración simplificada: El programa envía empleados de la empresa a trabajar en países africanos durante períodos de dos o tres semanas.Estos empleados desarrollan programas para ayudar a las empresas del continente.El programa, que comenzó hace dos años, ha enviado a unos 400 empleados a trabajar en África.
+
+* Oración original: Aun cuando Plutón era solo un punto de luz en un telescopio, los científicos sabían que sería un lugar fascinante.
+* Oración simplificada: Los científicos siempre estuvieron convencidos de que Plutón sería un lugar fascinante.
+
+* Oración original: Sin embargo, en última instancia, el futuro de la educación dependerá de los individuos y su disposición a aprovechar las oportunidades de aprendizaje e invertir en su futuro.
+* Oración simplificada: Sin embargo, en última instancia, el futuro de la educación dependerá de los estudiantes.Para cambiar el mundo, los individuos deben estar dispuestos a aprovechar las oportunidades para construir su futuro.
+
+* Oración original: Siqueiros le dijo al oficial que un amigo suyo artista enfrentaba una pena de cárcel por no pagar los impuestos.
+* Oración simplificada: ##¿Quién tiene tiempo para la contabilidad?Siqueiros le dijo a Margain que un amigo suyo artista enfrentaba una pena de cárcel por no pagar sus impuestos.
+
+* Oración original: Aún es prematuro pero ningún distrito ha tenido que hacer eso.
+* Oración simplificada: Ningún distrito ha tenido que hacer eso todavía.
+
+* Oración original: Muchos empleados pertenecen a la Generación Y, o Generación del Milenio.
+* Oración simplificada: Muchos empleados pertenecen a la Generación Y.A estas personas también se les llama Generación del Milenio.
+
+* Oración original: (AP) — Leslie Fram comenzó a ver los problemas que enfrentaban las mujeres en la música country cuando llegó hace cuatro años a Nashville para encabezar la división de estrategia musical de CMT.
+* Oración simplificada: — Cuando Leslie Fram llegó a Nashville hace cuatro años para dirigir la división de estrategia musical de CMT, un canal de televisión dedicado a la música country, inmediatamente se dio cuenta de los problemas que enfrentan las mujeres en ese género.
+
+* Oración original: Un 2 por ciento del ADN de la mayoría de las personas que vive actualmente proviene de encuentros amorosos entre seres humanos prehistóricos y sus vecinos neandertales hace decenas de miles de años, según han demostrado estudios recientes.
+* Oración simplificada: El hombre de Neandertal o los neandertales son un grupo extinto de seres humanos primitivos que vivió en gran parte de Europa y Asia durante la era Paleolítica media.Hoy en día, un 2 por ciento del ADN de la mayoría de las personas proviene de encuentros sexuales entre seres humanos prehistóricos y sus vecinos neandertales hace decenas de miles de años, según han demostrado estudios recientes.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

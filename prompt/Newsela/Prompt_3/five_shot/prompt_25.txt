@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Cada Calabaza pesa más de 1.700 libras (aproximadamente 772 kg).
+* Oración simplificada: Cada calabaza de Martin pesa más de 1.700 libras (aproximadamente 772 kg).Tenemos una larga historia en la crianza de vacas lecheras.
+
+* Oración original: Por un breve período durante la escuela secundaria se identificó como transgénero, pero esta palabra parecía confundir a sus pares y la convirtió en una marginada, por lo que optó por decir simplemente que era homosexual.
+* Oración simplificada: Por un período durante la escuela intermedia trató de explicarle a la gente que era transgénero.Las personas transgénero sienten que nacieron con el sexo equivocado.Pero esta palabra parecía confundir a sus pares.Entonces fue marginada.Optó por decir que era homosexual.
+
+* Oración original: La aguja no está cubierta de cristal, como el resto del edificio.
+* Oración simplificada: Esta punta se llama aguja y no está cubierta de cristal como el resto del edificio.
+
+* Oración original: Es demasiado pronto como para lograr determinar el impacto que podría generar la agricultura sobre los tejados, que apenas comienza, en el campo de la producción alimentaria.
+* Oración simplificada: ## Y este es solo el comienzoAún es pronto como para determinar el impacto que tendrá la agricultura sobre los tejados en el campo de la producción alimentaria.
+
+* Oración original: Pero los biólogos marinos  - incluyendo a los críticos de SeaWorld - coinciden en que las ballenas probablemente nunca se liberarán a los mares abiertos.
+* Oración simplificada: Pero los biólogos marinos  - incluyendo a los críticos de SeaWorld - coinciden en que las ballenas probablemente nunca se liberarán a mar abierto.Los biólogos marinos estudian las plantas, animales y microorganismos que viven en el mar.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

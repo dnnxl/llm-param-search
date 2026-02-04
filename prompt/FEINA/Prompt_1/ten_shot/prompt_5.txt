@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Las acciones preferentes pueden o no otorgar el derecho al voto y tienen preestablecido el monto a recibir por concepto de dividendos.
+* Oración simplificada: Las acciones preferentes tal vez otorguen el derecho al voto y tienen preestablecido el monto a recibir por los dividendos.
+
+* Oración original: Haz la denuncia ante la policía local.
+* Oración simplificada: Denuncia ante la policía local.
+
+* Oración original: Los delitos de fraude con frecuencia no se denuncian porque las víctimas se sienten avergonzadas o desconfían de su propio criterio.
+* Oración simplificada: Generalmente, los delitos de fraude no se denuncian porque las víctimas se avergüenzan o desconfían de su opinión.
+
+* Oración original: En la medida en que la comercialización crece, aumenta en consecuencia la importancia de este efecto mercantil.
+* Oración simplificada: Conforme crece la comercialización, aumenta su importancia.
+
+* Oración original: Por otro lado, el Código también señala lo que no debe considerarse remuneración pues son beneficios diferentes, aunque están asociados a un contrato de trabajo.
+* Oración simplificada: Por otro lado, el Código también señala lo que no es remuneración. Estos son beneficios diferentes, aunque están asociados a un contrato de trabajo.
+
+* Oración original: Esto implica que un cheque emitido para ser cobrado en 60 o 90 días más legalmente puede ser cobrado de inmediato.
+* Oración simplificada: Esto implica que un cheque emitido para ser cobrado en sesenta y noventa días más legalmente puede ser cobrado de inmediato.
+
+* Oración original: Para el caso de Ecuador, una amplia oferta pueden encontrarse en el Banco del Ecuador  BANECUADOR y en la Corporación Financiera Nacional  CFN.
+* Oración simplificada: Para el caso de Ecuador, una amplia oferta puede encontrarse en el Banco del Ecuador y en la Corporación Financiera Nacional.
+
+* Oración original: Los especialistas, siguen tratando de explicar este fenómeno.
+* Oración simplificada: Los especialistas todavía tratan de explicar este fenómeno.
+
+* Oración original: Con la misma materia prima, bien aprovechada, también se produce más, puesto que se ha dado una nueva organización a los sistemas de trabajo.
+* Oración simplificada: Con la misma materia prima se produce más, porque se les dio una nueva organización a los sistemas de trabajo.
+
+* Oración original: Existe un dicho popular que expresa que soñar no cuesta nada, pero lo importante es que el soñar es combustible fundamental de la vida.
+* Oración simplificada: Soñar es el combustible fundamental de la vida.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

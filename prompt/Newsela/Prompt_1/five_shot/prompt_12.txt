@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: > ACERCA DEL AUTOR: Don Kusler es directivo de Americans for Democratic Action, una organización liberal de defensa nacional (www.adaction.org).
+* Oración simplificada: > ACERCA DEL ESCRITOR: Don Kusler es directivo de Americans for Democratic Action (www.adaction.org).
+
+* Oración original: Aun cuando el dinero del premio, las placas y los derechos a alardear se encuentren en juego, los cultivadores como Stevens y los Martin cuentan que disfrutan viendo cómo los ojos de los espectadores se ponen enormes y redondos cuando ven sus calabazas gigantes.
+* Oración simplificada: ## ¡Creciendo como locas!Los competidores están compitiendo por el dinero del premio, las placas y los derechos a alardear, pero dicen que la verdadera recompensa consiste en algo más.Les encanta ver la mirada de la gente cuando se topan con las calabazas gigantes.Los ojos se le ponen grandes y redondos, y se quedan boquiabiertos.
+
+* Oración original: Otras lo hacen a través de sus amigos o familiares.
+* Oración simplificada: Nos enteramos de ellas a través de las noticias.Otras las conocen hablando con amigos o familiares.
+
+* Oración original: Un casino resort en Macau, que está previsto que abra sus puertas este verano, ofrece una atracción de doble noria que se parece al número 8.
+* Oración simplificada: Un casino resort en Macau ofrece una atracción de doble noria que se parece al número 8.
+
+* Oración original: La educación ha ayudado a disminuir estas diferencias.
+* Oración simplificada: La escuela ha ayudado a acortar estas diferencias.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Si tienes una cuenta de ahorro, puedes pedirle a tu empleador que deposite parte del salario directamente en esa cuenta.
+* Oración simplificada: Puedes pedirle a tu empleador el depósito directo de una parte del salario si tienes una cuenta de ahorro.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

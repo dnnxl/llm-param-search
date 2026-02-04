@@ -1,0 +1,21 @@
+Simplifica el siguiente segmento discursivo dado los siguientes ejemplos:
+
+Por ejemplo:
+* Segmento original: Anualidades La anualidad o renta es una fórmula de matemática financiera empleada para cálculos de cuotas de pagos y depósitos o retiros generalmente iguales, que se realizan en períodos regulares y con interés compuesto.
+* Segmento simplificado: Anualidades. La anualidad o renta es una fórmula de matemática financiera empleada para cálculos de cuotas de pagos y depósitos o retiros generalmente iguales que se realizan en períodos regulares y con interés compuesto.
+
+* Segmento original: Una de ellas son las transferencias electrónicas de dinero por parte de personas, de empresas y entre ellas, sin la necesidad de concurrir a los bancos, a instituciones financieras o a negocios para hacer un pago, pedir un crédito, efectuar una inversión o consultar los saldos.
+* Segmento simplificado: Una de ellas son las transferencias electrónicas de dinero por parte de personas y de empresas sin la necesidad de concurrir a los bancos, a instituciones financieras o a negocios para hacer un pago, pedir un crédito, efectuar una inversión o consultar los saldos.
+
+* Segmento original: Esto indica no aceptar ofertas a crédito, pedidos por teléfono, así como ofertas por correo.
+* Segmento simplificado: Es decir, no aceptar ofertas de crédito, pedidos por teléfono u ofertas por correo.
+
+* Segmento original: Esto ocurre con frecuencia con los que ingresan a los negocios, que al ver que después de los tres o seis meses no se cumplen sus expectativas entonces optan por retirarse, sin considerar que los negocios, como muchas metas de la vida, son a largo plazo.
+* Segmento simplificado: Esto ocurre frecuentemente con quienes inician un negocio porque se retiran cuando no se cumplen sus expectativas después de tres o seis meses.
+
+* Segmento original: Tarjeta de crédito: Tarjeta generalmente de plástico con una banda magnética, a veces un microchip y un número en relieve que sirve para hacer compras, pagos u otras transacciones. Por su capacidad de realizar pagos se les llama también dinero plástico.
+* Segmento simplificado: Tarjeta de crédito, tarjeta generalmente de plástico con una banda magnética, a veces tiene un microchip y un número en relieve que sirve para hacer compras, pagos u otras transacciones. Por la posibilidad de realizar pagos con esta se le llama también dinero plástico.
+
+Simplifica el siguiente segmento:
+* Segmento original: PREPROCESS_TEXT
+* Segmento simplificado: 

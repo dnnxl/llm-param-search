@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Los animales más grandes del planeta —elefantes, tigres y ballenas— son los que están más en riesgo.
+* Oración simplificada: Los animales más grandes, como elefantes, tigres y ballenas, son los que están más en riesgo.
+
+* Oración original: Uber, con sede en San Francisco y operando en más de 300 ciudades y en 56 países en todo el mundo, entró en la contienda hace un año.
+* Oración simplificada: Uber, con sede en San Francisco, está operando en más de 300 ciudades y en 56 países en todo el mundo.Uber entró en el mercado saudita hace un año y ha experimentado un fuerte crecimiento.
+
+* Oración original: Nielsen explica que, por lo general, las hembras se mudan de lugar con menos frecuencia y a menor distancia, pues "el mantenerse cercanos a la madre es parte de su naturaleza", dice.
+* Oración simplificada: Clay Nielsen es el jefe del Cougar Network, un grupo sin fines de lucro que explora estos animales.Nielsen explica que por lo general las hembras no se mudan de lugar tanto y, si lo hacen, es a lugares más cerca."Mantenerse cercanos a la madre es parte de su naturaleza", dice.
+
+* Oración original: La jueza federal de distrito Amy Totenberg señaló en su fallo de 100 páginas que la agencia había revisado la solicitud de permiso del acuario a través del lente de la Ley de Protección de Mamíferos Marinos.
+* Oración simplificada: La jueza federal de distrito Amy Totenberg señaló que la agencia había revisado la solicitud basándose en la Ley de Protección de Mamíferos Marinos.
+
+* Oración original: Su propósito es llamar la atención sobre la campaña de Maziar Bahari a favor de la libertad de prensa y la educación en Irán.
+* Oración simplificada: Su propósito es llamar la atención sobre el periodista Maziar Bahari y su grupo.
+
+* Oración original: El rector, Tim Wolfe, anunció que su dimisión entraba en vigor inmediatamente.
+* Oración simplificada: El rector, Tim Wolfe, anunció que su dimisión era inmediata.
+
+* Oración original: Éste es el caso que ha acontecido recientemente en la Universidad Estatal de Pensilvania con el entrenador de línea defensiva Herb Hand, que hace poco publicó en Twitter su decepción con un fichaje fallido.
+* Oración simplificada: Éste es el caso que ha acontecido recientemente en la Universidad de Pensilvania con el entrenador de línea defensiva Herb Hand, que publicó su decepción en Twitter.
+
+* Oración original: Sin embargo, estos canales constituyen una importante subcultura en YouTube que ha convertido en celebridades a comentaristas de videojuegos y cómicos.
+* Oración simplificada: Estos canales son una parte importante de YouTube.Han convertido en celebridades a comentaristas de videojuegos y comediantes.
+
+* Oración original: La torre de Nueva York tiene en la parte superior una especie de cono que se llama aguja.
+* Oración simplificada: La torre de Nueva York tiene una punta en la parte superior.
+
+* Oración original: Según Spalding, los Obama creen que no hay que ser famoso para ser importante.
+* Oración simplificada: Para los Obama, no hay que ser famoso para ser importante, explicó Spalding.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

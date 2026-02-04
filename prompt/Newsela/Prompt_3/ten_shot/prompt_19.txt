@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Vivieron hace 50.000 millones de años, en lo que es ahora Europa y Asia.
+* Oración simplificada: Los neandertales vivían en lo que son ahora los continentes de Europa y Asia.
+
+* Oración original: El estudio ONTRAC (siglas en inglés para entrenamiento en línea de la neuroplasticidad para el reparo de TDAH en adolescentes) reclutó a 31 niños con TDAH en Nueva Delhi (India).
+* Oración simplificada: El estudio ONTRAC reclutó a 31 niños con TDAH en Nueva Delhi, la capital de India.
+
+* Oración original: CIUDAD DE MÉXICO — Cuando llama el recaudador de impuestos, la artista Teresa Cito ni se inmuta.
+* Oración simplificada: CIUDAD DE MÉXICO — Cuando llega la época de impuestos, la artista Teresa Cito no se preocupa.
+
+* Oración original: ## ¿Cuándo el 2 se vuelve 8?
+* Oración simplificada: ## ¿Se parece a un 8?¡Estupendo!
+
+* Oración original: Uno de sus primeros proyectos consistió en trabajar con los funcionarios de Salud para incorporar un sistema de semáforos a toda la comida empaquetada.
+* Oración simplificada: Uno de sus primeros proyectos fue la creación de un sistema de semáforos para toda la comida envasada.
+
+* Oración original: Pero las medidas se han visto frenadas debido a que el Congreso no logra calcular el costo de dicha expansión de cobertura.
+* Oración simplificada: Pero las medidas se han visto frenadas debido a que el Congreso no logra calcular cuánto le costará al gobierno.
+
+* Oración original: McClatchy Tribune no ha subvencionado la redacción de esta columna; las opiniones aquí publicadas son responsabilidad de quien las escribe y no necesariamente representan el parecer de McClatchy-Tribune o de Newsela.McClatchy-Tribune no ha subvencionado la redacción de esta columna; las opiniones aquí publicadas son responsabilidad de quien las escribe y no necesariamente representan el parecer de McClatchy-Tribune o de Newsela.
+* Oración simplificada: McClatchy-Tribune no ha subvencionado la redacción de esta columna; las opiniones aquí publicadas son responsabilidad de quien las escribe y no necesariamente representan el parecer de McClatchy-Tribune o de Newsela.
+
+* Oración original: Enviar una nave al espacio es muy costoso y la NASA no tenía suficiente dinero.
+* Oración simplificada: Enviar una nave al espacio cuesta mucho dinero y la NASA no tenía suficiente.
+
+* Oración original: El Consejo de Edificios Altos y Hábitat Urbano se fundó en 1969 con el objetivo de supervisar la construcción de edificios de gran altura en todo el mundo y establecer reglas para determinar qué es un rascacielos.
+* Oración simplificada: El CTBUH se fundó en Chicago en 1969.El grupo supervisa la construcción de edificios altos en todo el mundo y establece reglas para definir qué es un rascacielos.
+
+* Oración original: Luego mordió la manga almohadillada y se rehusó a soltarla.
+* Oración simplificada: Luego mordió la manga almohadillada y no la soltó.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

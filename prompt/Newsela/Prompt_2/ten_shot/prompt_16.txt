@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: La explicación de por qué nuestro Sistema Solar es diferente podría estar en cómo Júpiter controló lo que pasó con los planetas después de su formación, agregó.
+* Oración simplificada: Lo que hizo Júpiter después de su formación de los planetas marcó la diferencia, agregó.
+
+* Oración original: En su totalidad, la lista contiene docenas de especies, que incluyen ambas especies polares: las que habitan en las aguas abiertas encima del Círculo Ártico y las que los autores denominan especies del ártico en peligro de extinción las cuales habitan al sur de la banquisa.
+* Oración simplificada: La lista contiene docenas de especies, incluyendo ambas especies polares: las que habitan en las aguas abiertas encima del Círculo Ártico y las que habitan al sur de la banquisa y que están en peligro de extinción.
+
+* Oración original: "Este es el juego que estaremos jugando una y otra vez durante los próximos cinco o diez años, hasta que finalmente se logre implementar el manejo totalmente autónomo", dijo Brauer.
+* Oración simplificada: "Este es el juego que estaremos jugando una y otra vez durante los próximos cinco o diez años", dijo Brauer.
+
+* Oración original: Durante un siglo, los automóviles han simbolizado libertad y riqueza.
+* Oración simplificada: Durante un siglo, los autos han significado libertad.Eran un símbolo de riqueza.
+
+* Oración original: Ahora todos los consumidores pueden ver rápidamente si el contenido de azúcar, sal y grasa en sus meriendas están marcados con una luz verde, amarilla o roja.
+* Oración simplificada: ## Luz verde para los alimentos saludablesAhora, los consumidores ven rápidamente si las cantidades de azúcar, sal y grasa en sus comidas llevan una luz roja, amarilla o verde.
+
+* Oración original: ## Los cultivadores de Florida
+* Oración simplificada: ## La cosecha de Florida
+
+* Oración original: Su hermano pequeño, el botiquín de primeros auxilios.
+* Oración simplificada: Su hermano pequeño lleva el botiquín de primeros auxilios y su madre, Erika, la manta y la silla.
+
+* Oración original: Si hay muchas personas con gérmenes resistentes, aumentan las posibilidades de que esos patógenos salgan del país hacia el resto del mundo.
+* Oración simplificada: Pero si hay muchas personas con gérmenes resistentes, aumentan las posibilidades de que esos patógenos salgan del país hacia el resto del mundo.Los pacientes de cepas resistentes a medicamentos siempre tienen alguna posibilidad de ganarle a la enfermedad.
+
+* Oración original: El documental, "Food Chains", con la actriz y activista Eva Longoria como productora ejecutiva, nominado para los Premios de la Academia del 2014, mostró un período de seis días de ayuno realizado por Benítez y sus compañeros trabajadores de Immokalee frente a la sede de Publix en Lakeland.
+* Oración simplificada: Benítez y sus compañeros trabajadores en Immokalee hicieron seis días de ayuno frente a la sede de Publix en Lakeland.Su manifestación apareció en el documental "Food Chains", el cual fue nominado para los Premios de la Academia del 2014, y que contó con la actriz y activista Eva Longoria como productora ejecutiva.
+
+* Oración original: Radwan y su esposo estaban considerando contratar un chofer, pero decidieron no hacerlo.
+* Oración simplificada: Radwan y su esposo no usan un chofer porque es muy caro.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

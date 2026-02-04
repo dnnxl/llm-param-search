@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Son malas noticias cuando hay un producto mejor y más barato que no gana.
+* Oración simplificada: Es malo que no gane un producto mejor y más barato.
+
+* Oración original: Muchos en la industria musical ven las transmisiones en línea como la única esperanza para progresar.
+* Oración simplificada: Para muchos en el negocio de la música, las transmisiones en línea son su única esperanza.
+
+* Oración original: Nasir tuvo que cambiar sus ofertas para mantener el restaurante.
+* Oración simplificada: Sus clientes solo querían comida conocida.Nasir tuvo que cambiar la comida.Ahora le va mejor.
+
+* Oración original: En total, el parque reportó un promedio de aproximadamente 350 accidentes al año.
+* Oración simplificada: Los parques reportaron cerca de 350 lesiones al año.
+
+* Oración original: Se sentaron encima de un camión de superficie plana aparcado al otro lado de la calle de la cárcel federal mientras un campo desértico vacío les servía como telón de fondo.
+* Oración simplificada: Se sentaron encima de la plataforma de un camión estacionado al otro lado de la calle de la cárcel federal.
+
+* Oración original: ## Quería ser chica a tiempo completo
+* Oración simplificada: ## Se siente como una chica
+
+* Oración original: Algunos analistas dicen tener problemas para dormir por las noches.
+* Oración simplificada: Algunos analistas dicen que tienen problemas para dormir por las noches.
+
+* Oración original: En el año 2013, Under Armour estaba en pleno desarrollo del uniforme para Natasha Hastings, una estrella estadounidense del atletismo.
+* Oración simplificada: En 2013, Under Armour diseñó el uniforme de Natasha Hastings, una estrella estadounidense del atletismo.
+
+* Oración original: Ted Piccone, un investigador en la Brookings Institution, dijo que muchos de los artículos en la lista de excluidos son aquellos que se producen casi exclusivamente por empresas de propiedad estatal.
+* Oración simplificada: Ted Piccone, investigador de economía en la Brookings Institution, dijo que muchos de los artículos en la lista de los "no" son los producidos por empresas que son propiedad del gobierno.
+
+* Oración original: El grupo actual de los muchachos de Alpha está muy entusiasmado por lo que viene en el futuro.
+* Oración simplificada: El grupo actual de Alpha está muy entusiasmado por el futuro.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

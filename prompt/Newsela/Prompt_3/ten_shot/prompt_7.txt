@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Junto con un sólido sistema de prestaciones para el desempleo, la protección social (como el seguro médico y las pensiones) es esencial para la seguridad general del trabajador y para garantizar una buena economía.
+* Oración simplificada: Junto con un sólido sistema de ayudas para el desempleo, los programas y protecciones, como el seguro médico y las pensiones, son esenciales para la seguridad general del trabajador y para garantizar una buena economía.Se deben fortalecer los programas del gobierno como las pensiones y el Seguro Social, que le provee una mesada a los jubilados.
+
+* Oración original: Escudada tras su _Social Security card_ y armada del valor que le infundiera la dueña de un salón de manicura, de origen vietnamita, comenzó a estudiar de nuevo para aprender a hacer la manicura.
+* Oración simplificada: Con su tarjeta de Seguro Social y el apoyo de la dueña de un salón de manicuras, de origen vietnamita, comenzó a estudiar para ser técnica profesional de uñas.
+
+* Oración original: Cada año, en el mes de julio, el grupo programa un recorrido gratuito por las parcelas de calabazas para el público para que la gente pueda ver las calabazas gigantes cubriendo el suelo.
+* Oración simplificada: Cada año, en el mes de julio, el grupo organiza un recorrido gratis por las siembras de calabazas para que la gente pueda ver las calabazas gigantes cubriendo el suelo.
+
+* Oración original: "Es verdad que hay muchos combatientes que andan montados en pickups y almas retorcidas que, ocultas en garajes y apartamentos, traman el mal, quienes indudablemente representan un gran peligro y a quienes hay que detener", reconoció Obama, "pero no constituyen una amenaza para nuestra seguridad nacional".
+* Oración simplificada: "Es verdad que hay muchos combatientes y almas retorcidas que traman el mal, quienes indudablemente representan un gran peligro y a quienes hay que detener", reconoció Obama.Y añadió, "pero no constituyen una amenaza para nuestra seguridad nacional".
+
+* Oración original: Sanders parece no encajar demasiado con esta plataforma, donde los usuarios pueden enviar a sus amigos fotos y cortos vídeos que después desaparecen.
+* Oración simplificada: Sanders parece no encajar demasiado con Snapchat.
+
+* Oración original: Pero cuando sus admiradores escuchan su música por Spotify, ella obtiene menos de un centavo por canción.
+* Oración simplificada: Pero en Spotify, ganaría menos de un centavo por cada canción que sus admiradores escuchen.## Bandas y admiradores
+
+* Oración original: Algunos murciélagos polinizan las plantas, permitiendo que produzcan semillas y frutos, mientras que otros, como el murciélago bonetero, consumen grandes cantidades de insectos que serían una plaga para los cultivos.
+* Oración simplificada: Algunos murciélagos polinizan las plantas, lo que permite que produzcan semillas y frutos.Otros, como el murciélago bonetero, se comen los insectos que podrían destruir los cultivos.
+
+* Oración original: Verónica Arreola, de la University of Illinois en Chicago, cree que es importante para las niñas tener modelos para imaginarse a sí mismas en una carrera de STEM.
+* Oración simplificada: Verónica Arreola trabaja en la University of Illinois en Chicago.Ella cree que es importante que las niñas tengan modelos con carreras de STEM.Así, las niñas se animarán a seguir ese camino.
+
+* Oración original: Algunos pueden ser más comunes en las mujeres que en los hombres, y otros más comunes en los hombres cuando se comparan con las mujeres.
+* Oración simplificada: Algunos rasgos son más comunes en las mujeres.Otros rasgos son más comunes en los hombres.
+
+* Oración original: Los trabajadores del gobierno marchan pidiendo mejores salarios y beneficios.
+* Oración simplificada: Los trabajadores del gobierno protestan pidiendo mejores pagos.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Está el "parkour" y también existen otras prácticas parecidas.
+* Oración simplificada: Está el "parkour" y también otros deportes similares.
+
+* Oración original: Pero a diferencia de los restaurantes de primera en Beirut o en Amman en Jordania, el escenario culinario en Ramallah apenas se mueve.
+* Oración simplificada: Pero a diferencia de los restaurantes de otras ciudades, en Ramallah la gente casi no come fuera.Explicó que la gente en Ramallah no tiene dinero.
+
+* Oración original: Los niños —y casi siempre son niños ya que a las mujeres y niñas tradicionalmente no se les permite en el ring— generalmente practican sumo hasta la preparatoria.
+* Oración simplificada: Los niños —y casi siempre son niños, porque a las mujeres y niñas tradicionalmente no se les permite en el "ring"— generalmente practican sumo hasta la preparatoria.
+
+* Oración original: Las semillas se siembran en pequeñas macetas en el mes de abril y se cultivan en el interior durante dos semanas antes de sembrarlas en la tierra.
+* Oración simplificada: El proceso comienza en abril, cuando siembran las semillas en pequeños maceteros.Antes de sembrarlas en la tierra, las cultivan en un sitio cerrado durante dos semanas.
+
+* Oración original: El sábado, al mirar desde el interior de la vivienda, quedaba tan solo una parte del techo.
+* Oración simplificada: Este señor vive en la comunidad de La Fortuna, muy cerca de la playa.El sábado, solo quedaba una parte del techo.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

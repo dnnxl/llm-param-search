@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Esta es la crisis más grande de refugiados desde la Segunda Guerra Mundial.
+* Oración simplificada: Este es el problema más grande de las personas que han escapado y necesitan protección desde la Segunda Guerra Mundial.
+
+* Oración original: Piensan que no es seguro usar el Wi-Fi público.
+* Oración simplificada: Piensan que no es seguro usar el Wi-Fi de la ciudad.Esto hará que el servicio público sea seguro.
+
+* Oración original: Ambas bebidas generaron un leve aumento en la frecuencia cardíaca —un promedio de unas 3,1 palpitaciones adicionales por minuto al tratarse de la bebida "Rockstar" y 4,3 palpitaciones de más al tratarse del placebo.
+* Oración simplificada: Ambas bebidas generaron un leve aumento en la frecuencia cardíaca —un promedio de 3,1 latidos adicionales por minuto con la bebida Rockstar y 4,3 latidos de más con el placebo.
+
+* Oración original: El estudio, publicado el pasado jueves, observó a 200 jóvenes de 13 años durante 10 años.
+* Oración simplificada: Unos 200 jóvenes de 13 años fueron seguidos por el estudio durante 10 años.
+
+* Oración original: En la actualidad, solo se enseña informática en una de cada cuatro escuelas preparatorias del país.
+* Oración simplificada: En los Estados Unidos, solo una de cada cuatro escuelas ofrece clases de informática.
+
+* Oración original: Después de eso, Dante estiró la piel sobre la arcilla.
+* Oración simplificada: Luego estiró la piel de George sobre el barro.
+
+* Oración original: Scahill es profesor de pediatría en la Universidad de Emory, y estudia a los niños con formas especializadas de TDAH observadas en autismo y síndrome de Tourette.
+* Oración simplificada: Lawrence Scahill es profesor de Pediatría en Emory University y estudia a los niños con TDAH.
+
+* Oración original: Joseph Bisoglio ha estudiado los videojuegos en el Columbia University Medical Center de Nueva York.
+* Oración simplificada: Joseph Bisoglio es un experto en videojuegos del Columbia University Medical Center de Nueva York.
+
+* Oración original: Para Los Ángeles, tanto la negociación como el contrato se llevarían a cabo más adelante.
+* Oración simplificada: Para Los Ángeles, el contrato se llevaría a cabo más adelante.
+
+* Oración original: Los investigadores también descubrieron que el nivel de sodio en los almuerzos preparados en casa era más alto que el recomendado por las directrices federales.
+* Oración simplificada: Los investigadores también hallaron que el nivel de sodio, o sal, era más alto que el recomendado por las normas federales.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

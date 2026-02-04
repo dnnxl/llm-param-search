@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Por ejemplo, generalmente la hipoteca es uno de los mejores tipos de endeudamiento, porque la mayoría de las viviendas aumenta de valor con el paso del tiempo.
+* Oración simplificada: Por ejemplo, una de las mejores deudas es la hipoteca porque el valor de las viviendas aumenta con el tiempo.
+
+* Oración original: Invertirlo en el pago de deudas, por ejemplo y si queda algo, que ojalá sea así, ahorrarlo.
+* Oración simplificada: Invertirlo en el pago de deudas y, si queda algo, ahorrarlo.
+
+* Oración original: Esta institución define la corrupción como «el abuso del poder para beneficio personal» por lo que cubre aspectos financieros y no financieros.
+* Oración simplificada: Según esta institución, la corrupción es el abuso de poder para beneficio personal. Entonces, tiene aspectos financieros y no financieros.
+
+* Oración original: En los países hay básicamente dos tipos de seguros: uno llamado voluntario y otro seguro obligatorio.
+* Oración simplificada: En los países hay básicamente dos tipos de seguros: uno voluntario y otro obligatorio.
+
+* Oración original: Para esto es conveniente cuidar permanentemente los saldos, dejar de gastar compulsivamente, y utilizar la tarjeta sólo para la adquisición de cosas o servicios necesarios entre otros aspectos.
+* Oración simplificada: Para esto es conveniente cuidar los saldos, evitar gastos compulsivos, utilizar la tarjeta sólo para gastos necesarios, entre otros aspectos.
+
+* Oración original: Por ejemplo, en momentos de crisis y escaso crecimiento económico de China ?principal comprador de cobre en los últimos años?, los ingresos se resienten por la baja del precio de este metal; mientras que en épocas de crecimiento de este u otro país comprador del mineral, sucede lo contrario.
+* Oración simplificada: China es el principal comprador de cobre en los últimos años. Cuando hay crisis económica en ese país, los ingresos bajan por la disminución del precio de ese metal. En épocas de crecimiento ocurre lo contrario.
+
+* Oración original: Todo es cuestión de tener un sueño y trabajar y trabajar y trabajar.
+* Oración simplificada: Debemos tener un sueño y trabajar mucho por lograrlo.
+
+* Oración original: Intercambiar habilidades y servicios con los vecinos, amigos y familiares (por ejemplo, cuidar a los niños, mantener el jardín, cocinar, hacer trabajos manuales).
+* Oración simplificada: Intercambiar habilidades y servicios con los vecinos, amigos y familiares.
+
+* Oración original: Por otro lado, la hierba mala generalmente no tiene uso práctico y no se clasifica como un bien económico.
+* Oración simplificada: Por otro lado, la hierba mala no tiene uso práctico y no se clasifica como un bien económico.
+
+* Oración original: Sin embargo, para su construcción, el VNA toma valores desde el año 1, en lugar del año 0.
+* Oración simplificada: Sin embargo, esta función valores desde el año uno en lugar del año cero.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

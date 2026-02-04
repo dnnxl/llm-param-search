@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: MIAMI — Un nuevo estudio revela que, en el combate anual por librar al húmedo sur de la Florida de las nubes de mosquitos típicas del verano, la fumigación acostumbrada puede poner en gran riesgo a inocentes espectadores: las mariposas.
+* Oración simplificada: MIAMI — La fumigación acostumbrada para librar al sur de la Florida de las nubes de mosquitos típicas del verano puede poner en gran riesgo a ciertos espectadores inocentes: las mariposas.
+
+* Oración original: En el Pascagoula-Gautier School District, la población de estudiantes aprendiendo inglés tuvo un incremento de más del doble: de 196 en el año 2005 a 463 en el año 2007.
+* Oración simplificada: En el Distrito Escolar de Pascagoula-Gautier, el número de estudiantes de inglés más que se duplicó, de 196 en el año 2005 a 463 en el año 2007.
+
+* Oración original: Por otra parte, las imágenes muestran la diferencia entre la superficie de Plutón, más variada y activa, y el terreno de Caronte, su luna más grande, que es más oscuro y gris.
+* Oración simplificada: Las imágenes muestran que la superficie de Plutón es diferente a la de Caronte, su luna más grande.En cambio, la de Caronte está llena de grandes agujeros llamados cráteres.
+
+* Oración original: La comunidad científica cree que se trajo en un cargamento de plantas ornamentales de Costa Rica.
+* Oración simplificada: La comunidad científica piensa que penetró de forma accidental a través de plantas enviadas desde Costa Rica.
+
+* Oración original: De acuerdo a otro nuevo estudio en Science, las personas han desplazado físicamente a 424 especies de plantas y animales para protegerlos de la extinción.
+* Oración simplificada: Otro nuevo estudio en Science dice que las personas han desplazado a 424 especies de plantas y animales para protegerlos de la extinción.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

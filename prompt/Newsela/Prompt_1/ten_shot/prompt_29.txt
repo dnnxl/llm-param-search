@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Ahora dirige un negocio de servicio de comida que le brinda un ingreso mensual de hasta 3.000 dólares.
+* Oración simplificada: Ahora, diez años más tarde, Nalukenge es dueña de su propio negocio de servicio de comidas que le da hasta 3.000 dólares en ganancias al mes.
+
+* Oración original: También hay un estudio de sonido, una máquina impresora de libros que imprime y anilla libros, y también pequeñas áreas de trabajo.
+* Oración simplificada: Hay un estudio de sonido, una máquina que imprime y anilla libros, y áreas de trabajo.
+
+* Oración original: Aunque algunas de esas autoridades locales evitan las políticas federales de inmigración, otras se niegan a hacerlas cumplir, no por razones morales, sino porque temen demandas.
+* Oración simplificada: Aunque algunas de esas autoridades locales evitan las políticas federales de inmigración, otras se niegan a hacerlas cumplir.Esto no lo hacen por obligación moral, sino porque temen ser demandados.
+
+* Oración original: ## No escogen el sumo
+* Oración simplificada: ## Shataro practica el sumo
+
+* Oración original: Nadawi, con su pelo corto y vistiendo un elegante abrigo, busca rostros jóvenes entre la muchedumbre que pasa, en especial los de mujeres jóvenes, pero encuentra pocos.
+* Oración simplificada: Nadawi buscaba rostros jóvenes entre la muchedumbre, en especial los de mujeres jóvenes, pero encontraba pocos.
+
+* Oración original: Mientras toma cuatro cursos avanzados, también es editora del periódico escolar, tesorera del consejo estudiantil y está en el coro de la escuela.
+* Oración simplificada: Además de tomar cuatro cursos avanzados, Bankowski edita el periódico escolar, canta en el coro y es la tesorera del consejo estudiantil.
+
+* Oración original: Descubrimos que había niños que estaban huyendo del abuso en sus casas, de la violencia de pandillas y de las drogas.
+* Oración simplificada: Los niños nos contaron que estaban huyendo del abuso en sus hogares, de las pandillas y de las drogas.
+
+* Oración original: No hay un registro de la cantidad total de techos verdes existentes en Norte América.
+* Oración simplificada: No se conoce la cantidad total de techos verdes en Norte América.
+
+* Oración original: "Está siendo un éxito total con todos los jurados sentados ahí",  indicó.
+* Oración simplificada: Está especialmente contento que la sede de la corte esté arrancando."Está siendo un éxito total con todos los jurados sentados ahí",  dijo.
+
+* Oración original: "Tenemos que explicar cada día lo que estamos haciendo", señaló Shuja, que tiene unos 30 años, vestido con un polo azul de la compañía.
+* Oración simplificada: "Tenemos que explicarles cada día lo que estamos haciendo", manifestó Shuja, que iba vestido con un polo azul de la compañía.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

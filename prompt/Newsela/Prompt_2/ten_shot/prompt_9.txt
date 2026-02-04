@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: También lograron que dijera cosas como "Doctor, creo que me muero" y "Váyase".
+* Oración simplificada: Además, hicieron hablar al maniquí, el cual dijo cosas como: "Doctora, siento que me voy a morir" y "Váyase".
+
+* Oración original: Al mismo tiempo, los investigadores sospechan que, a medida que su hábitat se vuelve cada vez más fragmentado, los macacos se ven obligados a ubicarse en áreas más pequeñas e incluso a hacer incursiones fuera del bosque para buscar comida, dijo Fornace.
+* Oración simplificada: Los investigadores sospechan que a medida que su ecosistema se va dividiendo, los macacos se ven obligados a aglomerarse en áreas más pequeñas e incluso a salir del bosque para buscar comida.
+
+* Oración original: A medida que la demanda de drogas y de armas por parte de los Estados Unidos continúa, la violencia en Centroamérica aumenta.
+* Oración simplificada: La violencia en Centroamérica aumenta debido a que los Estados Unidos continúa comprando drogas ilegales y armas a esos países.
+
+* Oración original: Los padres solían quedarse en el centro de Seattle hasta que sus hijos tenían 5 años de edad, entonces muchos dejaban la ciudad, dijo Jon Scholes, director ejecutivo de la asociación.
+* Oración simplificada: Los padres solían quedarse en el centro de Seattle hasta que sus hijos tenían 5 años de edad, entonces muchos dejaban la ciudad, dijo Jon Scholes, que dirige el grupo empresarial.Ahora, los padres se están quedando más tiempo, dijo Scholes.Las escuelas, parques y otras comodidades importan, dijo.
+
+* Oración original: "Estaba tan contento de verlas, pero tan triste porque no podría irme con ellas.
+* Oración simplificada: Se encontraba en la cárcel cumpliendo una condena de 41 meses por drogas."Estaba tan contento de verlas, pero tan triste porque no podría irme con ellas.
+
+* Oración original: "Cuando doy esta charla y les enseño a los profesores de universidad los datos de los estudiantes de primer año de universidad, se quedan desconcertados pero luego asienten: 'Pensamos que había un problema'", dijo Loveless.
+* Oración simplificada: "Cuando doy esta charla y les enseño a los profesores de universidad los datos de los estudiantes de primer año de universidad, se quedan con la boca abierta y todos hacen un gesto de aprobación.Pensamos que había un problema", dijo Loveless.
+
+* Oración original: De ser así, le estaría siguiendo los pasos a _Tesla_ la cual eligió el territorio de Nevada como ubicación para su nueva fábrica de baterías, después de que el estado le ofreciera a modo de incentivo un paquete con un valor de $1.300 millones en un período de más de 20 años.
+* Oración simplificada: ## Los incentivos de Nevada atraen a varias fábricasEn ese caso, Faraday estaría siguiendo los pasos de otras empresas, como Tesla, que decidió abrir su nueva fábrica en Nevada cuando el estado le ofreció un paquete de incentivos con un valor de $1.300 millones a lo largo de un periodo de 20 años.
+
+* Oración original: Es difícil que los jugadores cubanos les digan que no a estos grandes salarios.
+* Oración simplificada: Es difícil para los jugadores cubanos decir que no a salarios altos como el de Castillo.
+
+* Oración original: Los Ángeles va ser un caso de estudio que mostrará la efectividad y aplicabilidad de este enfoque en una escala mayor.
+* Oración simplificada: ## Un caso de estudioLos Ángeles, en particular, va ser un caso de estudio que mostrará el grado de efectividad del programa.
+
+* Oración original: Por un lado, se encuentran los científicos de algunos de los centros de investigación más poderosos del mundo.
+* Oración simplificada: Por un lado, están los científicos de poderosos centros de investigación del mundo.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

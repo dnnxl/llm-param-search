@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Ella les dijo que por eso es tan importante elegir a Clinton, porque quieren un presidente que luche por ellos.
+* Oración simplificada: Lorella dijo que por eso es importante ayudar a Hillary Clinton, porque quieren una presidenta que luche por ellos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

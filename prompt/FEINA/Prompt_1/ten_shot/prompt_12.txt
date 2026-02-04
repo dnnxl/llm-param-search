@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: En el proceso de transformación realizado por los bancos se visualizan tres elementos principales: a) el emisor, que deposita su dinero y no tiene relación con el que lo recibe, pues es el banco el que proporciona los recursos al que lo demanda; b) los plazos no vinculan a los que prestan de los que reciben, pues en algunos casos los plazos de los préstamos son largos (hipotecarios) y los depósitos normalmente se efectúan en plazos cortos; y, c) los importes, que pueden ser de cualquier monto.
+* Oración simplificada: En la transformación realizada por los bancos hay tres elementos. El emisor, quien deposita su dinero y no se relaciona con quien lo recibe. Los plazos no relacionan a los prestamistas con los deudores. Y los valores son de cualquier monto.
+
+* Oración original: ¿Qué estabas haciendo en el Banco?, le pregunta una persona a otra.
+* Oración simplificada: Una persona le pregunta a otra ¿qué hacías en el Banco?
+
+* Oración original: Este tipo de cuenta es un servicio que ofrecen las instituciones financieras para compensar el costo del servicio cobrando cargos.
+* Oración simplificada: Este tipo de cuenta es un servicio ofrecido por las instituciones financieras para cobrar cargos a cambio del costo del servicio.
+
+* Oración original: ¿Acaso se abstiene de presupuestar porque hay algunos lujos a los que usted sencillamente no quiere ceder?
+* Oración simplificada: ¿Hay lujos que usted no quiere dejar y por eso se abstiene de presupuestar?
+
+* Oración original: Ahorre una cierta cantidad cada mes Acostúmbrese a ahorrar una cantidad de dinero cada mes.
+* Oración simplificada: Ahorre una cierta una cantidad de dinero cada mes.
+
+* Oración original: Interés compuesto: Es la suma del capital y el interés acumulado, que se va multiplicando según los plazos convenidos. La tasa de interés es el porcentaje que se aplica a un préstamo o inversión realizada.
+* Oración simplificada: El interés compuesto es la suma del capital y el interés acumulado. La tasa de interés es el porcentaje aplicado a un préstamo o inversión realizada.
+
+* Oración original: Se mantiene el surgimiento de nuevos usos tecnológicos los que facilitan que las operaciones financieras y comerciales se realicen desde cualquier lugar, a cualquier hora, solo o en compañía, aunque, a la vez, requieren de mayor seguridad y nuevos y mejores sistema de control, tal y como lo determina la legislación, la que también ha tenido que adecuarse.
+* Oración simplificada: Los nuevos usos tecnológicos facilitan hacer las operaciones financieras y comerciales desde cualquier lugar y hora. También, requieren más seguridad y mejor sistema de control. Como lo dice la ley.
+
+* Oración original: Por otro lado, los costos fijos no dependen de la producción o venta, por tanto, su presupuestación se realiza en base a las cifras históricas, manteniendo el promedio.
+* Oración simplificada: Por otro lado, los costos fijos no dependen de la producción o venta. Por tanto, su presupuestación se realiza en base a las cifras históricas al mantener el promedio.
+
+* Oración original: Servir de documento de lectura y consulta sobre el tema de la administración de las finanzas personales y familiares a profesionales no especialistas en economía, finanzas o contaduría, a personas empleadas del sector público y privado y a todas aquellas personas que tengan necesidad e interés de conocer sobre el tema.
+* Oración simplificada: Debe servir como documento de lectura y consulta sobre la administración de las finanzas personales y familiares. Este será destinado a personas profesionales no especialistas en economía, finanzas o contaduría, a empleados públicos y privados y para quienes sientan necesidad e interés de conocer sobre el tema.
+
+* Oración original: El estudio del interés tiene particular importancia para las finanzas en el ámbito de la toma de decisiones a mediano y largo plazo.
+* Oración simplificada: El estudio del interés es importante para tomar decisiones a mediano y largo plazo en las finanzas.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

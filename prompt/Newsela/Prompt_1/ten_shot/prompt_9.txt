@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Los osos negros se convirtieron en un grave problema en Yosemite durante la década de los 80 y los 90, cuando la cifra de visitantes al parque aumentó hasta llegar a cuatro millones al año.
+* Oración simplificada: Los osos negros se convirtieron en un grave problema en Yosemite durante los años 80 y los 90, cuando la cifra de visitantes al parque aumentó.
+
+* Oración original: Si se impulsan, entonces se indica que estaría dispuesto a ayudar en la deuda.
+* Oración simplificada: Si estas se crean, entonces Alemania estaría dispuesto a ayudar.
+
+* Oración original: Hay 31 gobernadores que han votado en contra de admitir a refugiados sirios.
+* Oración simplificada: Hay 31 gobernadores que no quieren recibir a los sirios que han escapado.
+
+* Oración original: Algunos de ellos habían sido víctimas de abuso sexual y maltrato en otros centros de detención en los Estados Unidos.
+* Oración simplificada: ## Maltrato en uno de los centrosAlgunos de ellos habían recibido maltrato en otros centros de detención en los Estados Unidos.
+
+* Oración original: Dylan Good es un estudiante que no está de acuerdo con el cambio.
+* Oración simplificada: Dylan Good no está de acuerdo.
+
+* Oración original: Ella es psicóloga y trabaja en una agencia de salud.
+* Oración simplificada: Ella es psicóloga.
+
+* Oración original: Los insectos —machos en su totalidad— no atacarían a los seres humanos, como sucede en el caso de las hembras, y las autoridades de la zona esperan que bloqueen la reproducción de su especie.
+* Oración simplificada: Los insectos (machos en su totalidad) no atacarían a los seres humanos, como sucede en el caso de las hembras, y evitarían que la especie se siga reproduciendo.
+
+* Oración original: Es residente en el Instituto para la Innovación de la Política, en el área metropolitana de Dallas.
+* Oración simplificada: Es residente en el Instituto para la Innovación de la Política en Dallas, en el estado de Texas.
+
+* Oración original: Qi explica que aun cuando la ley civil china cuenta con disposiciones referentes a daños causados a la reputación e imagen de una persona, no ofrece normas específicas en cuanto a la compensación debida.
+* Oración simplificada: Qi explica que aunque la ley civil china cuenta con leyes sobre daños causados a la reputación e imagen de una persona, no ofrece normas específicas de la compensación debida.
+
+* Oración original: Los residentes de Lesbos ya han descubierto otra forma de ganar dinero.
+* Oración simplificada: Los habitantes de Lesbos ya han buscado otra forma de ganar dinero.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

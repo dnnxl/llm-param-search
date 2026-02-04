@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Esta destrucción a escala industrial de especies animales es posible –y de hecho, fomentada– por la confabulación con las autoridades y funcionarios gubernamentales de los parques nacionales.
+* Oración simplificada: ## Caza de animales por dineroEsta destrucción masiva de especies animales es posible –y de hecho, fomentada– por la confabulación con las autoridades de los parques nacionales y funcionarios gubernamentales.
+
+* Oración original: ## Mayor seguridad para otros insectos
+* Oración simplificada: ## También hay que cuidar de otros insectos
+
+* Oración original: La reina del _soul,_ Aretha Franklin, también ha estado presente en varios eventos presidenciales, entre ellos la primera ceremonia inaugural de Obama en 2009, en la que interpretó "My Country, 'Tis of Thee".
+* Oración simplificada: La reina del _soul,_ Aretha Franklin, cantó "My Country, 'Tis of Thee" en la primera ceremonia de inauguración de Obama en 2009.
+
+* Oración original: El informe predice que el racismo también puede amenazar la seguridad de los visitantes a la Copa Mundial de 2018, que se celebrará en Rusia.
+* Oración simplificada: El racismo podría incluso amenazar la seguridad de los visitantes de la Copa Mundial de 2018.El campeonato mundial de fútbol se celebrará en Rusia, e irán jugadores y aficionados de todo el mundo.
+
+* Oración original: Jeff Gross, director de una organización que defiende los derechos de los inmigrantes, afirma que a los africanos procedentes de países relativamente prósperos y de habla inglesa, tales como Nigeria, Ghana y Sudáfrica, les es más fácil encontrar oportunidades en el sistema.
+* Oración simplificada: Jeff Gross dirige una organización que defiende los derechos de los inmigrantes.Gross afirma que a los africanos que proceden de países relativamente ricos y de habla inglesa, como Nigeria y Sudáfrica, les es más fácil encontrar oportunidades en el sistema.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Los hombres se dedicaban preferentemente a la caza y confeccionaban los utensilios de piedra.
+* Oración simplificada: Los hombres se dedicaban a la caza y hacían las herramientas de piedra.
+
+* Oración original: Jamás hubo en el antiguo régimen, ni creo que, en ningún otro, peor condición que la de colector parroquial de la talla.
+* Oración simplificada: En el antiguo régimen nunca hubo una peor condición que la de colector parroquial.
+
+* Oración original: Por ejemplo, en la tabla anterior se muestra una reducción de los Otros Ingresos, sin embargo no se puede identificar cuál es la razón para dicha reducción.
+* Oración simplificada: En la tabla anterior mostramos una reducción de los otros ingresos. Sin embargo, no identificamos el motivo de la reducción.
+
+* Oración original: Hacer una lista de tus gastos.
+* Oración simplificada: Enlistar tus gastos.
+
+* Oración original: Timar: Quitar o hurtar con engaño. Engañar a alguien con promesas o esperanzas.
+* Oración simplificada: Timar, significa quitar o hurtarle a alguien algo con engaño. Es engañar a alguien con promesas o esperanzas.
+
+* Oración original: Como se había señalado anteriormente, las sociedades de inversión son mecanismos establecidos para tener acceso al mercado de capitales y que ofrecen una diversidad de instrumentos de inversión que son administrados por especialistas, que existen para los efectos en cada uno de los países de la región.
+* Oración simplificada: Como se señaló anteriormente, las sociedades de inversión son mecanismos establecidos para tener acceso al mercado de capitales y ofrecen una diversidad de instrumentos de inversión administrados por especialistas que existen para los efectos en los países de la región.
+
+* Oración original: Por esta razón, cada inversionista debe determinar cuánto riesgo está dispuesto a asumir con el fin de obtener una mayor rentabilidad por su inversión, y con base en esta evaluación, decidir en cuáles instrumentos invertir.
+* Oración simplificada: Por esta razón, cada inversionista debe determinar cuánto riesgo está dispuesto a asumir con el fin de obtener una mayor rentabilidad por su inversión, y con base en esta evaluación decidir en cuáles instrumentos invertir.
+
+* Oración original: El seguro de vida es un mecanismo financiero que existe para dotar de ingresos a las personas que dependen del asegurado y que permite que si muere el mismo o es incapacitado, su familia no entre en bancarrota y esté expuesta a padecer necesidades por deprivación de los ingresos que aportaba el jefe o la jefa de familia.
+* Oración simplificada: El seguro de vida es un mecanismo financiero que existe para proveer de ingresos a las personas dependientes del asegurado. Así, su familia no entra en bancarrota ni se expone a necesidades por deprivación de los ingresos aportados por el proveedor familiar. Esto en caso de que la persona muera o sea incapacitada.
+
+* Oración original: El objetivo de estos fondos es brindar una rentabilidad máxima a sus participantes, así como minimizar riesgos mediante la diversificación en varios títulos, para beneficio de los inversores.
+* Oración simplificada: El objetivo de estos fondos es brindar una rentabilidad máxima a sus participantes y reducir riesgos mediante la diversificación en varios títulos.
+
+* Oración original: En el raro caso de que se hubiera presentado un problema con la dispensación de billetes en un cajero, usted puede reclamar después al Banco, ya que este dispone de mecanismos para verificar si el cajero dispensó la cantidad correcta.
+* Oración simplificada: En el raro caso de que se hubiera presentado un problema con la dispensación de billetes en un cajero, usted puede reclamar después al Banco ya que este dispone de mecanismos para verificar si el cajero dispensó la cantidad correcta.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Una de sus principales aplicaciones se encuentra en las operaciones de descuentos bancarios o factoring (Izaguirre, 2020).
+* Oración simplificada: Su principal aplicación está en las operaciones de descuentos bancarios.
+
+* Oración original: Una vez dirimidos estos asuntos, se entra de lleno a algunos aspectos e instrumentos que son propios de las finanzas, pero siempre en la óptica de lo personal y lo familiar, ya que para la gestión empresarial, institucional y de país, el tratamiento de los temas exigiría unas consideraciones más especializadas y por ende, de mayor nivel académico.
+* Oración simplificada: Una vez resueltos estos asuntos, se abordan algunos aspectos e instrumentos propios de las finanzas. Esto siempre desde la perspectiva personal y familiar. Además, el tratamiento de los temas exigiría unas consideraciones más especializadas y un mayor nivel académico para el manejo de la gestión empresarial, institucional y de país.
+
+* Oración original: Las ventajas irán asociadas a la capacidad del cliente de poder comprar, o un vehículo nuevo o uno usado.
+* Oración simplificada: Las ventajas están asociadas a la capacidad del cliente de poder comprar un vehículo nuevo o uno usado.
+
+* Oración original: Luego, para calcular el interés de un préstamo de $1.000 a una tasa de interés mensual de 1% durante tres meses, el planteamiento y solución es: I = 1.
+* Oración simplificada: Luego, para calcular el interés de un préstamo de mil dólares a una tasa de interés mensual de uno por ciento durante tres meses, el planteamiento y solución es I igual a 1.
+
+* Oración original: Este indicador es muy importante porque muestra la capacidad de generación de utilidades por parte del dinero de los accionistas.
+* Oración simplificada: Este indicador es importante porque evidencia la capacidad de generación de ganancias del dinero de los accionistas.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Uno de los dos niños debía decidir si ambos aceptaban la distribución o la rechazaban.
+* Oración simplificada: A uno de los dos niños le tocaba decidir si ambos aceptaban la distribución o la rechazaban.
+
+* Oración original: Aseguró que, cuando se compara este costo con el de otros proyectos de transporte, no es tanto dinero.
+* Oración simplificada: Riley comentó que esa cantidad no es tan grande cuando se compara con otros proyectos de transporte.
+
+* Oración original: Los animales y plantas de la selva del Amazonas se han beneficiado de los esfuerzos de Brasil para detener la deforestación.
+* Oración simplificada: Los animales y plantas de la selva del Amazonas están mejor ahora que Brasil derriba menos árboles allí.
+
+* Oración original: Se le ocurrió la _Wolbachia_ para esta misión después de haber realizado pruebas de liberación de mosquitos el año anterior en Lexington (con el permiso de los reguladores locales y la Agencia de Protección Ambiental de Estados Unidos).
+* Oración simplificada: Dobson usó la _Wolbachia_ por primera vez el año pasado, mientras realizaba pruebas de liberación de mosquitos en Lexington (Kentucky).El proyecto contó con el permiso de los reguladores locales y la Agencia de Protección Ambiental de los Estados Unidos, una organización gubernamental dedicada a proteger el medio ambiente.
+
+* Oración original: Todo este esfuerzo no es solo por el fútbol, sino porque la familia quiere un futuro mejor.
+* Oración simplificada: Todo este esfuerzo no es solo por el fútbol.La familia quiere un futuro mejor.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

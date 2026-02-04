@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Durante el fin de semana de Labor Day en Northampton, un grupo aproximado de 12 estudiantes que acababan de ingresar al Smith College se encontraban sentadas en círculo en un pequeño invernadero mientras escuchaban a Kathleen McCartney, Presidenta de Smith, quien compartía su propia experiencia como primera integrante de su familia en asistir a la universidad.
+* Oración simplificada: Hace poco, unas 12 alumnas escuchaban a Kathleen McCartney, presidente de Smith, quien compartía su propia experiencia como primera integrante de su familia en asistir a la universidad.
+
+* Oración original: El objetivo era más bien darse cuenta de los sentimientos de los demás, explicó Reece Black.
+* Oración simplificada: El objetivo era conseguir que los jóvenes se dieran cuenta de los sentimientos de los demás, explicó Reece Black.
+
+* Oración original: Sin embargo, se espera que eventualmente lo haga a través de personas que paguen para apoyar a la estación y publicidad.
+* Oración simplificada: Pero la escuela espera que las personas empiecen a pagar para apoyar a la estación.La estación también venderá publicidad.
+
+* Oración original: "Todos los jóvenes se dan cuenta de que algo muy grave está pasando".
+* Oración simplificada: ## "Algo muy grave está pasando""Todos los jóvenes se dan cuenta de que algo muy grave está pasando".
+
+* Oración original: Para atraer a los niños y a sus padres, YouTube, Netflix e incluso Amazon tienen páginas especiales para los niños.
+* Oración simplificada: YouTube y Netflix tienen páginas especiales para los niños.Amazon también.A los chicos les gustan.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Una cosa está clara: Todos los gobernadores saben que este es un país de inmigrantes con una antigua y mantenida tradición de ayudar a refugiados.
+* Oración simplificada: Una cosa está clara: todos los gobernadores saben que éste es un país de inmigrantes.Ellos saben que tenemos una antigua tradición de ayudar a los refugiados de otros países.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

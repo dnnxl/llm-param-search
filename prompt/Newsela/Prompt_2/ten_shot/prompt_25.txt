@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: "Ellos echaron a 1,5 millones de personas", relató el candidato multimillonario.
+* Oración simplificada: Durante el debate, Trump habló del programa de deportación de Eisenhower, y mencionó que "ellos echaron a 1,5 millones de personas" de Estados Unidos.
+
+* Oración original: David Schuler, superintendente de un distrito escolar en Chicago, dijo que entrar a la escuela más tarde también significaría salir más tarde.
+* Oración simplificada: Los líderes escolares dicen que empezar las clases más tarde no es tan simple.Esto significaría salir más tarde.
+
+* Oración original: Las historias de las personas también fueron olvidadas.
+* Oración simplificada: Las historias de esas personas también fueron olvidadas.
+
+* Oración original: LE BOURGET, Francia — El pasado sábado, casi 200 países firmaron el primer pacto internacional para luchar contra el cambio climático y, de este modo, hicieron un llamado a todo el mundo para reducir y eliminar la contaminación por gases de efecto invernadero, pero no impondrían sanciones a los países que no lo cumplan.
+* Oración simplificada: LE BOURGET, Francia — Casi 200 países firmaron el primer pacto internacional para luchar contra el cambio climático.Hicieron un llamado a todo el mundo para reducir y eliminar la contaminación, pero no se impondrán penalizaciones a los países que no lo cumplan.
+
+* Oración original: Este es solo uno de tantos casos que han causado molestia entre los bomberos y otros equipos de emergencias.
+* Oración simplificada: Este es solo uno de tantos casos que han causado molestia entre los bomberos y otros equipos de emergencias.Estos drones no permiten que los helicópteros de bomberos hagan su labor.
+
+* Oración original: ## ¡He visto la luz!
+* Oración simplificada: ## Y se hizo la luz
+
+* Oración original: Luego se hace un esbozo de la imagen mentalmente, la planifica y entonces comienza a dibujar.
+* Oración simplificada: Después se hace un esbozo mental de la imagen, la planifica y entonces comienza a dibujar.
+
+* Oración original: Su poderoso imperio reinó sobre gran parte del territorio que hoy se conoce como México y Centroamérica.
+* Oración simplificada: Su imperio era poderoso y reinó sobre lo que hoy se conoce como México y Centroamérica.Gobernaron entre los años 1325 y 1521.
+
+* Oración original: Algunas comunidades nativas pueden buscar otros animales, como caribúes o renos domésticos, pero en otros lugares no existen tantas opciones.
+* Oración simplificada: Algunas comunidades pueden buscar otros animales, como caribúes o renos domésticos, pero hay lugares donde no es posible hacerlo.
+
+* Oración original: "Podríamos estar trabajando en algo divertido, ganar más dinero y que nos vaya mejor a nosotros y a nuestras familias", explica Stanley a las chicas.
+* Oración simplificada: **Establecer menos diferencias entre los chicos y las chicas**"Podríamos estar trabajando en algo divertido, ganar más dinero y que nos vaya mejor a nosotros y a nuestras familias", explica Stanley.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

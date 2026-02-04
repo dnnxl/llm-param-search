@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Esto luce fácil, y real mente lo es, en lo que se refiere al concepto.
+* Oración simplificada: Lo referente al concepto es sencillo. En lo referente al concepto, esto es fácil.
+
+* Oración original: Cuantificables: Necesito llevarme para mi viaje de fin de año $3.000 para cubrir mi parte de la gasolina, el cuarto de hotel y las comidas por una semana, y no: Necesito algo de dinero para mi viaje de fin de año.
+* Oración simplificada: Cuantificables. Por ejemplo, cuantificamos una meta cuando decimos que necesitamos llevar para el viaje de fin de año tres mil dólares para cubrir los gastos de la gasolina, el cuarto de hotel y de las comidas por una semana. Y no lo hacemos cuando decimos que necesitamos algo de dinero para el viaje de fin de año.
+
+* Oración original: No pueden las personas tener una educación básica financiera a espaldas de conocer algunos aspectos esenciales de ese factor relevante que en la Economía se conoce como dinero, de allí la importancia en este libro, de este capítulo.
+* Oración simplificada: Las personas no tienen una educación financiera básica si ignoran algunos aspectos esenciales del dinero. De esto se deriva la importancia del libro y de este capítulo.
+
+* Oración original: Cuando hay productividad las cosas cuestan menos, hay mayor número de cosas disponibles para las personas y la gente puede gastar en mayor abundancia, porque la productividad es abundancia y a bajos costos y al alcance de todos los bolsillos.
+* Oración simplificada: Cuando hay productividad los productos cuestan menos, hay más productos disponibles y la gente puede gastar más. La productividad es abundancia a bajo costo y al alcance de todos.
+
+* Oración original: El dinero está presente en la sociedad económica y en la vida de todas las personas, de allí que no es justificable el que no conozcamos algunos aspectos de él que seguramente nos facilitarían su manejo o su inversión, además de otras operaciones en que está presente, en diferentes formas o modalidades.
+* Oración simplificada: El dinero está presente en la sociedad económica y en la vida de todas las personas, por ello, es importante conocer algunos aspectos sobre él que nos facilitarán su manejo, su inversión y otras operaciones en donde él está presente de diferentes formas.
+
+* Oración original: Para entender lo que pasa entre bastidores cuando tomas decisiones financieras, responde el cuestionario LifeValues que se encuentra en www.smartaboutmoney.org.
+* Oración simplificada: Responde el cuestionario LifeValues para entender lo que pasa detrás de tus decisiones financieras.
+
+* Oración original: Este individuo, que es miembro de una familia y ésta, como unidad económica, quedan sujetas a las interdependencias de las decisiones personales, lo que implica que tanto el consumo como el ingreso sean inherentes al individuo y a la familia.
+* Oración simplificada: Este individuo y la familia quedan sujetos a las interdependencias de las decisiones personales. Por eso, el consumo y el ingreso son inseparables del individuo y la familia.
+
+* Oración original: En el proceso de transformación realizado por los bancos se visualizan tres elementos principales: a) el emisor, que deposita su dinero y no tiene relación con el que lo recibe, pues es el banco el que proporciona los recursos al que lo demanda; b) los plazos no vinculan a los que prestan de los que reciben, pues en algunos casos los plazos de los préstamos son largos (hipotecarios) y los depósitos normalmente se efectúan en plazos cortos; y, c) los importes, que pueden ser de cualquier monto.
+* Oración simplificada: En la transformación realizada por los bancos hay tres elementos. El emisor, quien deposita su dinero y no se relaciona con quien lo recibe. Los plazos no relacionan a los prestamistas con los deudores. Y los valores son de cualquier monto.
+
+* Oración original: Quien ingresa a un fondo adquiere una o varias participaciones, las cuales están distribuidas en forma proporcional a sus aportes.
+* Oración simplificada: Quien entra a un fondo adquiere una o varias participaciones distribuidas en forma proporcional a sus aportes.
+
+* Oración original: También, se revisan los objetivos y características de las instituciones o sociedades de inversión; así como el diseño de los portafolios de inversión, para conocer la gama de ofertas existentes en el mercado financiero y su mejor aprovechamiento.
+* Oración simplificada: También, se revisan los objetivos y características de las instituciones o sociedades de inversión. Así como el diseño de los portafolios de inversión para conocer la gama de ofertas existentes en el mercado financiero y su mejor aprovechamiento.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

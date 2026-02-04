@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: b) En el campo inmobiliario, empresarial o productivo y de proyectos.
+* Oración simplificada: Segundo, en el campo inmobiliario, empresarial o productivo y de proyectos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

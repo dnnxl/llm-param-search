@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Para modificar patrones de consumo o empleo dentro de la economía, haciendo ciertos tipos de transacciones más o menos atractivas.
+* Oración simplificada: Para modificar patrones de consumo o empleo dentro de la economía se hacen ciertos tipos de transacciones más o menos atractivas.
+
+* Oración original: En la parte derecha de la imagen están las columnas Ingreso, VAN y TIR; las cuales conforman la tabla de datos.
+* Oración simplificada: En la parte derecha de la imagen están las columnas de ingreso, valor actual neto y tasa interna de retorno. Estas transforman la tabla de datos.
+
+* Oración original: Era el momento de comprar una batería nueva, que costaba $52.
+* Oración simplificada: Debían comprar una batería nueva. Costaba cincuenta y dos dólares.
+
+* Oración original: La segunda función de las mencionadas, prácticamente se deriva y se facilita por la anterior, ya que como se podrá apreciar, todas las funciones están estrechamente relacionadas.
+* Oración simplificada: La segunda función se deriva de la anterior, pues todas las funciones están estrechamente relacionadas.
+
+* Oración original: A doña Ana la llevaron hoy al hospital.
+* Oración simplificada: "A doña Ana la llevaron hoy al hospital".
+
+* Oración original: Deuda sin Garantía (garantía fiduciaria) es cualquier forma de pedir préstamos sin aseguramiento.
+* Oración simplificada: La deuda sin garantía o garantía fiduciaria es cualquier forma de pedir préstamos sin aseguramiento.
+
+* Oración original: AL CABO DE UN AÑO DEBES DEVOLVERLE $2.000.
+* Oración simplificada: AL CABO DE UN AÑO DEBES DEVOLVERLE DOS MIL DÓLARES.
+
+* Oración original: Muchos empleadores lo hacen más atractivo al aportar un porcentaje de tus aportes.
+* Oración simplificada: Muchos empleadores hacen este plan de jubilación más atractivo al aportar un porcentaje de sus aportes.
+
+* Oración original: La tendencia utiliza la función tendencia.
+* Oración simplificada: La tendencia utiliza la función tendencia.
+
+* Oración original: Hay, como ya se dijo en otra parte de este libro, emergencias y contingencias que ocurren inevitablemente y que se vuelven un problema mayor si no hay con que atenderlas.
+* Oración simplificada: Como se dijo, hay emergencias y accidentes inevitables. Estas se vuelve un problema si no se atienden.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

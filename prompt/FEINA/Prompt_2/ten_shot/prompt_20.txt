@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Por lo demás, el libro en sí, termina siendo útil para personas profesionales no especialistas en áreas económicas, financieras y contables, para personas empleadas en los sectores públicos y privados y para todas aquellas personas que sientan necesidad e interés por incursionar en el campo de las finanzas personales y familiares.
+* Oración simplificada: Por lo demás, el libro es útil para personas profesionales no especialistas en economía, finanzas y contaduría. También es beneficioso para empleados públicos y privados y para quienes sientan necesidad e interés por estudiar las finanzas personales y familiares.
+
+* Oración original: Ocurre cuando al asistir a un médico de un hospital u otro que está dentro de la red médica de la aseguradora, la persona no tiene que pagar, sino sólo dar aviso a la aseguradora para que ella se encargue del pago.
+* Oración simplificada: Ocurre cuando se asiste al médico de un hospital o de la red médica de la aseguradora y la persona no tiene que pagar. Esta sólo debe avisar a la aseguradora para esta se encargue del pago.
+
+* Oración original: Por considerarse de interés para los diversos países, se transcribe a continuación parte del artículo de Patricia Leitón, publicado en el Suplemento Económico de la Nación (Costa Rica), del 1º de febrero de 2007, donde presenta los siguientes seis consejos para invertir: Tener claro el objetivo.
+* Oración simplificada: A continuación, se transcribe parte del artículo de Patricia Leitón por considerarse de interés para diversos países. Este artículo fue publicado el primero de febrero de dos mil siete en el Suplemento Económico del periódico costarricense la Nación. En este, se presentan los siguientes seis consejos para invertir. En primer lugar, se debe tener claro el objetivo.
+
+* Oración original: Otros lo hacen en estanques donde se dedican al cultivo de peces, que son también necesarios para la alimentación.
+* Oración simplificada: Otros lo hacen en estanques donde cultivan los peces y que son necesarios para la alimentación.
+
+* Oración original: Dichas necesidades han sido clasificadas por el psicólogo norteamericano Abraham Maslow (1908-1970) en su obra Motivación y Personalidad publicada en 1954, de manera jerárquica o en forma piramidal.
+* Oración simplificada: El sicólogo norteamericano Abraham Maslow, quien nació en mil novecientos ocho y murió en mil novecientos setenta, clasificó dichas necesidades de manera jerárquica en su obra Motivación y Personalidad, publicada en mil novecientos cincuenta y cuatro.
+
+* Oración original: Digamos que le ofrecen el puesto de representante de ventas en una empresa.
+* Oración simplificada: Si le ofrecen el puesto de representante de ventas en una empresa.
+
+* Oración original: Por otro lado, una empresa podría enfrentar un problema de liquidez, y aún así ser solvente.
+* Oración simplificada: Una empresa podría presentar un problema de liquidez y ser solvente.
+
+* Oración original: Uno de los mayores problemas que enfrentan las personas, las corporaciones, los gobiernos, e incluso los países, es que tienden a gastar más de lo que tienen, y la mayor barrera que encuentran es querer reducir sus deudas sin cambiar los malos hábitos que los han conducido a dicha situación.
+* Oración simplificada: Uno de los mayores problemas de las personas, corporaciones, gobiernos y países es la tendencia a gastar más de lo que tienen. Además, la mayor barrera presente es querer reducir sus deudas sin cambiar los malos hábitos que los llevaron a esa situación.
+
+* Oración original: Esas necesidades humanas a que se hace alusión son múltiples y van creciendo más, debido a la influencia de la sociedad de consumo.
+* Oración simplificada: Esas necesidades humanas mencionadas son múltiples y crecen debido a la influencia de la sociedad de consumo.
+
+* Oración original: Si el ajuste en las tasas de interés se da rápidamente en un mercado, de igual forma, los fondos de inversión vuelven a reflejar los rendimientos de mercado de los títulos en su cartera, de tal forma que una vez pasado el ajuste, los rendimientos vuelven a alcanzar su nivel normal y en algún momento el flujo de intereses llega a compensar las pérdidas sufridas por la caída de precios.
+* Oración simplificada: Si el ajuste en las tasas de interés se da rápidamente en un mercado, de igual forma los fondos de inversión vuelven a reflejar los rendimientos de mercado de los títulos en su cartera.  De tal forma que una vez pasado el ajuste los rendimientos vuelven a alcanzar su nivel normal y en algún momento el flujo de intereses llega a compensar las pérdidas sufridas por la caída de precios.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

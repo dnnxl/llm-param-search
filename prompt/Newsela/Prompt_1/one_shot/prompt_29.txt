@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: No funcionó muy bien porque era muy educacional solamente y no muy divertido, dijo Chen.
+* Oración simplificada: No vendieron muchos.El auto no era muy divertido, dijo Chen.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

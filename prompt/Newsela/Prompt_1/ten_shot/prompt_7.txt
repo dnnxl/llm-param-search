@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Pero recientemente, un día martes, Williams dejó a un lado su overol de prisión color caqui para vestir un traje gris claro, una corbata estampada de color lavanda y zapatos negros.
+* Oración simplificada: Pero, recientemente, un día martes, Williams dejó a un lado su overol color caqui de la prisión para vestir un traje gris, una corbata de color lavanda y zapatos negros.
+
+* Oración original: Cuando regresó, no podía concentrarse en sus estudios por temor a que volvieran a atacarla.
+* Oración simplificada: Cuando regresó a la escuela, no podía concentrarse en sus estudios.Tenía miedo de que la atacaran de nuevo.
+
+* Oración original: "Esto es complejo, pero, como madre y directora, realmente creo que nos corresponde pensar bien nuestros próximos pasos para que podamos tener un consejo estudiantil que sea representativo de todas las voces de Everett", escribió.
+* Oración simplificada: Van Haren sabe que la situación es complicada.Por eso, como madre y directora, cree que la comunidad escolar debe pensar muy bien cuáles serán los próximos pasos, "para que podamos tener un consejo estudiantil que sea representativo de todas las voces de Everett".
+
+* Oración original: Los síntomas típicos incluyen fiebre y sudores nocturnos, y tos crónica.
+* Oración simplificada: Los síntomas incluyen fiebre y sudores nocturnos, y tos fuerte.## Cuando los doctores se equivocan
+
+* Oración original: La hembra era puro movimiento, elegancia, velocidad y fuerza.
+* Oración simplificada: Está preparada para el movimiento, la elegancia, la velocidad y la fuerza.
+
+* Oración original: ## Sueños de una vida mejor
+* Oración simplificada: ## Su sueño para el futuro
+
+* Oración original: No obstante, ninguno de los estudiantes elegidos tenía el español como lengua materna.
+* Oración simplificada: No obstante, no había ningún hispanoparlante entre los estudiantes elegidos.
+
+* Oración original: Por tal motivo, grandes embotelladoras tales como Nestlé, PepsiCo y Coca-Cola Company optaron por seguirle los pasos a los grandes mamuts energéticos como lo son ExxonMobil, BP y Shell, orientándose a la búsqueda de iniciativas "verdes".
+* Oración simplificada: Por tal motivo, las grandes embotelladoras como Nestlé, PepsiCo y Coca-Cola han optado por buscar iniciativas "ecológicas".
+
+* Oración original: Los ganadores fabricaron un dispensador automático de comida para perros.
+* Oración simplificada: Los ganadores del primer lugar construyeron un dispensador automático de comida para perros.
+
+* Oración original: ## No fue caridad
+* Oración simplificada: ## No fue misericordia
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

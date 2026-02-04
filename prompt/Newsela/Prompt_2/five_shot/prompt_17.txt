@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Sobre el terreno también hay avances.
+* Oración simplificada: En África hay también avances.
+
+* Oración original: Es muy buena estudiante y quiere ir a uno de los mejores colegios.
+* Oración simplificada: Luisa es muy buena estudiante.Quiere ir a uno de los mejores colegios.
+
+* Oración original: La comunidad tiende a ser joven y friki, indican los "traceurs".
+* Oración simplificada: La comunidad tiende a ser joven y extraña, señalan los "traceurs".
+
+* Oración original: "El aprendizaje va mucho más allá de marcar la casilla correcta", afirmaba Obama en un vídeo publicado en Facebook.
+* Oración simplificada: **Más allá de "marcar la casilla correcta"**"El aprendizaje va mucho más allá de marcar la casilla correcta", afirmó Obama en un video publicado en Facebook.
+
+* Oración original: El agua corriente necesita un cambio de imagen.
+* Oración simplificada: El agua corriente necesita mejorar su imagen.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

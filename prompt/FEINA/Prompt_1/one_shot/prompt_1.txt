@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Así, en regímenes políticos socialcristianos y socialdemócratas de Europa y América Latina se postula, a la vez, una economía social de mercado en la que el crecimiento económico se combina con políticas sociales en pro del desarrollo y el progreso nacional, manteniendo la acción de privados y fortaleciendo la participación del Estado en favor de toda la población.
+* Oración simplificada: En regímenes políticos socialcristianos y socialdemócratas de Europa y Latinoamérica hay una economía social de mercado. Esta combina el crecimiento económico con políticas sociales para el progreso nacional. Porque mantiene la acción de privados y fortalece la participación del Estado a favor de la población.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

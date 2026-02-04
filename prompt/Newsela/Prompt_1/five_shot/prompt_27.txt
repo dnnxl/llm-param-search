@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Sterling espera que la compañía venda tres veces más juguetes que los que vendió el año pasado.
+* Oración simplificada: Sterling dijo que este año espera vender tres veces más juguetes.
+
+* Oración original: La empresa cuenta con el apoyo de los expertos trabajadores latinos que llegaron después de Katrina.
+* Oración simplificada: ## Apoyo para la comunidad latinaEn la empresa trabajan muchos latinos que llegaron después de Katrina.
+
+* Oración original: "Así se ven más majestuosas", dice.
+* Oración simplificada: "Así se ven más grandiosas", dice.
+
+* Oración original: Bahari trabajaba para la revista Newsweek en junio de 2009 cuando la Guardia Revolucionaria iraní se lo llevó de casa de su madre en Teherán acusado de espionaje debido a un video en el que salía bromeando con un corresponsal del "Daily Show" sobre ser un espía.
+* Oración simplificada: ## Una broma que salió muy caraEn junio de 2009, cuando la Guardia Revolucionaria iraní se lo llevó de casa de su madre en Teherán, la capital del país, Bahari trabajaba para la revista Newsweek.Las autoridades de Irán lo acusaban de espionaje debido a un vídeo en el que salía bromeando con un corresponsal del "The Daily Show" sobre ser un espía.
+
+* Oración original: El colegió decidió contratar a Joseph Luciani.
+* Oración simplificada: La escuela contrató a Joseph Luciani.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

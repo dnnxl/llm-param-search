@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Hoy en día, unos 200 territorios no mantendrán a inmigrantes en la cárcel.
+* Oración simplificada: Unos 200 lugares no llevarán a inmigrantes que están en el país ilegalmente a la cárcel.
+
+* Oración original: Para adelgazar, la gente tendría que comer —y comprar— mucha menos comida.
+* Oración simplificada: La gente tiene que comer y comprar menos comida.
+
+* Oración original: Sin embargo, el tener millones de canciones disponibles para escuchar y tratar de decidir cuál escoger puede convertirse en una experiencia paralizante.
+* Oración simplificada: ¿Debería escuchar música por Spotify?Tener millones de canciones a la disposición y tratar de decidir cuál escoger puede ser una decisión difícil.
+
+* Oración original: ## ¡Cambie los refrigerios!
+* Oración simplificada: ## Pruebe un refrigerio diferente
+
+* Oración original: Al Spartak solamente le multaron con 70.000 rublos (unos 1.300 dólares) por "los cánticos de aficionados que contenían expresiones insultantes", un cargo que suele referirse simplemente a lenguaje soez, y no al hecho de haber entonado cánticos ofensivos de carácter racista.
+* Oración simplificada: Al Spartak solamente le multaron con 1.300 dólares aproximadamente.
+
+* Oración original: El Departamento de Estado dice que sus nuevas normas alentarán a los empresarios privados cubanos a desarrollar productos para exportar.
+* Oración simplificada: ## Nuevas reglas para los empresarios cubanosEl Departamento de Estado dice que las nuevas reglas alentarán a los empresarios privados en Cuba en cuanto a desarrollar productos de exportación.
+
+* Oración original: "Solo es cuestión de estar concentrado, de estar presente, de asegurarse de realizar la entrevista en un lugar tranquilo", explicaba.
+* Oración simplificada: "Solo se tiene que estar concentrado, y se tiene que estar presente.La tarea se tiene que hacer en un lugar tranquilo", explicaba.
+
+* Oración original: Aun así, una de las razones principales por las que O'Neill y otros científicos no están utilizando ese mismo enfoque es que aplicarlo a grandes superficies puede resultar bastante difícil, ya que requiere un flujo constante de mosquitos, lo que implica criar y liberar muchísimos de estos insectos.
+* Oración simplificada: Una de las razones por las que O'Neill y otros científicos no hacen lo mismo es porque para aplicar ese método a grandes extensiones de terreno conllevaría criar y liberar un enorme número de insectos.
+
+* Oración original: En el 2011, un periódico de Chicago publicó un artículo sobre Christopher Devine, un hombre que imprimía letreros para las personas sin hogar.
+* Oración simplificada: Cristopher Devine hizo algo parecido.Imprimía letreros para las personas sin hogar.
+
+* Oración original: NUEVA YORK - Lorella Praeli nunca ha podido votar en unas elecciones.
+* Oración simplificada: NUEVA YORK - Lorella Praeli nunca ha votado en unas elecciones.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

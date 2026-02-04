@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Aun cuando una encuesta llevada a cabo en los estados del Medio Oeste demuestra que el público en general acepta la presencia del puma en la región, Nielsen piensa que aún prevalece cierto temor en cuanto al animal.
+* Oración simplificada: Una encuesta hecha en los estados del Medio Oeste demuestra que el público en general acepta la presencia del puma en la región.Pero Nielsen piensa que aún existe cierto temor al animal.
+
+* Oración original: El caso de Mauna Kea ha hecho que algunos astrónomos se cuestionen si realmente vale la pena instalar allí el telescopio.
+* Oración simplificada: ## Más allá del telescopioEn el caso de Mauna Kea, muchos científicos se preguntan si realmente se debe construir el telescopio allí.
+
+* Oración original: "No se trata de filantropía ni de una institución de beneficencia", explicó Fernando de Sousa, jefe del Departamento de Recursos Humanos de Microsoft para Oriente Medio y África, y director fundador del programa en cuestión.
+* Oración simplificada: "No se trata de filantropía ni de una institución de beneficencia", decía Fernando de Sousa, jefe del Departamento de Recursos Humanos de Microsoft para Oriente Medio y África.De Sousa, quien también es director fundador del programa en cuestión, explicó que Microsoft está invirtiendo en África para apoyar el desarrollo económico.
+
+* Oración original: El equipo es de Washington D.C., pero algunos grupos de indígenas sienten que el nombre es racista.
+* Oración simplificada: El equipo es de Washington D.C.
+
+* Oración original: González, quien fuera animadora deportiva durante sus años de secundaria y universidad, explicó que al menos ocho estados consideran que la animación a nivel de competencia es un deporte.
+* Oración simplificada: Los legisladores entienden que ahora el deporte será más seguro y más respetado.Al menos ocho estados consideran que la animación a nivel de competencia es un deporte.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

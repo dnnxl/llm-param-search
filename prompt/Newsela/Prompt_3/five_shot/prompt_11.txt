@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Feldman admitió que puede ser complicado.
+* Oración simplificada: Feldman dijo que esto puede ser engañoso.
+
+* Oración original: En vez de discutir la admisibilidad de usar la técnica CRISPR en seres humanos, deberíamos concentrarnos en determinar a quién le compete evaluar la seguridad de su uso en cada caso, qué asesoramiento dar a los padres que piensen usarla y cómo ponerla al alcance de los pobres.
+* Oración simplificada: En vez de discutir si es aceptable usar la técnica CRISPR en seres humanos, deberíamos concentrarnos en determinar quién debería decidir la seguridad de su uso en cada caso, qué asesoramiento dar a los padres que piensen usarla y cómo hacerla accesible a los pobres.
+
+* Oración original: Emily Rice es una científica que ha utilizado uno de los telescopios de la montaña.
+* Oración simplificada: Emily Rice es una científica.Estudió las estrellas usando uno de los telescopios de la montaña.
+
+* Oración original: Los jabalíes establecieron su residencia en los abandonados edificios.
+* Oración simplificada: Los jabalíes establecieron su residencia en los edificios abandonados y la vegetación reemplazó a los seres humanos en las vacías calles de los poblados.
+
+* Oración original: El nuevo enemigo de Estados Unidos es el Estado Islámico.
+* Oración simplificada: Muchos tienen miedo a un nuevo enemigo.El Estado Islámico.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

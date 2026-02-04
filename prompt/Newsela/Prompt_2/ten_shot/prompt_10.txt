@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Dennis tuvo una idea e hizo un plan.
+* Oración simplificada: Ciara hizo un plan.
+
+* Oración original: Janet Nkubana, en Ruanda, es reconocida internacionalmente por dirigir una empresa de productos artesanales que emplea a más de 3.000 mujeres.
+* Oración simplificada: Janet Nkubana abrió una empresa de artesanías en Ruanda.Ahora tiene más de 3.000 mujeres empleadas.
+
+* Oración original: WASHINGTON — Según los resultados de un importante estudio, en los Estados Unidos la población cristiana se ha reducido significativamente durante los últimos ocho años, hecho debido al repentino incremento en el número de adultos estadounidenses que se mantienen fuera de cualquier forma de creencia religiosa organizada.
+* Oración simplificada: WASHINGTON — Según los resultados de un importante estudio, en los Estados Unidos la población cristiana se ha reducido en los últimos ocho años.Esto se debe a que más adultos se alejan de cualquier forma de creencia religiosa organizada.
+
+* Oración original: Finalmente, la corteza no resiste más el calor y el grano explota.
+* Oración simplificada: Finalmente, la corteza no resiste más el calor.El grano tiene que explotar.
+
+* Oración original: Ryan dijo que sus voluntarios han visto un incremento en el número de madres y niños en la estación de autobuses del centro de San Antonio que han sido liberados de dos instalaciones en el sur de Texas en las que los inmigrantes quedan detenidos luego de ingresar a Estados Unidos.
+* Oración simplificada: ## Aumenta el número de madres y niños liberadosEn el sur de Texas, hay dos instalaciones en las que los inmigrantes quedan detenidos luego de ingresar ilegalmente a Estados Unidos.Ryan dijo que, en la estación de autobuses del centro de San Antonio, sus voluntarios han visto un incremento en el número de madres y niños que han sido liberados de estas instalaciones.Los voluntarios también han observado un aumento en el número de familias que necesitan un lugar donde pasar la noche y otras ayudas.
+
+* Oración original: La Mississippi Immigrants Rights Alliance, la Gulf Coast Latin American Association y El Pueblo, han puesto manos a la obra para abordar las necesidades de la comunidad, ayudando a los nuevos inmigrantes a entrar en contacto con los recursos locales.
+* Oración simplificada: Para atender las necesidades de la comunidad, las organizaciones Mississippi Immigrants Rights Alliance, Gulf Coast Latin American Association y El Pueblo han puesto manos a la obra, ayudando a los nuevos inmigrantes a tener acceso a los recursos locales.
+
+* Oración original: Añadió que otro factor importante es si los estudiantes reciben apoyo fuera de la escuela.
+* Oración simplificada: Añadió que otro factor importante es si los estudiantes tienen apoyo fuera del colegio.
+
+* Oración original: El Instituto Joe Foss con sede en Arizona se ha puesto como meta que todos los 50 estados de EE.UU.
+* Oración simplificada: El Instituto Joe Foss en Arizona tiene como meta que todos los 50 estados adopten el examen de ciudadanía estadounidense para las escuelas preparatorias en 2017, año en el que la constitución estadounidense cumple 230 años.
+
+* Oración original: Muchos de ellos han sido en los estados de la zona oeste del país.
+* Oración simplificada: En Estados Unidos ha habido un promedio de unos siete casos al año, muchos en personas en la zona oeste del país.
+
+* Oración original: Están los casos de baja autoestima, y también los excesos de autoestima.
+* Oración simplificada: Están los retos que conlleva la pubertad y los casos de baja autoestima... o los excesos de autoestima.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

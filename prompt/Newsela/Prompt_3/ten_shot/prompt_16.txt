@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Esta temporada ha vuelto al campo.
+* Oración simplificada: Esta temporada ha vuelto a jugar.
+
+* Oración original: Pero las medidas se han visto frenadas debido a que el Congreso no logra calcular el costo de dicha expansión de cobertura.
+* Oración simplificada: Pero las medidas se han visto frenadas debido a que el Congreso no logra calcular cuánto le costará al gobierno.
+
+* Oración original: También le gustan mucho los Sour Patch Kids, unos caramelos ácidos, así que la empresa le diseñó otros zapatos con los colores de sus caramelos favoritos.
+* Oración simplificada: Le gustan mucho los Sour Patch Kids, son caramelos ácidos.
+
+* Oración original: Hacen esto para cazar a una presa difícil.
+* Oración simplificada: Hacen esto cuando no es fácil cazar a sus presas.
+
+* Oración original: Los investigadores Robert Faris, de la Universidad de California en Davis, y Diane Felmlee, de la Universidad Penn State, señalan que las opiniones tradicionales sobre la intimidación no expresan toda la problemática.
+* Oración simplificada: Los científicos Robert Faris, de la Universidad de California en Davis, y Diane Felmlee, de la Universidad Penn State, realizaron el estudio.Se dieron cuenta de que las opiniones iniciales sobre la intimidación no expresaban todo el problema.
+
+* Oración original: No obstante, los escépticos no deben olvidar las dudas con que se recibió a los primeros carruajes sin caballos—inicialmente llamados coches—hace más de un siglo, comentó Adam Jonas, analista automovilístico.
+* Oración simplificada: No obstante, los incrédulos de estos autos deben recordar lo que pensaba mucha gente de los carruajes sin caballos —inicialmente llamados coches— hace más de un siglo, comentó Adam Jonas, experto en autos.
+
+* Oración original: Praeli es directora de la Oficina de Participación de la Comunidad Latina en la campaña de Clinton.
+* Oración simplificada: Praeli dirige la Oficina de Participación de la Comunidad Latina en la campaña de Clinton, del Partido Demócrata.
+
+* Oración original: En el caso de los mosquitos, la _Wolbachia_ impide que estos se reproduzcan.
+* Oración simplificada: Por eso, suelta mosquitos con _Wolbachia_.
+
+* Oración original: Pero en una zona como la del condado de Los Ángeles, donde hasta hace poco no existían mosquitos que transmitieran dengue o chikunguña hasta hace poco, Dobson afirma que tiene sentido intentar centrarse en este tipo de mosquitos portadores de enfermedades, dejando los mosquitos rivales en un segundo plan.
+* Oración simplificada: Pero en zonas como el condado de Los Angeles, donde hasta hace poco no existían mosquitos que transmitieran dengue o chikunguña, Dobson cree que hay que atacar a los portadores de enfermedades sin preocuparse demasiado por los mosquitos rivales.
+
+* Oración original: Entre los líderes del sector tecnológico que han declarado abiertamente su homosexualidad se encuentran Megan Smith, que supervisó los proyectos experimentales de Google y recientemente se incorporó a la Casa Blanca como directora de tecnología de los Estados Unidos; Peter Thiel, cofundador de PayPal e inversionista multimillonario; Sam Altman, presidente de la aceleradora de nuevas empresas de tecnología Y Combinator; Wesley Chan, un gerente pionero de productos de Google e inversor ángel, y Nancy Vitale, la directora de recursos humanos de Genentech.
+* Oración simplificada: Antes del anuncio de Cook, muchos líderes del sector tecnológico —como Megan Smith, directora de tecnología de Estados Unidos, y Peter Thiel, cofundador de PayPal— ya habían declarado abiertamente su homosexualidad.Entre ellos también se encuentran Sam Altman, presidente de Y Combinator; Wesley Chan, exgerente de productos de Google, y Nancy Vitale, directora de recursos humanos de Genentech.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

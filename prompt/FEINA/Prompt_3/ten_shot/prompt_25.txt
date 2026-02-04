@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Utilizando el mismo caso anterior, realizamos un depósito de $1,000, al 14% anual que se acumula cuatro veces al año. ¿Cuánto dinero tendremos al cabo de tres años?
+* Oración simplificada: Depositamos mil dólares al catorce por ciento anual acumulado cuatro veces al año. ¿Cuánto dinero tendremos después de tres años?
+
+* Oración original: Si la persona tuviera la previsión de una reserva de ahorro para tal contingencia, cuando quede desempleada, que ojalá no ocurra, podrá conseguir empleo sin presiones económicas y psicológicas al menos por el plazo que haya previsto.
+* Oración simplificada: La persona podría conseguir empleo sin presiones económicas y psicológicas durante el plazo previsto. Esto si tuviera una reserva de ahorro para la posibilidad del desempleo.
+
+* Oración original: Para cualquier persona, y está por demás señalar que para cualquier empresa u organización, es inevitable no conocer en la actualidad y hacia el futuro qué son, cuáles son, características y funcionalidad de los medios de pago, objetivo sobre el cual se ha desarrollado este capítulo.
+* Oración simplificada: Para cualquier persona, empresa u organización, es inevitable conocer los medios de pago sus características y funcionalidad. Objetivo sobre el cual se ha desarrollado este capítulo.
+
+* Oración original: Utilidad de posesión: Resulta de transferir la posesión de un producto o servicio de una persona a otra.
+* Oración simplificada: Utilidad de posesión, se trata de transferir la posesión de un producto o servicio de una persona a otra.
+
+* Oración original: Por lo que están familiarizados con ella y con su desorden, hay alguna resistencia natural una inercia que impide que usted cambie.
+* Oración simplificada: Dado que están familiarizados con ella y con su desorden, hay una resistencia natural que impide que usted cambie.
+
+* Oración original: Cuentas corrientes: este tipo de cuenta ofrece a los usuarios la posibilidad de usar cheques personales para pagar sus cuentas y saldos.
+* Oración simplificada: Cuentas corrientes. Estas cuentas ofrecen a los usuarios la posibilidad de usar cheques personales para pagar sus cuentas y saldos.
+
+* Oración original: La ventaja de hacerlo de esta manera es que la tarjeta de crédito permite un financiamiento de 30 días, y mientras tanto el efectivo se queda en la cuenta corriente ganando intereses, aunque sean pocos.
+* Oración simplificada: La ventaja de esto es que la tarjeta de crédito financia por treinta días.
+
+* Oración original: Esta etapa, asimismo, permitirá la realización final de la evaluación para tomar lecciones de la experiencia y contar con recomendaciones que permitan orientar otras inversiones o reinversiones que se propongan realizar.
+* Oración simplificada: Además, permite evaluar para aprender de la experiencia y hacer recomendaciones que orienten inversiones futuras.
+
+* Oración original: En esta sección se analiza la contabilidad financiera como fuente de información para la elaboración del informe anual que incluye los cuatro estados financieros básicos: Estado de Situación Financiera, Estado de Resultados, Estado de Flujo de Efectivo y Estado de Cambios en el Patrimonio.
+* Oración simplificada: En esta sección analizamos la contabilidad financiera como informante para hacer el informe anual. Este tiene cuatro estados financieros básicos: estado de situación financiera, estado de resultados, estado de flujo de efectivo y estado de cambios en el patrimonio.
+
+* Oración original: Vende los artículos tú mismo; evita ir a casas de empeño o usar interme diarios por Internet que reducen las ganancias.
+* Oración simplificada: Vende los artículos tú. Evita las casas de empeño y los intermediarios.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

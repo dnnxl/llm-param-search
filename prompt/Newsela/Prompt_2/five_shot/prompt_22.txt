@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: La arquitecta Deanna VanBuren, ajustaba un papel albanene sobre el diseño de Anthony Pratt, enseñándole cómo marcar toda el área del dibujo para señalar ventanas y paredes.
+* Oración simplificada: La arquitecta Deanna VanBuren ajustaba un pedazo de papel albanene sobre el diseño de Anthony Pratt.
+
+* Oración original: Anunció además que la empresa está valorando la posibilidad de construir hoteles junto a sus parques, para atraer a los visitantes que deseen pasar la noche.
+* Oración simplificada: La empresa también anunció que podría construir hoteles junto a sus parques comenzando por San Diego, para atraer a los visitantes que deseen pasar la noche.
+
+* Oración original: Mientras estaba en Toronto, Noori conoció los camiones de comida ambulante, y ahora los ha traído hasta Afganistán.
+* Oración simplificada: Mientras estaba en Toronto, Noori aprendió lo populares que son los camiones de comida ambulante.Ahora los ha traído hasta Afganistán.
+
+* Oración original: Unas 10.000 historias fueron hechas en casa, y las demás fueron hechas en las cabinas de grabación de StoryCorps
+* Oración simplificada: Algunas conversaciones fueron hechas en las oficinas de StoryCorps, otras no.
+
+* Oración original: En algunos informes publicados esta semana en el American Journal of Human Genetics, dos equipos de investigadores comunicaron que, en muchas personas, un grupo de genes que rigen la primera línea de defensa frente a los patógenos se heredó probablemente de los hombres de Neandertal.
+* Oración simplificada: En algunos informes publicados recientemente en el American Journal of Human Genetics, dos equipos de investigadores comunicaron que, en muchas personas, un grupo de genes que rige la primera línea de defensa frente a los patógenos se heredó probablemente de los hombres de Neandertal.Los patógenos son bacterias, virus u hongos que causan diferentes enfermedades.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

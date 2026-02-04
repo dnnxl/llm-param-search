@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Según lo previsto, visitarán algunos de los antiguos campamentos, incluidos los de Osaka, Yokohama y Kamioka, ubicados en el centro del país.
+* Oración simplificada: Allí visitarán algunos de los antiguos campamentos de prisioneros en las ciudades de Osaka, Yokohama y Kamioka, ubicadas en el centro del país.
+
+* Oración original: Hoy en día son cada vez más y más niños los que llegan desde Centroamérica.
+* Oración simplificada: Pero ahora los que llegan son cada vez más y más niños.La violencia en Centroamérica está cada vez peor.
+
+* Oración original: Los hispanos que decidieron traer a sus familias cambiaron para siempre el rostro de la costa del Golfo.
+* Oración simplificada: Muchos hispanos decidieron traer a sus familias, y cambiaron para siempre la costa del Golfo.
+
+* Oración original: Esto es un cambio significativo desde el año 1990.
+* Oración simplificada: Esto es un cambio grande desde el 1990.
+
+* Oración original: "El guepardo es su animal favorito, ya que es el animal más veloz que existe", dijo Clement.
+* Oración simplificada: Su animal favorito es el guepardo, el animal más rápido del mundo.
+
+* Oración original: "Estaba llorando.
+* Oración simplificada: "Estaba llorando", recordó.
+
+* Oración original: Parecía que siempre estaban visitando el centro de la ciudad para divertirse.
+* Oración simplificada: Ellos frecuentemente iban al centro de la ciudad para divertirse.
+
+* Oración original: "Los niños quieren estar activos", indica.
+* Oración simplificada: ## Los niños y los adultos se pueden divertir"Los niños quieren estar activos", dice.
+
+* Oración original: Esto significa que robots irán bajo del agua hasta el suelo marino, a cavar y sacar los minerales.
+* Oración simplificada: Se espera que pronto los robots lleguen hasta el fondo del mar.Cavarán y sacarán los minerales.
+
+* Oración original: StoryCorps también recibió una subvención de $600.000 de la John S. and James L. Knight Foundation, una fundación privada.
+* Oración simplificada: StoryCorps también recibió una contribución de $600.000 de la John S. and James L. Knight Foundation.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La clasificación, de acuerdo con el número de trabajadores que emplean, se muestra en siguiente recuadro:
+* Oración simplificada: La clasificación, de acuerdo con el número de trabajadores que emplean, se muestra en siguiente recuadro:
+
+* Oración original: El ahorro es uno de los mejores hábitos en que se debiera educar a todas las personas.
+* Oración simplificada: El ahorro es uno de los mejores hábitos en que se debe educar a todas las personas.
+
+* Oración original: Pero, está tomando decisiones sobre la realidad ahora, ¿no es cierto?
+* Oración simplificada: Pero está tomando decisiones sobre la realidad ahora ¿no es cierto?
+
+* Oración original: La rentabilidad de las acciones está determinada por los dividendos, los cuales son manejados según las empresas y lo que la política financiera y monetaria del país tenga establecido.
+* Oración simplificada: La rentabilidad de las acciones está determinada por los dividendos, que son manejados según las empresas y la política financiera del país.
+
+* Oración original: Cuál es el mejor método dependerá de tus necesidades y objetivos.
+* Oración simplificada: El mejor método dependerá de tus necesidades y objetivos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

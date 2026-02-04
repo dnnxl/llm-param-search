@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La articulación del hombro izquierdo, de la que había dependido durante una década como lanzador de las ligas mayores, estaba en las últimas.
+* Oración simplificada: Nitkowski no tenía nada que perder en la primavera de 2011 cuando la articulación de su hombro izquierdo, de la que había dependido durante una década como lanzador de las ligas mayores, estaba en las últimas.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

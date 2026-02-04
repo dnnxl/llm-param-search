@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Los impuestos o la tributación constituyen aspectos relevantes en la educación financiera, para crear conciencia de las responsabilidades y obligaciones que corresponden a las personas, empresas y otras entidades contribuyentes.
+* Oración simplificada: Los impuestos o la tributación son aspectos fundamentales en la educación financiera porque crean conciencia de las responsabilidades y obligaciones que tienen las personas, empresas y otras entidades contribuyentes.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Las muertes de latinos a manos de la policía no reciben la misma atención que las muertes de afroestadounidenses.
+* Oración simplificada: Las muertes de afroestadounidenses a manos de la policía reciben bastante atención.
+
+* Oración original: El problema de salud de Georgia se hizo mayor con el paso del tiempo y cuando las escuelas comenzaron a ser presionadas por su progreso académico, muchas decidieron recortar e incluso eliminar la clase de educación física.
+* Oración simplificada: El problema de salud de Georgia se hizo mayor con los años.Cuando las escuelas comenzaron a ser presionadas por su progreso académico, recortaron y eliminaron la clase de educación física.
+
+* Oración original: Otros 2.000 niños luchan por las fuerzas a favor del gobierno.
+* Oración simplificada: Hay ahora más de 5.300 niños guerrilleros entre los rebeldes y 2.000 con las fuerzas a favor del gobierno.
+
+* Oración original: La exposición fue diseñada por un equipo de taxidermistas.
+* Oración simplificada: El animal disecado fue diseñado por un equipo de taxidermistas.
+
+* Oración original: Los ingenieros de Intel, incluyendo a su papá, ayudaron a Shubham a construir el prototipo, que utiliza piezas de repuesto de la tienda de electrónicos Fry's.
+* Oración simplificada: Los ingenieros de Intel, incluyendo a su padre, ayudaron a Shubham a construir el modelo de trabajo de la impresora, que usa un nuevo chip de Intel.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

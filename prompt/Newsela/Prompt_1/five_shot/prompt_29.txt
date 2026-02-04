@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Hoy, las personas todavía sienten mucha ansiedad por el uso de las nuevas tecnologías.
+* Oración simplificada: Todavía hoy en día las personas le temen a las nuevas tecnologías.
+
+* Oración original: Los investigadores utilizaron dicha red de conexiones sociales para sacar sus propias conclusiones.
+* Oración simplificada: Los investigadores utilizaron dicha red de conexiones para sacar conclusiones.
+
+* Oración original: "Las normas del gobierno no se imponen estrictamente y muchos negocios que quieren hacer dinero rápido comienzan a funcionar sin tener licencias", dice Lianfeng.
+* Oración simplificada: El gobierno no hace que las leyes se cumplan bien, dijo él.Muchos negocios que quieren hacer dinero rápido comienzan a funcionar sin tener los papeles del gobierno que necesitan, explica.
+
+* Oración original: Más universidades estadounidenses están planificando viajes por motivos de estudio a Cuba y ambas partes están considerando realizar proyectos de investigación.
+* Oración simplificada: Por más de 50 años, el gobierno de Estados Unidos no le permitió a sus residentes el viajar a Cuba.Más universidades estadounidenses están planificando viajes por motivos de estudio a Cuba y ambas partes están considerando realizar proyectos de investigación.
+
+* Oración original: "La tecnología como sector se ha basado siempre en los pioneros y los innovadores", expresó Jonathan Lovitz, un vocero de StartOut, una organización de emprendedores LGBT.
+* Oración simplificada: "La tecnología como sector se ha basado siempre en los pioneros y los innovadores", expresó Jonathan Lovitz, defensor de los derechos de los gais.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: En términos de regulación y supervisión del sistema financiero se puede observar que las funciones financieras son más estables, no obstante, que las instituciones financieras, es decir, cambian menos con el tiempo y varían menos entre países.
+* Oración simplificada: En términos de regulación y supervisión del sistema financiero se puede observar que las funciones financieras son más estables. No obstante, que las instituciones financieras cambian menos con el tiempo y varían menos entre países.
+
+* Oración original: Entonces, cuando utilice su tarjeta de crédito para comprar algo, utilice el dinero que haya apartado para pagar la cuenta de su tarjeta.
+* Oración simplificada: Entonces, cuando use la tarjeta de crédito, pague con el dinero apartado para pagar su tarjeta.
+
+* Oración original: Últimamente, algunas promociones nos llevan a ilusionarnos muy fácilmente con montos de cuotas ridículas que al cabo de un tiempo más bien se vuelven inmanejables.
+* Oración simplificada: Últimamente, algunas promociones ilusionan con montos de cuotas que después de un tiempo se vuelven inmanejables.
+
+* Oración original: Sin embargo, la edad de retiro dependerá de cómo nos hemos preparado desde el punto de vista financiero.
+* Oración simplificada: Sin embargo, la edad de retiro dependerá de cómo nos hemos preparado financieramente.
+
+* Oración original: Ahora bien, cuando se dice que el nivel de vida de una persona es alto o bajo -como en los casos que atrás se mencionaron- se refiere al grado de comodidades de que dispone para vivir, o sea, a la cantidad de cosas que posee, pero no sólo a esto, sino a la forma misma como las tiene.
+* Oración simplificada: Entonces, el nivel de vida de una persona es alto o bajo según el grado de comodidades que tiene para vivir y la condición en la que las tiene.
+
+* Oración original: Como regulador económico, el gobierno vigila el funcionamiento de bancos y otras instituciones financieras, empresas telefónicas, radiotelefonía, tráfico aéreo, compañías de agua, gas y electricidad, sistemas de tracción y muchos otros servicios públicos de propiedad privada.
+* Oración simplificada: El gobierno vigila el funcionamiento de bancos, otras instituciones financieras, empresas telefónicas, radiotelefonía, tráfico aéreo, compañías de agua, gas y electricidad, sistemas de tracción y otros servicios de propiedad privada.
+
+* Oración original: Los documentos debe archivarlos en fólderes o carpetas separados, identificando cada carpeta y organizándola en orden alfabético o por asuntos, en un archivador o caja de seguridad.
+* Oración simplificada: Los documentos debe guardarlos en carpetas separadas. Debe identificar cada carpeta y ordenarla en orden alfabético o por asunto en una caja de seguridad o archivador.
+
+* Oración original: Tarjeta de crédito: Tarjeta generalmente de plástico con una banda magnética, a veces un microchip y un número en relieve que sirve para hacer compras, pagos u otras transacciones. Por su capacidad de realizar pagos se les llama también dinero plástico.
+* Oración simplificada: Tarjeta de crédito, tarjeta generalmente de plástico con una banda magnética, a veces tiene un microchip y un número en relieve que sirve para hacer compras, pagos u otras transacciones. Por la posibilidad de realizar pagos con esta se le llama también dinero plástico.
+
+* Oración original: La tasa de descuento del inversionista  TMAR es 15% ¿Cuál es el Periodo de recuperación, VPN y TIR, respectivamente?
+* Oración simplificada: La tasa de descuento del inversionista o tasa mínima aceptable de rendimiento es quince por ciento. ¿Cuál son el periodo de recuperación, valor presente neto y tasa interna de retorno, respectivamente?
+
+* Oración original: El segundo paso es conocer su flujo de efectivo, es decir, cuáles son los recursos financieros con los que cuenta, ¿cuánto dinero debe?
+* Oración simplificada: El segundo paso es conocer cuáles son sus recursos financieros, ¿cuánto dinero debe?
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

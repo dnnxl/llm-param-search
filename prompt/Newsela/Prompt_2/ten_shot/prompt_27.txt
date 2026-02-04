@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: El programa contó con las actuaciones de Queen Latifah, Smokey Robinson, Usher, Trombone Shorty y Esperanza Spalding, entre otros.
+* Oración simplificada: En él participaron varios músicos afroamericanos, como Queen Latifah, Smokey Robinson, Usher, Trombone Shorty y Esperanza Spalding.
+
+* Oración original: Ya no muere tanta gente por culpa del tabaco ni por enfermedades del corazón como antes.
+* Oración simplificada: Actualmente ya no muere tanta gente por culpa del cáncer de pulmón o de enfermedades del corazón.
+
+* Oración original: La decisión se anunciará en septiembre de 2017.
+* Oración simplificada: Lo anunciará en septiembre de 2017.
+
+* Oración original: El mural de la mujer en Brooklyn es un retrato de Atena Farghadani, una artista y activista iraní.
+* Oración simplificada: La mujer pintada en el edificio es Atena Farghadani, una artista iraní condenada a 12 años de prisión.
+
+* Oración original: Pero los objetivos principales del estudio piloto —típicos para estudios iniciales— no fueron pensados como una prueba definitiva de la efectividad del juego.
+* Oración simplificada: Sin embargo, este pequeño estudio no tuvo como objetivo principal ser una prueba definitiva sobre la efectividad del juego.
+
+* Oración original: Los biólogos afirman que el cambio —lento y prolongado en el tiempo— provino de una estrategia insólita: capacitar a los osos pero, lo que es más importante, también a las personas.
+* Oración simplificada: Los biólogos afirman que el cambio —aunque lento— provino de una práctica inusual: capacitar a los osos, pero lo más importante, también a las personas.
+
+* Oración original: La organización expresó su preocupación por la condición de las represas debido a los recientes escándalos relacionados con proyectos de este tipo tanto en China como en India.
+* Oración simplificada: Algunas organizaciones están preocupadas por la condición de las represas.India y China son dos de estos países.
+
+* Oración original: Este es el perfecto ejemplo de cómo la telemedicina, la cual utiliza la tecnología para asistir a pacientes a larga distancia e intercambiar información, está transformando el servicio de atención médica.
+* Oración simplificada: Este es el perfecto ejemplo de la telemedicina, que se trata de utilizar la tecnología para asistir a pacientes a larga distancia e intercambiar información.
+
+* Oración original: ## Riesgos y beneficios del piloto automático
+* Oración simplificada: ## ¿Personas o piloto automático?
+
+* Oración original: "Un poquito", repuso.
+* Oración simplificada: "Un poquito", repuso, "el cielo se ve muy distinto".
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

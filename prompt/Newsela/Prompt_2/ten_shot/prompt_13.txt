@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Se amontonan frente a las oficinas de los servidores en Mitilene y compran números griegos que les permiten obtener datos y gozar de conexiones internacionales, así pueden conectarse a Facebook y WhatsApp para comunicarse con los demás.
+* Oración simplificada: Los emigrantes que saben manejar las redes sociales miran constantemente sus teléfonos y se aglomeran frente a las oficinas de los servidores en Mitilene para comprar números griegos que les permitan conectarse a Facebook y WhatsApp en toda Europa.
+
+* Oración original: El salón estaba decorado con lazos morados, papel con escarcha y un gran carruaje hecho de cartón – todo hecho por un grupo de mujeres prisioneras.
+* Oración simplificada: Estaba decorado con lazos morados, papel con escarcha y un gran carruaje hecho de cartón.
+
+* Oración original: Moctezuma II fue el primer emperador que se enfrentó a Hernán Cortés, y sufrió la derrota.
+* Oración simplificada: Le siguió Moctezuma II, quien fue el primer emperador que luchó contra el conquistador español Hernán Cortés.Cortés dirigió la expedición que derrotó a Moctezuma II.
+
+* Oración original: La montaña rusa GhostRider (piloto fantasma) en Knott's Berry Farm fue la segunda con 92 accidentes.
+* Oración simplificada: ## Space Mountain y GhostRiderDe los incidentes reportados, la atracción líder en accidentes fue Space Mountain con 120 informes, mientras que la montaña rusa GhostRider en Knott's Berry Farm ocupó el segundo lugar con 92 accidentes.
+
+* Oración original: Wong es un experto en medicina interna e investigador en la Universidad de California, Los Ángeles.
+* Oración simplificada: Wong escribió el estudio.Él es médico e investigador en la Universidad de California, Los Ángeles.
+
+* Oración original: Querían repartirlos y reunir a las personas en contra de los militares.
+* Oración simplificada: Querían reunir a más personas en contra del ejército.
+
+* Oración original: "Esto va a hacer las cosas peor".
+* Oración simplificada: "Estarán la misma cantidad de tiempo, solo que de una forma mejor", dijo."Esto va a hacer las cosas peor".
+
+* Oración original: El grupo es estrictamente femenino: 14 cadetes de las _girl scouts_ de las tropas 2653 y 3562 de Tustin (California).
+* Oración simplificada: Hoy, Stanley les enseña a 14 _girl scouts_ de entre 11 y 14 años.
+
+* Oración original: Un grupo de aves pintadas se libera de las cadenas sobre un edificio de Manhattan.
+* Oración simplificada: Otro edificio presenta un grupo de aves pintadas liberándose de unas cadenas.## Cada edificio cuenta una historia
+
+* Oración original: Si cayese alguna, pantanos tan grandes como un lago se verterían corriente abajo sobre pueblos y ciudades.
+* Oración simplificada: Si cayese alguna de las represas, embalses tan grandes como lagos vaciarían sus aguas sobre los pueblos y ciudades.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

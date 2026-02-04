@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Como antes se dijo, la forma de negociar con el trueque resultó muy incómoda, especialmente cuando aumentaron los artículos y también los comerciantes.
+* Oración simplificada: Cuando aumentaron los artículos y comerciantes, el trueque como negocio se volvió incómodo.
+
+* Oración original: En cuanto a los resultados concretos, resalta el hecho de que la educación financiera influye en el comportamiento de las personas consumidoras e inversionistas.
+* Oración simplificada: Respecto a los resultados concretos, es destacable la influencia de la educación financiera en el comportamiento de las personas consumidoras e inversionistas.
+
+* Oración original: El administrador de escenarios es una herramienta en Excel que permite alterar múltiples variables con el objetivo de observar el efecto en otras variables de resultados.
+* Oración simplificada: El administrador de escenarios es una herramienta en Excel. Permite cambiar muchas variables para ver el efecto en otras variables de resultados.
+
+* Oración original: Suponga un caso extremo en que el precio cae a $50; si en ese momento el bono es vendido, la persona que lo posee realiza una pérdida de capital de $50.
+* Oración simplificada: Suponga un caso extremo en que el precio cae a cincuenta dólares. Si en ese momento el bono es vendido, la persona que lo posee realiza una pérdida de capital de cincuenta dólares.
+
+* Oración original: El mercado es el lugar donde se transan las mercancías y los servicios; es la expresión que define el lugar físico o figurado donde se encuentran vendedores y compradores.
+* Oración simplificada: El mercado es el lugar donde se cambian los productos. Define el lugar físico o figurado donde están vendedores y compradores.
+
+* Oración original: Si es una cooperativa de crédito ("credit union"), ¿está asegurada por la Administración Nacional de Cooperativas de Crédito (NCUA)?
+* Oración simplificada: Si es una cooperativa de crédito, ¿la Administración Nacional de Cooperativas de Crédito la asegura?
+
+* Oración original: Colisión: Choque de dos cuerpos. Oposición y pugna de ideas, principios o intereses. Parte del ingreso que no se destina al ahorro, sino que es aplicado a la adquisición de alimentos, educación, ocio, entre otros.
+* Oración simplificada: Una colisión es un choque de dos cuerpos o una oposición y enfrentamiento de ideas, principios o intereses. También es la parte del ingreso no destinado al ahorro, pues se usa a la adquisición de alimentos, educación, ocio, entre otros.
+
+* Oración original: Verifique la información contactando telefónicamente a la compañía que lo está enviando y que seguramente ofrecerá sus teléfonos o dirección.
+* Oración simplificada: Llame a la compañía que envía el correo para verificar la información. Seguramente ofrecerá sus teléfonos o dirección.
+
+* Oración original: Una forma alternativa de "pagar lo tuyo primero, es hacer que se transfiera dinero automáticamente desde tu cuenta de cheques a tu cuenta de ahorros o de inversión en una fecha determinada cada mes.
+* Oración simplificada: Otra forma de pagar primero tus deudas es transferir automática y mensualmente dinero desde tu cuenta de cheques hasta la de ahorros.
+
+* Oración original: A mayor oferta ?manteniéndose la demanda? el precio baja; en cambio, a menor oferta ?manteniéndose la demanda? el precio sube.
+* Oración simplificada: A mayor oferta el precio baja. A menor oferta el precio sube. En ambos casos se debe mantener la demanda.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

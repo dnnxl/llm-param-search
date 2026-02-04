@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Tener sobrepeso puede causar muchos problemas de salud.
+* Oración simplificada: El sobrepeso puede ser la causa de varios problemas de salud.
+
+* Oración original: Parte de la respuesta es fomentar el aprendizaje que le provee a los estudiantes las destrezas que usarán durante su vida laboral, en lugar de enfocarse en una educación que termina cuando comienza el trabajo.
+* Oración simplificada: Parte de la respuesta es enseñarle a los estudiantes las destrezas que usarán cuando tengan empleos, no solo lo que es importante en la escuela.
+
+* Oración original: Dice que ha aprendido mucho tras escuchar algunas de las 60.000 conversaciones que StoryCorps ha ido recopilando desde el año 2003, en las cuales las personas se desenvuelven muy bien y con mucha naturalidad.
+* Oración simplificada: De hecho, tras escuchar algunas de las entrevistas recopiladas por StoryCorps, se ha dado cuenta de que las personas se desenvuelven muy bien y con mucha naturalidad.
+
+* Oración original: Hoy, solo quedan alrededor de unos 25.000 animales vagando por el continente, principalmente en Sudáfrica y algunos otros en Namibia y Kenia.
+* Oración simplificada: Hoy, solo quedan alrededor de unos 25.000 animales vagando por el continente.
+
+* Oración original: Los agentes tailandeses no encontraron equipos de pesca ilegales en el barco.
+* Oración simplificada: Los agentes tailandeses entraron al barco.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

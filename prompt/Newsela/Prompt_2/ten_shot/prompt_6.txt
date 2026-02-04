@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Más de 100 escuelas se han comprometido a incorporar 30 o más minutos de ejercicios en la rutina diaria.
+* Oración simplificada: Más de 100 escuelas han acordado incorporar 30 o más minutos de ejercicios a la jornada diaria.
+
+* Oración original: Esto "crea una fuente de problemas para los niños y sus familias", afirma Linn.
+* Oración simplificada: Linn afirma que se crean nuevos riesgos para los niños y sus familias.
+
+* Oración original: ENTABENI SAFARI CONSERVANCY, Sudáfrica — Casi todos los rinocerontes del mundo viven en Sudáfrica.
+* Oración simplificada: ENTABENI SAFARI CONSERVANCY, Sudáfrica — En Sudáfrica hay muchos rinocerontes.
+
+* Oración original: Finalmente, lograron llegar a un punto medio al no separar entre países ricos y pobres.
+* Oración simplificada: Al final llegaron a un punto medio.No separar entre países ricos y pobres.
+
+* Oración original: Además, el 41 por ciento de los usuarios negros usan Facebook para saber qué es "tendencia" en las redes sociales, comparado con el 29 por ciento de blancos y el 24 por ciento de hispanos.
+* Oración simplificada: Además, es más probable que los _millennials_ afroamericanos usen Facebook para conocer las "tendencias" en las redes sociales.Según la encuesta, el 41 por ciento de los negros usan Facebook con este propósito, comparado con el 29 por ciento de los blancos y el 24 por ciento de los hispanos.
+
+* Oración original: El informe anuncia que "será difícil garantizar la seguridad de los visitantes" a la Copa Mundial a no ser que Rusia tome acciones al respecto.
+* Oración simplificada: El informe afirma que Rusia tiene que poner en marcha un plan para evitar el racismo.Si no, "será difícil garantizar la seguridad de los visitantes" a la Copa Mundial.
+
+* Oración original: Abzug dijo que volverían a hacer el estudio para ver si se colocaban correctamente más férulas.
+* Oración simplificada: Más tarde, planean volver a realizar el estudio para ver si se colocan correctamente más férulas.
+
+* Oración original: En líneas generales, los niños de entre los 2 y 11 años de edad son mucho menos propensos a comer comida rápida que los adolescentes entre los 12 y 19 años de edad.
+* Oración simplificada: En general, los niños de entre los 2 y 11 años de edad consumen menos comida rápida que los adolescentes entre los 12 y 19 años de edad.
+
+* Oración original: Akifumi Tamaoki es el gerente general del departamento de "robots compañeros" de Toyota.
+* Oración simplificada: Akifumi Tamaoki es el encargado del departamento de "robots compañeros" de Toyota.Toyota piensa que muchas personas podrían usar "robots compañeros" para que les ayuden.
+
+* Oración original: Clark es la madre de dos chicos que jugaron varios deportes en la preparatoria.
+* Oración simplificada: Clark es la madre de dos chicos que practicaron, al mismo tiempo, varios deportes en la preparatoria.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

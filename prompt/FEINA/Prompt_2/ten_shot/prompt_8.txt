@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Interesante resulta también señalar que el dinero tomó la forma metálica y de papel, inicialmente de oro y plata, el oro sigue siendo un respaldo, porque no se gastan pronto, ni se echan a perder con el tiempo ni al pasar de mano en mano.
+* Oración simplificada: Inicialmente, el dinero tomó forma de papel y también metálica, principalmente de oro y plata. Ahora el oro es un respaldo, porque no se echa a perder con el tiempo.
+
+* Oración original: En un balance, es la diferencia entre el activo y el pasivo.
+* Oración simplificada: Es la diferencia entre el activo y el pasivo en un balance.
+
+* Oración original: Se trata de desarrollar aspectos de previsión, considerando algunos factores contingentes de la vida, el concepto de seguro y su importancia; las aseguradoras y los criterios para contratar un seguro; y la explicación de algunos de los seguros más conocidos.
+* Oración simplificada: Se trata de desarrollar un pronóstico para considerar algunos sucesos eventuales de la vida. Explicar el concepto de seguro y su importancia, las aseguradoras, los criterios para contratar un seguro y algunos de los seguros más conocidos.
+
+* Oración original: Con base también en estos antecedentes se habló en la academia de Economía Política, derivando este último concepto del mismo griego polis que significa ciudad.
+* Oración simplificada: Con base en estos datos, la academia de Economía Política definió este último concepto desde el griego polis que significa ciudad.
+
+* Oración original: También es conveniente tener en cuenta los pasivos de la empresa, aunque en realidad estos pueden no determinar las expectativas de inversión, ya que como se dijo antes, la empresa en el proceso de planeación, ha analizado cuál es el grado de endeudamiento al que puede llegar para obtener los rendimientos esperados.
+* Oración simplificada: También es conveniente tener en cuenta los pasivos de la empresa, aunque en realidad estos pueden no determinar las expectativas de inversión, ya que la empresa en el proceso de planeación ha analizado cuál es el grado de endeudamiento al que puede llegar para obtener los rendimientos esperados.
+
+* Oración original: En Costa Rica, como seguramente ocurre en los demás países de la región y quizás del mundo, la Ley de Protección al Trabajador Nº 7983, determina modificaciones, y establece dos cuentas individuales: el Fondo de Capitalización Laboral y el Régimen Obligatorio de Pensiones Complementarias.
+* Oración simplificada: En Costa Rica la Ley de Protección al Trabajador número siete mil novecientos ochenta y tres, determina modificaciones y establece dos cuentas individuales: el Fondo de Capitalización Laboral y el Régimen Obligatorio de Pensiones Complementarias.
+
+* Oración original: Por ejemplo, un crédito a pagar en cuotas mensuales con tasa del 17% nominal.
+* Oración simplificada: Por ejemplo, un crédito a cuotas mensuales con tasa del diecisiete por ciento nominal.
+
+* Oración original: En comparación con las cuentas de cheques normales, que en ocasiones pagan intereses, las cuentas de depósito del mercado monetario pueden ofrecerte una tasa de interés mayor.
+* Oración simplificada: Las cuentas de depósito del mercado monetario ofrecen una tasa de interés mayor. Esto en comparación con los posibles intereses de las cuentas de cheques normales.
+
+* Oración original: La educación financiera debería iniciarse en la escuela para que las personas sean educadas lo más temprano posible.
+* Oración simplificada: La educación financiera debe iniciarse en la escuela.
+
+* Oración original: Así, pues, el trabajo del ser humano convierte en riqueza los elementos que le ofrecen el suelo, el subsuelo, las aguas y el aire.
+* Oración simplificada: Así, el ser humano convierte en riqueza los elementos ofrecidos por el suelo, el subsuelo, las aguas y el aire.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

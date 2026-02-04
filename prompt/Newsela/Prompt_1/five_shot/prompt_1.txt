@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Las aplicaciones permiten que las mujeres se desplacen libremente por sí solas.
+* Oración simplificada: ## Las mujeres están felices con las aplicacionesEstas aplicaciones dan a las mujeres más libertad.Pueden desplazarse por sí solas.
+
+* Oración original: Todos ellos debían acceder a participar en "Resolve to Stop the Violence" [Decidido a poner fin a la violencia], un programa basado en los conceptos de la justicia restaurativa.
+* Oración simplificada: Todos ellos debían aceptar participar en un programa llamado "Resolve to Stop the Violence" [Decidido a poner fin a la violencia].
+
+* Oración original: Los teléfonos públicos pueden parecer antiguos.
+* Oración simplificada: Los teléfonos públicos pueden parecer muy viejos.
+
+* Oración original: Él y su equipo creen que, tras estas entradas selladas, hallarán dos pequeñas cámaras.
+* Oración simplificada: López Luján y su equipo creen que, tras estas entradas selladas, encontrarán los restos de algunos emperadores de Tenochtitlán.
+
+* Oración original: Akifumi Tamaoki es el encargado del departamento de "robots compañeros" de Toyota.
+* Oración simplificada: Akifumi Tamaoki trabaja en Toyota.Es el encargado del programa de "robots compañeros".
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

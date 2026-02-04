@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Sin embargo, sí que defendió lo que el presentador, Bill O'Reilly, describió como un tratamiento inhumano de las personas deportadas.
+* Oración simplificada: Sin embargo, sí defendió lo que el presentador Bill O'Reilly describió como un trato cruel hacia las personas deportadas.
+
+* Oración original: Cuando vivía en Gambia, en África Occidental, tenía un diploma universitario y contaba con un cómodo empleo en un banco.
+* Oración simplificada: Cuando vivía en Gambia, en África Occidental, tenía un diploma universitario y trabajaba en un banco.
+
+* Oración original: Los adolescentes recibieron cuestionarios computarizados para responder en privado, con el objetivo de aumentar las posibilidades de presentar auto-informes precisos.
+* Oración simplificada: Los adolescentes recibieron cuestionarios computarizados para responder en privado, con el objetivo de aumentar la honestidad en sus respuestas.
+
+* Oración original: Anteriormente, los barberos necesitaban 2.000 horas de entrenamiento para obtener un permiso para ejercer.
+* Oración simplificada: ## ¿Quién le dio su permiso para ejercer?Anteriormente, los barberos necesitaban 2.000 horas de entrenamiento para obtener un permiso para ejercer, pero ahora los que demuestren su experiencia pueden reducir la cantidad de horas requeridas para conseguir el permiso.
+
+* Oración original: La población de la isla es ahora de 3,6 millones, menos del máximo poblacional de 4 millones de residentes en el 2009.
+* Oración simplificada: La población actual de Puerto Rico es de 3,6 millones de personas, mientras que en 2009 la isla contaba con 4 millones de residentes.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

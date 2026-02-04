@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Estos informes son importantes porque permiten: i) proporcionar información para evaluar la eficiencia del capital de trabajo; ii) analizar el uso eficiente de los recursos y la gestión administrativa; iii) conocer la capacidad de generar utilidades por parte de la organización; y, iv) tomar decisiones sobre inversión, endeudamiento o ventas (Izaguirre, 2018).
+* Oración simplificada: Estos informes son importantes porque permiten: Aportar información para evaluar la eficiencia del capital de trabajo. Analizar el uso eficiente de los recursos y la administración. Conocer la capacidad de la empresa para generar ganancias. Y decidir sobre inversión, deudas o ventas.
+
+* Oración original: Todos los documentos es necesario tenerlos organizados, lo que supone la clasificación; sin embargo, hay documentos claves que son necesarios durante momentos difíciles, como ya se aludió; infortunadamente mucha gente no se enfoca a organizarlos.
+* Oración simplificada: Es necesario tener ordenados todos los documentos porque algunos son importantes en momentos difíciles.
+
+* Oración original: Quizás puedas solucionar el problema con una simple llamada tele fónica, pero siempre pide documentos escritos para certificarlo, por ejemplo, un correo electrónico o una carta.
+* Oración simplificada: Quizás soluciones el problema por llamada, pero necesitas documentos escritos para certificarlo.
+
+* Oración original: Por otra parte, para alentar que el usuario deposite una mayor cantidad de su dinero en cuentas de ahorro, cuanto más dinero se guarde en una cuenta de ahorro, más alto será el interés que el banco ofrezca.
+* Oración simplificada: Por otra parte, cuanto más dinero se guarde en una cuenta de ahorro más alto será el interés que el banco ofrezca.
+
+* Oración original: Las personas deben protegerse hoy como casi nunca contra los estafadores y timadores, contra los atracadores, contra los accidentes de tránsito, contra los desastres naturales, contra la contaminación y muchos fenómenos más que las conduce no sólo a poner en riesgo sus bienes y demás recursos financieros, si no también, y esto es lo más grave, su propia salud y hasta su propia vida y la de sus familias.
+* Oración simplificada: Actualmente, las personas deben protegerse contra estafadores, atracadores, accidentes de tránsito, desastres naturales, contaminación y otros fenómenos. Pues ponen en riesgo sus bienes y demás recursos financieros, su salud y la vida propia y de sus familias.
+
+* Oración original: Por ejemplo, una pareja ha ahorrado una cierta cantidad de dinero, lo deposita en un banco, y este lo canaliza hacia otra pareja que precisa de un préstamo hipotecario con el que afrontar el pago de la vivienda.
+* Oración simplificada: Por ejemplo, una pareja ahorró cuna cantidad de dinero y lo depositó en un banco. Este lo presta a otra pareja que necesita un préstamo para pagar su casa.
+
+* Oración original: Utilizar un navegador de Internet seguro: es recomendable que el navegador tenga la última versión en cuanto a capacidad de encriptación cuando envíe información transaccional para realizar pagos electrónicos, debe buscar el símbolo de candado en la barra de estatus del navegador y la frase https en la barra de dirección del sitio web.
+* Oración simplificada: Utilizar un navegador de internet seguro.
+
+* Oración original: Las cuatro leyes sobre el dinero de las finanzas personales las define muy bien Alonso, Brailovsky y Ortiz (1999), en su libro Presupueste sus Gastos y sus Ahorros, y ellas son:
+* Oración simplificada: Alonso, Brailovsky y Ortiz (mil novecientos noventa y nueve) define las cuatro leyes sobre el dinero de las finanzas personales:
+
+* Oración original: Con el tiempo, la propiedad aumenta de valor y si se decide venderla se obtiene una utilidad que, por lo general, representa una rentabilidad mayor que muchos otros instrumentos de inversión.
+* Oración simplificada: Con el tiempo, la propiedad aumenta de valor y si se decide venderla se obtiene una utilidad que por lo general representa una rentabilidad mayor que muchos otros instrumentos de inversión.
+
+* Oración original: La producción en la forma de valor de tiempo es una actividad económica de mucha importancia.
+* Oración simplificada: La producción en la forma de valor de tiempo es una actividad económica muy importante.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Para el autor, la contabilidad es el proceso que tiene por objeto recolectar, clasificar, registrar e interpretar todas las transacciones realizadas por una persona natural o jurídica, con el fin de elaborar informes que sirvan para la toma de decisiones.
+* Oración simplificada: Para el autor, la contabilidad es el proceso para recolectar, registrar e interpretar las transacciones realizadas por una persona natural o jurídica. Y así hacer informes para tomar decisiones.
+
+* Oración original: ¿Ha pensado usted cómo sería el mundo, la vida, sin dinero?
+* Oración simplificada: ¿Usted ha pensado cómo sería el mundo o la vida sin dinero?
+
+* Oración original: Como antes se dijo, la forma de negociar con el trueque resultó muy incómoda, especialmente cuando aumentaron los artículos y también los comerciantes.
+* Oración simplificada: Cuando aumentaron los artículos y comerciantes, el trueque como negocio se volvió incómodo.
+
+* Oración original: SUPERINTENDENCIAS SECTORIALES: "cumplen funciones de ejecución y control de disposiciones en sectores económicos y no económicos del Estado bajo su supervisión."
+* Oración simplificada: SUPERINTENDENCIAS SECTORIALES: ejecutan y controlan disposiciones en sectores económicos y no económicos del Estado bajo su supervisión.
+
+* Oración original: Por ejemplo, si por el seguro del auto pagas $450 cada seis meses, debes ahorrar $75 por mes ($450 ÷ 6 = $75).
+* Oración simplificada: Por ejemplo: Si pagas cuatrocientos cincuenta dólares cada seis meses por el seguro del carro, debes ahorrar setenta y cinco dólares por mes.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

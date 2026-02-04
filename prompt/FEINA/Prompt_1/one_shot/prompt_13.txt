@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Esto significa que podemos medir, dimensionar o asignar valor a todos los productos en términos de dinero.
+* Oración simplificada: Esto significa que podemos medir el valor de todos los productos en términos de dinero.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

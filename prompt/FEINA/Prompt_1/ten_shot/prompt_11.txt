@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Con frecuencia en el país la gente se queja del alto costo de vida, especialmente en los últimos tiempos, y esto porque los productos de uso inmediato, así como muchos de los servicios esenciales, aumentan su valor constantemente.
+* Oración simplificada: Frecuentemente en el país las personas se quejan del alto costo de la vida porque los productos de uso cotidiano y muchos servicios básicos aumentan su valor constantemente.
+
+* Oración original: Debido a la inflación, los artículos que compras hoy costarán más en el futuro.
+* Oración simplificada: Los artículos comprados hoy costarán más en el futuro debido a la inflación.
+
+* Oración original: Pero algunos adquirieron mayor pericia en trabajos de herrería que otros, los vecinos se acostumbraron a recurrir a ellos para encargarles las tareas más difíciles, pagándoles posiblemente con alimentos o pieles.
+* Oración simplificada: Como algunos talleres eran mejores que otros, los vecinos iban a ellos para encargarles tareas más difíciles y les pagaban con alimentos o pieles.
+
+* Oración original: Afortunadamente, las diferentes teorías sobre el cambio de actitudes favorecen, no sin ciertas implicaciones desde luego, la posibilidad de dicho cambio.
+* Oración simplificada: Afortunadamente, las diferentes teorías sobre el cambio de actitudes favorecen la posibilidad de dicho cambio.
+
+* Oración original: Se supone que el saldo es de $1000 y el pago mensual mínimo es de $40.
+* Oración simplificada: Supuestamente el saldo es de mil dólares y la mensualidad mínima es de cuarenta dólares.
+
+* Oración original: Mientras más grande sea nuestra producción o los ingresos que recibamos, más alto será nuestro nivel de vida.
+* Oración simplificada: Entre más producción y mayores ingresos recibidos, más alto será nuestro nivel de vida.
+
+* Oración original: Las metas a corto plazo más comunes son, por ejemplo: cancelar deudas; crear fondos de emergencia; tomarse vacaciones; comprar autos o artículos para el hogar.
+* Oración simplificada: Las metas a corto plazo más comunes son: pagar deudas. Crear fondos de emergencia. Vacacionar. Comprar carro o artículos para el hogar.
+
+* Oración original: Dinero negro: Son las cantidades de dinero que no han sido declaradas al Ministerio de Hacienda o Secretaría de Hacienda de cada país, que es el responsable de las finanzas, las cuentas del Estado y de la tributación nacional.
+* Oración simplificada: El dinero negro son las cantidades de dinero sin declarar al Ministerio de Hacienda o Secretaría de Hacienda de cada país. Esta entidad es la responsable de las finanzas, cuentas del Estado y de la tributación nacional.
+
+* Oración original: Tal vez tenga que cambiar sus hábitos alimenticios, comer un poco menos, y comer más económicamente.
+* Oración simplificada: Tal vez tenga que cambiar sus hábitos alimenticios, como comer menos y más económico.
+
+* Oración original: Conociendo los grandes beneficios y facilidades que nos ofrece la plataforma de Internet, la mayoría de los bancos han desarrollado sus propias sucursales bancarias electrónicas, esto es un servicio integral que le permite al usuario desde la comodidad de su hogar y desde su computador personal, realizar una gestión centralizada y totalmente segura de su Tesorería o de sus cuentas personales.
+* Oración simplificada: Muchos bancos desarrollaron sus sucursales bancarias electrónicas por los beneficios y facilidades ofrecidos por el Internet. Este servicio integral le permite al cliente realizar trámites seguros en sus cuentas personales desde su computadora.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

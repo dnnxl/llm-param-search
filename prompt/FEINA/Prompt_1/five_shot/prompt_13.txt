@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: En el origen, los impuestos eran aplicados a las personas, por los soberanos y el clero, para financiar los asuntos de las castas gobernantes y ceremonias religiosas respectivamente.
+* Oración simplificada: Originalmente, los reyes y sacerdotes aplicaban los impuestos a las personas. Para financiar el gobierno y las ceremonias religiosas.
+
+* Oración original: Este robo es muy apetecido por los delincuentes que se han constituido en verdaderas mafias en los países, quienes se roban los vehículos para venderlos transformados en el mismo país, para venderlos en el exterior, especialmente en los países vecinos o para condenarlos al desarmado en empresas de reparación y ventas que se dedican al tráfico de partes usadas de automotores.
+* Oración simplificada: Este robo es muy apetecido por los delincuentes que se han constituido en verdaderas mafias en los países. Estos roban los vehículos para venderlos transformados, ya sea en el mismo país o países vecinos. También para condenarlos al desarmado en empresas de reparación y ventas que trafican partes usadas de automotores.
+
+* Oración original: Desde luego, invertir dinero, cuando obviamente se tiene para ello, suele ser un tema que intimida a muchas personas que no tienen experiencia.
+* Oración simplificada: Cuando las personas tienen dinero para invertir, este tema les suele intimidar porque no tienen experiencia.
+
+* Oración original: Ahorrar al menos $1,500 en el próximo año, para poder viajar a Europa.
+* Oración simplificada: Ahorrar al menos mil quinientos dólares en el próximo año, para poder viajar a Europa.
+
+* Oración original: En este caso existe entonces el riesgo de valor residual para la arrendadora.
+* Oración simplificada: Entonces, la arrendadora se arriesga al valor residual en este caso.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

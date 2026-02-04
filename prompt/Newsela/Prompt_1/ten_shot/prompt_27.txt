@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: En Arabia Saudita hay al menos cuatro aplicaciones de reserva de viajes y se esperan más lanzamientos.
+* Oración simplificada: En Arabia Saudita hay por lo menos cuatro aplicaciones de reserva de viajes y planea lanzar más.
+
+* Oración original: El profesor Harold Pollack, un investigador en salud pública de la Universidad de Chicago, dijo que el estudio es importante y destaca el desafío, y la necesidad, de crear "una cantidad mucho mayor de escuelas que brinden un buen servicio a los chicos".
+* Oración simplificada: Una escuela charter es un tipo de escuela pública independiente que recibe fondos públicos.Estas gozan de gran flexibilidad, lo que les permite enfocarse en las necesidades específicas de sus estudiantes para crear ambientes más productivos y creativos.El profesor Harold Pollack, un investigador en salud pública de la Universidad de Chicago, dijo que el estudio es importante porque destaca el desafío y la necesidad de crear "una cantidad mayor de escuelas que brinden un buen servicio a los chicos".
+
+* Oración original: Florida es el segundo estado con mayor producción de aguacates, detrás de California.
+* Oración simplificada: California y México puede que no estén felices si los aguacates colombianos se vuelven populares.Florida es el segundo productor de aguacates del país, justo detrás de California.
+
+* Oración original: Ahora Bandit le huye a las personas.
+* Oración simplificada: Ahora Bandit vive en Wolf Run.No quiere estar cerca de las personas.
+
+* Oración original: Las historias de las personas también fueron olvidadas.
+* Oración simplificada: Las historias de esas personas también fueron olvidadas.
+
+* Oración original: Para este estudio, se agruparon 31 niños con TDAH en Nueva Delhi, la capital de India.
+* Oración simplificada: Se agruparon 31 niños con TDAH.
+
+* Oración original: ### Algunos gobernadores de los Estados Unidos no quieren aceptar a los sirios  que han escapado de la guerra.
+* Oración simplificada: Siria es un país en el Medio Oriente.Muchos sirios han escapado de su guerra.Pero algunos gobernadores de los Estados Unidos no quieren ayudarlos.
+
+* Oración original: Hay abogados, ya sea ofreciendo su servicio de manera gratuita o recibiendo un pago, que están asumiendo la representación de los niños que se encuentran reunidos con sus familiares a lo largo de todo el país.
+* Oración simplificada: Hay abogados que están representando a los niños que se encuentran reunidos con sus familiares a lo largo de todo el país.
+
+* Oración original: Se graduó de una escuela superior en Akron en 1998 y fue entrenador de básquetbol de escuelas intermedias.
+* Oración simplificada: Se graduó de una escuela secundaria en Akron en 1998\.Luego fue entrenador de básquetbol en escuelas intermedias.
+
+* Oración original: ## No es demasiado tarde
+* Oración simplificada: ## No estamos condenados todavía
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

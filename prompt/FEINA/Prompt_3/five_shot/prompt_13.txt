@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: El valor de la póliza proveerá de ingresos a sus bene?ciarios, reemplazando el que usted llevaba a casa.
+* Oración simplificada: El valor de la póliza proveerá de ingresos a sus beneficiarios para reemplazar los llevados por usted a casa.
+
+* Oración original: En el caso del hardware, el key logger se presenta como unos dispositivos USB y PS2 que se conectan entre el PC y el teclado, a través de los puertos, los cuales graban en una memoria interna el texto digitado en el computador, de este modo, toda la actividad que se realizó en un determinado PC, está ahora en manos de su administrador.
+* Oración simplificada: En el caso del hardware, el capturadore de teclas se presenta como unos dispositivos puerto de seriado universal y sistema personal dos. Estos se conectan entre la computadora y el teclado mediante los puertos, que graban en una memoria interna el texto digitado en el computador. De este modo, toda la actividad que se realizó en un determinado computador está ahora en manos de su administrador.
+
+* Oración original: Lo primero es hablar de un formato sumamente sencillo que sirve para controlar de una manera efectiva el ingreso familiar.
+* Oración simplificada: Lo primero es hablar de un formato sencillo que sirve para controlar efectivamente el ingreso familiar.
+
+* Oración original: Gastos fijos: Son los gastos que se deben cumplir forzosamente, de modo que si no se hace seguramente se enfrentarán serios problemas.
+* Oración simplificada: Los gastos fijos son aquellos que se deben cumplir forzosamente para evitar problemas.
+
+* Oración original: Son los gastos incurridos por las actividades de financiamiento de la operación.
+* Oración simplificada: Son los gastos causados por el financiamiento de la transacción.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

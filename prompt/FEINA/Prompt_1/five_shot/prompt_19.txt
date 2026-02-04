@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Tomemos el ejemplo de una persona que compró un bono de largo plazo en $100, y que ese bono paga anualmente intereses fijos de $10.
+* Oración simplificada: Tomemos el ejemplo de una persona que compró un bono de largo plazo en cien dólares, y que ese bono paga anualmente intereses fijos de diez dólares.
+
+* Oración original: Cuando llegue al límite máximo del gasto establecido, no cargue más su tarjeta de crédito y empiece a pagar en efectivo.
+* Oración simplificada: Cuando llegue al límite máximo del gasto establecido, no use más la tarjeta y pague en efectivo.
+
+* Oración original: Las actividades asignadas son solo referenciales, pues el comercio está presente en todo tipo de empresas: puede haber actividad minera en los pirquineros, que son pequeños emprendimientos de trabajadores, muchas veces de producción individual.
+* Oración simplificada: Las actividades asignadas son solo referenciales, pues el comercio está presente en todo tipo de empresas. Puede haber actividad minera en los pirquineros, que son pequeños emprendimientos de trabajadores, muchas veces de producción individual.
+
+* Oración original: El mismo tipo de análisis se puede realizar sobre el estado de situación financiera.
+* Oración simplificada: Podemos realizar el mismo análisis sobre el estado de situación financiera.
+
+* Oración original: Existe, de todas maneras, una regla empírica que recomienda que sus deudas no deban superar el 36% de sus ingresos totales.
+* Oración simplificada: Existe una regla que recomienda que sus deudas no superen el treinta y seis por ciento de sus ingresos totales.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

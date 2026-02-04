@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Si no logra administrar sus propios gastos, solicite al otorgador de préstamo que reduzca su límite de crédito.
+* Oración simplificada: Si no logra controlar sus gastos, pida al prestamista una reducción de su límite de crédito.
+
+* Oración original: Una empresa con buena liquidez, pero sin solvencia; corre el riesgo de quebrar en el mediano o largo plazo.
+* Oración simplificada: Una empresa con liquidez, pero sin solvencia. Se arriesga a quebrar en el mediano o largo plazo.
+
+* Oración original: Mejorar el uso del vehículo, si este se tiene.
+* Oración simplificada: Si tiene vehículo mejorar su uso.
+
+* Oración original: Cuando depositas dinero en una cuenta de ahorros que genera intereses, el monto que ahorras es el capital.
+* Oración simplificada: El monto ahorrado cuando depositas dinero en una cuenta de ahorro generadora de intereses es el capital.
+
+* Oración original: Debe tenerse en cuenta que hay trabajos por los cuales no se perciben remuneraciones como los desarrollados por el ama de casa o los realizados por un inversionista y otros de carácter ad honorem, por ejemplo.
+* Oración simplificada: Tener en cuenta que hay trabajos por los que no se recibe remuneración, por ejemplo, los desarrollados por el ama de casa o los realizados por un inversionista y otros de carácter voluntario.
+
+* Oración original: Por ejemplo, el Ministerio de Minería en cuestiones mineras, el de Agricultura en su rubro, el de Energía en ese campo, etcétera.
+* Oración simplificada: Por ejemplo, el Ministerio de Minería en aspectos mineros. El de Agricultura en su área.
+
+* Oración original: No obstante, a pesar de esto, hay algunas antiguas formas de comercio y uso de medios de pago primarios que recobran vida y vigor en economías globalizadas.
+* Oración simplificada: Sin embargo, hay formas de comercio y medios de pago antiguos que recobran importancia en economías globalizadas.
+
+* Oración original: Configurarlas te puede insumir tiempo y esfuerzo, pero es muy práctico tener toda la información de tus gastos y ahorros en tu smartphone y otros equipos.
+* Oración simplificada: Configurarlas implica tiempo y esfuerzo. Pero son muy útiles.
+
+* Oración original: La falta de una supervisión eficiente y una pobre regulación, señalan también, ha sido el detonador de gran parte de las crisis gemelas (bancarias y de balanzas de pagos) de los últimos 30 años.
+* Oración simplificada: La falta de una supervisión eficiente y una pobre regulación ha sido el detonador de gran parte de las crisis gemelas de tipo bancarias y de balanzas de pagos de los últimos 30 años.
+
+* Oración original: Para empezar a tejer nuestros conceptos, digamos que elegir la profesión a la que vamos a dedicar la vida es una de las decisiones económicas más importantes que tomamos en el discurrir de aquélla.
+* Oración simplificada: Para empezar a tejer nuestros conceptos, digamos que elegir una profesión es una de las decisiones económicas más importantes de la vida.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Mientras más escaso sea el producto, más alto será su precio, y este es un punto muy importante para la conocida ley económica, que es universal, de la oferta y la demanda.
+* Oración simplificada: Según la ley de la oferta y la demanda, mientras más escaso sea un producto, más alto será su precio.
+
+* Oración original: El porcentaje que se le asigne a cada componente del presupuesto, depende de la situación personal de cada uno.
+* Oración simplificada: El porcentaje de cada componente del presupuesto depende de la situación personal de cada uno.
+
+* Oración original: Si no se siente cómodo con la política, es importante considerar alternativas.
+* Oración simplificada: Si no le parece bien la política, considere alternativas.
+
+* Oración original: El estudio de la discriminación de precios consiste en el análisis de las estrategias que pueden utilizarse para extraer la mayor cantidad de excedente del consumidor posible; es decir, acercarse de la mejor manera a la disposición a pagar que tiene una persona.
+* Oración simplificada: Estudiar la discriminación de precios es analizar las estrategias para sacar la mayor cantidad de excedente del consumidor posible. Es decir, acercarse a la disposición de pago de una persona.
+
+* Oración original: Se necesita ser capaz de vislumbrar lo que realmente se desea.
+* Oración simplificada: Debemos visualizar nuestros deseos.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

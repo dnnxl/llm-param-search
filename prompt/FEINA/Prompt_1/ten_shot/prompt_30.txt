@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Por lo tanto, una de las definiciones de riqueza con las que más nos identificamos es la cantidad de tiempo que usted pasar sin disminuir su calidad de vida si su fuente lineal de ingresos desaparece.
+* Oración simplificada: Por lo tanto, nos identificamos con el concepto de riqueza definido como el tiempo que usted pasa sin disminuir su calidad de vida cuando su fuente lineal de ingresos desaparece es la definición de riqueza.
+
+* Oración original: Con ese gasto imprevisto, Terrel y Maya solo pudieron ahorrar $448 ese mes.
+* Oración simplificada: Con ese gasto imprevisto, Terrell y Maya ahorraron solo cuatrocientos cuarenta y ocho dólares ese mes.
+
+* Oración original: Como se explicó anteriormente, la cuota es constante, por lo que el ejercicio se convierte en una aplicación de una anualidad vencida.
+* Oración simplificada: Como se explicó anteriormente, la cuota es constante por lo que el ejercicio se convierte en una aplicación de una anualidad vencida.
+
+* Oración original: Lo mismo ocurre con el salmón o las frutas que, con sus variaciones de precio, mejoran o afectan los ingresos por concepto de exportaciones.
+* Oración simplificada: Lo mismo ocurre con el salmón o las frutas. Sus variaciones de precio mejoran o afectan los ingresos.
+
+* Oración original: Asimismo, debe conocer las obligaciones adicionales al crédito que obligan a mantener en perfecto estado de mantenimiento y conservación la garantía, nos referimos a los seguros y a las responsabilidades propias en que nos hacen incurrir los bienes, tales como derechos de circulación (vehículos) o impuestos territoriales y municipales (vivienda o lote).
+* Oración simplificada: Asimismo, debe conocer las obligaciones adicionales al crédito para mantener y conservar la garantía. Nos referimos a los seguros y a las responsabilidades propias en que nos hacen incurrir los bienes. Por ejemplo, derechos de circulación o impuestos territoriales y municipales.
+
+* Oración original: Lo anterior no significa, de ninguna manera, que no haya que controlar el precio de la leche, lo que hay que hacer es procurar que al mismo tiempo se abaraten los costos de producción, utilizando sistemas y técnicas que permitan producir más y a menor costo, para aumentar las ganancias y el capital.
+* Oración simplificada: Lo anterior no significa que no se debe controlar el precio de la leche. Al contrario, debemos buscar técnicas para producir más y a menor costo.
+
+* Oración original: El primer paso para identificar las metas para ahorrar es establecer las metas.
+* Oración simplificada: El primer paso para identificar las metas de ahorro es establecerlas.
+
+* Oración original: Suponga, además, que un banco le presta el dinero, y usted se compromete a pagarlo por medio de pagos mensuales de $172.22 durante tres años.
+* Oración simplificada: Además, un banco le presta el dinero y usted se compromete a pagar ciento setenta y dos dólares con veintidós centavos mensuales durante tres años.
+
+* Oración original: En ese caso, un año después de que el inversionista realizó su inversión el fondo tiene un valor de $950,000: los $900,000 que valen los bonos más los intereses de $50.
+* Oración simplificada: En ese caso, un año después de que el inversionista realizó su inversión el fondo tiene un valor de novecientos cincuenta mil dólares, los novecientos mil dólares que valen los bonos más los intereses de cincuenta dólares.
+
+* Oración original: Investigue y conozca acerca de cuáles son las mejores inversiones para usted basadas en sus metas financieras, tiempo límite y tolerancia de riesgo.
+* Oración simplificada: Investigue cuáles son las mejores inversiones para usted basadas en sus metas financieras, tiempo límite y tolerancia de riesgo.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

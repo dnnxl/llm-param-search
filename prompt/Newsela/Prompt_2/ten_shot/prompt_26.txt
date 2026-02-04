@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: El jueves, los republicanos de la Cámara de Representantes aprobaron un proyecto de ley que condenaría las ciudades que no compartan información de inmigrantes.
+* Oración simplificada: El jueves, los legisladores conservadores aceptaron un proyecto de ley.Este castigaría a las ciudades que no compartan información de inmigrantes con el gobierno.Estos legisladores conservadores se llaman republicanos.Usualmente se oponen al grupo demócrata.El Presidente Barack Obama es del partido demócrata.
+
+* Oración original: Pero estos momentos de liberación se ven ensombrecidos por la preocupación de que su transición la convierta en víctima de ataques o le traiga complicaciones de la salud.
+* Oración simplificada: Pero está preocupada por los riesgos a su salud.También porque su cambio la convierta en víctima de ataques.
+
+* Oración original: El Servicio de Control de Inmigración y Aduanas (ICE, en inglés) buscaba sacarlo del país por sexta vez.
+* Oración simplificada: La policía dice que quien le disparó fue un inmigrante que había sido liberado de la cárcel, aunque el Servicio de Control de Inmigración y Aduanas (ICE, en inglés) buscaba sacarlo del país.
+
+* Oración original: Hay muchos tipos de genes.
+* Oración simplificada: Hay muchos tipos de genes.Todos hacen diferentes funciones.
+
+* Oración original: La escuela cambió la forma de evaluar a los niños.
+* Oración simplificada: La escuela cambió la forma de evaluar a los niños.Todo el mundo pensó que los niños iban muy bien porque tenían buenas calificaciones.## Una nueva forma de evaluar
+
+* Oración original: Los investigadores Robert Faris, de la Universidad de California en Davis, y Diane Felmlee, de la Universidad Penn State, señalan que las opiniones tradicionales sobre la intimidación no expresan toda la problemática.
+* Oración simplificada: Los científicos Robert Faris, de la Universidad de California en Davis, y Diane Felmlee, de la Universidad Penn State, realizaron el estudio.Se dieron cuenta de que las opiniones iniciales sobre la intimidación no expresaban todo el problema.
+
+* Oración original: Tailandia es un país de Asia.
+* Oración simplificada: Ella es de Tailandia, un país de Asia.
+
+* Oración original: Y a pesar de que estas cifras son altas, la situación fue aún peor en los años 2003 y 2004.
+* Oración simplificada: ## Las cosas solían estar peorY a pesar de que el resultado fue alto, las cifras fueron aún peores en los años 2003 y 2004.
+
+* Oración original: "Definitivamente no podemos bajar la guardia", dijo el Dr. Tom Frieden, director de los Centros para el Control y la Prevención de Enfermedades."El mundo tiene que estar dispuesto a responder con mayor rapidez cuando un país se encuentra oprimido", afirmó.
+* Oración simplificada: ## No se puede bajar la guardia"Definitivamente no podemos bajar la guardia", dijo el Dr. Tom Frieden, director de los Centros para el Control y la Prevención de Enfermedades (Centers for Disease Control and Prevention, CDC)."El mundo tiene que estar dispuesto a responder con mayor rapidez cuando un país se encuentra oprimido", afirmó el Dr. Tom Frieden.
+
+* Oración original: Mark y los científicos recomiendan que más mujeres vuelen al espacio, y que más astronautas – hombres y mujeres – participen como sujetos de pruebas.
+* Oración simplificada: Mark y otros investigadores recomiendan que más mujeres vuelen al espacio.Ellos también dijeron que más astronautas, hombres y mujeres, deberían participar en los estudios.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

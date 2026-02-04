@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Veamos, ahora sí, con más detalle, cada uno de los factores de producción.
+* Oración simplificada: Veamos con más detalle cada uno de los factores de producción.
+
+* Oración original: Como descubrirá por usted mismo, si no aprende las reglas básicas de los negocios, las finanzas, los temas legales, contables, el análisis de las opciones y su rentabilidad, luego mientras más dinero tenga, más fallará a la hora de multiplicarlo.
+* Oración simplificada: Si no aprende las reglas básicas de los negocios, las finanzas, las leyes, contables, análisis de opciones y su ganancia, cuando tenga más dinero más fallará en las inversiones.
+
+* Oración original: ¿Acaso con estos dos términos no estamos significando la misma cosa?
+* Oración simplificada: ¿Con estos dos términos no estamos definiendo lo mismo?
+
+* Oración original: Nunca ha habido una persona que haya logrado el éxito o acumulado el dinero suficiente sin invertir.
+* Oración simplificada: No existe una persona que sin hacer inversiones alcance el éxito o acumule dinero suficiente.
+
+* Oración original: En este sentido, si la facturación crece, es normal que crezcan los variables; pero se necesita un presupuesto flexible para determinar si el crecimiento de los mismos está justificado o no.
+* Oración simplificada: En este sentido, si la facturación crece es normal que crezcan los variables. Pero se necesita un presupuesto flexible para determinar si el crecimiento de los mismos está justificado o no.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

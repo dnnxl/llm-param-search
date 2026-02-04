@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Haz todos los pagos en fecha, incluso si pagas solo el mínimo.
+* Oración simplificada: Paga puntualmente.
+
+* Oración original: El estado de resultados debe estar formulado con estas dos variables como se presenta en la figura.
+* Oración simplificada: El estado de resultados debe tener estas dos variables.
+
+* Oración original: La valoración de los títulos depende, en primer lugar, si la transacción se genera en mercado primario o mercado secundario.
+* Oración simplificada: La valoración de los títulos depende de si la transacción se genera en mercado primario o mercado secundario.
+
+* Oración original: El ingreso neto es el que queda después de todas las deducciones que por cualquier circunstancia deban hacerle, tanto oficiales o del Estado, impuestos por ejemplo, como de las autorizadas por la persona por cualquier concepto.
+* Oración simplificada: El ingreso neto es el que queda después de todas las deducciones circunstanciales, oficiales o del Estado y las autorizadas por la persona por cualquier concepto.
+
+* Oración original: Los criterios clásicos podemos resumirlos en tres, tan sencillos que podrás apreciarlos y aplicarlos:
+* Oración simplificada: Los criterios básicos son tres:
+
+* Oración original: En la economía general hacen subir los precios, afecta el empleo y empobrece a la población; en las empresas obliga a subir los precios, se confunde inflación con tasas de interés y bajan las utilidades; y en las personas genera que el mismo sueldo alcance para menos productos y servicios y se pierden empleos e ingresos.
+* Oración simplificada: Hacen subir los precios, afecta el empleo y empobrece a la población en la economía general. Obliga a subir los precios, se confunde inflación con tasas de interés y bajan las utilidades en las empresas. Además, genera un sueldo menos rendidor y se pierden empleos e ingresos en lo individual.
+
+* Oración original: Probablemente a estas alturas ya sabes si tu endeudamiento es excesivo para tu propia comodidad y bienestar.
+* Oración simplificada: Probablemente ya sabes si tu endeudamiento es excesivo.
+
+* Oración original: En base a dicha información, considerando los ingresos proyectados, se presupuesta el 2020.
+* Oración simplificada: Con base en dicha información y si se consideran los ingresos proyectados, se presupuesta el dos mil veinte.
+
+* Oración original: El cliente firma una escritura de prenda, en donde se compromete a pagar la suma prestada, ofreciendo en garantía de pago un bien mueble, que el acreedor previamente ha aceptado.
+* Oración simplificada: El cliente firma una escritura de prenda. En esta, se compromete a pagar la suma prestada y ofrece un bien mueble aceptado por el acreedor como garantía.
+
+* Oración original: Sin embargo, seguramente le dirán que debe tomar posesión de su cargo inmediatamente.
+* Oración simplificada: Sin embargo, seguramente le pedirán asumir el cargo inmediatamente.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: López Luján espera excavar el pasadizo y descubrir qué hay detrás de las dos puertas selladas.
+* Oración simplificada: López Luján cree que detrás de las puertas selladas encontrará las cenizas de los líderes mexicanos.
+
+* Oración original: "Estamos intentando enseñarles que deben tenerle miedo a las personas", explica Leahy, "no vamos a perseguir a un oso que está buscando comida en un arroyo, pero si lo hace en un área de estacionamiento, le vamos a enseñar que no puede estar ahí".
+* Oración simplificada: "Estamos enseñándoles que deben tenerle miedo a las personas", explica Leahy."No vamos a perseguir a un oso que está buscando comida en un arroyo, pero si lo hace del estacionamiento, les enseñamos que no puede estar ahí".
+
+* Oración original: KINGSTON, Jamaica — Todos los años, millones de personas van a las playas del Caribe de vacaciones.
+* Oración simplificada: KINGSTON, Jamaica — Todos los años, muchas personas visitan las playas del Caribe.
+
+* Oración original: También lo hacen cuando alguien que está cerca de ellos bosteza.
+* Oración simplificada: Cuando una persona que está cerca, usted también lo hace.
+
+* Oración original: Douglas paseaba por la calle cuando vio la gacela de Zumi y decidió preguntarle de qué se trataba el dibujo.
+* Oración simplificada: Parris Douglas paseaba por la calle cuando vio la gacela.Dijo que en Estados la gente habla de lo que quiera.Y eso le gusta mucho.
+
+* Oración original: Por su parte, la mujer del visitante y un empleado de Disney resultaron gravemente heridos.
+* Oración simplificada: La esposa del visitante y un empleado de Disney resultaron gravemente heridos en el accidente.
+
+* Oración original: "Amo los medios sociales, mis hijos son expertos en ellos, pero es muy importante tener un equilibrio".
+* Oración simplificada: ## Expertos en tecnología contra expertos en sociología"Amo los medios, mis hijos son expertos en ellos, pero es realmente importante tener un equilibrio", dijo Uhls.
+
+* Oración original: La portada del Philadelphia Daily News retrató a Trump levantando la mano derecha a modo de saludo nazi con el titular "El nuevo _Furor_".
+* Oración simplificada: El Philadelphia Daily News mostró una fotografía de Trump levantando la mano derecha como el saludo nazi con el encabezado "El nuevo _Furor_".
+
+* Oración original: El salario anual promedio israelí es 10 veces más que el salario promedio del palestino que suma alrededor de 3.000 dólares.
+* Oración simplificada: La situación de Nasir destaca la agobiante realidad de la vida en Ramallah, un lugar en que el salario anual promedio israelí es 10 veces más que el del promedio del palestino que suma alrededor de 3.000 dólares.## Preparando el paladar palestino
+
+* Oración original: Usan la fuerza y la violencia para obligar a las personas a seguir sus reglas.
+* Oración simplificada: Usan las armas para obligar a la gente a seguir sus reglas.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

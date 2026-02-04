@@ -1,0 +1,21 @@
+Simplifica el siguiente segmento discursivo dado los siguientes ejemplos:
+
+Por ejemplo:
+* Segmento original: Finalmente, una vez que se tiene el crédito hay que estar atento a las variaciones que se den tanto en las condiciones financieras propias del crédito (revisar oportunamente los estados de cuenta), así como en el entorno, de forma tal que nos permita reaccionar oportunamente en caso de que nuestra situación financiera se vea desmejorada.
+* Segmento simplificado: Finalmente, al obtener el crédito se deben revisar las variaciones en las condiciones financieras propias del crédito y en el entorno. De esta forma podemos reaccionar oportunamente en caso de que nuestra situación financiera se vea desmejorada.
+
+* Segmento original: Una deuda de consumidor ocurre cuando se usa crédito para pagar gastos diarios que no producen beneficios durante mucho tiempo.
+* Segmento simplificado: Una deuda de consumidor ocurre cuando paga gastos diarios improductivos durante mucho tiempo con el crédito.
+
+* Segmento original: Como se observa en la tabla, para corregir utilidad neta, el primer paso que se tomó fue sumar la depreciación debido a que este gasto no implica salida de efectivo y se utiliza únicamente como escudo fiscal.
+* Segmento simplificado: El primer paso tomado para corregir la utilidad neta fue sumar la depreciación. Porque este gasto no implica salida de efectivo. Y se utiliza solo como escudo fiscal.
+
+* Segmento original: Se basan en la necesidad que tiene el ser humano por saber y descubrir cosas nuevas y de las que ya lo rodean en el mundo, así como también de explorar lo desconocido.
+* Segmento simplificado: Se basan en la necesidad del ser humano por descubrir las cosas que lo rodean y de explorar lo desconocido.
+
+* Segmento original: El mercado bursátil es el conformado por ofertas, demandas y negociaciones de valores inscritos en el Catastro Público del Mercado de Valores, en las bolsas de valores y en el Registro Especial Bursátil (REB), realizadas por los intermediarios de valores autorizados, de acuerdo con lo establecido en la Ley.
+* Segmento simplificado: El mercado bursátil está conformado por ofertas, demandas y negociaciones de valores inscritos en el Catastro Público del Mercado de Valores. También en las bolsas de valores y el Registro Especial Bursátil, realizadas por los intermediarios de valores autorizados, según lo establecido por Ley.
+
+Simplifica el siguiente segmento:
+* Segmento original: PREPROCESS_TEXT
+* Segmento simplificado: 

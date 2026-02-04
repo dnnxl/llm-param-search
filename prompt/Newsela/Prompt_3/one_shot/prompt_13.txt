@@ -1,0 +1,15 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Sikich estima que la capacidad de sustento de la región sur de la ruta federal 101 de Estados Unidos, donde están atrapados sus pumas, es de "uno o dos machos adultos aproximadamente para entre cuatro a seis hembras adultas y sus crías, diez o quince como máximo" un número que "genéticamente no puede sostener una población en el futuro si no se conecta con las zonas del norte, a través de la autopista."
+* Oración simplificada: Sikich estima que la región al sur de la ruta federal 101 de los Estados Unidos, donde están atrapados sus pumas, tiene suficiente espacio para "uno o dos machos adultos, y entre cuatro y seis hembras adultas y sus crías; 10 o 15 ejemplares, como máximo".Con estos números, "genéticamente no se puede sostener una población en el futuro si no se conecta con las zonas del norte a través de la autopista".
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

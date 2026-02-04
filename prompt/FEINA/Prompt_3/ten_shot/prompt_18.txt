@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: También podrías recibir parte de las ganancias como un dividendo.
+* Oración simplificada: Podrías recibir parte de las ganancias como una cuota.
+
+* Oración original: Mantiene a miles de hombres actuando como niños, soñando infantilmente.
+* Oración simplificada: Hace actuar a miles de hombres como niños, soñando infantilmente.
+
+* Oración original: Concluye Méndez diciendo que: de lo anterior surge la importancia de ejercer controles ambientales de la producción agrícola teniendo en cuenta los efectos microclimáticos, los nutrientes, los suelos, la combinación de cultivos, la erosión y los efectos del fuego y de la reforestación.
+* Oración simplificada: Méndez concluye que la importancia de ejercer controles ambientales de la producción agrícola surge de lo anterior. Pues se debe atender los efectos microclimáticos, los nutrientes, los suelos, la combinación de cultivos, la erosión y la reforestación.
+
+* Oración original: El resultado representaría la concentración de los recursos invertidos o la forma en la que fueron financiados, ya sean cuentas de activo o pasivo y patrimonio, respectivamente.
+* Oración simplificada: El resultado representaría la concentración de los recursos invertidos o la forma de financiamiento. Sean cuentas de activo o pasivo y patrimonio.
+
+* Oración original: Un importante documento sobre el tema de la Economía sostiene que: El hombre vive en sociedad para mejorar su bienestar intelectual, espiritual, moral, económico, etc.
+* Oración simplificada: En un importante documento sobre el tema de la economía se dice que el hombre vive en sociedad para mejorar su bienestar intelectual, espiritual, moral, económico, etcétera.
+
+* Oración original: Además, una cuenta de ahorros permite saber cuánto dinero se tiene disponible y cuánto se está gastando cada mes.
+* Oración simplificada: Además, una cuenta de ahorros permite saber cuánto dinero tiene disponible y cuánto gasta cada mes.
+
+* Oración original: En primer lugar, la persona debe tener muy clara cuál es su capacidad de pago y cuánto puede llegar a pagar por el crédito, sin afectar sustancialmente su flujo de dinero.
+* Oración simplificada: Primero, la persona debe tener clara su capacidad de pago y el crédito que puede pagar sin afectar su flujo de dinero.
+
+* Oración original: El cálculo del interés en una operación de interés simple, responde a la siguiente ecuación:
+* Oración simplificada: El interés simple en una operación se calcula con una ecuación:
+
+* Oración original: Sin la presencia y acción de las empresas, es prácticamente imposible concebir hoy en día la satisfacción de muchas de las necesidades de las personas y de los países y el funcionamiento de la economía a nivel nacional y global.
+* Oración simplificada: No se puede concebir la satisfacción de muchas de las necesidades de las personas y los países, ni el funcionamiento de la economía a nivel nacional y global, sin la acción de las empresas.
+
+* Oración original: Posteriormente se sombrea la tabla y se ingresa a la herramienta a través de la ruta Datos, Análisis y si, Tabla de datos.
+* Oración simplificada: Después sombreamos la tabla e ingresamos a la herramienta mediante la ruta Datos, Análisis y Tabla de datos.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

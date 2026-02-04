@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: En la temporada 2013-2014, los seguidores del CSKA de Moscú hicieron sonidos que imitaban al mono refiriéndose al jugador del Manchester City Yaya Touré.
+* Oración simplificada: La temporada pasada, los aficionados del CSKA de Moscú hicieron ruidos imitando a un mono dedicados a un jugador de color de otro equipo.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

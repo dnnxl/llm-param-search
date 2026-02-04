@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: El gobernador del estado, Jerry Brown, firmó una ley que les prohíbe a las escuelas públicas utilizar el nombre _Redskins_ (pieles rojas) para sus equipos deportivos.
+* Oración simplificada: Actualmente, todas identifican a sus equipos deportivos y mascotas como _Redskins_ (pieles rojas), pero ese nombre ha sido prohibido por el estado.El gobernador del estado, Jerry Brown, firmó una ley que les prohíbe a las escuelas públicas usar el nombre "Redskins" para sus equipos deportivos.
+
+* Oración original: Adidas afirmó el jueves que proporcionará recursos de diseño gratis para las escuelas que elijan sustituir las mascotas relacionadas con los indios nativo americanos.
+* Oración simplificada: Adidas proporcionará recursos de diseño gratis para las escuelas que elijan sustituir las mascotas con temas nativo americanos.
+
+* Oración original: Y en sus laderas se encuentra con otro flagelo: una plaga de insectos.
+* Oración simplificada: Además, en sus campos se encuentra con otro problema, ya que una plaga de insectos está devorando sus cultivos.
+
+* Oración original: Los críticos dijeron que les gustó la animación de la película.
+* Oración simplificada: A la gente le encantó la animación de la película.
+
+* Oración original: A nivel personal, dice Nagle, los trabajadores de sanidad pueden llegar a conocer el ritmo de vida de la gente de su ruta por las cosas que tiran a la basura, el "registro físico de nuestras vidas diarias", como lo llama Nagle.
+* Oración simplificada: Además, dice Nagle, los trabajadores de sanidad conocen a las personas de su ruta por el tipo de cosas que tiran a la basura.
+
+* Oración original: La montaña también es el hogar de más de 250 santuarios y cementerios.
+* Oración simplificada: Tiene más de 250 cementerios y lugares religiosos.
+
+* Oración original: El voto unánime a favor de la propuesta de Japón fue aprobado después de que este país llegara a un acuerdo con Corea del Sur.
+* Oración simplificada: ## Japón obtiene su título tras llegar a un acuerdo con Corea del SurLa propuesta de Japón fue aprobada después de que este país llegara a un acuerdo con Corea del Sur.
+
+* Oración original: La joven explica que algunas personas dicen que piensa demasiado en su color de piel.
+* Oración simplificada: La gente le dice que piensa demasiado en su color de piel.Ella piensa que es algo muy importante.
+
+* Oración original: Aun así, Warnick afirma que los alemanes del este como él, que se apilaron delante del Muro en 1989 no trataban de cambiar el mundo.
+* Oración simplificada: Warnick dice que la gente que se reunía alrededor del muro hace 25 años no intentaba cambiar el mundo.
+
+* Oración original: Las tribus están en contra de esa iniciativa, porque les inquieta que los cazadores puedan matar a los osos _grizzly_ que muchos consideran sagrados.
+* Oración simplificada: Las tribus están preocupadas porque los cazadores podrían matar a los osos _grizzly_ que muchos consideran sagrados.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

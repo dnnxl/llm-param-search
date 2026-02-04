@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: "Me apuntó con la pistola y me dijo: 'Te puedo matar y nadie se va a dar cuenta o puedo llamar a mis amigos de la guardia costera para que alerten a la policía de que están aquí y los arresten'''.
+* Oración simplificada: Los contrabandistas turcos se dividen la costa y defienden ferozmente sus territorios."Me apuntó con la pistola y me dijo: 'Te puedo matar y nadie se va a dar cuenta o puedo llamar a mis amigos de la guardia costera para que alerten a la policía de que están aquí y los arresten''', explicaba Seraj, de 25 años de edad.
+
+* Oración original: ### A FAVOR: Nuestros gobernadores quieren proteger a los Estados Unidos.
+* Oración simplificada: ### A FAVOR: Los guerreros del Estado Islámico podrían infiltrarse.
+
+* Oración original: Antes de que las _girl scouts_ que visitan a Kaiser lleguen a la parte más divertida de su excursión —trabajar con Stanley en los maniquíes robots— oyen las cifras que ilustran la brecha de género en el mundo de los 'geeks':
+* Oración simplificada: Antes de que las _girl scouts_ que visitan a Kaiser trabajen con los robots maniquíes , Stanley les da información sobre la brecha de géneros: las mujeres componen la mitad de la población pero tienen solo una cuarta parte de las plazas de trabajo en las materias de STEM.Además, las mujeres en empleos relacionados con los campos de STEM ganan un 33 por ciento más dinero que las que trabajan en otras áreas.
+
+* Oración original: Aún cuando es normal que de vez en cuando algunos animales se separen de su medio, los científicos comienzan a pensar en que el reciente aumento de traslados entre las cuencas marinas de los océanos Pacífico y Atlántico no sea accidental.
+* Oración simplificada: Aún cuando es común que de vez en cuando algunos animales se separen de su medio, los estudiosos comienzan a pensar en que el aumento de traslados entre los océanos Pacífico y Atlántico no son un accidente.
+
+* Oración original: Las metas académicas son establecidas por los profesores y por un programa de computadoras.
+* Oración simplificada: Las metas de estudio son establecidas por los maestros y por un programa de computadoras.
+
+* Oración original: Se quemaban los cuerpos de los gobernantes que ya habían muerto.
+* Oración simplificada: Se quemaban los cuerpos de los reyes que habían muerto.
+
+* Oración original: Y regresó a Arabia Saudita para buscar trabajo en una compañía grande.
+* Oración simplificada: Encontró trabajo en una compañía grande.
+
+* Oración original: Según su versión, la complejidad de las letras implicaba que se tardara de cinco a 10 horas en completar un solo letrero.
+* Oración simplificada: Al artista le tomó dos meses completar unos 20 letreros, ya que tardaba de 5 a 10 horas en dibujar las complicadas letras de un solo cartel.
+
+* Oración original: Los osos _grizzly_ agreden a los cazadores.
+* Oración simplificada: Los osos a veces atacan a los cazadores.
+
+* Oración original: Los científicos de Maryland, ya han analizado la última imagen enviada por la sonda.
+* Oración simplificada: Los científicos de Maryland ya han analizado la última fotografía enviada por la nave espacial, que combina una imagen en escala de grises con otra imagen a color que había sido tomada al principio del día.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

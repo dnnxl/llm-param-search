@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: El Servicio de Inmigración y Control de Aduanas de los Estados Unidos dijo en un comunicado que estaba "comprometido a garantizar la seguridad y el bienestar de todas las personas bajo su custodia".
+* Oración simplificada: El Servicio de Inmigración y Control de Aduanas de Estados Unidos  (U.S. Immigration and Customs Enforcement) dijo en un comunicado que estaba "comprometido a garantizar la seguridad y el bienestar de todas las personas bajo su custodia".
+
+* Oración original: — Muchos de los visitantes afectados ya tenían problemas de salud previos.
+* Oración simplificada: — Muchos de los visitantes ya tenían problemas de salud.
+
+* Oración original: los desamparado desperdicios de sus playas.
+* Oración simplificada: los desperdicios de sus playas.
+
+* Oración original: Antes, la mayoría de la gente trabajaba a tiempo completo.
+* Oración simplificada: Antes, casi todas las personas trabajaban a tiempo completo.
+
+* Oración original: Gilbert Alarcón, dueño de una imprenta en Downey desde hace 10 años, comentaba que la ciudad era conocida como el "Beverly Hills mexicano".
+* Oración simplificada: Gilbert Alarcón es dueño de una imprenta."Uno está en una nueva ciudad y un nuevo lugar", explica Gilbert.
+
+* Oración original: Lo mismo ocurrió en un 7 por ciento de los estudiantes de 13 años y 13 por ciento de los de 17 años.
+* Oración simplificada: Lo mismo pasó con los estudiantes de 13 años.Fue un poco más de una décima parte para los estudiantes de 17 años.
+
+* Oración original: Es una combinación de la forma en que me han educado, más ganas y entusiasmo ", (una razón para hacer las cosas) comenta después de un turno de trabajo en el Armstrong Flight Research Center de la NASA en Edwards, California.
+* Oración simplificada: Es una mezcla de la forma en que me han educado, más espíritu y más ganas", comenta después de un turno de trabajo.
+
+* Oración original: En Bagdad, Falah dejará a su esposa y a su hija de 6 meses, esperando que pronto puedan irse con él a Europa.
+* Oración simplificada: Falah quiere marcharse a Europa.Dejará en Irak a su esposa y a su hija.Espera que pronto puedan reunirse con él.Allí podrá ofrecerles una vida mejor.
+
+* Oración original: Pero su comunidad es tan grande que su influencia se deja sentir más allá de los centros de votación.
+* Oración simplificada: Los latinos no hacen uso de su influencia política ya que muchos de ellos no votan, pero su comunidad es tan grande que su influencia se deja sentir más allá de los centros de votación.
+
+* Oración original: WICHITA (Kansas) —  Hace ya algún tiempo, cuando Seth Ogden era más pequeño y se encontraba de visita en casa de sus abuelos (actualmente tiene 8 años de edad), su abuela le preguntó su opinión acerca de las rosas que tenía en el jardín.
+* Oración simplificada: WICHITA (Kansas) —  Cuando Seth Ogden, de ocho años era más pequeño, su abuela le preguntó acerca de las rosas del jardín.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

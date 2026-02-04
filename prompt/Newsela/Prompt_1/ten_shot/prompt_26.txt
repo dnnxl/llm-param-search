@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Michael Casserly, director ejecutivo del Consejo, dijo que es muy difícil calcular cuánto es demasiado tiempo para las pruebas.
+* Oración simplificada: Es muy difícil calcular cuánto es demasiado tiempo para hacer exámenes, dijo Michael Casserly.Casserly dijo que durante el estudio se identificó un problema.
+
+* Oración original: Estas muertes pasan desapercibidas.
+* Oración simplificada: Estas muertes no causan gran interés.
+
+* Oración original: Descubrieron que dichas células se comportaban de forma idéntica a las de los elefantes y que se autodestruían cuando eran expuestas a drogas dañinas.
+* Oración simplificada: Descubrieron que las células de ratón se comportaban igual a las de los elefantes y se autodestruían.
+
+* Oración original: ## Los instrumentos necesarios son básicos
+* Oración simplificada: ## Instrumentos nuevos para problemas nuevos
+
+* Oración original: Ambos grupos de investigación afirmaron que todavía queda mucho por hacer para determinar con exactitud cómo este ADN neandertal ayudó a sobrevivir a los seres humanos.
+* Oración simplificada: ## El mestizaje ayudó a los humanos a sobrevivirAmbos grupos de investigación afirmaron que todavía queda mucho por hacer para determinar con exactitud cómo este ADN neandertal ayudó a sobrevivir a los seres humanos.
+
+* Oración original: con varias familias y dividieron entre sí el costo total de $2.571, más un extra de $300 por el costo que implica el proceso de preparación.
+* Oración simplificada: Este mes compartió una vaca de 935 libras de peso (425 kilogramos) con varias familias, y dividieron entre sí el costo total de $2.571.
+
+* Oración original: ALEPPO, Siria — La capilla en la mezquita del siglo XII parece un apartamento de soltero -tazas de té y café cubrían la mayoría de las superficies y las colillas de cigarro estaban por todos lados.
+* Oración simplificada: ALEPPO, Siria — La capilla en la mezquita del siglo XII era un desorden — tazas de té y café cubriendo la mayoría de las superficies y las colillas de cigarros estaban por todos lados.
+
+* Oración original: Una es Wendy's y la otra es Publix.
+* Oración simplificada: Una se llama Wendy's y la otra se llama Publix.
+
+* Oración original: "Existe un peligro al tratar de homogeneizar la experiencia de los estadounidenses de origen asiático", explicó Karthick Ramakrishnan, profesor de políticas públicas y ciencias políticas en la Universidad de California en Riverside.
+* Oración simplificada: Karthick Ramakrishnan es profesor en la Universidad de California.Él entiende que es un error decir que todos los estadounidenses de origen asiático son exitosos.
+
+* Oración original: La suspensión del niño refleja las estrictas políticas disciplinarias que muchas escuelas estadounidenses adoptaron en la década de 1990.
+* Oración simplificada: La suspensión del niño es un ejemplo de las estrictas normas que muchas escuelas estadounidenses adoptaron en la década de 1990.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

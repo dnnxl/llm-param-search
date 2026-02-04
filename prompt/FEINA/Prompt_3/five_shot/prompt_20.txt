@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Eficiencia por parte de los trabajadores que deben saber el oficio completamente y cumplirlo con alegría y respeto; eficiencia en el uso de las instalaciones y de la maquinaria, que consiste en no tener máquinas ociosas, sin ocuparlas en algo, y en manejarlas en forma tal que duren más y produzcan todo lo que son capaces de producir; eficiencia en el uso de las materias primas para no desperdiciarlas y utilizarlas al máximo.
+* Oración simplificada: Eficiencia por parte de los trabajadores. Eficiencia en el uso de las instalaciones y de la maquinaria. Eficiencia en el uso de las materias primas, usarlas al máximo y sin desperdicio.
+
+* Oración original: Los recursos naturales en nuestros países, aunque abundantes en todos los órdenes, quizás no han sido suficiente ni racionalmente explotados.
+* Oración simplificada: Los recursos naturales en nuestros países no se explotan racionalmente.
+
+* Oración original: Las empresas financieras no bancarias están autorizadas para conceder préstamos o créditos directos a personas físicas o jurídicas del sector privado; comprar, descontar y aceptar en garantía pagarés, prendas, letras de cambio, hipotecas y, en general toda clase de títulos valores e instrumentos comerciales; conceder préstamos con garantía de cualquier tipo de títulos valores o bienes muebles e inmuebles; conceder préstamos con hipotecas o créditos hipotecarios; realizar operaciones de fideicomiso; realizar otras operaciones o actividades lícitas y compatibles con la naturaleza de las empresas financieras.
+* Oración simplificada: Las empresas financieras no bancarias pueden dar préstamos o créditos directos a personas físicas o jurídicas privadas. Comprar, descontar y aceptar cualquier título de valor o instrumento comercial. Hacer préstamos garantizados de cualquier título valor o bienes muebles e inmuebles. Dar préstamos o créditos hipotecarios. Realizar fideicomisos. Realizar otras acciones legales de las empresas financieras.
+
+* Oración original: Muchos autores se han ocupado a través de la historia de la dimensión moral de los impuestos o de la tributación, sin embargo hay dos de ellos cuyos principios son muy estimados y siguen teniendo gran vigencia, ellos son Adam Smith (1723-1790) y Alexis de Tocqueville (1805-1859).
+* Oración simplificada: Muchos autores se han ocupado de la dimensión moral de los impuestos o de la tributación. Sin embargo, hay dos de ellos cuyos principios son muy estimados y siguen teniendo vigencia: Adam Smith (1723-1790) y Alexis de Tocqueville (1805-1859).
+
+* Oración original: Mantenga registros de sus pagos hechos en línea y revise que su correo electrónico esté actualizado en la entidad que realiza los pagos.
+* Oración simplificada: Registre sus pagos electrónicos y actualice su correo en la institución donde hace los pagos.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

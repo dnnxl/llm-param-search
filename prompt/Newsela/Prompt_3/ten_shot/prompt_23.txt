@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: En California, El Niño es famoso por sus aguaceros, que paralizan el tráfico y desbordan los ríos.
+* Oración simplificada: En California, El Niño es famoso por sus aguaceros, aunque muchas veces desvía la lluvia de los campos de cosecha.
+
+* Oración original: La opinión de Rivera hace eco a una nueva ola de investigaciones que ha descubierto sorprendentes avances en esta actividad que muchos menosprecian como pérdida de tiempo, cuando no una rotunda amenaza.
+* Oración simplificada: Es posible que Rivera tenga razón.Una nueva ola de investigaciones ha descubierto sorprendentes avances en la actividad que muchos menosprecian como pérdida de tiempo, cuando no una rotunda amenaza.
+
+* Oración original: A principios de este mes los usó por primera vez.
+* Oración simplificada: Este mes los usó por primera vez.
+
+* Oración original: La educación tiene que enfocarse en mejorar cómo los estudiantes piensan, trabajan y utilizan la tecnología, y en las habilidades sociales y emocionales necesarias para colaborar con los demás.
+* Oración simplificada: La educación tiene que enfocarse en mejorar cómo los estudiantes piensan y en las herramientas sociales y emocionales necesarias para trabajar en equipo.
+
+* Oración original: Pero aunque la seguridad en la ciudad ha mejorado, los bombardeos continúan.
+* Oración simplificada: La seguridad en la ciudad ha mejorado, pero los bombardeos continúan.
+
+* Oración original: Se tardaron mucho en entender lo que pasaba.
+* Oración simplificada: Se tardaron mucho en entender qué era lo que pasaba con los granos calientes.
+
+* Oración original: KINGSTON, Jamaica — Descalzo y vistiendo ropa que le fue donada, Renaldo Brown de 12 años, toca de forma metódica escalas en una flauta bajo un toldo de árboles en la escuela vocacional de Jamaica, reconocida por educar a un gran número de los mejores instrumentistas de esta musical isla.
+* Oración simplificada: KINGSTON, Jamaica — Renaldo Brown es un niño de 12 años, descalzo y luciendo ropa donada, toca de forma metódica escalas en una flauta bajo un techo de árboles.Brown es alumno en una escuela vocacional de Jamaica, reconocida por educar a muchos de los mejores instrumentistas de esta musical isla.
+
+* Oración original: Aunque nunca regresó a las ligas mayores antes de retirarse en 2013, Nitkowski está seguro de que aprovechó todo su talento natural.
+* Oración simplificada: Aunque nunca regresó a las ligas mayores, Nitkowski está seguro de que aprovechó todo su talento natural.Nitkowski comprende por qué muchos jugadores activos lo consultan al respecto.
+
+* Oración original: Edelman también comentó que el grupo todavía estaba aprendiendo a trabajar en equipo.
+* Oración simplificada: Hace poco, Edelman dijo que su grupo todavía estaba aprendiendo a trabajar en equipo.
+
+* Oración original: Se las arregla para seguir adelante, y no es la única.
+* Oración simplificada: Toda la familia trabaja para seguir adelante.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: — El 14 de julio, el centro de control de la New Horizons, en Maryland, recibió una confirmación por radio desde el lugar más remoto al que se ha llegado en el sistema solar.
+* Oración simplificada: Laboratorio de Física Aplicada, Laurel, Md.El 14 de julio, el centro de control de Maryland recibió una confirmación por radio desde el lugar más lejano al que se ha llegado en el sistema solar.
+
+* Oración original: También se han colocado estaciones con trampas de pelo cerca de las cámaras.
+* Oración simplificada: ##Sonríe para la cámaraSe han colocado estaciones con trampas de pelo cerca de las cámaras.
+
+* Oración original: En India los funcionarios señalan la existencia de tan solo 500 leones en todo el país.
+* Oración simplificada: Según los funcionarios indios, quedan tan solo 500 leones en todo el país.
+
+* Oración original: El Thirty Meter Telescope (TMT) utiliza un espejo de 30 metros de diámetro que permite ver 100 veces más lejos y con mayor claridad que cualquier otro telescopio.
+* Oración simplificada: Un proyecto pretende construir un telescopio de 1.400 millones de dólares en la cima de la montaña.El telescopio se llama Thirty Meter Telescope (TMT).Utiliza un espejo que permite ver 100 veces más lejos y con mayor claridad que cualquier otro telescopio.
+
+* Oración original: "En algunos orfanatos de Uganda no tienen luz", dijo ella.
+* Oración simplificada: "Hay orfanatos de Uganda donde no tienen nada de luz", dijo ella.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

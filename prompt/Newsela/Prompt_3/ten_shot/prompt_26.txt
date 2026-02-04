@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Como por ejemplo poder tomar dinero prestado y tener mejores semillas, fertilizantes, capacitación y mercados en los que puedan vender lo que cultivan.
+* Oración simplificada: Necesitan tener mejores semillas, fertilizantes, capacitación y mercados en los que puedan vender lo que cultivan.
+
+* Oración original: La _girl scout_ Taylor Duzel, de 12 años, fue una de las que levantó la mano cuando Stanley les preguntó a las chicas quiénes querían seguir una carrera en materias de STEM.
+* Oración simplificada: Tras su experiencia en Kaiser, la _girl scout_ Taylor Duzel, de 12 años, salió más convencida de que quiere ser doctora.
+
+* Oración original: A un cierto punto se detuvo y, tomando una de las hojas ya marchitas, admiraba las pequeñas motas rojas que había en ella y que nunca antes había logrado distinguir.
+* Oración simplificada: En cierto punto se detuvo y, tomando una hoja seca, admiraba las pequeñas motas rojas que nunca antes había logrado distinguir.
+
+* Oración original: Las medidas de control se implementan en la frontera en un momento en que crecientes señales a lo largo del continente parecen indicar que la libertad de tránsito característica de Europa se encuentra gravemente amenazada.
+* Oración simplificada: Las medidas de control fronterizo llegan en un momento en que la libertad de tránsito entre los países europeos se encuentra gravemente amenazada.
+
+* Oración original: Incluso entre los padres en hogares de mayores ingresos, casi 1 de cada 10 dijo que su hijo había disminuido la participación en los deportes debido al costo – el doble de lo que se reportó en el 2012.
+* Oración simplificada: Incluso entre los estudiantes de familias de mayores ingresos, la participación ha disminuido.Casi 1 de cada 10 padres dijo que su hijo había ido disminuyendo la participación en los deportes por su costo– el doble de lo que se reportó en el 2012.
+
+* Oración original: Esto se debe en gran parte a Kirsten Bohn, una bióloga que comenzó a organizar actividades para obtener información sobre el animal.
+* Oración simplificada: Esto se debe a Kirsten Bohn, una científica experta en murciélagos.Bohn comenzó a organizar actividades para obtener más información sobre este animal.
+
+* Oración original: Hasta ahora, las pruebas con animales y los experimentos con embriones humanos no implantables indican que la aplicación de estas técnicas implica poco riesgo.
+* Oración simplificada: Hasta ahora, las pruebas con animales y los experimentos con seres humanos indican que la aplicación de estas técnicas presenta poco riesgo.
+
+* Oración original: Para las mujeres no más de 25 gramos al día y para los hombres no más de 35 gramos.
+* Oración simplificada: Las mujeres no deben consumir más de 25 gramos al día y los hombres no más de 35 gramos.
+
+* Oración original: El baloncesto también es visto como algo más aceptable socialmente.
+* Oración simplificada: El baloncesto también es visto como algo más aceptable por la sociedad que otros deportes para niñas.
+
+* Oración original: "He escuchado ambas versiones.
+* Oración simplificada: "He escuchado cosas de ambos lados.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

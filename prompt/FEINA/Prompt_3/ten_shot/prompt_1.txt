@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Activos: Antes de explicar, lo que aquí se debe hacer, señalemos, que los activos son todas las cosas o bienes que se posee.
+* Oración simplificada: Activos: Antes de explicar, señalemos que los activos son todas las cosas o bienes que se posee.
+
+* Oración original: Guarda el dinero del fondo de emergencia en una cuenta distinta a la de los ahorros generales.
+* Oración simplificada: Guarde el dinero del fondo de emergencia en una cuenta distinta a la cuenta de los ahorros generales.
+
+* Oración original: También, se consideran los diversos criterios para hacer una inversión, teniendo en cuenta diferentes enfoques;
+* Oración simplificada: También, consideramos diversos criterios para hacer una inversión desde diferentes enfoques.
+
+* Oración original: Así, pues, el trabajo del ser humano convierte en riqueza los elementos que le ofrecen el suelo, el subsuelo, las aguas y el aire.
+* Oración simplificada: Así, el ser humano convierte en riqueza los elementos ofrecidos por el suelo, el subsuelo, las aguas y el aire.
+
+* Oración original: Puede ser que quiera comprar algo ahora porque tiene descuento.
+* Oración simplificada: Puede que quiera comprar algo ahora porque tiene descuento.
+
+* Oración original: La tasa de descuento aplicada es del 2% mensual.
+* Oración simplificada: Se aplicó una tasa de descuento del dos por ciento mensual.
+
+* Oración original: Sé que te tomará algún tiempo hacer esto, pero este tiempo no es nada comparado con lo que este ejercicio puede representar para tu futuro financiero.
+* Oración simplificada: Te tomará algún tiempo hacer esto, pero este ejercicio puede ser sumamente favorable para tu futuro financiero.
+
+* Oración original: » Chile se ubicó en el lugar 24, o sea, entre los países de baja corrupción.
+* Oración simplificada: Chile se ubicó en el lugar veinticuatro. Es decir, entre los países de baja corrupción.
+
+* Oración original: Pero en el sentido de que el goce de la vida depende de la seguridad, el tiempo disponible para esparcimiento o los productos de la industria, la mayoría de las personas eran mucho más pobres que los pobres de hoy.
+* Oración simplificada: El goce de la vida depende de la seguridad, del tiempo disponible para esparcimiento o los productos de la industria. Por ello, la mayoría de las personas eran más pobres que actualmente.
+
+* Oración original: El Mercado Financiero, tiene como objetivo regular los mercados de valores, que permiten, a la vez, la realización de las diversas operaciones con relación a los valores, las personas físicas o jurídicas que intervienen directa o indirectamente en dichas operaciones, los actos o contratos relacionados con tales mercados y los valores negociados en ellos.
+* Oración simplificada: El mercado financiero regula los mercados de valores. Estos realizan diversas operaciones relacionadas con los valores, las personas físicas o jurídicas, los contratos relacionados con los mercados y los valores negociados.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

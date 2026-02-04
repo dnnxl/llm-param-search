@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: "Hemos estado pidiendo esto en nuestras oraciones desde el año 2012", decía Susan Santos.
+* Oración simplificada: "Hemos estado pidiendo esto en nuestras oraciones desde el año 2012", decía Susan Santos, quien añadió que quieren ofrecer salarios justos y "hacerlo todo de forma correcta y legal".
+
+* Oración original: ## Un debate de dos hermanas sobre una semana de cuatro días
+* Oración simplificada: ## Un día de preparación para los profesores
+
+* Oración original: En el caso de los García, el padre dice que durante el año escolar de 2011-2012, durante una separación matrimonial, su hija y su esposa vivieron nueve meses en casa del padre de su esposa  en Lower Moreland,  un pintoresco municipio suburbano de hermosas colinas y casas de piedra al estilo colonial.
+* Oración simplificada: En el caso de los García, el padre dice que se separó de su esposa durante el año escolar 2011-2012, y que ella y su hija vivieron nueve meses en Lower Moreland, un pintoresco municipio de Pensilvania.
+
+* Oración original: Existe gran preocupación porque la ley "Que ningún niño se quede atrás" y otras leyes, han ocasionado una reducción de algunas clases disponibles, quitando tiempo de enseñanza en temas cívicos.
+* Oración simplificada: Hay preocupaciones acerca de leyes como "Que ningún niño se quede atrás" y otras que han resultado en menos temas estudiados en la escuela.
+
+* Oración original: Mientras tanto, los investigadores médicos estadounidenses están mirando nuevamente las diferencias entre hombres y mujeres en el espacio.
+* Oración simplificada: En Estados Unidos, los científicos están estudiando las diferencias entre hombres y mujeres en el espacio.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

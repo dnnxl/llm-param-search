@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Cuando tenía unos 3 años, Brannon tuvo la idea de que podían convertirla en pequeños pedacitos de papel.
+* Oración simplificada: A los 3 años, a Brannon se le ocurrió que podían convertirla en pequeños pedacitos de papel.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Pagos Electrónicos: en caso de contar con una empresa, se puede realizar el pago electrónico de planilla o directamente a los proveedores desde la Sucursal Electrónica.
+* Oración simplificada: Podemos hacer pagos electrónicos desde la sucursal electrónica.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

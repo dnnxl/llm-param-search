@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Y dos: en un momento determinado debo tener un análisis comparativo en cuanto a tres parámetros importantes: dólar, oro e inflación.
+* Oración simplificada: Y dos, debo tener un análisis comparativo en cuanto a tres parámetros importantes: dólar, oro e inflación.
+
+* Oración original: El IVA (impuesto al valor agregado) y el de rentas (del trabajo y del capital o utilidades de la industria y del comercio).
+* Oración simplificada: El impuesto al valor agregado y el de rentas.
+
+* Oración original: El capital está seguro en tanto conserves el valor hasta el vencimiento del plazo (el momento en el que el gobierno se compromete a devolverte el capital).
+* Oración simplificada: El capital está seguro mientras conserves el valor hasta el vencimiento de plazo.
+
+* Oración original: Generalmente, las hipotecas tienen deuda asegurada, si usted no hace los pagos con tiempo o no termina de pagar el préstamo, el prestamista (banco o institución financiera) puede tomar posesión de la casa.
+* Oración simplificada: Generalmente, las hipotecas tienen deuda asegurada. Así, el prestamista puede apoderarse de la casa si usted retrasa los pagos o no termina de pagar el préstamo.
+
+* Oración original: Las organizaciones sin fines de lucro ofrecen los planes jubilatorios 403(b), similares a los planes 401(k).
+* Oración simplificada: Las organizaciones sin fines de lucro ofrecen los planes de jubilación cuatrocientos tres b, estos son similares a los planes cuatrocientos uno k.
+
+* Oración original: La Educación Financiera es el proceso educativo por medio del cual las personas toman conciencia de la importancia de desarrollar conocimientos, actitudes, destrezas, valores, hábitos y costumbres en el manejo de la economía personal y familiar, por medio del conocimiento y la utilización adecuada de las herramientas e instrumentos básicos de la vida financiera.
+* Oración simplificada: La Educación Financiera es el proceso por el que las personas toman conciencia sobre la importancia de desarrollar conocimientos, actitudes, destrezas, valores y hábitos en el manejo de la economía personal y familiar, por medio de la utilización adecuada de las herramientas básicas de la vida financiera.
+
+* Oración original: Generalmente, incorporan promociones de compras para pagos en cuotas, con o sin intereses, o por el pago total o parcial de lo facturado más una tasa de interés.
+* Oración simplificada: Generalmente incorporan promociones de compras para pagos en cuotas con o sin intereses, o por el pago total o parcial de lo facturado más una tasa de interés.
+
+* Oración original: En el marco de una cultura de prosperidad o éxito la educación financiera contribuye a la formación en valores, entre otros, como la honestidad, la responsabilidad, el respeto, el cumplimiento; es decir, el desarrollo de comportamientos económicos adecuados como las diversas vías de ganar dinero y su adecuada utilización o administración.
+* Oración simplificada: En una cultura de prosperidad, la educación financiera contribuye a la formación de valores para el desarrollo de comportamientos económicos adecuados, como las diversas formas de ganar dinero y su administración.
+
+* Oración original: Cobros derivados del reembolso de anticipos y préstamos a terceros (distintos de las operaciones de este tipo hechas por entidades financieras).
+* Oración simplificada: Cobros de devolución de adelantos y préstamos a terceros.
+
+* Oración original: A medida que leo el libro de los Proverbios en la Biblia, encuentro que está lleno con toda clase de principios comerciales que manan del corazón de Dios.
+* Oración simplificada: Leo los Proverbios de la Biblia y pienso que están llenos de principios comerciales que salen del corazón de Dios.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

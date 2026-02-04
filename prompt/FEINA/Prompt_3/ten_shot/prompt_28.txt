@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: El riesgo: Está en función de que a su vencimiento y durante la vigencia del mismo, el emisor cumpla con lo pactado en las cláusulas.
+* Oración simplificada: El riesgo: está en función del cumplimiento del emisor con lo acordado en las cláusulas a su vencimiento.
+
+* Oración original: Un informe crediticio es un registro que contiene la forma en que pagaste tus deudas con la tarjeta de crédito y otros préstamos a lo largo del tiempo.
+* Oración simplificada: Un informe crediticio contiene la forma de pago de tus deudas con la tarjeta de crédito y otros préstamos en el tiempo.
+
+* Oración original: Por otra parte, algunas personas sostienen que un impuesto de 10 por ciento impondría el mismo sacrificio a ambas familias.
+* Oración simplificada: Por otra parte, algunas personas sostienen que un impuesto de diez por ciento impondría el mismo sacrificio a ambas familias.
+
+* Oración original: La valoración de los títulos depende, en primer lugar, si la transacción se genera en mercado primario o mercado secundario.
+* Oración simplificada: La valoración de los títulos depende de si la transacción se genera en mercado primario o mercado secundario.
+
+* Oración original: Anota todos los gastos que crees que haces (facturas, alquiler, gas, alimentos) y los costos aproximados.
+* Oración simplificada: Anota todos los gastos probables y los costos aproximados.
+
+* Oración original: También existe la modalidad, y según diferentes circunstancias, que las empresas mismas aseguran a sus trabajadores o funcionarios, motivadas unas veces por legislaciones que tienen los países al respecto para determinados trabajos u ocupaciones que tienen involucrados significativos riesgos en su desempeño y otras por iniciativa y políticas de la misma organización o empresa.
+* Oración simplificada: También, existe la modalidad donde las empresas aseguran a sus trabajadores según las circunstancias. Esto se hace por legislaciones nacionales para trabajos riesgosos o por iniciativa y políticas de la misma organización o empresa.
+
+* Oración original: Así, pues, el trabajo del ser humano convierte en riqueza los elementos que le ofrecen el suelo, el subsuelo, las aguas y el aire.
+* Oración simplificada: Así, el ser humano convierte en riqueza los elementos ofrecidos por el suelo, el subsuelo, las aguas y el aire.
+
+* Oración original: Generalmente, te suscribes al plan y le dices a tu empleador qué porcentaje de tu salario quieres transferir al plan.
+* Oración simplificada: Generalmente, se suscribe al plan y también le dice a su empleador cuánto porcentaje de su salario quiere transferir al plan de jubilación.
+
+* Oración original: Presupuesto: Expresión cuantificada de un plan de actuación fijado para la empresa o para algunas de las actividades que la misma desarrolla. Se concreta en un estado de cuentas provisional de los gastos e ingresos que deben efectuarse durante un ejercicio o periodo.
+* Oración simplificada: Un presupuesto es un estado de cuentas de los gastos e ingresos de una empresa o de algunas de las actividades que ella desarrolla.
+
+* Oración original: En todas estas ocasiones usaron el dinero de la cuenta de depósito del mercado monetario para pagar los gastos, y el mes siguiente volvieron a ahorrar $500.
+* Oración simplificada: En todas las ocasiones usaron el dinero del ahorro para pagar los gastos. El mes siguiente ahorraron los quinientos dólares.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

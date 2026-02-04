@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Forma parte del modo en que llevas adelante tu vida financiera para obtener lo que necesitas, por ejemplo, automóviles, viviendas, tecnología, muebles y electrodomésticos.
+* Oración simplificada: Forma parte de tu modo de vida financiera.
+
+* Oración original: ¿Cómo pasa esto?
+* Oración simplificada: ¿Cómo pasó?
+
+* Oración original: Lo más inteligente que usted puede hacer es trabajar en un área débil de su vida, atacarla, enfrentar su temor y hacer algo para corregirla.
+* Oración simplificada: Lo más inteligente que usted puede hacer es trabajar en un área débil de su vida, y hacer algo para corregirla.
+
+* Oración original: Pues si es algún consuelo, déjeme decirle que yo también he estado ahí.
+* Oración simplificada: Yo también he estado ahí si es algún consuelo.
+
+* Oración original: Este modelo se sustenta en otorgar amplia libertad, para actividades económicas y no económicas, tanto a personas como a empresas, limitando la acción del Estado a un papel normativo y de intervención solo en los casos donde los particulares no puedan acceder.
+* Oración simplificada: Este modelo otorga libertad para actividades económicas y no económicas a personas y empresas. Limita la acción del Estado a un papel normativo y de intervención en casos especiales.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

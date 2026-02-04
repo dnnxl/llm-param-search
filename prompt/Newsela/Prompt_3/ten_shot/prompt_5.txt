@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: No se veían graffitis, no había indigentes, no se escuchaba la estridente música ranchera aturdiendo hasta altas horas de la noche.
+* Oración simplificada: No se veían graffitis, no había vagabundos, no se escuchaba la estridente música ranchera hasta tarde por la noche.
+
+* Oración original: Según los maestros, los alumnos que hablan correctamente su primer idioma aprenden inglés más fácilmente.
+* Oración simplificada: Los maestros explican que a los estudiantes que hablan bien su primer idioma les es más fácil aprender inglés.
+
+* Oración original: Desde el año 2012, las escuelas que participaron en el Programa Nacional de Almuerzos Escolares han tenido que servir almuerzos que cumplan con los estándares establecidos en las recomendaciones sobre alimentación para los estadounidenses.
+* Oración simplificada: Desde el 2012, las escuelas que participaron en el Programa Nacional de Almuerzos Escolares han seguido las recomendaciones sobre alimentación para los estadounidenses.En otras palabras, las comidas servidas en muchas cafeterías escolares tienen que cumplir con estrictas normas de salud.Los almuerzos preparados en casa no tienen que cumplir esas normas.
+
+* Oración original: En 2008, las escuelas públicas de Denver comenzaron a implementar un programa disciplinario compensatorio.
+* Oración simplificada: En 2008, las escuelas de Denver decidieron usar un programa disciplinario compensatorio.
+
+* Oración original: Mientras tanto Toews, se inició como practicante de la justicia restaurativa en los 90, mientras hacía su servicio voluntario y quedó enganchada.
+* Oración simplificada: Mientras tanto Toews, se inició como practicante de la justicia restaurativa en los años 90 mientras hacía su servicio voluntario.
+
+* Oración original: "Tenemos que redefinir lo que significa progreso, redefinir el desarrollo y redefinir el bienestar", explicaba.
+* Oración simplificada: ## Es necesario redefinir el bienestar"Tenemos que redefinir lo que significa progreso, redefinir el desarrollo y redefinir el bienestar", explica Ehlers, quien propone "cambiar de civilización" porque la sociedad actual nos llevará al suicidio ambiental.
+
+* Oración original: Algunos de ellos habían recibido maltrato en otros centros de detención en los Estados Unidos.
+* Oración simplificada: Algunos recibían maltrato en otros centros para inmigrantes en los Estados Unidos.
+
+* Oración original: El único peligro para las personas que consumen el aceite Pugliese es que no habrá suficiente para todos.
+* Oración simplificada: No hay peligro para las personas que coman las aceitunas o el aceite de la zona.
+
+* Oración original: Durante la travesía marina, que dura unas dos horas con buen tiempo, colocan sus teléfonos en bolsas de plástico para que no se mojen.
+* Oración simplificada: Durante la travesía marina, que dura unas dos horas cuando hace buen tiempo, guardan sus teléfonos en bolsas plásticas para que no se mojen.
+
+* Oración original: Hace poco, manejaba su helicóptero hacia un parque en llamas para ayudar a los bomberos que luchaban por apagar el fuego.
+* Oración simplificada: Hace poco, volaba hacia un parque en llamas.Tenía que ayudar a los bomberos que apagaban el fuego.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

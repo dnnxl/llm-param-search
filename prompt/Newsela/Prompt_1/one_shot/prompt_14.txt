@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: "Al final del pasaje, hay dos entradas selladas".
+* Oración simplificada: Al final del pasadizo, hay dos entradas selladas, dijo.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

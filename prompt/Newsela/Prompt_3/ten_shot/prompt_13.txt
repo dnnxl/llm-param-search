@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: El rehusarse a conformar un club refleja la típica evolución de la mayoría de los grupos de inmigrantes a medida que las siguientes generaciones van debilitando los lazos exclusivamente étnicos a través del proceso de asimilación.
+* Oración simplificada: Esta disminución es típica en la mayoría de los grupos de inmigrantes ya que frecuentemente las generaciones sucesivas van debilitando sus lazos étnicos específicos durante el proceso de asimilación.
+
+* Oración original: Ve con frecuencia al antiguo vecino jugando una ronda en el Rio Hondo Golf Club.
+* Oración simplificada: Ve con frecuencia al viejo vecino jugando en el Rio Hondo Golf Club.
+
+* Oración original: En 2014, Bohn participó en un estudio para documentar por primera vez el canto de los murciélagos.
+* Oración simplificada: Bohn participó en un estudio sobre el canto de los murciélagos.
+
+* Oración original: Hello Barbie aprenderá cosas sobre sus usuarios a medida que pasa el tiempo.
+* Oración simplificada: Hello Barbie aprenderá cosas sobre sus usuarios mientras juegan.Puede cambiar las preguntas para que sean más personales.
+
+* Oración original: Ambos entrenan en el centro en Gaithersburg, Maryland, casi todos los días.
+* Oración simplificada: Los dos entrenan en el mismo centro deportivo.Entrenan casi todos los días.
+
+* Oración original: se ha acelerado en los últimos años, y un estudio realizado utilizando datos de la Oficina del Censo de Estados Unidos indica que, entre 2010 y 2013, se marcharon de la isla 144.000 personas.
+* Oración simplificada: Según un estudio, 144.000 personas se marcharon de Puerto Rico entre 2010 y 2013.
+
+* Oración original: Es tan vasta el área donde están, que se le ha asignado a la especie una gran cantidad de nombres como puma, pantera, león de montaña y _cougar_.
+* Oración simplificada: Viven por tantas áreas, que se les ha nombrado de diferentes maneras: puma, pantera, león de montaña y _cougar_.
+
+* Oración original: La respuesta correcta es la "B", según un estudio completo realizado por el Council of Great City Schools en 66 de los distritos escolares más grandes.
+* Oración simplificada: La respuesta correcta es la "B", según un estudio completo realizado por el Council of Great City Schools en 66 de los distritos escolares más grandes.El Consejo agrupa a los distritos escolares más grandes en los Estados Unidos.
+
+* Oración original: El plan de la ciudad, que incluye más de 6.000 millones de dólares en gasto público y privado, dispone competencias deportivas que van desde el voleibol de playa en Santa Mónica hasta bicicleta de montaña en Griffith Park.
+* Oración simplificada: Este plan incluye más de 6.000 millones de dólares en gasto público y privado.También dispone varias competencias deportivas: desde el voleibol de playa en Santa Mónica hasta la bicicleta de montaña en Griffith Park.
+
+* Oración original: El agua embotellada llega de las reservas subterráneas de agua y de los manantiales, que son responsables de surtir lagos y ríos.
+* Oración simplificada: El agua embotellada es agua subterránea y de manantiales.Esta agua es la que alimenta los lagos y los ríos.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

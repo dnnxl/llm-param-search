@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La paloma pasajera, el tigre de Tasmania y más recientemente, el baiji —un delfín de agua dulce de China— han desaparecido para siempre.
+* Oración simplificada: La paloma pasajera, el tigre de Tasmania y más recientemente, al baiji, un delfín de agua dulce de China, se han ido para siempre.
+
+* Oración original: "Sin duda, un presidente con las cualidades de Lincoln o de Roosevelt habría reducido la brecha de manera más eficiente y les garantizo que me seguiré esforzando por mejorar la situación", dijo Obama.
+* Oración simplificada: Obama lamentó no haber podido mejorar la división entre demócratas y republicanos.Reconoció que un presidente con las cualidades de Lincoln o de Roosevelt lo hubiera logrado pero garantizó seguir intentando mejorar esta situación.
+
+* Oración original: También el gobierno chino suspendió hasta el próximo año el estreno de "Sinsajo" en los cines del país, declaró la revista Variety.
+* Oración simplificada: El gobierno chino suspendió el estreno de "Sinsajo" en los cines hasta el próximo año, informó la revista Variety.
+
+* Oración original: En una declaración el domingo estuvo de acuerdo con que "el cambio es necesario".
+* Oración simplificada: En una declaración el domingo estuvo de acuerdo con que es necesario el cambio.
+
+* Oración original: Pero los científicos marinos  - incluyendo a los críticos de SeaWorld - están de acuerdo en que las ballenas probablemente nunca serán liberadas al mar abierto.
+* Oración simplificada: No obstante, los científicos están de acuerdo en que las ballenas probablemente nunca serán liberadas a los mares abiertos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

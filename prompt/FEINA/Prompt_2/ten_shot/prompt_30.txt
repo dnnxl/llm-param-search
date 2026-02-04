@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Hacer regalos hechos por mí.
+* Oración simplificada: Dar regalos hechos por mí.
+
+* Oración original: No obstante esto, aún subsisten posiciones que buscan reducir el modelo a solamente un comercio de mercado.
+* Oración simplificada: Sin embargo, hay posiciones para reducir el modelo a un comercio de mercado.
+
+* Oración original: Haz una investigación sobre las opiniones de los clientes: antes de decidirte por una aplicación, revisa las opiniones de los clientes y las quejas sobre aplicaciones específicas.
+* Oración simplificada: Investiga las opiniones de los clientes antes de decidirte por una aplicación.
+
+* Oración original: Depósitos a plazo: es el dinero depositado en una institución financiera, a un tipo de interés y durante un período de tiempo determinado.
+* Oración simplificada: Un depósito a plazo es el dinero depositado en una institución financiera, a un tipo de interés y durante un tiempo determinado.
+
+* Oración original: ¿Desea la libertad, sí o no?
+* Oración simplificada: ¿Desea la libertad o no?
+
+* Oración original: Menor probabilidad de error, al ser un equipo robot para dispensar efectivo o recibir sobres.
+* Oración simplificada: Menor probabilidad de error.
+
+* Oración original: Sepa cuánto puede gastar al ir de compras.
+* Oración simplificada: Sepa cuánto puede gastar en compras.
+
+* Oración original: Quiero venir a estas reuniones de negocios, pero no me puedo dar el lujo de asistir.
+* Oración simplificada: Quiero venir a estas reuniones, pero no me puedo dar el lujo de asistir.
+
+* Oración original: Más concretamente, los bienes A y B son independientes cuando una variación del precio del bien A no influye en la cantidad demandada del bien B, manteniéndose constante todo lo demás.
+* Oración simplificada: Concretamente, dos bienes son independientes cuando una variación del precio de uno no influye en la demanda del otro. Por esto, todo lo demás se mantiene constante.
+
+* Oración original: El interés acumulado se gana pero no se recibe o registra y el interés compuesto es la suma del capital y el interés acumulado, que se va multiplicando según los plazos convenidos.
+* Oración simplificada: El interés acumulado se gana, pero no se recibe y el interés compuesto es la suma del capital y el interés acumulado según el plazo.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

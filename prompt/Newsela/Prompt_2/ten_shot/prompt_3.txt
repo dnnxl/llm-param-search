@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: La actualización hará hincapié en la información sobre las calorías, incluyendo la cantidad de azúcares añadidos.
+* Oración simplificada: La actualización hace hincapié en la información de las calorías, incluyendo la cantidad de azúcares añadidos.
+
+* Oración original: Son dos de los adolescentes más prometedores en el tenis de mesa a estadounidense.
+* Oración simplificada: Los dos son campeones de tenis de mesa.
+
+* Oración original: Jocelyn Picache, la madre de otro jugador de la escuela Fort Lee, aseguró que el baloncesto no es el más exigente de los deportes juveniles.
+* Oración simplificada: Jocelyn Picache es la madre de otro jugador de la escuela Fort Lee.Ella dijo que el baloncesto no es el más exigente de los deportes para jóvenes.
+
+* Oración original: Lo decidió este martes un grupo de expertos.
+* Oración simplificada: Un grupo de expertos lo decidió este martes.
+
+* Oración original: Durante una entrevista realizada la semana pasada en una estación de autobuses de San Antonio, Tecu dijo que pasó 17 días en las instalaciones de Dilley después de entrar a Estados Unidos sin permiso a fines de junio.
+* Oración simplificada: Durante una entrevista, Tecu dijo que pasó 17 días en las instalaciones de Dilley después de entrar ilegalmente al país en junio.
+
+* Oración original: Los latinos que se completan la preparatoria ha aumentado.
+* Oración simplificada: Ahora hay más latinos que completan la preparatoria.
+
+* Oración original: Pero estos jóvenes adultos están teniendo que enfrentar un gran obstáculo.
+* Oración simplificada: No obstante, estos jóvenes adultos se están encontrando con una gran dificultad.
+
+* Oración original: Hoy en día la conversación con las amigas ha cambiado.
+* Oración simplificada: Ahora la conversación con las amigas ha cambiado.
+
+* Oración original: El incremento de la población latina está abriendo paso a lo que los demógrafos denominan un "gran experimento" al convertir a California en el estado con mayor diversidad y dinamismo en la historia de la nación.
+* Oración simplificada: El aumento de la población latina ha convertido a California en el estado con mayor diversidad en la historia de la nación.
+
+* Oración original: "En los corrales marinos, ellas no estarían mejor que donde están ahora", dijo Chris Dold, el veterinario principal de SeaWorld Entertainment.
+* Oración simplificada: "En los corrales de mar, ellas no estarían mejor que donde están ahora", dijo Chris Dold.Él es el principal doctor de ballenas de SeaWorld Entertainment.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

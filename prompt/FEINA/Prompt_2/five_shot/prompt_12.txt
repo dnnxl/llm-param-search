@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Se llama también Impuesto Único a los Trabajadores (IUT).
+* Oración simplificada: También llamado Impuesto Único a los Trabajadores.
+
+* Oración original: Las tasas de interés productivas en Ecuador oscilan entre el 9% y el 12%.
+* Oración simplificada: Las tasas de interés productivas en Ecuador oscilan entre el nueve por ciento y el doce por ciento.
+
+* Oración original: Las estafas con cheques se pueden prevenir, si sigue las siguientes recomendaciones:
+* Oración simplificada: Las estafas con cheques se pueden prevenir si sigue las siguientes recomendaciones:
+
+* Oración original: Adquirir un vehículo propio con un costo no mayor a los $9,000 en los próximos dos años.
+* Oración simplificada: Adquirir en los próximos dos años un vehículo propio con un costo igual o menor a nueve mil dólares.
+
+* Oración original: El ahorro consiste en apartar dinero en forma regular, preferiblemente de cada pago quincenal o mensual.
+* Oración simplificada: El ahorro consiste en guardar dinero de manera habitual, preferiblemente, en cada pago quincenal o mensual.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

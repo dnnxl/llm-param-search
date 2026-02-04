@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Hable con ellos, déles la cara, y hágales saber que está haciendo todo lo que puede para pagarles.
+* Oración simplificada: Hable con ellos, enfréntelos y comuníqueles que está haciendo lo posible para pagarles.
+
+* Oración original: Cobros procedentes de la emisión de acciones u otros instrumentos de capital; pagos a los propietarios por adquirir o rescatar las acciones de la entidad; cobros procedentes de la emisión de obligaciones, préstamos, bonos, cédulas hipotecarias y otros fondos tomados en préstamo, ya sea a largo o a corto plazo; reembolsos de los fondos tomados en préstamo;  pagos realizados por el arrendatario para reducir la deuda pendiente procedente de un arrendamiento financiero.
+* Oración simplificada: Cobros de la emisión de acciones u otros recursos de capital. Pagos a los propietarios por adquirir las acciones de la empresa. Cobros de la emisión de obligaciones, préstamos, bonos, cédulas hipotecarias y fondos en préstamo a corto o largo plazo. Devolución de préstamos. Pagos del arrendatario para reducir la deuda.
+
+* Oración original: En los meses anteriores a marzo, los rendimientos de los fondos de inversión en dólares se encontraban por encima de los rendimientos de muchos de los bonos en dólares que poseían.
+* Oración simplificada: Los rendimientos de los fondos de inversión en dólares se encontraban en los meses anteriores a marzo por encima de los rendimientos de muchos de los bonos en dólares que poseían.
+
+* Oración original: Asociado a este concepto de ingreso pasivo se encuentra la acumulación de bienes que representa un capital que puede generar rentas o utilidades.
+* Oración simplificada: Asociado al concepto de ingreso pasivo se encuentra la acumulación de bienes que representa un capital. Este capital puede generar rentas o utilidades.
+
+* Oración original: Los segundos enfatizan en la dependencia y pérdida de identidad cultural que traen las nuevas prácticas y costumbre foráneas.
+* Oración simplificada: Los segundos destacan la dependencia y pérdida de identidad cultural de las nuevas costumbres extranjeras.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

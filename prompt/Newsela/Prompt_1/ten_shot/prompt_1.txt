@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Los investigadores llamaron al león _Ali_, por el presidente de Gabón, Ali Bongo, quien, según Henschel, es amante de estos grandes felinos.
+* Oración simplificada: El león, al que llamaron _Ali_, tiene cerca de 4 años y medio, una edad ideal para la reproducción.
+
+* Oración original: Algunos grupos se enfrentan a dificultades, y sus miembros abandonan la escuela con mayor frecuencia y requieren de servicios sociales, tales como clases de inglés, asistencia de salud mental y cupones de alimentos.
+* Oración simplificada: Algunos grupos tienen dificultades, y sus miembros abandonan la escuela con mayor frecuencia.Para otros, es difícil encontrar clases de inglés, servicios de salud y cupones de alimentos.
+
+* Oración original: La ciudad ha dicho que cree que el acuerdo es legal.
+* Oración simplificada: La ciudad dijo que no cree que el plan vaya en contra de la ley.
+
+* Oración original: Es difícil predecir lo que va a pasar", dijo Jim MacCracken, supervisor del programa de morsas en Alaska para el Servicio estadounidense de Pesca y Fauna Salvaje.
+* Oración simplificada: Es difícil predecir lo que va a pasar", dijo Jim MacCracken.MacCracken supervisa el programa de morsas en Alaska para el Servicio de Pesca y Fauna Silvestre de Estados Unidos.
+
+* Oración original: Los defensores del proyecto explican que los estudiantes no solo aprenden códigos, sino también cómo funcionan las computadoras.
+* Oración simplificada: Los estudiantes no solo aprenden códigos, sino también cómo funcionan las computadoras.También los ayuda a usar la imaginación.
+
+* Oración original: Algunos temen que la obra cueste mucho más dinero del que se ha calculado para organizar los juegos.
+* Oración simplificada: Pero es posible que al final cueste mucho más dinero.
+
+* Oración original: Organizar las olimpíadas cuesta mucho dinero.
+* Oración simplificada: Organizar el evento cuesta mucho dinero.
+
+* Oración original: Por supuesto, no todos los artistas que se ganan la vida vendiendo su trabajo están dotados de un talento prodigioso.
+* Oración simplificada: Por supuesto, no todos los artistas que se ganan la vida vendiendo su trabajo tienen la suerte de contar con un talento prodigioso.
+
+* Oración original: Steven Spaid, entrenador canino, lanzó varias veces una pelota de tenis y, antes de dejar ir a Rousey tras ella, la hizo girar para desorientarla, pero Rousey siempre encontró la pelota.
+* Oración simplificada: Rousey siempre encontró la pelota.
+
+* Oración original: Centerstone, un proveedor de servicios de salud mental, reportó una disminución del 40 por ciento en el uso de salas de emergencia y de servicios de hospitalización por parte de 65 pacientes a quienes se les entregaron varios dispositivos para el monitoreo de su salud.
+* Oración simplificada: Centerstone, un proveedor de servicios de salud mental, notificó una disminución en las visitas a las salas de emergencia y en servicios de hospitalización en el caso de aquellas personas a quienes se les brindó una aplicación para monitorear su salud en sus teléfonos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

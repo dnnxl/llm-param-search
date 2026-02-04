@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Posit Science es la segunda compañía que ha fabricado un programa de computadora para el TDAH.
+* Oración simplificada: Una segunda compañía creó otro juego de computadora para ayudar a las personas con déficit de atención.
+
+* Oración original: No tienen acceso a mejores semillas, fertilizantes, sistemas de riego y otras tecnologías beneficiosas, como los agricultores de los países ricos, y tampoco tienen aseguradas sus cosechas para protegerse contra las pérdidas.
+* Oración simplificada: No tienen las cosas que los agricultores más ricos sí tienen, como por ejemplo mejores semillas, fertilizantes, sistemas de riego y otras tecnologías.Tampoco tienen seguros en sus cosechas que, si los tuvieran, recibieran dinero si sus cosechas se destruyen.
+
+* Oración original: Una de las participantes, Abigail Hollis, universitaria de la raza negra, comentó que no se trata igual a los estudiantes blancos que a los de color y a otros alumnos marginados.
+* Oración simplificada: Abigail Hollis estudia en la universidad.Ella es de color.Dice que a los blancos los tratan mejor que a los de color.
+
+* Oración original: PITTSBURGH, Pa. — Koda, el oso polar de 10 años de edad del zoológico de Pittsburgh, emerge de un compartimento que está encima del recinto que comparte con Kobe, de 14 años.
+* Oración simplificada: PITTSBURGH, Pa. — Koda, un oso polar de 10 años de edad comparte un lugar de exhibición con Kobe, de 14 años, en el zoológico de Pittsburgh.
+
+* Oración original: Los padres también están exigiendo juguetes que fomenten en sus hijas el amor por la ciencia y las matemáticas, impulsado en parte por una gran preocupación a nivel nacional por la falta de interés en las carreras STEM (abreviatura en inglés de ciencia, tecnología, ingeniería y matemáticas).
+* Oración simplificada: Los padres también están exigiendo juguetes que inspiren en sus hijas el amor por la ciencia y las matemáticas.Esto es impulsado en parte por una preocupación debido a la falta de interés en las carreras STEM.STEM significa ciencia, tecnología, ingeniería y matemáticas.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

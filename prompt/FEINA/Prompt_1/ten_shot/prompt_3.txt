@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Mucha seguridad y mayor conveniencia por estar ubicados en lugares estratégicos, como gasolineras, centros comerciales y cerca de las principales paradas de buses en lobbys, 24 horas.
+* Oración simplificada: Son seguros y están los lugares estratégicos.
+
+* Oración original: Si los gastos fueran mayores a los ingresos, se presentaría un déficit.
+* Oración simplificada: Si los gastos fueran mayores a los ingresos, se presentaría una deuda.
+
+* Oración original: Este mismo análisis aplica para los otros métodos cuantitativos, sin embargo, la técnica pura indica una base para presupuestar.
+* Oración simplificada: Este mismo análisis aplica para los otros métodos cuantitativos. Sin embargo, la técnica pura indica una base para presupuestar.
+
+* Oración original: Excel mostrará un cuadro de diálogo preguntando si la celda de entrada está en filas o en columnas.
+* Oración simplificada: Excel preguntará en un cuadro de diálogo si la celda de entrada está en filas o en columnas.
+
+* Oración original: Al momento de la entrega de estos cheques, el banco pide que el solicitante los firme, y solo podrá cobrarlos esta persona al firmar nuevamente los cheques en la parte de abajo, así la entidad que los recibe podrá cotejar que las firmas sean idénticas.
+* Oración simplificada: Cuando el banco entrega los cheques, le pide al solicitante firmarlos. Cuando el cobre deberá firmar nuevamente los cheques. Así, la entidad financiera comparará la semejanza de las firmas.
+
+* Oración original: Para lograr una buena administración de los recursos financieros, si aún no se ha hecho, es imprescindible iniciar un programa regular de planificación financiera.
+* Oración simplificada: Iniciar un programa regular de planificación financiera es necesario para lograr una buena administración de los recursos financieros.
+
+* Oración original: Para elaborar los escenarios se debe iniciar por la definición de las variables a cambiar, así como las de resultados.
+* Oración simplificada: Para elaborar los escenarios debemos empezar por la definición de las variables a cambiar y las de resultados.
+
+* Oración original: ¿Qué función cumplen las empresas en la sociedad?
+* Oración simplificada: ¿Qué función tienen las empresas en la sociedad?
+
+* Oración original: Ingresos ordinarios: es el dinero o especies valuadas en dinero que reciben las personas por su trabajo o actividad habitual.
+* Oración simplificada: Los ingresos ordinarios son el dinero que reciben las personas por su trabajo o actividad habitual.
+
+* Oración original: Se pone énfasis, consecuentemente, en algunos principios y buenas prácticas de educación financiera y la toma de conciencia en esta material. En este sentido, se desarrollan temas como qué es, para qué sirve, y aspectos que comprende la educación financiera; así como el concepto de libertad financiera.
+* Oración simplificada: Se enfatiza en algunos principios y buenas prácticas de educación financiera y la toma de conciencia en esta materia. En este sentido, se define qué es, para qué sirve y cuáles aspectos comprende la educación financiera. Además, se explica el concepto de libertad financiera.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

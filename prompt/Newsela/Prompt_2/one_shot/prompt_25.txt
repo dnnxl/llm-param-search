@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Para lograr determinar si estas diferencias estructurales también se traducen en diferencias cognitivas, los científicos analizaron más de 1.400 exámenes de resonancia magnética del cerebro que se realizaron tanto en hombres como en mujeres.
+* Oración simplificada: ## Diferencias físicas, síLos científicos analizaron más de 1.400 exámenes de resonancia magnética (una técnica para obtener imágenes internas del cuerpo) del cerebro de hombres y mujeres.Su intención era investigar si las diferencias estructurales también conllevaban diferencias cognitivas.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

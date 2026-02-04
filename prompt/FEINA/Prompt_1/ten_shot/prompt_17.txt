@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Traigamos al caso este ejemplo decisional: Mariana elaboró y revisó su presupuesto y se dio cuenta de que estaba gastando más de lo que ganaba.
+* Oración simplificada: Un ejemplo decisional sería: Mariana elaboró y revisó su presupuesto y se dio cuenta de que sus gastos eran mayores a sus ganancias.
+
+* Oración original: De hecho, el Departamento de Justicia de los EE. UU. informa que solo aproximadamente el 15 por ciento de las víctimas de fraude denuncian los casos ante las autoridades.
+* Oración simplificada: El Departamento de Justicia de Estados Unidos informa que solo el quince por ciento de víctimas de fraude denuncian ante las autoridades.
+
+* Oración original: La tierra también nos da nuestras fuentes de energía.
+* Oración simplificada: La tierra nos da nuestras fuentes de energía.
+
+* Oración original: El concepto de empresarialismo está muy relacionado con el de emprendedurismo que se caracteriza por ser una idea o proyecto de una persona que por iniciativa propia y a veces o casi siempre, con pocos recursos o recursos económicos limitados, decide convertirse en empresario, generalmente e inicialmente, microempresario.
+* Oración simplificada: El concepto de empresarialismo se relaciona con el de emprendedurismo. El emprendedurismo es un proyecto de una persona que por iniciativa propia y con recursos limitados decide se empresario.
+
+* Oración original: En alguna ocasión fuera de lo común pueden encontrarse en que se han pagado todas las cuentas, los niños están bien de salud, su ropa y zapatos están en buen estado, la casa también lo está y todo anda bien.
+* Oración simplificada: Si en alguna ocasión sucede que todas las cuentas están canceladas, los niños están bien de salud, su ropa y zapatos están en buen estado y todo en la casa también está bien.
+
+* Oración original: Es flexible en cuanto a la periodicidad de pago de intereses.
+* Oración simplificada: Es flexible en la periodicidad de pago de intereses.
+
+* Oración original: Soportar las fluctuaciones de precio a corto plazo con frecuencia genera mayores recompensas a largo plazo para las acciones en comparación con otros tipos de activos.
+* Oración simplificada: Soportar las variaciones de precio a corto plazo genera más recompensas a largo plazo para las acciones al compararlas con otros activos.
+
+* Oración original: Adicionalmente, las propias instituciones financieras, pueden proveer este tipo de educación no solo a sus clientes, sino también a sus empleados para que ellos también promuevan estas actividades.
+* Oración simplificada: Asimismo, las instituciones financieras pueden proveer este tipo de educación a sus clientes y a sus empleados, para que ellos también la promuevan.
+
+* Oración original: Ahorro = Ingreso disponible  Consumo El interés es todo aquel provecho, utilidad o beneficio producido por el principal.
+* Oración simplificada: El ahorro es el ingreso disponible menos el consumo. El interés es el beneficio producido por el principal.
+
+* Oración original: Elementos Básicos de Economía INTRODUCCIÓN Cualquier sociedad de la que se hable, implica la interacción de todos y cada uno de los individuos que la componen, ya sea en forma individual o en forma colectiva.
+* Oración simplificada: (Un elemento básico de la economía es que) En cualquier sociedad debe existir interacción entre los individuos que la componen, sea de forma individual o colectiva.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

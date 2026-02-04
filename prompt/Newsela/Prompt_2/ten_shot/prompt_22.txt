@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Pero no bostezan en respuesta al bostezo de otro perro.
+* Oración simplificada: Pero no bostezan cuando bosteza otro perro.
+
+* Oración original: Esta enfermedad, que hace que las personas sientan algo parecido a una pulmonía, parece que es más severa en personas que ya están enfermas.
+* Oración simplificada: Esta enfermedad hace que las personas sientan algo parecido a una gripe muy fuerte.Parece que es más severo en personas que ya están enfermas.
+
+* Oración original: Las fracturas de los niños casi nunca se tratan correctamente, según una nueva investigación de la Facultad de Medicina de la Universidad de Maryland.La doctora Jennifer M. Weiss, miembro de la junta directiva de la Academia Americana de Cirujanos Ortopédicos, lleva mucho tiempo fijándose que muchas férulas no están bien puestas.
+* Oración simplificada: Un nuevo estudio muestra que las fracturas de los niños casi nunca se tratan correctamente.La doctora Jennifer M. Weiss lleva mucho tiempo fijándose en férulas mal puestas.
+
+* Oración original: El 81 por ciento lo hace al menos una vez por semana.
+* Oración simplificada: Cuatro de cada cinco lo hacen al menos una vez por semana.
+
+* Oración original: Los organizadores dicen que las fotografías tienen un mensaje poderoso para los estadounidenses de hoy en día que están divididos por el racismo.
+* Oración simplificada: Los organizadores de la exhibición dicen que las fotos tienen un mensaje poderoso para los estadounidenses.La vida es muy dura para los afroamericanos en Estados Unidos, quienes sufren a causa del racismo.
+
+* Oración original: El colegió se abrió en 2012 en un barrio marginal de Los Ángeles.
+* Oración simplificada: El colegió abrió en 2012.Se encuentra en un barrio marginal de Los Ángeles.
+
+* Oración original: Un estudio de la Universidad de California-Irvine dirigido por el profesor Carl Cotman demostró que el ejercicio desencadena la producción de una proteína llamada factor neurotrófico derivado del cerebro, o FNDC, la cual ayuda a sustentar el crecimiento de las células cerebrales y el desarrollo de células nuevas.
+* Oración simplificada: Un estudio de la Universidad de California-Irvine dirigido por el profesor Carl Cotman demostró que el ejercicio ayuda a la producción de una proteína que contribuye a sustentar el crecimiento de las células cerebrales y el desarrollo de células nuevas.
+
+* Oración original: "En el campo todos son iguales", dice Zein.
+* Oración simplificada: ## "En el campo""En el campo todos son iguales", dice Zein.
+
+* Oración original: Durante siete años, el presidente ha desestimado, degradado y criticado a quienes han expresado una preocupación genuina acerca de sus políticas.
+* Oración simplificada: Durante siete años, el presidente ha dejado de lado e insultado a las personas que han expresado una preocupación razonable acerca de sus planes y decisiones.
+
+* Oración original: ## Tienen que vivir en campamentos para refugiados
+* Oración simplificada: ## Los campamentos se llenan de refugiados
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

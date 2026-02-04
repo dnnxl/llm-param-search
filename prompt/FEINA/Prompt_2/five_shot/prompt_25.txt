@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: No obstante, lo negativo de esta forma de controlar la competencia de mercados, se contrapone a voces libremercadistas que le atribuyen al «cartel» propiedades para ordenar y regular los mercados.
+* Oración simplificada: No obstante, lo negativo de este control de la competencia contrasta con la opinión libremercadista. Esta última destaca el ordenamiento y regulación mercantil del cartel.
+
+* Oración original: Pues si es algún consuelo, déjeme decirle que yo también he estado ahí.
+* Oración simplificada: Yo también he estado ahí si es algún consuelo.
+
+* Oración original: En tu presupuesto debes poner en el rubro de ahorro una cantidad fija mensual, la cual depositarás en tu banco y harás de cuenta que ese dinero ya lo gastaste.
+* Oración simplificada: En tu presupuesto debes poner en el rubro de ahorro una cantidad fija mensual, la cual depositarás en tu banco y harás de cuenta que ese dinero ya lo gastaste.
+
+* Oración original: Optar por no participar en ofertas de crédito y correo.
+* Oración simplificada: No participar en ofertas de crédito y correo.
+
+* Oración original: Sin embargo, antes de comenzar, tómate un momento para pensar en las cosas que quieres y necesitas, y que cuestan dinero.
+* Oración simplificada: Antes de comenzar, piensa qué deseas y necesitas.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

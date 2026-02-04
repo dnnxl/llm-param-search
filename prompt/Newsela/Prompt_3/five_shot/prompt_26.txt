@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: En 2012, la organización _Girl Scouts_ de Estados Unidos publicó el informe "La generación de STEM: lo que opinan las chicas acerca de la ciencia, la tecnología, la ingeniería y las matemáticas".
+* Oración simplificada: En 2012, la organización _Girl Scouts_ publicó un informe sobre las materias de STEM.El estudio indicó que tres de cada cuatro estudiantes de secundaria estaban interesadas en materias de STEM.No obstante, ellas no siempre eran tratadas justamente en estos cursos.
+
+* Oración original: Conoció a Copeland antes de que la operaran, y se dio cuenta del dolor que sufría.
+* Oración simplificada: Vio a Misty bailando y se dio cuenta de que le dolía.
+
+* Oración original: Las armas de juguete —muchas de ellas copias de las armas de soldados estadounidenses— llegan sobre todo de China y la vecina Pakistán, y en el reciente Eid o festival, se entregaron muchos a chicos jóvenes.
+* Oración simplificada: Las armas de juguete —muchas de ellas copias de las armas de soldados estadounidenses— llegan sobre todo de China y la vecina Pakistán.
+
+* Oración original: Las células son muy pequeñas y no se pueden ver fácilmente.
+* Oración simplificada: Las células son muy pequeñas.
+
+* Oración original: WASHINGTON, D.C. — El candidato republicano a la presidencia Donald Trump habla a menudo sobre un programa de deportación que comenzó alrededor de 1950 bajo el gobierno del Presidente Dwight D. Eisenhower, a quien apodaban "Ike".
+* Oración simplificada: WASHINGTON, D.C. — Donald Trump quiere ser presidente.Trump habla a menudo sobre un plan del año 1954.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Historial de Crédito: Informe que contiene información personal, registro de sus solicitudes recientes de crédito y cualquier registro público tal como bancarrota o gravamen por impuestos, además de otros datos relacionados con el cliente.
+* Oración simplificada: El historial de crédito es un informe sobre información personal y registro de solicitudes crediticias recientes. Además, incluye cualquier registro público, como bancarrota o gravamen por impuestos, y otros datos relacionados al cliente.
+
+* Oración original: Tal concepto dimensiona, por otro lado, el grado de comodidades de que dispone una persona, por lo tanto, hay quienes viven mejor, con un nivel de vida alto y quienes no viven tan bien, o sea, tienen un nivel de vida medio o bajo.
+* Oración simplificada: Por otro lado, este concepto mide el nivel de comodidades que tiene una persona. Es decir, algunas personas tienen un nivel de vida alto y otras un nivel de vida medio o bajo.
+
+* Oración original: Asimismo, se entiende por valores los títulos valores y cualquier otro derecho de contenido económico o patrimonial que puedan ser objeto de negociación en un mercado financiero o bursátil.
+* Oración simplificada: Asimismo, los valores son títulos valores y otros derechos económicos o patrimoniales que se puedan negociar en un mercado financiero.
+
+* Oración original: El lucro, en cambio, aunque es un sinónimo de utilidad, ganancias o beneficio, es la expresión peyorativa de la utilidad.
+* Oración simplificada: En cambio, el lucro es la expresión despectiva de utilidad, aunque es sinónimo de utilidad, ganancias o beneficio.
+
+* Oración original: Acuerdo de crédito entre una institución financiera y un cliente, por el cual el cliente tiene un monto máximo autorizado durante un período dado de tiempo, que usa y reintegra según sus necesidades.
+* Oración simplificada: Es el acuerdo crediticio entre una institución financiera y un cliente. Mediante este, el cliente tiene un monto máximo autorizado durante un cierto período, que usa y reintegra según necesite.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Esta área tiene en la actualidad mucha atención en la Economía misma y en los países y ya hay constituidas múltiples empresas en los mismos para asesorar y ayudar en el financiamiento de estos entes sociales, que pueden ser y así lo demuestran algunas, un buen recurso también para la generación de empleo.
+* Oración simplificada: Esta área tiene mucha atención en la Economía y de los países. En los países hay empresas para ayudar en asesoría y en financiamiento de estos entes sociales.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

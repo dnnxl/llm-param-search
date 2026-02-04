@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Fue su idea lanzar el programa para atraer a una variedad diversidad de estudiantes al centro.
+* Oración simplificada: Fue su idea ofrecer becas para atraer jugadores de talento hacia el centro.
+
+* Oración original: Yo creo que es un cambio en el modelo del proyecto", comentó.
+* Oración simplificada: ## Se rediseña el modelo del proyectoYo creo que es un cambio en el modelo del proyecto", comentó.
+
+* Oración original: Los científicos consideran que los seres humanos abandonaron África y caminaron hacia Asia y Europa.
+* Oración simplificada: Los científicos creen que los seres humanos caminaron del continente de África hasta Asia y Europa.
+
+* Oración original: El jardinero Rusney Castillo dejó Cuba y firmó un contrato por 72,5 millones de dólares por siete años con los Boston Red Sox este verano, y el exitoso jardinero José Abreu, uno por 68 millones de dólares por seis años con los Chicago White Sox en octubre pasado.
+* Oración simplificada: Este verano, el jardinero Rusney Castillo dejó Cuba y firmó un acuerdo por 72,5 millones dólares por siete años con los Boston Red Sox.Esto superó al contrato del jardinero José Abreu de 68 millones de dólares por seis años con los Chicago White Sox en octubre pasado.
+
+* Oración original: Por ejemplo, Derek ya no se pone tan nervioso cuando tiene que hacer presentaciones orales para su clase de inglés.
+* Oración simplificada: Derek está mas tranquilo cuando hace presentaciones orales para su clase de inglés.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

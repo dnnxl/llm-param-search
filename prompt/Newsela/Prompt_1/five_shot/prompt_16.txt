@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Cuando terminen de construir los generadores, estos serán enviados a comunidades de Africa que no tienen electricidad.
+* Oración simplificada: Los estudiantes regalarán los generadores que fabriquen a comunidades de Africa que no tienen electricidad.
+
+* Oración original: ## También hay que cuidar de otros insectos
+* Oración simplificada: ## Hay que cuidar de los insectos
+
+* Oración original: Desde los últimos años, los pesticidas se encuentran bajo un examen cada vez más minucioso debido al colapso generalizado de las abejas melíferas.
+* Oración simplificada: Desde los últimos años, los pesticidas se encuentran bajo un escrutinio minucioso debido al colapso de las abejas melíferas.
+
+* Oración original: ## Más parecido a Marte que a Tritón
+* Oración simplificada: ## Más imágenes en camino## Rojo como Marte
+
+* Oración original: Con el tiempo, el vínculo emocional que los conductores tienen con sus autos seguirá debilitándose.
+* Oración simplificada: Con el tiempo, el cariño que la gente le tiene a sus autos desaparecerá.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

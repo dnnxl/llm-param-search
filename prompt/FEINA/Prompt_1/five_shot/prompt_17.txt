@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Para vivir en ese clima de fe y optimismo, indispensable a la felicidad, hemos de hacer la guerra a dos enemigos: el escepticismo y los estados o fenómenos psicológicos enemigos del optimismo.
+* Oración simplificada: Debemos alejar la incredulidad y los enemigos del optimismo para vivir con fe.
+
+* Oración original: En las diversas definiciones sobre el sistema financiero se identifican claramente los tres elementos principales como son: las instituciones financieras o intermediarias, los activos o instrumentos financieros y los mercados financieros, donde interactúan; asimismo, las regulaciones que permiten el funcionamiento adecuado del mismo.
+* Oración simplificada: En las diversas definiciones del sistema financiero hay tres elementos principales: las instituciones financieras, los activos y los mercados financieros. Además de las regulaciones para su adecuado funcionamiento.
+
+* Oración original: La o el inversionista es una organización, entidad, corporación o persona individual que utilizando recursos financieros adquiere acciones, bonos, propiedades, inicia una empresa o financia proyectos, asumiendo riesgos a cambio de rendimientos o retornos favorables.
+* Oración simplificada: El o la inversionista es una organización, entidad, corporación o persona que utiliza el dinero para adquirir acciones, bonos, propiedades, entre otros.
+
+* Oración original: Ante la anterior situación y con tiempo suficiente, o sea, sin meditarlo mucho, las personas, involucrando a sus familias y como se señala en otro capítulo de esta obra, deberían elaborar con mucha sensatez sus planes y presupuestos financieros personales y familiares, como una manera de maximizar los ingresos y de tomar decisiones, pensando en el futuro y en sus contingencias.
+* Oración simplificada: Por esto, las personas y sus familias deberían elaborar sensata y anticipadamente sus planes y presupuestos financieros personales y familiares. Esta es una forma de maximizar los ingresos y tomar decisiones previsorias.
+
+* Oración original: Leí recientemente acerca de un hombre que dijo algo humorísticamente: No parece extraño que el éxito siempre esté enmascarado en un, manto de trabajo arduo."
+* Oración simplificada: Hace poco leí un comentario humorístico: No parece extraño que el éxito siempre esté enmascarado en un manto de trabajo arduo."
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

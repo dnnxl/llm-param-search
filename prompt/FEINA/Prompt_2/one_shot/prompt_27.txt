@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: El crédito es una actividad económica y financiera que hace muchos años transita como un recurso en la gestión no sólo personal y familiar, sino también empresarial y nacional.
+* Oración simplificada: El crédito es una actividad económica y financiera. Este funciona como un recurso en la gestión personal, familiar, empresarial y nacional.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

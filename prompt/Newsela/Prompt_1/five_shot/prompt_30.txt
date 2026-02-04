@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La Organización de las Naciones Unidas (ONU) es un grupo internacional formado por muchos países.
+* Oración simplificada: Las Naciones Unidas (ONU) son un grupo formado por muchos países.
+
+* Oración original: Mohammed Baghdadi, de 32 años, trabaja para el gobierno de Irak, en el Ministerio de Comercio.
+* Oración simplificada: Mohammed Baghdadi tiene 32 años.Trabaja para el gobierno.
+
+* Oración original: Una serie de demandas y una investigación a nivel federal iniciada en Miami este año han revelado que muchos jugadores de pelota son sacados ilegalmente de Cuba por grupos de traficantes de humanos a cambio de tarifas de cientos de miles de dólares, y al menos la promesa de una porción de ganancias futuras.
+* Oración simplificada: Dejar Cuba de forma ilegal puede ser peligroso y caro.Una serie de demandas y una investigación federal iniciada en Miami este año han revelado que muchos jugadores de pelota son sacados de forma ilegal de Cuba por grupos de traficantes de personas a cambio de tarifas de cientos de miles de dólares.
+
+* Oración original: Los investigadores se valieron de la información obtenida por Global Shark Attack File (GSAF), una organización de gran escala que monitorea de forma activa y exhaustiva el número de ataques de tiburón a nivel mundial.
+* Oración simplificada: Los investigadores utilizaron información de Global Shark Attack File (GSAF), una organización que monitorea el número de ataques de tiburón a nivel mundial desde los años 30.
+
+* Oración original: El objetivo del proyecto es que la gente le preste atención a las personas sin hogar.
+* Oración simplificada: Dice que es muy triste ver a tantas personas sin hogar.Cree que sus letreros podrían ayudar a estas personas a llamar la atención.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

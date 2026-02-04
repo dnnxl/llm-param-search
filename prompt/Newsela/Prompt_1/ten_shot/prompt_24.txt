@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: En Tailandia la vida se limita a imitar el arte, ya que, quienes se oponen a los líderes del golpe militar que puso fin a la democracia hace ya seis meses, viven amordazados y han optado por acogerse al saludo de desafío característico de las películas basada en la saga "Los juegos del hambre".
+* Oración simplificada: En Tailandia la vida se limita a imitar el arte, ya que los estudiantes que protestan contra las fuerzas militares han adoptado el gesto de mano de las películas "Los juegos del hambre".Los manifestantes están usando el saludo de desafío de los tres dedos que presenta la película para protestar contra un golpe militar que removió a los líderes electos del país.
+
+* Oración original: Una vez que la anguila asesta su descarga eléctrica a la presa, la posiciona en el agua de tal forma que pueda tragarla comenzando por la cabeza.
+* Oración simplificada: Una vez que la anguila utiliza su descarga eléctrica para atacar a su presa, la suelta por unos segundos y la acomoda en el agua para poder comérsela, comenzando por la cabeza.
+
+* Oración original: Hall alguna vez pintó en lienzos de la forma tradicional, pero luego empezó a experimentar con una aplicación de iPhone llamada Brushes.
+* Oración simplificada: Hall alguna vez hizo sus pinturas de la manera antigua, con pinceles de verdad.Entonces comenzó a experimentar con una aplicación llamada Brushes, que le hace posible pintar en su iPhone.
+
+* Oración original: ## Estudian las causas de la enfermedad
+* Oración simplificada: ## Participan en el estudio
+
+* Oración original: Adylene Saucedo, de 15 años de edad, dice que Castañeda es un guía maravilloso.
+* Oración simplificada: Adylene Saucedo, de 15 años de edad, dice que Castañeda es un guía maravilloso, ya que hace cualquier cosa con tal de ayudar.
+
+* Oración original: Y hay padres que mienten sobre el lugar donde viven para que sus hijos puedan ir a mejores escuelas.
+* Oración simplificada: Y hay padres que mienten sobre el lugar donde viven para que sus hijos vayan a mejores escuelas.## Más padres luchan por la educación de sus hijos
+
+* Oración original: Por ahora, intentará bailar todo lo que pueda y hará espacio para lo demás cuando le sea posible.
+* Oración simplificada: Por ahora, bailará todo lo que pueda.
+
+* Oración original: "Cuando doy esta charla y les enseño a los profesores de universidad los datos de los estudiantes de primer año de universidad, se quedan desconcertados pero luego asienten: 'Pensamos que había un problema'", dijo Loveless.
+* Oración simplificada: "Cuando doy esta charla y les enseño a los profesores de universidad los datos de los estudiantes de primer año de universidad, se quedan con la boca abierta y todos hacen un gesto de aprobación.Pensamos que había un problema", dijo Loveless.
+
+* Oración original: Aunque el informe muestra expectativas positivas, existen reservas sobre la organización del Super Bowl en Wembley.
+* Oración simplificada: Si bien el informe de 30 páginas muestra expectativas positivas, existen reservas respecto a la organización del Super Bowl en Wembley.
+
+* Oración original: Algunos investigadores observaron recientemente a 337 niños en 12 escuelas de Houston.
+* Oración simplificada: Los investigadores observaron a 337 niños en Houston.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

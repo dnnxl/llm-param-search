@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Varias fórmulas se pueden presentar: una puede ser la del hágalo usted mismo.
+* Oración simplificada: Varias fórmulas se pueden presentar: una puede ser la del hágalo usted mismo.
+
+* Oración original: Luego, dicen los mismos autores en otra de sus obras: ¿Cuándo mide usted el éxito de su educación?
+* Oración simplificada: Luego, los mismos autores dicen en otra obra: ¿cuándo mide el éxito de su educación?
+
+* Oración original: No todos los ingresos que se producen se cuentan como riqueza.
+* Oración simplificada: No todos los ingresos obtenidos se cuentan como riqueza.
+
+* Oración original: Una vez dirimidos estos asuntos, se entra de lleno a algunos aspectos e instrumentos que son propios de las finanzas, pero siempre en la óptica de lo personal y lo familiar, ya que para la gestión empresarial, institucional y de país, el tratamiento de los temas exigiría unas consideraciones más especializadas y por ende, de mayor nivel académico.
+* Oración simplificada: Una vez resueltos estos asuntos, se abordan algunos aspectos e instrumentos propios de las finanzas. Esto siempre desde la perspectiva personal y familiar. Además, el tratamiento de los temas exigiría unas consideraciones más especializadas y un mayor nivel académico para el manejo de la gestión empresarial, institucional y de país.
+
+* Oración original: Éstos, por consiguiente, son actividades que no son tangibles pero que son útiles, escasas y transferibles.
+* Oración simplificada: Por consiguiente, son actividades que no son tangibles pero que son útiles, escasas y transferibles.
+
+* Oración original: Contar con informaciones de seguridad financiera es muy importante en el campo de la inversión.
+* Oración simplificada: En la inversión es importante informarse sobre seguridad financiera.
+
+* Oración original: Como se mencionó inicialmente, cualquier tipo de análisis financiero que se realice muestra una parte del problema; un punto de vista.
+* Oración simplificada: Como mencionamos, cualquier tipo de análisis financiero realizado muestra una parte del problema. Una perspectiva.
+
+* Oración original: Como tienes que pagar el impuesto a las ganancias por los retiros del plan 401(k) después de que te jubiles, terminas pagando el impuesto a las ganancias dos veces sobre los fondos que pediste prestados:
+* Oración simplificada: Después de que se jubile, debe pagar el impuesto a las ganancias por los retiros de la cuenta cuatrocientos uno k, esto quiere decir que al final pagará el impuesto a las ganancias dos veces sobre los fondos que pidió prestados:
+
+* Oración original: La cuarta razón puede ser para tomar decisiones argumentadas en asuntos públicos como ciudadano, para lo cual es vital comprender el sistema financiero básico en la infraestructura de las sociedades capitalistas, siempre orientadas al mercadeo.
+* Oración simplificada: La cuarta razón es para tomar decisiones argumentadas en asuntos públicos. Para ello, es vital comprender el sistema financiero básico en la infraestructura de las sociedades capitalistas orientadas al mercadeo.
+
+* Oración original: Ahora bien, para contratar un seguro se pueden tener en cuenta unos criterios sencillos como los siguientes:
+* Oración simplificada: Además, se pueden considerar los siguientes sencillos criterios para contratar un seguro:
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

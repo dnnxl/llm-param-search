@@ -1,0 +1,15 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Concluye Méndez diciendo que: de lo anterior surge la importancia de ejercer controles ambientales de la producción agrícola teniendo en cuenta los efectos microclimáticos, los nutrientes, los suelos, la combinación de cultivos, la erosión y los efectos del fuego y de la reforestación.
+* Oración simplificada: Méndez concluye que la importancia de ejercer controles ambientales de la producción agrícola surge de lo anterior. Pues se debe atender los efectos microclimáticos, los nutrientes, los suelos, la combinación de cultivos, la erosión y la reforestación.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

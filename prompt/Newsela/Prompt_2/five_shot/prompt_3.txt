@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: ### A FAVOR: Los militantes podrían infiltrarse junto con los refugiados.
+* Oración simplificada: ### A FAVOR: Los gobernadores quieren proteger sus estados
+
+* Oración original: No ponen fotos ni vídeos en Internet.
+* Oración simplificada: No ponen fotos ni vídeos en Internet.No quieren que los cazadores sepan dónde están.
+
+* Oración original: Los arquitectos quitaron el material que cubría la aguja de 408 pies localizada en la parte más alta.
+* Oración simplificada: Se quitó el material que cubría la aguja de 408 pies ubicada en la parte más alta.
+
+* Oración original: Esto nos lleva a situaciones que incluyen el "efecto del viaje de regreso".
+* Oración simplificada: Como por ejemplo lo que se conoce como el "efecto del viaje de regreso".
+
+* Oración original: Funcionarios del gobierno, que discutieron la propuesta bajo la condición de que no se revelara su identidad, señalaron tras un análisis económico que las nuevas etiquetas podrían significar beneficios entre 20.000 millones a 30.000 millones.
+* Oración simplificada: Los miembros del gobierno aseguran que un análisis económico sugiere que las nuevas etiquetas podrían significar entre 20.000 millones a 30.000 millones de dólares en beneficios.Los funcionarios no desglosaron dichas cifras, pero probablemente la mayor parte del beneficio llegue de la reducción de los gastos en el cuidado de salud.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Si crees que algo se puede hacer, entonces es probable que así sea".
+* Oración simplificada: Si piensas que se puede hacer, entonces se puede hacer".
+
+* Oración original: Los nuevos estudios podrían ayudar a los funcionarios a proteger el murciélago.
+* Oración simplificada: ## Los nuevos estudios podrían ayudar a proteger el murciélago
+
+* Oración original: Jana Jones, una científica y experta en telas, y Stephen Buckley fueron los líderes del grupo.
+* Oración simplificada: Jana Jones y Stephen Buckley fueron los líderes del grupo.Jones es una científica y experta en telas.
+
+* Oración original: Descubrió que los niños que jugaban con personajes malos en videojuegos de pistoleros a menudo se sentían culpables.
+* Oración simplificada: Matthew Grizzard tiene otro punto de vista sobre la violencia en los videojuegos.Es profesor en University of Buffalo, en Nueva York.Realizó un estudio.Descubrió que los niños que jugaban con personajes malos en videojuegos de pistoleros a menudo se sentían culpables.
+
+* Oración original: Los chicos tocaron con gran entusiasmo las pocas notas que habían aprendido hasta el momento.
+* Oración simplificada: Los jóvenes estudiantes tocaron las pocas notas que sabían.
+
+* Oración original: OUANAMINTHE, Haití — Miles de personas nacidas en Haití o de ascendencia haitiana decidieron no esperar a ver si serán desplazados a la fuerza de República Dominicana ahora que la fecha límite para solicitar la residencia legal en el país expiró.
+* Oración simplificada: OUANAMINTHE, Haití — Miles de haitianos están huyendo de República Dominicana por el temor a ser deportados a la fuerza.La fecha límite para solicitar la residencia legal en el país expiró, pero los haitianos o de ascendencia haitiana decidieron no esperar a ver si serán desplazados a la fuerza de República Dominicana.
+
+* Oración original: Hizo alarde del importante acuerdo nuclear llevado a cabo con Irán, mas no hizo mención alguna de los 10 marinos estadounidenses capturados por las autoridades de dicho país el día martes.
+* Oración simplificada: Hizo alarde del importante acuerdo nuclear con Irán pero no mencionó a los 10 marinos estadounidenses capturados por dicho país el martes.
+
+* Oración original: En el 2013, la OIT lanzó su iniciativa _Future of Work._ Este plan busca identificar y analizar tendencias laborales, además de establecer un debate sobre cómo adaptarnos al mercado laboral, que cambia rápidamente.
+* Oración simplificada: La OIT lanzó su programa _Future of Work_ en 2013, un plan que estudia el tipo de trabajos que habrá en el futuro.
+
+* Oración original: Pero Virot y Ponomarenko querían aprender algo diferente.
+* Oración simplificada: Pero Virot y Ponomarenko querían hacer algo diferente.
+
+* Oración original: Completar la tarea les tomó tan solo 10 minutos.
+* Oración simplificada: Completaron la tarea en solo 10 minutos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

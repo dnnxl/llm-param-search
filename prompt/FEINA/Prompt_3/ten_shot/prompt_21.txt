@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Bien sustituto: son aquellos productos cuya oferta o demanda depende del comportamiento de los precios de otros productos.
+* Oración simplificada: Un bien sustituto son aquellos productos dependientes del comportamiento de los precios de otros productos para su oferta y demanda.
+
+* Oración original: Cuando empecé a estudiar las leyes fiscales (dice Mollien en sus Memorias) me horroricé de lo que veía: multas, prisiones, castigos corporales al arbitrio de tribunales especiales; los delegados tenían en sus manos a personas y bienes.
+* Oración simplificada: Mollien dice en su texto titulado Memorias, cuando empecé a estudiar las leyes fiscales me asusté de lo que veía, multas, personas en prisión, castigos corporales que sentenciaban los tribunales especiales, los delegados tenían el control de lo que sucedía con las personas y sus bienes.
+
+* Oración original: Debido a este control directo que usted tiene sobre ellas, las Micro-metas, aunque se refieren a cosas de pequeña importancia, tienen influencia extraordinaria en su vida, ya que únicamente a través de la ejecución de ellas es como uno camina hacia los logros de metas mayores.
+* Oración simplificada: Debido al control directo que usted tiene sobre ellas, las micrometas aunque se refieren a cosas de pequeña importancia tienen influencia extraordinaria en su vida ya que a través de su ejecución es como uno camina hacia los logros de metas mayores.
+
+* Oración original: El resultado será 190, o sea, el IVA del kilo de pan es de $190.
+* Oración simplificada: El resultado será ciento noventa. Es decir, el impuesto al valor agregado del kilo de pan son ciento noventa pesos.
+
+* Oración original: En la tabla 22 se muestra el estado de resultados proyectado.
+* Oración simplificada: En la tabla veintidós se muestra el estado de resultados proyectado.
+
+* Oración original: No obstante, sería imprudente ejecutar un proyecto únicamente con el resultado de un análisis de rentabilidad; puesto que, para realizar el flujo de caja proyectado se realizaron varios supuestos que no necesariamente tienen que cumplirse.
+* Oración simplificada: Sin embargo, sería imprudente realizar un proyecto solo con el resultado de un análisis de rentabilidad. Porque para realizar el flujo de caja proyectado se realizaron varios supuestos. Estos no se cumplen obligatoriamente.
+
+* Oración original: Otra pregunta más, pero ¿Cómo trabaja el interés?
+* Oración simplificada: Hagámonos otra pregunta más, ¿cómo funciona el interés?
+
+* Oración original: Por ejemplo, si compras el almuerzo solo una vez por semana, en vez de dos, podrías ahorrar cientos de dólares durante el año, dinero que podrías destinar a alcanzar tus metas.
+* Oración simplificada: Por ejemplo, comprar el almuerzo solo una vez por semana y no dos, implica un gran ahorro durante el año para así alcanzar otras metas.
+
+* Oración original: Las reglas han demostrado su valía, sobre todo la regla principal, por la cual los bancos deben mantener un volumen de capital que, por lo mínimo, sea el 8% del valor total de sus activos, ponderado por su nivel de riesgo.
+* Oración simplificada: Las reglas han demostrado su valía, sobre todo la regla principal por la que los bancos deben mantener un volumen de capital que por lo mínimo sea el ocho por ciento del valor total de sus activos, ponderado por su nivel de riesgo.
+
+* Oración original: Para manejar y aumentar los ahorros es importante seguir varias recomendaciones como: Analizar las deudas, abrir la cuenta adecuada, ahorrar cierta cantidad cada mes, hacer una lista de metas, organizar la información, analizar los gastos e ingresos, determinar cómo se pueden reducir los gastos, entre otros.
+* Oración simplificada: Debemos seguir varias recomendaciones para manejar y aumentar los ahorros. Algunas son analizar las deudas, abrir la cuenta adecuada, ahorrar mensualmente, hacer una lista de metas, organizar la información, analizar los gastos e ingresos.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

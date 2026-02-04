@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Metas a corto plazo, son metas a ejecutarse en un período que va desde un mes hasta un año a partir de ahora.
+* Oración simplificada: Las metas a corto plazo son aquellas a ejecutarse en un período que va desde un mes hasta un año a partir de ahora.
+
+* Oración original: Armados con la información personal de usted, los ladrones pueden realizar compras no autorizadas utilizando sus tarjetas de crédito, solicitar nuevas tarjetas de crédito y préstamos, cobrar cheques sin fondos, arrendar automóviles, o engañar a la autoridad, causando serios daños a su historial de crédito.
+* Oración simplificada: Con su información personal los ladrones pueden realizar compras no autorizadas utilizando sus tarjetas de crédito, solicitar nuevas tarjetas de crédito y préstamos, cobrar cheques sin fondos, arrendar automóviles, o engañar a la autoridad y causar serios daños a su historial de crédito.
+
+* Oración original: Hacer un análisis financiero personal o familiar es como establecer una línea de base, como dicen algunos investigadores e investigadoras, o una plataforma de lanzamiento para visualizarse y proyectarse financieramente.
+* Oración simplificada: Hacer un análisis financiero personal o familiar es como establecer una línea de base o una plataforma de lanzamiento para visualizarse y proyectarse financieramente.
+
+* Oración original: El financiamiento a través de impuestos y aportaciones al IESS podría implicar generación de multas que acrecienten la deuda de la empresa.
+* Oración simplificada: El financiamiento a través de impuestos y aportaciones al Instituto Ecuatoriano de Seguridad Social podría implicar generación de multas que acrecienten la deuda de la empresa.
+
+* Oración original: A los bienes producidos por la transformación de otros, se les conoce como bienes secundarios y para poder producirlos se necesitan las fábricas, como las fábricas que transforman el aluminio en ollas, que luego sirven para cocinar los alimentos;
+* Oración simplificada: Los bienes producidos por la transformación de otros son conocidos como bienes secundarios. Para poder producirlos se necesitan fábricas, como las que transforman el aluminio en ollas para cocinar los alimentos;
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

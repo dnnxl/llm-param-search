@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Los activos líquidos incluyen bonos de ahorro, cuentas de ahorro, cuentas corrientes, etc.
+* Oración simplificada: Los activos líquidos incluyen bonos de ahorro, cuentas de ahorro, cuentas corrientes, entre otros.
+
+* Oración original: La educación financiera sirve, asimismo, para contribuir al desarrollo de una cultura de éxito" al promover actitudes positivas para el logro de metas o resultados que la persona se proponga, por medio del uso de herramientas apropiadas orientadas al bienestar personal y social, como la gestión de recursos, especialmente financieros.
+* Oración simplificada: La educación financiera contribuye al desarrollo de una cultura de éxito" al promover actitudes positivas para alcanzar metas o resultados. Esto por medio del uso de herramientas orientadas al bienestar personal y social, como la gestión de recursos financieros.
+
+* Oración original: Con frecuencia en el país la gente se queja del alto costo de vida, especialmente en los últimos tiempos, y esto porque los productos de uso inmediato, así como muchos de los servicios esenciales, aumentan su valor constantemente.
+* Oración simplificada: Frecuentemente en el país las personas se quejan del alto costo de la vida porque los productos de uso cotidiano y muchos servicios básicos aumentan su valor constantemente.
+
+* Oración original: Puede verse entonces, con claridad, que el dinero es casi un instrumento simbólico, un medio de intercambio, que en gran medida es útil porque casi toda la gente acepta, como un acuerdo o una convención, a cambio de casi todas las cosas, así, todo cuanto sirva a ese propósito en cualquier lugar, sean monedas, papel, conchas, cocos o plumas, es dinero.
+* Oración simplificada: El dinero es un medio de intercambio que es útil porque casi toda la gente lo acepta a cambio de casi todas las cosas.
+
+* Oración original: Por ejemplo, una persona vende un equipo y necesita dar crédito por 90 días; sin embargo, precisa el dinero para seguir operando.
+* Oración simplificada: Por ejemplo, una persona vende un equipo con crédito de noventa días. Pero necesita el dinero para trabajar.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

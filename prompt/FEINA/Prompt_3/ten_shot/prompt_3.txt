@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: El primero de ellos indica si un proyecto es rentable, mientras que el segundo pone a prueba esa rentabilidad a través de la alteración de algunos supuestos o variables previamente definidas (Meza, 2017).
+* Oración simplificada: El primero indica si un proyecto es rentable. El segunda prueba la rentabilidad mediante algunos supuestos o variables preestablecidas.
+
+* Oración original: Existe otra estructura para presentación del E.S.F. que corresponde a un estilo vertical, donde, se inicia con el detalle de las cuentas de activo, luego las de pasivo y finalmente las de patrimonio.
+* Oración simplificada: El estilo vertical es otra estructura para presentar el estado de situación financiera.
+
+* Oración original: Luego, el mismo autor agrega, y aunque extenso, pero dada su importancia lo transcribiremos en toda su dimensión:
+* Oración simplificada: Luego, el mismo autor agrega una opinión extensa, pero se trascribirá completa por su importancia:
+
+* Oración original: La producción que se haga, ya se sabe, debe utilizar eficiencia y técnica, o lo que es lo mismo, lograr la productividad.
+* Oración simplificada: La producción debe usar eficiencia y técnica. Es decir, debe lograr la productividad.
+
+* Oración original: El consumo significa gasto de recursos (dinero) para satisfacer necesidades básicas y otros requerimientos que demanda el vivir bien y con comodidad, aunque también se puede hacer mal uso de los recursos al financiar bienes y servicios no deseables (como por ejemplo, gastos que afectan la salud como fumar, beber licor en exceso y otros).
+* Oración simplificada: El consumo significa gasto de recursos o dinero para satisfacer necesidades básicas y otras exigencias que demanda el vivir bien y con comodidad. Pero se puede hacer mal uso de los recursos al financiar bienes y servicios no convenientes, por ejemplo, gastos que afectan la salud como fumar, beber licor en exceso y otros.
+
+* Oración original: Finalmente, el cuarto principio seña la que siempre que sea posible se deben demorar las salidas de dinero.
+* Oración simplificada: Finalmente, según el cuarto principio debemos retrasar las salidas de dinero posibles.
+
+* Oración original: Los Intermediarios Financieros, señala el sistema financiero español, reciben el dinero de las unidades de Gasto con Superávit, mientras que dichos Intermediarios Financieros ofrecen a las empresas recursos a más largo plazo y de una cuantía superior a la recibida por una sola unidad de Gasto con Superávit, de modo que realiza una transformación de los recursos recibidos por las familias.
+* Oración simplificada: Según el sistema financiero español, los intermediarios reciben dinero de las unidades de gasto con superávit. También, ofrecen a las empresas recursos a mayor plazo y con valor superior a la recibida por una unidad de gasto con superávit. Así, transforma los recursos recibidos por las familias.
+
+* Oración original: El Banco Mundial, en el libro Más Allá del Crecimiento Económico dice que: En términos generales, cuanto más rico es un país, más alta es la línea que fija para demarcar la pobreza.
+* Oración simplificada: En el libro titulado Más allá del crecimiento económico, el Banco Mundial dice que en entre más rico es un país, más alta es la cifra que este fija para delimitar la pobreza.
+
+* Oración original: Por supuesto, usted tiene determinados gastos fijos, como por ejemplo, el alquiler o pago de su casa que deberá pagar inevitablemente.
+* Oración simplificada: Por supuesto, usted tiene gastos fijos.
+
+* Oración original: Conociendo los grandes beneficios y facilidades que nos ofrece la plataforma de Internet, la mayoría de los bancos han desarrollado sus propias sucursales bancarias electrónicas, esto es un servicio integral que le permite al usuario desde la comodidad de su hogar y desde su computador personal, realizar una gestión centralizada y totalmente segura de su Tesorería o de sus cuentas personales.
+* Oración simplificada: Muchos bancos desarrollaron sus sucursales bancarias electrónicas por los beneficios y facilidades ofrecidos por el Internet. Este servicio integral le permite al cliente realizar trámites seguros en sus cuentas personales desde su computadora.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

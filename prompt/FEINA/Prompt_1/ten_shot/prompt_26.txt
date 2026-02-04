@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Mancomunada: firman dos personas o pueden ser hasta tres, pero siempre tiene que haber dos firmas.
+* Oración simplificada: Mancomunada: firman dos o tres personas. Siempre debe haber dos firmas.
+
+* Oración original: No revele información de su cuenta corriente, movimientos y saldos a nadie; ni personalmente ni por teléfono.
+* Oración simplificada: No revele información de su cuenta corriente, movimientos y saldos a nadie. Ni personalmente ni por teléfono.
+
+* Oración original: Proporcionar información de precios para ayudar a coordinar la toma de decisiones descentralizada en varios sectores de la economía.
+* Oración simplificada: Proporcionar información de precios para la toma de decisiones descentralizada en varios sectores económicos.
+
+* Oración original: Legalmente, para liquidar (pagar) las deudas se embargan y rematan bienes.
+* Oración simplificada: Legalmente, se embargan y rematan bienes para liquidar o pagar las deudas.
+
+* Oración original: En los países de la región existen institutos, empresas de seguros, clínicas privadas y otras empresas o instituciones que ofrecen seguros de esta naturaleza, que más adelante reseñaremos brevemente.
+* Oración simplificada: En los países de la región existen institutos, empresas de seguros, clínicas privadas y otras instituciones que ofrecen seguros de esta naturaleza. Más adelante reseñaremos brevemente.
+
+* Oración original: El crédito personal es un financiamiento que se otorga a plazos cortos (de 3 a 5 años), en donde la capacidad de pago, la relación cuota/ingreso y el nivel de endeudamiento del solicitante son determinantes del monto a prestar.
+* Oración simplificada: El crédito personal es un financiamiento otorgado a plazos cortos de tres a cinco años. Además, el monto a prestar depende de la capacidad de pago, la relación entre cuota e ingreso y el nivel de endeudamiento del solicitante.
+
+* Oración original: Las mismas dificultades cada cierto mes.
+* Oración simplificada: Aparecen las mismas dificultades cada cierto mes.
+
+* Oración original: En las diversas definiciones sobre el sistema financiero se identifican claramente los tres elementos principales como son: las instituciones financieras o intermediarias, los activos o instrumentos financieros y los mercados financieros, donde interactúan; asimismo, las regulaciones que permiten el funcionamiento adecuado del mismo.
+* Oración simplificada: En las diversas definiciones del sistema financiero hay tres elementos principales: las instituciones financieras, los activos y los mercados financieros. Además de las regulaciones para su adecuado funcionamiento.
+
+* Oración original: Después de que él había terminado un concierto y se fue detrás del escenario, Kreisler escuchó a alguien decir: Yo daría mi vida por tocar como usted.
+* Oración simplificada: Después de un concierto Kreisler escuchó a alguien decir Yo daría mi vida por tocas como usted.
+
+* Oración original: Con una importancia similar a los anteriores se encuentran los ganaderos, porque el ganado que ellos atienden produce la leche que es también necesaria para la vida, tanto de los niños y las niñas como de las personas mayores.
+* Oración simplificada: Los ganaderos tienen una importancia similar. El ganado produce la leche que es también necesaria para la vida de niños, niñas y personas mayores.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

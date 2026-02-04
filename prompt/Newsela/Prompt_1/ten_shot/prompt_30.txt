@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Los felinos de la zona están intentando escapar, pues están atrapados en un hábitat apartado y cercado por autopistas.
+* Oración simplificada: Los pumas tratan de escapar porque están atrapados en una zona muy pequeña.Su hogar está apartado y cercado por autopistas.
+
+* Oración original: Muchas ciudades de Estados Unidos intentaron cubrirse de Wi-Fi en la década del 2000, pero varios planes fallaron.
+* Oración simplificada: Muchas ciudades de Estados Unidos intentaron ofrecer Wi-Fi en la década del 2000\.
+
+* Oración original: Cada vez hay más diferencias entre el dinero que ganan las familias en Estados Unidos.
+* Oración simplificada: Cada vez hay más diferencias entre el dinero que ganan las familias en Estados Unidos.Pollak creía que con el paso del tiempo la diferencia entre los niños de familias más pobres y su desempeño en la escuela sería cada vez más pequeño.
+
+* Oración original: En aquel entonces, la élite de la ciudad patrocinaba el arte y la cultura, mientras que los regímenes profundamente seculares y a veces dictatoriales, se aseguraban de que suficientes petrodólares de la nación se destinaran a las artes.
+* Oración simplificada: En aquel entonces, la élite rica de la ciudad apoyaba el arte y la cultura, y los gobiernos no religiosos y a veces dictatoriales, se aseguraban de que se destinara suficiente dinero del petróleo de la nación a las artes.
+
+* Oración original: En los últimos diez años, han llegado más asiáticos y personas de las islas del océano Pacífico a vivir a Estados Unidos que de cualquier otro grupo.
+* Oración simplificada: Cada día llegan más asiáticos y personas de las islas del océano Pacífico a vivir a Estados Unidos que de cualquier otro grupo.Hay más asiáticos que latinos.
+
+* Oración original: Ahora sí lo sabe.
+* Oración simplificada: Ahora puede.
+
+* Oración original: Uno de cada 7 padres cuyos hijos no estaban practicando deportes dijo que el costo era una razón.
+* Oración simplificada: Uno de cada 7 padres cuyos niños no estaban practicando deportes dijo que el costo de las cuotas era un motivo.
+
+* Oración original: Pero todavía falta mucho por hacer, sostiene Belding.
+* Oración simplificada: Belding dice que aún falta mucho por hacer.
+
+* Oración original: Pero en el competitivo mundo de hoy, si te duermes, pierdes.
+* Oración simplificada: Pero en la actualidad, los estudiantes enfrentan una seria competencia: "Si te duermes, pierdes".
+
+* Oración original: <img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150222_COLOMBIA_AVOCADOS_1.png" />EL RETIRO, Colombia — Unos días después del Super Bowl, unos cuantos hombres se apiñaban fuera de una planta en las afueras de Medellín, Colombia, analizando el evento.<img class="pull-left" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/9-4-cut-florida-and-hass-avocado.png" />Brooks Tropicals es el productor más grande de aguacates de Florida y vende la fruta bajo la marca SlimCado para subrayar el hecho de que tiene un 50 por ciento menos de las grasas sanas que se encuentran en la fruta.
+* Oración simplificada: [](https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150222_COLOMBIA_AVOCADOS_1.png)EL RETIRO, Colombia — Hubo varios momentos sobresalientes del Super Bowl de este año.Hubo carreras increíbles, aciertos y una interceptación  muy memorable.Sin embargo, para unos cuantos hombres afuera de una planta procesadora de fruta a las afueras de Medellín, el momento más importante llegó durante una pausa comercial.Días después del partido, todavía estaban analizando el comercial de un minuto promocionando los aguacates mexicanos.![](https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/9-4-cut-florida-and-hass-avocado.png)Esta semana, el embajador de Estados Unidos en Colombia, Kevin Whitaker, lideró una delegación a una planta de procesamiento de aguacates en las afueras de Medellín, la segunda ciudad más grande de Colombia.Brooks Tropicals es el productor más grande de aguacates de Florida.Ha empezado a llamar a los aguacates verdes de Florida "SlimCados" para subrayar el hecho de que tiene menos grasa que los aguacates Hass.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: En la mayoría son productos alimenticios que tienen que consumir tanto los habitantes de los campos como los de las ciudades.
+* Oración simplificada: La mayoría son productos alimenticios que consumen en los campos y en las ciudades.
+
+* Oración original: Para obtener la relación de tasas se plantea un ejemplo en el que se desea capitalizar un VP a un año.
+* Oración simplificada: Para sacar la relación de tasas mencionamos un ejemplo para capitalizar un valor principal a un año.
+
+* Oración original: «El sistema de administración financiera del Estado comprende el conjunto de procesos administrativos que permiten la obtención de recursos y su aplicación a la concreción de los logros de los objetivos del Estado []»
+* Oración simplificada: El sistema de administración financiera del Estado incluye los procesos administrativos para obtener recursos y aplicarlos al cumplimiento de los objetivos del Estado.
+
+* Oración original: Durante el plazo de la inversión, el real pierde valor frente al dólar.
+* Oración simplificada: Durante el plazo de la inversión el real pierde valor frente al dólar.
+
+* Oración original: También están los pescadores que se encuentran en las costas de los mares, así como en las ciénagas, lagunas y ríos dedicados a su oficio.
+* Oración simplificada: También están los pescadores que se ejercen su oficio en las costas de los mares, en las ciénagas, lagunas y ríos.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

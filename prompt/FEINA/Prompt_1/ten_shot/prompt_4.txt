@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Los bienes y servicios utilizados por las personas o la sociedad para satisfacer sus necesidades se denominan satisfactores o productos, o simplemente bienes.
+* Oración simplificada: Los bienes y servicios utilizados por las personas para satisfacer sus necesidades se llaman satisfactores, productos o bienes.
+
+* Oración original: Un buen impuesto debe reunir un conjunto de características para que efectivamente se mantenga la tributación en un ámbito de equidad y justicia.
+* Oración simplificada: Un buen impuesto reúne un conjunto de características para que se mantenga de manera efectiva la tributación en un ámbito de equidad y justicia.
+
+* Oración original: Pague cada uno de los artículos que haya comprado, antes de cargar su tarjeta de crédito con alguna otra compra grande.
+* Oración simplificada: Pague los artículos comprados antes de usar su tarjeta de crédito en alguna compra grande.
+
+* Oración original: El primero, es el más común y está dimensionado, en cuanto a costo, según la necesidad que tenga el asegurado y lo que le permita, desde luego, su nivel económico.
+* Oración simplificada: El primero es más común y el costo varía según la necesidad del asegurado y lo que le permita su nivel económico.
+
+* Oración original: Para fines legales de conservación, la documentación de respaldo de las transacciones de las empresas sigue la suerte de los libros de contabilidad, es decir, debe mantenerse durante el tiempo que indican las disposiciones legales.
+* Oración simplificada: La documentación de respaldo de las transacciones de las empresas sigue los libros de contabilidad. Es decir, debe mantenerse el tiempo indicado legalmente.
+
+* Oración original: En esos momentos, no te pones a pensar en el dinero sino en donde te puedan atender inmediatamente, pues lo que quieres es que la persona se alivie, ¿no?
+* Oración simplificada: En esos momentos, no piensas en el dinero. Piensas en dónde te puedan atender inmediatamente, pues lo que quieres es que la persona se alivie, ¿no?
+
+* Oración original: En 2018, el precio fluctuó alrededor de los US$3 por libra de cobre según transacciones en la Bolsa de Metales de Londres.
+* Oración simplificada: En dos mil dieciocho, el precio varió casi tres dólares por libra de cobre según transacciones en la Bolsa de Metales de Londres.
+
+* Oración original: Puede ocurrir que por sus habilidades personales, aptitudes o circunstancias, puede completar estos objetivos ANTES de que se cumpla un año -y entonces podrá iniciar el ciclo siguiente-, pero en el caso que no vaya acelerado, al menos tiene que cumplir los objetivos UNA VEZ al año (en este caso usará ciclos anuales).
+* Oración simplificada: Puede completar sus metas antes de un año por sus habilidades personales o circunstancias. Pero debe cumplir los objetivos al menos una vez al año.
+
+* Oración original: No vaya de compras al supermercado cuando tenga hambre.
+* Oración simplificada: No vaya de compras al supermercado cuando tenga hambre.
+
+* Oración original: Todo es cuestión de tener un sueño y trabajar y trabajar y trabajar.
+* Oración simplificada: Debemos tener un sueño y trabajar mucho por lograrlo.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

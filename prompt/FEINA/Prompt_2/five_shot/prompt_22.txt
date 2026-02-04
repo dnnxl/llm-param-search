@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Subjetividad: Perteneciente o relativo al sujeto, considerado en oposición al mundo externo. Relativo a nuestro modo de sentir o pensar, y no al objeto en sí mismo.
+* Oración simplificada: Subjetividad, perteneciente o relativo al sujeto, interpretación que se da en oposición al mundo externo. Relativo a nuestro modo de sentir o pensar y no al objeto en sí mismo.
+
+* Oración original: Bancos. Los bancos u otras instituciones financieras constituyen una fuente importante de financiamiento para las empresas y cuentan con varias opciones acorde a la necesidad y giro del negocio (Pérez, Martínez-Pina, Lorente, Otal, & Pérez, 2018):
+* Oración simplificada: Bancos. Los bancos u otras instituciones financieras constituyen una fuente importante de financiamiento para las empresas y cuentan con varias opciones acorde a la necesidad y giro del negocio según Pérez et al (2018):
+
+* Oración original: Ahora bien, para contratar un seguro se pueden tener en cuenta unos criterios sencillos como los siguientes:
+* Oración simplificada: Además, se pueden considerar los siguientes sencillos criterios para contratar un seguro:
+
+* Oración original: Teóricamente, la libre competencia supone la participación informada de compradores y vendedores, quienes actuarían libres de presiones ajenas a la negociación de compraventa, para un determinado mercado.
+* Oración simplificada: La libre competencia implica la participación informada de compradores y vendedores. Quienes actuaría libres de presiones ajenas a la negociación de compraventa.
+
+* Oración original: Una manera de complementar el uso de la chequera es realizando los gastos no usuales tales como ropa, comidas en restaurantes, diversión y hasta las compras en supermercado que no aceptan cheques, con la tarjeta de crédito.
+* Oración simplificada: Podemos complementar el uso de la chequera al pagar con la tarjeta de crédito en lugares donde no aceptan cheques.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

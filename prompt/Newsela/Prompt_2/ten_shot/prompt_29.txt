@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: El resultado es una descendencia mezclada genéticamente, que con el paso del tiempo se está volviendo cada vez menos "cubana".
+* Oración simplificada: Con el tiempo, su descendencia se está volviendo menos y menos "cubana".
+
+* Oración original: Dold y otros partidarios de SeaWorld dicen que los hábitats de mar podrían exponer a las ballenas a toxinas del océano, virus y duras condiciones meteorológicas que las ballenas que han estado por largo tiempo en cautiverio no podrían soportar.
+* Oración simplificada: Dold y los otros partidarios de SeaWorld dicen que los hábitats marinos podrían exponer a las ballenas a toxinas del océano, virus y duras condiciones meteorológicas.Aseguran que las ballenas que han estado en cautiverio por largo tiempo no soportarían estas condiciones.**Toxinas, virus y otros peligros marinos**
+
+* Oración original: Immokalee, Fla. - El sudor mojó su camisa de manga larga y empapó su grueso cabello negro.
+* Oración simplificada: El sudor mojó su camisa de manga larga e impregnó su grueso cabello negro.
+
+* Oración original: Un gran jurado del lugar decidió no imputar al oficial de policía Darren Wilson.
+* Oración simplificada: Un gran jurado decidió que no iba a acusar por crimen a Darren Wilson.
+
+* Oración original: Al principio, tenía solo 10.000 libros electrónicos, pero desde entonces la biblioteca ha añadido otros 10.000 libros electrónicos y espera hacer lo mismo cada mes.
+* Oración simplificada: Al principio, la colección de BiblioTech solo tenía 10.000 libros electrónicos.Pero desde entonces la biblioteca ha añadido otros 10.000 libros electrónicos.Y espera añadir 10.000 libros electrónicos cada mes.
+
+* Oración original: "Las tortugas han desarrollado una forma de usar el ángulo de inclinación del campo geomagnético" y la fuerza de este campo para guiarse, afirma.
+* Oración simplificada: Brothers dijo que en miles de años, las tortugas han desarrollado una forma de usar los cambios y la fuerza del campo geomagnético para guiarse.
+
+* Oración original: Todas estas ciudades están en Europa.
+* Oración simplificada: Todas están en Europa.
+
+* Oración original: Sus amigas le dieron una solución: Uber y un competidor regional, Careem.
+* Oración simplificada: Sus amigas le hablaron sobre Uber y una compañía llamada Careem.
+
+* Oración original: ##Grandes sacrificios por el deporte
+* Oración simplificada: ##El sacrificio vale la pena
+
+* Oración original: El 56 por ciento es latino o hispano, y el 9 por ciento es afroamericano, según información de la página web del Departamento de Educación de California.
+* Oración simplificada: Más de la mitad son latinos o hispanos.Uno de cada 10 estudiantes es afroamericano, según información del Departamento de Educación de California.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

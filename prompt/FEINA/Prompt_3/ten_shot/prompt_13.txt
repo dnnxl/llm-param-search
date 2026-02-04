@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Y son estos aspectos los que determinan qué tan prósperos somos en nuestra vida.
+* Oración simplificada: Y son estos aspectos que determinan cuan prósperos somos en nuestra vida.
+
+* Oración original: Los impuestos, en términos generales, son de tres tipos: los progresivos o regresivos, los directos e indirectos y los ad valorem.
+* Oración simplificada: En términos generales, los impuestos son de tres tipos, los progresivos o regresivos, los directos e indirectos y los impuestos basados en el valor de un bien mueble o inmueble.
+
+* Oración original: La validez legal para usos comerciales de la documentación y libros de contabilidad se satisface con el cumplimiento de la obligación que tienen todas las empresas de timbrar y registrar en el Servicio de Impuestos Internos dicha documentación y libros convencionales o digitales, pagando cuando procede el impuesto de timbre establecido en el D.L. N.475 de 1980.
+* Oración simplificada: Las empresas deben timbrar y registrar los documentos y libros de contabilidad en el Servicio de Impuestos Internos. Esto para su validez legal en uso comercial.
+
+* Oración original: Dinero mercancía: Uso de algunos bienes como dinero, ejemplo: ganado, cuentas, etc.
+* Oración simplificada: El dinero mercancía es el uso de algunos bienes como dinero, por ejemplo, ganado, cuentas, entre otros.
+
+* Oración original: Sigue las instrucciones que se indican en el informe crediticio para comunicarle a la agencia de informes correspondiente que hay un error.
+* Oración simplificada: Sigue las instrucciones indicadas en el informe crediticio para comunicarle el error a la agencia.
+
+* Oración original: Así, por ejemplo, la inversión bruta es la inversión total sin considerar las amortizaciones; la inversión neta es la inversión bruta menos las amortizaciones; también, se utilizan la inversión mínima inicial y sucesiva, cuando se entregan recursos mínimos para participar en un fondo y cuando dichos recursos mínimos se hacen de manera sucesiva.
+* Oración simplificada: Por ejemplo, la inversión bruta es la inversión sin considerar los pagos. La inversión neta es la inversión bruta menos los pagos. También, se utilizan la inversión mínima inicial y sucesiva cuando se dan recursos mínimos de forma sucesiva para participar en un fondo.
+
+* Oración original: Esto debido a que ella empezó a ahorrar mucho antes que Alberto.
+* Oración simplificada: Esto sucedió porque ella empezó a ahorrar antes que Alberto.
+
+* Oración original: Al pagar los impuestos, utilizar el medio de pago que además de seguridad no le signifique ningún recargo económico, por ejemplo, por el pago en cheque o con tarjeta.
+* Oración simplificada: Segundo. Al pagar los impuestos, utilizar el medio de pago más seguro y que no le genere ningún recargo económico, por ejemplo, con el pago en cheque o con tarjeta.
+
+* Oración original: Evalúa tus ahorros para afrontar emergencias.
+* Oración simplificada: Revisa tus ahorros para emergencias.
+
+* Oración original: Una empresa solvente, pero sin liquidez; podría quebrar en el corto plazo.
+* Oración simplificada: Una empresa solvente, pero sin liquidez. Quebraría en el corto plazo.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

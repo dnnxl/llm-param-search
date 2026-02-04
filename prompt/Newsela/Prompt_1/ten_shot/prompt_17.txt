@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Revisaron su salud y los latidos de su corazón.
+* Oración simplificada: Revisaron su corazón.
+
+* Oración original: Las _Girls Scouts_ y otras empresas locales se están asociando para reducir las diferencias entre las mujeres y los hombres en los campos de estudio y trabajo como las ciencias, la tecnología, la ingeniería y las matemáticas.
+* Oración simplificada: Las _Girl Scouts_ están trabajando con empresas locales para reducir la "brecha de género".Se le llama "brecha de género" a la falta de oportunidades iguales para las mujeres y los hombres en la sociedad.Hay más hombres que mujeres en los campos de estudio y trabajo como las ciencias, la tecnología, la ingeniería y las matemáticas.
+
+* Oración original: "Dejaremos de participar en cualquier actividad relacionada con el fútbol hasta que el presidente, Tim Wolfe, renuncie o sea destituido, por su negligencia hacia la marginalización de los estudiantes.
+* Oración simplificada: "Dejaremos de participar en cualquier actividad relacionada con el fútbol hasta que el rector renuncie o sea destituido por su negligencia en la marginalización de los estudiantes.
+
+* Oración original: La isla Santa Cruz, donde George atrajo a millones de visitantes durante su permanencia de 40 años, es una de las cuatro islas habitadas en la cadena de las Galápagos; las más de tres docenas de islas e islotes restantes son reservas silvestres vírgenes.
+* Oración simplificada: La isla Santa Cruz, donde George atrajo a millones de visitantes durante su estancia de 40 años allí, es una de las cuatro islas habitadas en la cadena de las Galápagos.Las más de tres docenas de islas e islotes restantes son reservas silvestres vírgenes.Las tortugas Galápagos pueden vivir hasta 150 años, por lo que la muerte de George a los 100 años llegó inesperadamente.
+
+* Oración original: En 1953 Grecia y otros países perdonaron la deuda de Alemania.
+* Oración simplificada: Alemania es uno de los países que más le ha prestado dinero a Grecia.En 1953 Grecia y otros países perdonaron la deuda de Alemania.
+
+* Oración original: La Civil Rights Act, aprobada por el Congreso en 1964, declaraba ilegal la discriminación por raza, color, religión, sexo o nacionalidad de origen.
+* Oración simplificada: The Civil Rights Act fue aprobada por el Congreso en 1964.Declaraba ilegal la discriminación de raza, color, religión, sexo o nacionalidad de origen.
+
+* Oración original: La tasa de mortalidad más alta del mundo —muertes infantiles— se registró en Angola, con 167 muertes por cada 1.000 nacimientos.
+* Oración simplificada: ## Menos muertes en cada regiónLa tasa de mortalidad más alta del mundo se registró en Angola: 167 muertes por cada 1.000 nacimientos.
+
+* Oración original: Otro tipo de tecnología utiliza el teléfono para permitirles a los terapeutas monitorear el estado de salud mental de sus pacientes y enviarles textos con instrucciones o advertencias según sea necesario.
+* Oración simplificada: Otro tipo de tecnología les permite a los terapeutas monitorear el estado de salud mental de sus pacientes y enviarles textos con instrucciones o advertencias.
+
+* Oración original: Algunos padres de niños más pequeños se quejaron cuando se cambiaron los horarios de los autobuses, y los niños tendrían que entrar más temprano el año próximo.
+* Oración simplificada: Los padres de niños más pequeños se quejan porque sus hijos tienen que entrar antes a la escuela.
+
+* Oración original: "Tiene recordatorios diarios.
+* Oración simplificada: ## Recordatorios diarios"Tiene recordatorios diarios.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

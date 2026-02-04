@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Verifique la información contactando telefónicamente a la compañía que lo está enviando y que seguramente ofrecerá sus teléfonos o dirección.
+* Oración simplificada: Llame a la compañía que envía el correo para verificar la información. Seguramente ofrecerá sus teléfonos o dirección.
+
+* Oración original: Cheques de viaje: es aquel cheque que expide una institución bancaria u otras agencias autorizadas (Visa, MasterCard, American Express), que son aceptados en muchos establecimientos a nivel mundial.
+* Oración simplificada: Un cheque de viaje es aquel que expide una institución bancaria y que se acepta en establecimientos a nivel mundial.
+
+* Oración original: Se pone énfasis en algunos principios y buenas prácticas de educación financiera y la toma de conciencia en esta materia.
+* Oración simplificada: Se enfatiza en las buenas prácticas y la toma de conciencia de la educación financiera.
+
+* Oración original: Al final del plazo, denominado fecha de vencimiento, te devuelven el monto del depósito en dólares (el capital) más los intereses.
+* Oración simplificada: Te devuelven el monto del depósito en dólares más los intereses al final del plazo, denominado fecha de vencimiento.
+
+* Oración original: Se estima, por otra parte, que el papel dinero es más conveniente que los metales, para todo cuanto no sean sumas pequeñas.
+* Oración simplificada: Para todo aquello que no sean sumas pequeñas, el papel es mejor que el metal.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

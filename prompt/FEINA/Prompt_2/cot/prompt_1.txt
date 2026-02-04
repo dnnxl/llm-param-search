@@ -1,0 +1,20 @@
+Simplifica la siguiente oración en español, paso a paso, siguiendo estas reglas:
+
+1. Usa siempre el mismo formato de respuesta.
+2. Mantén la respuesta completamente en español.
+3. Usa palabras más simples y oraciones más cortas.
+4. Evita estructuras de oraciones complejas.
+5. Usa la voz activa y el tiempo presente cuando sea posible.
+6. Divide párrafos largos en partes más breves y claras.
+
+Empieza razonando paso a paso cómo simplificar la oración original. Luego, da la oración final simplificada.
+
+Oración original: PREPROCESS_TEXT
+
+Paso 1: Identifica el tema central de la oración.  
+Paso 2: Reemplaza palabras complejas por más simples.  
+Paso 3: Divide la oración en partes más cortas si es muy larga.  
+Paso 4: Usa estructuras activas y en presente.  
+Paso 5: Revisa si la versión simplificada cumple con todas las reglas.  
+
+Oración simplificada:

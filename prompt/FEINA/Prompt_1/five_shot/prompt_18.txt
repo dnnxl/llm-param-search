@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: También, deberían incluirse temas relacionados con la regulación y supervisión de los sistemas financieros.
+* Oración simplificada: También se deben incluir temas como la regulación y supervisión de los sistemas financieros.
+
+* Oración original: Además, las acciones pueden verse afectadas por factores externos, por ejemplo, hechos políticos y del mercado que no tengan nada que ver con los resultados de la compañía.
+* Oración simplificada: Factores externos como hechos políticos y de mercado pueden afectar las acciones.
+
+* Oración original: En esencia usted se enfrenta al mismo dilema en este instante.
+* Oración simplificada: Usted se enfrenta al mismo dilema en este instante.
+
+* Oración original: Tomemos el ejemplo de una persona que compró un bono de largo plazo en $100, y que ese bono paga anualmente intereses fijos de $10.
+* Oración simplificada: Tomemos el ejemplo de una persona que compró un bono de largo plazo en cien dólares, y que ese bono paga anualmente intereses fijos de diez dólares.
+
+* Oración original: Puede evitar que se acumulen sus saldos de tarjeta de crédito, planificando por adelantado las compras más grandes.
+* Oración simplificada: Planifique las compras más grandes para evitar la acumulación de saldos en su tarjeta de crédito.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

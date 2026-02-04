@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Inversión en títulos valores: Son documentos que tienen incorporados derechos de las personas inversionistas que los poseen, dados por las empresas o instituciones que los emiten para captar recursos
+* Oración simplificada: La inversión en títulos valores son documentos que tienen incorporados derechos de las personas inversionistas que los poseen
+
+* Oración original: Veamos, ahora sí, con más detalle, cada uno de los factores de producción.
+* Oración simplificada: Veamos con más detalle cada uno de los factores de producción.
+
+* Oración original: Permanecer atento a los fraudes y engaños dirigidos a adultos mayores, sabiendo cuándo recurrir a terceros para obtener ayuda financiera, y tomar las medidas que correspondan para formar un equipo de confianza que pueda cuidarte a medida que envejeces.
+* Oración simplificada: Cuidarse de fraudes y engaños dirigidos a adultos mayores. Saber cuándo buscar ayuda financiera.
+
+* Oración original: Contar con informaciones de seguridad financiera es muy importante en el campo de la inversión.
+* Oración simplificada: En la inversión es importante informarse sobre seguridad financiera.
+
+* Oración original: Si no paga el saldo por completo, los intereses por el monto no pagado, o saldo rotativo, serán sumados a la cantidad total que se debe.
+* Oración simplificada: Si no paga el saldo completo, los interese por el monto no pagado se sumarán a la deuda.
+
+* Oración original: Tasa preferencial: Se refiere a tasas de interés más bajas que se otorga a clientes preferenciales, cuando se adquiere un préstamo, especialmente cuando se realizan inversiones en proyectos o asuntos calificados.
+* Oración simplificada: Tasa preferencial, se refiere a tasas de interés más bajas otorgadas a clientes preferenciales, estas aplican cuando se adquiere un préstamo, en especial, cuando se realizan inversiones en proyectos.
+
+* Oración original: Los sobregiros dañarán tu reputación con el banco y con las personas a quienes les debes dinero.
+* Oración simplificada: Los sobregiros dañarán tu reputación con el banco y con los prestamistas.
+
+* Oración original: Presupuesto: Expresión cuantificada de un plan de actuación fijado para la empresa o para algunas de las actividades que la misma desarrolla. Se concreta en un estado de cuentas provisional de los gastos e ingresos que deben efectuarse durante un ejercicio o periodo.
+* Oración simplificada: Un presupuesto es un estado de cuentas de los gastos e ingresos de una empresa o de algunas de las actividades que ella desarrolla.
+
+* Oración original: El secreto del ahorro consiste en pagarte a ti mismo en primer lugar.
+* Oración simplificada: El secreto del ahorro es pagarte a ti primero.
+
+* Oración original: Así, por ejemplo: -Si se trata de aprovechar los elementos vegetales, el trabajo será la agricultura o la explotación de los bosques.
+* Oración simplificada: Por ejemplo, la agricultura o la explotación de los bosques aprovecha los elementos vegetales.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

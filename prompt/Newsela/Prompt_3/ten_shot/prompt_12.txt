@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: "Están aprendiendo cómo sobrevivir en la sociedad, en un mundo jerárquico, y están aprendiendo mundo sobre las tradiciones japonesas", dijo.
+* Oración simplificada: "Están aprendiendo cómo sobrevivir en la sociedad y están aprendiendo sobre las tradiciones japonesas", comentó la mujer.
+
+* Oración original: ## Muchas lecciones aprendidas
+* Oración simplificada: ## Encendiendo las luces
+
+* Oración original: Los sábados, aquellos que lo deseen, podrán ayudar a los residentes de bajos ingresos a calcular sus impuestos en la oficina del Community Services Employment Training, en Orosi.
+* Oración simplificada: Los sábados, aquellos que lo deseen, podrán ayudar a los residentes de bajos ingresos a calcular sus impuestos.
+
+* Oración original: Ambas bebidas generaron un leve aumento en la frecuencia cardíaca —un promedio de 3,1 latidos adicionales por minuto con la bebida Rockstar y 4,3 latidos de más con el placebo.
+* Oración simplificada: Ambas bebidas generaron un leve aumento en la frecuencia de latidos: en promedio, 3,1 latidos adicionales por minuto al tratarse de la bebida Rockstar y 4,3 latidos de más al tratarse del placebo.
+
+* Oración original: En los negocios de Lesbos, abundan los carteles en árabe y han subido los precios de los artículos básicos, como las botellas de agua.
+* Oración simplificada: En Lesbos, los negocios tienen carteles en árabe y los artículos básicos, como las botellas de agua, han subido de precio.
+
+* Oración original: Este robot es bastante parecido a R2-D2 de la película "Star Wars".
+* Oración simplificada: El HSR se parece a R2-D2, el robot de la película "Star Wars".
+
+* Oración original: Según Ehlers, la clase media del país ha caído en la trampa del consumismo, pero creer que la felicidad depende de comprar es una forma de pensar que amenaza la salud mental.
+* Oración simplificada: Ehlers dice que muchos ecuatorianos creen que la felicidad depende de comprar, pero esta forma de pensar es falsa y peligrosa para la salud mental.
+
+* Oración original: Dice que ya es hora de dejar de usar nombres inhumanos para describir a gran parte de la población.
+* Oración simplificada: Dice que hay que dejar de usar nombres inhumanos para llamar a gran parte de la gente.
+
+* Oración original: Cada año, más de dos millones de indios se enferman de esta TB y un paciente muere cada dos minutos.
+* Oración simplificada: Cada año, más de dos millones de indios se enferman de esta TB.
+
+* Oración original: En China, los parques están inspirados en temáticas de la historia de China en los cuentos de hadas.
+* Oración simplificada: En China, los parques se crean basándose en anécdotas e historias de la historia china o los cuentos de hadas.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

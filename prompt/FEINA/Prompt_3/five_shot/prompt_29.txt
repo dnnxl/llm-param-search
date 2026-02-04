@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Separe una cantidad determinada de dinero para contribuir a sus ahorros, jubilación o cuentas de inversión.
+* Oración simplificada: Separe una cantidad de dinero para sus ahorros, pensión o cuentas de inversión.
+
+* Oración original: Como el trigo es comestible, es un bien económico.
+* Oración simplificada: El trigo es un bien económico, pues es comestible.
+
+* Oración original: En caso de que opte por un crédito personal/fiduciario, en primer lugar, deberá contar con un impecable perfil, una excelente capacidad de pago y solvencia moral y financiera de muy alto nivel.
+* Oración simplificada: Si opta por un crédito personal, debe contar con un impecable perfil. Además de una excelente capacidad de pago y solvencia moral y financiera de alto nivel.
+
+* Oración original: Con frecuencia, las personas considerarán las siguientes metas de mediano plazo: educación superior o capacitación; comenzar a invertir; realizar donaciones a organizaciones benéficas; comprar una vivienda.
+* Oración simplificada: Frecuentemente, las personas consideran las siguientes metas de mediano plazo: Educación superior o capacitación. Invertir. Donar a organizaciones benéficas. Comprar casa.
+
+* Oración original: Tal vez se sienta abrumado, pero permítame decirle que algunas personas han estado en una situación financiera peor y han terminado victoriosos y con logros.
+* Oración simplificada: Tal vez se sienta abrumado, pero muchas personas vivieron una situación financiera peor y terminaron victoriosos.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

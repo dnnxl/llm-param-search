@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Veamos, ahora sí, con más detalle, cada uno de los factores de producción.
+* Oración simplificada: Veamos con más detalle cada uno de los factores de producción.
+
+* Oración original: Por lo tanto, el dinero tiene un costo por unidad de tiempo tanto desde el punto de vista de las personas, que postergan el consumo y lo ahorra, como de las firmas, que postergan una inversión, y su consecuente producción.
+* Oración simplificada: El dinero tiene un costo por unidad de tiempo desde el punto de vista de las personas y de las firmas.
+
+* Oración original: Ahora bien: Según Bodie y Merton: Los sistemas financieros difieren entre los países y cambian con el tiempo; sin embargo, en términos funcionales responden conceptualmente de manera similar, ya que descansa en dos premisas básicas: Las funciones financieras son más estables que las instituciones financieras, es decir, cambian menos en el tiempo y varían menos entre países.
+* Oración simplificada: Según Bodie y Merton: Los sistemas financieros son diferentes entre los países y cambian con el tiempo. Pero, responden similarmente porque se basan en dos ideas: Las funciones financieras son más estables que las instituciones financieras. Es decir, cambian menos en el tiempo y entre países.
+
+* Oración original: Para que se le haga más fácil, pida un recibo de todo lo que compre.
+* Oración simplificada: Pida un recibo por cada cosa comprada.
+
+* Oración original: La actividad investigativa se asumió con base en dos necesidades o aspectos principales: primero, identificación y análisis de modelos o propuestas para la capacitación en la administración de las finanzas personales y familiares existentes en los diferentes países, especialmente de Norteamérica y de Latinoamérica y segundo, análisis del currículo de la educación secundaria del país para identificar y caracterizar los aportes sobre el tema que estuvieren o no presentes en el mismo.
+* Oración simplificada: La actividad investigativa se abordó con base en dos aspectos principales: en primer lugar, se identificaron y analizaron modelos o propuestas para la capacitación sobre la administración de las finanzas personales y familiares que existe en diferentes países. En segundo lugar, se analizó el currículo de la educación secundaria del país. Esto se hizo con el fin de identificar y caracterizar los aportes sobre administración que estuvieran o no en el plan de estudios.
+
+* Oración original: Como antes se dijo, la forma de negociar con el trueque resultó muy incómoda, especialmente cuando aumentaron los artículos y también los comerciantes.
+* Oración simplificada: Cuando aumentaron los artículos y comerciantes, el trueque como negocio se volvió incómodo.
+
+* Oración original: Por el contrario, si cuentan con una adecuada instrucción financiera, podrían estar incentivados para ser parte de los beneficios de los servicios financieros, así como exigir a los proveedores de estos servicios, productos que realmente respondan a sus necesidades y que lleguen a tener un impacto positivo tanto en la inversión como en el crecimiento económico del país.
+* Oración simplificada: Por el contrario, si cuentan con una adecuada instrucción financiera podrían incentivarse con los beneficios de los servicios financieros, así como exigir productos que respondan a sus necesidades y lleguen a tener un impacto positivo tanto en la inversión como en el crecimiento económico del país.
+
+* Oración original: Cuando cree su clave personal (PIN) asegúrese que contenga tanto números y letras, y éstas tanto en mayúsculas y minúsculas.
+* Oración simplificada: Cuando cree su clave personal asegúrese que contenga tanto números y letras, y que sean tanto en mayúsculas y minúsculas.
+
+* Oración original: Tiene que educarse activamente en estas materias (rendimientos, balances y contabilidad, negocios, mercados, negociación, contratos) y desarrollar aptitudes comerciales.
+* Oración simplificada: Debe educarse en estas materias y desarrollar habilidades comerciales.
+
+* Oración original: Una transacción pertenece al mercado primario cuando el vendedor es el mismo emisor, es decir, corresponde a la primera vez que se vende el título.
+* Oración simplificada: Una transacción pertenece al mercado primario cuando el vendedor es el mismo emisor. Es decir, corresponde a la primera vez que se vende el título.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

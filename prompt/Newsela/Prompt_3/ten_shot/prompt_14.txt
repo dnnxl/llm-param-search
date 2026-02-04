@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Lo crió para ser deportista.
+* Oración simplificada: Lo crió para practicar deportes.
+
+* Oración original: La gente depende de los recursos de la región para hasta el 80% de su dieta.
+* Oración simplificada: Hasta el 80 por ciento de la dieta de la gente depende de los recursos de la región, y la morsa es uno de los más importantes.
+
+* Oración original: Consideran que da mala suerte, comentó Marks.
+* Oración simplificada: Consideran que da mala suerte, comentó Marks.Marks ha trabajado en muchos proyectos en Asia.
+
+* Oración original: El Georgia Aquarium por ejemplo, todavía ofrece espectáculos de delfines.
+* Oración simplificada: El Georgia Aquarium sigue presentando espectáculos de delfines.
+
+* Oración original: Para la generación del milenio, decía, el participar en actividades prácticas que ayuden a las personas necesitadas es una labor que le resulta tanto o más gratificante que si se tratara de una contribución monetaria.
+* Oración simplificada: Hopkins añadió que participar en actividades prácticas que ayuden a las personas necesitadas es una labor que le resulta tanto o más gratificante a la Generación del Milenio que una contribución monetaria.
+
+* Oración original: Pero de acuerdo al estudio en Science, sus números disminuyeron a la mitad en los últimos 35 años.
+* Oración simplificada: El estudio publicado en Science dice que sus números disminuyeron a la mitad en solo 35 años.
+
+* Oración original: ", pregunta la profesora de la Universidad de Nueva York, Robin Nagle, quien sale frecuentemente en los camiones de basura en busca de una respuesta.
+* Oración simplificada: Esta mujer se llama Robin Nagle.Es profesora de la Universidad de Nueva York.A menudo sale en los camiones de basura en busca de una respuesta.
+
+* Oración original: Los adolescentes sufren cuando no duermen lo suficiente.
+* Oración simplificada: Si los adolescentes sufren cuando no duermen lo suficiente, ¿por qué no se van a la cama más temprano?
+
+* Oración original: Bowling, presidente de la Asociación Nacional de Cultivadores de Maíz, dice que le gustaría comprar uno para su granja en Maryland a fin de descubrir qué campos en particular necesitan más irrigación.
+* Oración simplificada: Bowling dice que le gustaría comprar uno para su granja en Maryland para descubrir qué campos necesitan ayuda contra los insectos.
+
+* Oración original: ## Apoyo de su madre y escuela
+* Oración simplificada: ## Amor y comprensión
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

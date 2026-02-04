@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Pago adicional por invalidez se refiere a lo siguiente: en caso de invalidez total permanente, el seguro deberá entregarle en vida la cantidad contratada, pero tendrá que seguir pagando el seguro básico, con el fin de mantener su vigencia, hasta el final del plazo contratado.
+* Oración simplificada: El pago adicional por invalidez implica que, si hay invalidez total permanente, el seguro deberá entregarle en vida la cantidad contratada. Pero tendrá que seguir pagando el seguro básico hasta el final del plazo contratado para mantener su vigencia.
+
+* Oración original: DIRECCIÓN DE PRESUPUESTO (DIPRES): "formula y lleva el control presupuestario de la nación."
+* Oración simplificada: DIRECCIÓN DE PRESUPUESTO: formula y lleva el control presupuestario de la nación.
+
+* Oración original: Las experiencias nos ofrecen emociones y escapismo.
+* Oración simplificada: Las experiencias nos ofrecen emociones y evasión.
+
+* Oración original: El Mercado Financiero, tiene como objetivo regular los mercados de valores, que permiten la realización de las diversas operaciones con relación con los valores, las personas físicas o jurídicas que intervienen directa o indirectamente en dichas operaciones, los actos o contratos relacionados con tales mercados y los valores negociados en ellos.
+* Oración simplificada: El Mercado Financiero tiene como objetivo regular los mercados de valores que permiten la realización de las diversas operaciones con relación con los valores, las personas físicas o jurídicas que intervienen directa o indirectamente en dichas operaciones, los actos o contratos relacionados con tales mercados y los valores negociados en ellos.
+
+* Oración original: Marca todos los ítems que quieras poner en práctica el próximo mes o elabora tu propia lista.
+* Oración simplificada: Marca todas las sugerencias que quieras poner en práctica el próximo mes o elabora tu propia lista.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

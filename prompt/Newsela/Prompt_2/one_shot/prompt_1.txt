@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: En una guerra que ya ha reclamado más de 190.000 vidas, los niños como Hussein esperan morir de una manera u otra.
+* Oración simplificada: ## Llamados al deberEn una guerra que ya ha causado más de 190.000 vidas, muchachos como Hussein esperan morir de una manera u otra.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

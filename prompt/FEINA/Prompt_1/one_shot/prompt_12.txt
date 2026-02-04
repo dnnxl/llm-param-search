@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Lo paga el consumidor final todos nosotros mientras que las empresas actúan de intermediarios entre el consumidor y el fisco.
+* Oración simplificada: Lo pagamos todos. Las empresas son intermediarios entre el consumidor y el fisco.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

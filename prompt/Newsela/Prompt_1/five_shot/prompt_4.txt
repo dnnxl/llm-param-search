@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Y la información más reciente que el Pew Research Center ha proporcionado proyecta que para el año 2055 se habrán convertido en el mayor grupo de inmigrantes (Pew también contribuye a financiar _Stateline_).
+* Oración simplificada: La información más reciente del Pew Research Center proyecta que, para el año 2055, se habrán convertido en el grupo de inmigrantes más grande.
+
+* Oración original: En general, se consideró que todas las clases de baile para adolescentes eran poco efectivas.
+* Oración simplificada: En general, las clases de baile para adolescentes fueron poco efectivas.
+
+* Oración original: Aunque sería lógico pensar que todo el mundo apoya la felicidad, la Secretaría del Buen Vivir tiene sus enemigos, y varias personas protestaron la semana pasada exigiendo al gobierno que cerrara la oficina.
+* Oración simplificada: Sería normal pensar que todo el mundo apoya la felicidad, pero la Secretaría del Buen Vivir también tiene enemigos.La semana pasada, varias personas protestaron para que el gobierno cerrara la oficina.
+
+* Oración original: La liga explica que tener una división en Londres podría generarle al país más de 250 millones de dólares cada año.
+* Oración simplificada: El equipo sería como cualquier otro equipo de la liga, y hasta podría presentar un Super Bowl.El equipo podría significar más de 250 millones de dólares para el país cada año.
+
+* Oración original: Pero Erika pintó las paredes de azul, amarillo y verde.
+* Oración simplificada: Erika pintó las paredes de colores.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

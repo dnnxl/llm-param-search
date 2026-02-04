@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Klaus-Jurgen Warnick es uno de ellos.
+* Oración simplificada: Klaus-Jurgen Warnick fue uno de los alemanes del este.
+
+* Oración original: En el futuro, podría utilizarse a estos animales para evitar la desaparición del cocodrilo cubano.
+* Oración simplificada: Alrededor de 40 de los animales todavía tenían los genes especiales del cocodrilo cubano.En el futuro, estos animales podrían ser muy importantes.Quizás puedan evitar que el cocodrilo cubano desaparezca.
+
+* Oración original: Por otro lado, el 35 por ciento de ellos mostraron "diferencias marcadas", con rasgos masculinos en algunas de sus regiones y rasgos femeninos en otras.
+* Oración simplificada: Por otro lado, el 35 por ciento tenía rasgos masculinos en algunas de sus regiones y rasgos femeninos en otras.
+
+* Oración original: Estos resultados han hecho que algunos padres critiquen duramente el uso de pruebas para los alumnos de preescolar.
+* Oración simplificada: Algunos padres critican duramente el uso de pruebas para los estudiantes de preescolar.
+
+* Oración original: Lo ayuda a formarse una personalidad, y ayudar a los suyos.
+* Oración simplificada: Castañeda se ha convertido en una especie de padre para él.Lo ayuda a formarse una personalidad, y ayudar a los suyos.
+
+* Oración original: Será solo cuestión de tiempo antes de que se use para diseñar a nuestros descendientes, eliminando al hacerlo muchas enfermedades hereditarias peligrosas.
+* Oración simplificada: Será solo cuestión de tiempo antes de que se use para diseñar a nuestros descendientes, eliminando al hacerlo muchas enfermedades peligrosas que se pasan de padre a hijo, o hereditarias.
+
+* Oración original: Pero las escuelas de comercio o empresas en particular se han apresurado a desarrollar vínculos con la isla, tanto para estudiar su economía en proceso de desarrollo como para explorarla como posible frontera comercial en el caso de que Estados Unidos levante el embargo.
+* Oración simplificada: Pero las escuelas de comercio se han apresurado a desarrollar vínculos con la isla.Les gustaría estudiar su economía.Quieren conocerla en el caso de que Estados Unidos levante el bloqueo.En la actualidad Cuba y Estados Unidos no pueden comerciar.
+
+* Oración original: Los espacios que estaban planificando se podrían encontrar en un lugar de retiro de la Nueva Era, sin embargo estas ideas eran concepción de un grupo de prisioneros en la San Francisco's County Jail No.
+* Oración simplificada: Los espacios que estaban planificando se podrían encontrar en un lugar de retiro de la Nueva Era.Sin embargo estos proyectos de construcción los estaban desarrollando un grupo de prisioneros en la San Francisco's County Jail No.## No todo el mundo apoya la idea
+
+* Oración original: Las tortugas Galápagos pueden vivir hasta 150 años, por lo que la muerte de George fue una sorpresa.
+* Oración simplificada: Las tortugas gigantes pueden vivir hasta 150 años.
+
+* Oración original: Los científicos piensan que han encontrado pruebas importantes que les pueden ayudar a comprender de qué manera evolucionaron, o se desarrollaron, los primeros seres humanos.
+* Oración simplificada: Los científicos piensan que han descubierto algo muy importante.Es algo que les puede ayudar a entender cómo se desarrollaron los primeros seres humanos.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

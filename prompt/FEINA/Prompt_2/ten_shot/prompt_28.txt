@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: El primero es la duda que se apodera de una persona ante su actuar para conseguir una meta.
+* Oración simplificada: Primero la duda se apodera de la persona con una meta.
+
+* Oración original: Antes de que una persona o negocio pueda encargarse de la producción de bienes y servicios, son necesarios ciertos requisitos previos simultáneos que se reconocen como factores de la producción.
+* Oración simplificada: Para que una persona o negocio pueda encargarse de la producción de bienes y servicios, debe cumplir ciertos requisitos. Estos son conocidos como factores de la producción.
+
+* Oración original: Para llegar a la prosperidad o seguridad financiera, además de la actitud, la educación para la misma y la capacidad para tomar decisiones oportunas y adecuadas es indispensable, además de seguir diferentes estrategias para el efecto, tener como marco e impulsores una serie de principios de los cuales mencionamos y explicamos brevemente los siguientes y para lo cual nos hemos basado en el ya citado Yager, haciendo varias adaptaciones que consideramos pertinentes: principio de los sueños, principio de la objetividad y el realismo, principio del trabajo, principio de fe en el éxito, principio de la perseverancia, principio del ahorro, principio de la inversión y principio de las personas.
+* Oración simplificada: Para lograr la seguridad financiera es necesario actitud, educación, decisiones oportunas, seguir diferentes estrategias para el efecto y aplicar algunos principios. Con base en Yager adaptamos algunos como el principio de los sueños, el de la objetividad y el realismo, el del trabajo, el de fe en el éxito, el de la perseverancia, el del ahorro, el de la inversión y el de las personas.
+
+* Oración original: También afecta a las rentas del trabajo, que corresponde a los ingresos de los empleados y jubilados por concepto de sueldos, honorarios y pensiones.
+* Oración simplificada: También afecta las rentas del trabajo. Estas son los ingresos por salarios, honorarios y pensiones de los empleados y pensionados.
+
+* Oración original: Así mismo, estos bonos incluyen una tasa de interés conocida como tasa cupón, la cual se calcula sobre el valor nominal del mismo.
+* Oración simplificada: Asimismo, estos bonos incluyen una tasa de interés, llamada tasa cupón, que se calcula sobre el valor representativo este.
+
+* Oración original: Esta etapa, asimismo, permitirá la realización final de la evaluación para tomar lecciones de la experiencia y contar con recomendaciones que permitan orientar otras inversiones o reinversiones que se propongan realizar.
+* Oración simplificada: Además, permite evaluar para aprender de la experiencia y hacer recomendaciones que orienten inversiones futuras.
+
+* Oración original: Fraccionamiento refiere a que pueda ser dividido en céntimos para hacer pagos exactos.
+* Oración simplificada: Fraccionamiento. Se puede dividir en céntimos para pagos exactos.
+
+* Oración original: Los inversores tienen que equilibrar las tasas de retorno más altas con los mayores riesgos.
+* Oración simplificada: Los inversores equilibran las tasas de retorno elevadas con los mayores riesgos.
+
+* Oración original: Su automóvil es una herramienta que lo lleva al trabajo y le facilita la vida, pero no es exactamente un activo para la creación de riqueza.
+* Oración simplificada: Su carro es una herramienta para ir al trabajo y facilitar la vida, pero no es un activo que crea riqueza.
+
+* Oración original: La siguiente tabla muestra la construcción del estado financiero por el método indirecto con sus respectivas anotaciones: Como se puede observar, la estructura del EFE por el método indirecto se basa en la revisión del balance del año corriente y el año previo, junto con información del estado de resultados.
+* Oración simplificada: La siguiente tabla evidencia la construcción del estado financiero por el método indirecto con sus anotaciones. La estructura del estado de flujo de efectivo por el método indirecto se basa en la revisión del balance del año corriente y previo con la información del estado de resultados.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: qué requisitos me piden (monto mínimo, documentación, cuenta de cheques, etc.
+* Oración simplificada: Este debes aplicarlo mensualmente y puedes adaptarlo a tu situación personal o familiar al agregar o quitar conceptos.
+
+* Oración original: El ahorro se constituye como una reserva financiera para enfrentar imprevistos, efectuar inversiones o mejorar la calidad de vida.
+* Oración simplificada: El ahorro es una reserva financiera para enfrentar imprevistos, invertir o mejorar la calidad de vida.
+
+* Oración original: Los recursos que salen de la unidad de Gasto con Superávit llegan en la misma cantidad a la unidad de Gasto con Déficit.
+* Oración simplificada: Los recursos salidos de la unidad de gasto con excedente llegan en la misma cantidad a la unidad de gasto con déficit.
+
+* Oración original: Cuando elimines una deuda, celebra tu progreso, pero evita que la celebración te haga contraer deudas nuevamente.
+* Oración simplificada: Cuando elimines una deuda, celebra sin adquirir nuevas deudas.
+
+* Oración original: Para el pago de estos documentos la persona que los recibe en pago (librado) puede acudir a la institución bancaria que los emite (ya sea para pago en efectivo o depósito en cuenta del mismo banco) o presentarlos en otra institución bancaria para depósito en cuenta.
+* Oración simplificada: Para el pago de estos documentos la persona que los recibe en pago puede acudir a la institución bancaria que los emite. Puede ser para pago en efectivo o depósito en cuenta del mismo banco. También puede presentarlos en otra institución bancaria para depósito en cuenta.
+
+* Oración original: El empresarialismo es un concepto multidimensional que exige: creatividad, iniciativa, valores, espíritu de superación, espíritu de ahorro, metas para el desarrollo digno de la vida, disposición a la innovación y al cambio, entre otros.
+* Oración simplificada: El empresarialismo exige creatividad, iniciativa, valores, espíritu de superación, espíritu de ahorro, metas para una vida digna, disposición al cambio y a la innovación.
+
+* Oración original: Un buen impuesto debe reunir un conjunto de características para que efectivamente se mantenga la tributación en un ámbito de equidad y justicia.
+* Oración simplificada: Un buen impuesto reúne un conjunto de características para que se mantenga de manera efectiva la tributación en un ámbito de equidad y justicia.
+
+* Oración original: Las exenciones de primas se aplican en caso de que la persona asegurada presente invalidez total y permanente, y consiste en que no tendrá que seguir pagando la prima del seguro, la cual se mantendrá vigente hacia el final del plazo contratado.
+* Oración simplificada: Las excepciones de primas se aplican en caso de que la persona asegurada presente invalidez total y permanente. Estas consisten en no tener que pagar la prima del seguro, que estará vigente hacia el final del plazo contratado.
+
+* Oración original: Luego, para saber cuál es el 19% de 1.000 hay que multiplicar 1.000 por 19 y dividir por 100.
+* Oración simplificada: Para saber cuál es el diecinueve por ciento de mil, multiplicamos mil por diecinueve y lo dividimos por cien.
+
+* Oración original: Por ejemplo, los solicitantes deben reunir los requisitos según una "prueba de insuficiencia de medios".
+* Oración simplificada: Por ejemplo, los solicitantes deben reunir los requisitos según una prueba de insuficiencia de medios.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

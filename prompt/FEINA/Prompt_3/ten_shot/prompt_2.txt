@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: La fórmula para el éxito es que no hay fórmulas.
+* Oración simplificada: No hay fórmulas para el éxito.
+
+* Oración original: Y aquí es donde surge la necesidad de protección personal y la de la familia.
+* Oración simplificada: Aquí surge la necesidad de protección personal y familiar.
+
+* Oración original: A doña Ana la llevaron hoy al hospital.
+* Oración simplificada: "A doña Ana la llevaron hoy al hospital".
+
+* Oración original: Cada quien tendrá que mantener sus gastos, pagar sus deudas y darse sus gustos personales con sus ingresos normales y habituales (sean sueldo, honorarios, etc.), pero estos gastos NO SE MEZCLAN con el capital para generar riqueza .
+* Oración simplificada: Cada quien mantiene sus gastos, paga sus deudas y se da gustos con sus ingresos habituales. Pero estos gastos no se mezclan con los ahorros para inversión.
+
+* Oración original: Como solicitaste la quiebra, te verán como un riesgo negativo.
+* Oración simplificada: Te verán como un riesgo porque solicitaste la quiebra.
+
+* Oración original: Otros le añaden a esto la propiedad y los bienes del gobierno nacional, regional o departamental y municipal o local.
+* Oración simplificada: Otros le añaden a esta medición de la riqueza las propiedades y los bienes del gobierno nacional, departamental y municipal.
+
+* Oración original: Las actividades asignadas son solo referenciales, pues el comercio está presente en todo tipo de empresas: puede haber actividad minera en los pirquineros, que son pequeños emprendimientos de trabajadores, muchas veces de producción individual.
+* Oración simplificada: Las actividades asignadas son solo referenciales, pues el comercio está presente en todo tipo de empresas. Puede haber actividad minera en los pirquineros, que son pequeños emprendimientos de trabajadores, muchas veces de producción individual.
+
+* Oración original: El saldo resultante corresponde al flujo de caja proyectado, el cual se utiliza para realizar la valoración del proyecto.
+* Oración simplificada: El saldo resultante es el flujo de caja proyectado. Este se utiliza para realizar la valoración del proyecto.
+
+* Oración original: Sobre el dinero, que obviamente tiene su historia, los economistas han tenido diferentes posiciones: desde los que lo han considerado o afirmado que él era pasivo y que no tenía efecto o papel sustancial en la Economía, hasta los que sostienen que el dinero es una panacea para la mayor parte de los problemas del sistema económico.
+* Oración simplificada: Los economistas tienen diferentes posiciones sobre el dinero, algunos consideran que el dinero no tiene un efecto importante en la economía, otros economistas afirman que el dinero es la única solución para la mayoría de los problemas del sistema económico.
+
+* Oración original: TIENE PAGOS MENSUALES (PPM) A CUENTA DEL IMPUESTO ANUAL.
+* Oración simplificada: TIENE PAGOS MENSUALES A CUENTA DEL IMPUESTO ANUAL.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

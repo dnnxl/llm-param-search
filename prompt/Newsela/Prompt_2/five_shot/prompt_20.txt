@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: "Las montañas sirvieron de barrera y eso, al final del día, evitó que pasara el viento", dijo Enrique de la Madrid, secretario federal de Turismo.
+* Oración simplificada: Enrique de la Madrid trabaja para el Gobierno.Dice que las montañas no dejaron que pasara el viento.
+
+* Oración original: Los investigadores estudiaron el ADN de los perros que viven en el sur de Asia Oriental, y llegaron a la conclusión de que los primeros perros vivieron allí, y se dieron cuenta de que el ADN de estos canes es especial.
+* Oración simplificada: Según el estudio, los primeros canes vivieron en el sur de Asia Oriental.Los científicos descubrieron esto examinando el ADN de los perros que viven allí ahora.En esa zona, los investigadores encontraron dos pistas más.
+
+* Oración original: Se hicieron llamar la Coalición de Trabajadores de Immokalee, y luego llegarían a ser conocidos como uno de los grupos de trabajadores agrícolas organizados de mayor éxito en el país.
+* Oración simplificada: Benítez y otros siete trabajadores, en su mayoría hombres jóvenes como él, comenzaron la Coalición de Trabajadores de Immokalee.Llegaron a ser conocidos como uno de los grupos de trabajadores agrícolas organizados de mayor éxito en el país.
+
+* Oración original: En su lugar, los niños sacan sus respectivos teléfonos y ven su dosis de videos en YouTube, principalmente, con la finalidad de enterarse de lo que necesitan saber antes de encontrarse con sus compañeros.
+* Oración simplificada: En lugar de hacerlo, sacan sus respectivos teléfonos y ven una serie de videos principalmente en YouTube, con el fin de enterarse de lo que deben saber antes de encontrarse con sus compañeros.
+
+* Oración original: "El ánimo general en la sala era: 'así no es como me tocó a mí cuando estaba creciendo'".
+* Oración simplificada: Uno de los padres, Paul Bozdech, indicó: "El ánimo general en la sala era: 'así no es como me tocó a mí cuando estaba creciendo'".
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

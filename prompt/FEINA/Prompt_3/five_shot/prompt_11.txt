@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: El sector secundario o industrial tiene también un gran peso en la producción y en la economía de los países, especialmente de aquellos que se han orientado por este rumbo de manera prioritaria y a veces, lamentablemente, con desmedro del sector primario, lo que parece un contrasentido, ya que éste es subsidiario de aquél en cuanto a materia prima, que finalmente tienen que importar y a veces a costos muy elevados.
+* Oración simplificada: El sector secundario tiene un gran peso en la producción y en la economía de los países. Principalmente, se da en aquellos en donde es el rumbo prioritario y, lamentablemente, con deterioro del sector primario. Esto es contradictorio porque el primario subsidia al secundario con materia prima, que importa y a veces a costos elevados.
+
+* Oración original: Esta situación se ha visto agravada en Costa Rica, entre otras razones, porque la salida masiva de inversionistas obligó a los administradores de los fondos a vender los bonos, y el exceso de oferta de bonos hizo que en algunos casos los precios disminuyeran aún mucho más.
+* Oración simplificada: Esta situación se ha agravado en Costa Rica porque la salida masiva de inversionistas obligó a los administradores de los fondos a vender los bonos, y el exceso de oferta de bonos hizo que en algunos casos los precios disminuyeran aún mucho más.
+
+* Oración original: Los recursos que salen de la unidad de Gasto con Superávit llegan en la misma cantidad a la unidad de Gasto con Déficit.
+* Oración simplificada: Los recursos salidos de la unidad de gasto con excedente llegan en la misma cantidad a la unidad de gasto con déficit.
+
+* Oración original: Muestra los ingresos y egresos de efectivo (y equivalente de efectivo) en cada período contable clasificados en flujo de operaciones, de inversiones y de financiamiento.
+* Oración simplificada: Presenta los ingresos y gastos de efectivo por períodos contables. Clasificados en flujo de operaciones, inversiones y financiamiento.
+
+* Oración original: Posiblemente puedas conservar algunos artículos, por ejemplo, el auto y algunos bienes personales.
+* Oración simplificada: Posiblemente conserves algunos artículos.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

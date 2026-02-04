@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Posiblemente sea mejor cambiar el auto por otro más barato o usar un medio de transporte alternativo, en vez de dejar que el acreedor recupere el auto, lo que dañaría tus antecedentes crediticios.
+* Oración simplificada: Puedes cambiarlo por uno más barato o usar otro medio de transporte. No dejes que el fiador recupere el carro porque daña tu historial crediticio.
+
+* Oración original: Cuida tu cartera: controla las tarjetas de crédito y débito, y nunca las prestes, a nadie.
+* Oración simplificada: Cuida tu cartera: controla las tarjetas de crédito y débito, y nunca las prestes a nadie.
+
+* Oración original: Coordina la distribución de las competencias supervisoras entre las autoridades nacionales, con el fin de garantizar una supervisión eficaz de las actividades bancarias, y con el paso del tiempo, sus normas de supervisión transfronteriza se ha convertido en un referente en todo el mundo.
+* Oración simplificada: Coordina la distribución de las competencias supervisoras entre las autoridades nacionales con el fin de garantizar una supervisión eficaz de las actividades bancarias, y sus normas de supervisión transfronteriza se ha convertido en un referente en todo el mundo.
+
+* Oración original: Traigamos al caso este ejemplo decisional: Mariana elaboró y revisó su presupuesto y se dio cuenta de que estaba gastando más de lo que ganaba.
+* Oración simplificada: Un ejemplo decisional sería: Mariana elaboró y revisó su presupuesto y se dio cuenta de que sus gastos eran mayores a sus ganancias.
+
+* Oración original: En la misma línea se enfatizó que es muy conveniente, viable y de gran impacto, sin modificar los planes de estudio ni los programas, desarrollar intervenciones educativas, a partir del estudio de aquellos temas específicos vigentes en el currículo, en los diversos grados y en las diversas asignaturas que tengan que ver directa o indirectamente con la temática del dinero, del ahorro, de los hábitos, de la economía, del empleo, del salario, del ingreso, de los gastos, del consumo, de la satisfacción de las necesidades básicas, de los presupuestos, etc.
+* Oración simplificada: En la misma línea se enfatizó que es muy conveniente desarrollar intervenciones educativas a partir del estudio de aquellos temas específicos vigentes en el currículo, en los diversos grados y asignaturas que tengan que ver directa o indirectamente con temas financieros y de economía / Por ejemplo: del dinero, del ahorro, de los hábitos, de la economía, del empleo, del salario, del ingreso, de los gastos, del consumo, de la satisfacción de las necesidades básicas, de los presupuestos, entre otros.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

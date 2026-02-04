@@ -1,0 +1,21 @@
+Simplifica el siguiente segmento discursivo dado los siguientes ejemplos:
+
+Por ejemplo:
+* Segmento original: Los rendimientos extraordinariamente altos, debidos a ganancias de capital, o bajos, debidos a pérdidas de capital, se dan en periodos cortos de fuertes fluctuaciones en las tasas de interés.
+* Segmento simplificado: Los rendimientos extraordinariamente altos debido a ganancias de capital o bajos debido a pérdidas de capital se dan en periodos cortos de fuertes fluctuaciones en las tasas de interés.
+
+* Segmento original: Los mismos Alonso, Brailovsky y Ortiz (1999) presentan de manera general cuatro ejemplos clásicos de gente que fracasa en las inversiones: involucrarse en el fenómeno de mente colectiva, perdiendo su personalidad y su capacidad de tomar sus propias decisiones; asumir la postura del apostador al seco, que define poner todos sus recursos en un solo instrumento de inversión, por ejemplo, confiarse de manera excesiva en el promotor o promotora de inversiones, considerando sólo referencias adjetivas; y, pensar que se es inmortal, que no le pasa nada; asumir actitudes de soberbia y crear situaciones irreales.
+* Segmento simplificado: Alonso, Brailovsky y Ortiz presentan de manera general cuatro ejemplos clásicos de gente que fracasa en las inversiones: involucrarse en el fenómeno de mente colectiva, perder su personalidad y su capacidad de tomar sus propias decisiones. Asumir la postura del apostador al seco, que define poner todos sus recursos en un solo instrumento de inversión, por ejemplo, confiarse de manera excesiva en el promotor o promotora de inversiones, considerar sólo referencias adjetivas. Y, pensar que se es inmortal, que no le pasa nada. Asumir actitudes de soberbia y crear situaciones irreales.
+
+* Segmento original: El 31 de enero, en Mutual Alajuela por una inversión a un año, con retiro de intereses, en forma mensual, ofrecen una tasa de 10,75% en colones, en títulos físicos.
+* Segmento simplificado: El treinta y uno de enero, en Mutual Alajuela ofrecen una tasa de diez coma setenta y cinco por ciento por una inversión en colones a un año con retiro mensual de intereses.
+
+* Segmento original: Sino que esto sucede hasta cuando el título es cubierto por el librado.
+* Segmento simplificado: Esto sucede cuando el título es cubierto por el librado.
+
+* Segmento original: De hecho, el Departamento de Justicia de los EE. UU. informa que solo aproximadamente el 15 por ciento de las víctimas de fraude denuncian los casos ante las autoridades.
+* Segmento simplificado: El Departamento de Justicia de Estados Unidos informa que solo el quince por ciento de víctimas de fraude denuncian ante las autoridades.
+
+Simplifica el siguiente segmento:
+* Segmento original: PREPROCESS_TEXT
+* Segmento simplificado: 

@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Se veía muy lista, así que Carol Skaziak pensó que podría llegar a convertirse en una buena perra policía.
+* Oración simplificada: Carol Skaziak pensó que podría llegar a convertirse en una buena perra policía.
+
+* Oración original: Los científicos ya sabían que las dos especies se estaban reproduciendo juntas de manera salvaje.
+* Oración simplificada: Cuando dos especies distintas se aparean, los científicos lo llaman cruzamiento.## Ya lo sabíanLos científicos ya sabían que las dos especies se estaban reproduciendo juntas.
+
+* Oración original: A diferencia de los "Dreamers", "Los Otros Dreamers" no se beneficiarían del "Dream Act".
+* Oración simplificada: ## Llamando a todos los "Dreamers"Desafortunadamente, "Los Otros Dreamers" no se podrán beneficiar del "Dream Act".
+
+* Oración original: También el índice de número de latinos que asisten a la universidad ha aumentado, aun cuando el índice de blancos y asiáticos que ingresan en la University of California ha disminuido.
+* Oración simplificada: También el índice de número de latinos que asisten a la universidad ha aumentado, no obstante en la University of California aun hay más blancos y asiáticos.
+
+* Oración original: Los electrónicos hacen funcionar las luces.
+* Oración simplificada: Las niñas podían hacer funcionar las luces.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

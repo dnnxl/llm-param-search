@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Cheque positivo: es un sistema que se encuentra ligado a la cuenta corriente, permite garantizar mayor seguridad y control en el momento de realizar las transacciones con cheques, registrándose antes de ser utilizados todos aquellos cheques girados y que superen el monto mínimo previamente establecido, de manera que únicamente se harán efectivos aquellos cheques que son autorizados por el cliente, evitando fraudes o estafas.
+* Oración simplificada: Cheque positivo: es un sistema ligado a la cuenta corriente más seguro para hacer transacciones con cheques. Los cheques se registran antes de su uso. Por eso, se pagarán solo los cheques autorizados por el cliente para evitar fraudes.
+
+* Oración original: Las personas deben protegerse hoy como casi nunca contra los estafadores y timadores, contra los atracadores, contra los accidentes de tránsito, contra los desastres naturales, contra la contaminación y muchos fenómenos más que las conduce no sólo a poner en riesgo sus bienes y demás recursos financieros, si no también, y esto es lo más grave, su propia salud y hasta su propia vida y la de sus familias.
+* Oración simplificada: Actualmente, las personas deben protegerse contra estafadores, atracadores, accidentes de tránsito, desastres naturales, contaminación y otros fenómenos. Pues ponen en riesgo sus bienes y demás recursos financieros, su salud y la vida propia y de sus familias.
+
+* Oración original: (Recuerda que el objetivo de tener una cuenta de ahorro es dejar el dinero ahí; por eso, que haya ciertas limitaciones razonables para la frecuencia en que puedes retirar dinero no sería un problema).
+* Oración simplificada: Recuerda que el objetivo de una cuenta de ahorro es almacenar el dinero ahí. Por eso, no serían un problema ciertas limitaciones razonables para la frecuencia de retirar.
+
+* Oración original: Yager, 44 dice al respecto que: hay una verdad simple y llana acerca del éxito: No hay éxito sin trabajo arduo.
+* Oración simplificada: Yager dice que: "hay una verdad simple y llana acerca del éxito: No hay éxito sin trabajo arduo.
+
+* Oración original: Adicionalmente, el canal móvil (celulares) es de alto potencial para utilizar pagos a través de mensajería de texto SMS permitiendo, desde cualquier lugar donde se tenga acceso al servicio inalámbrico, realizar pagos electrónicos.
+* Oración simplificada: Además, los celulares permiten realizar pagos electrónicos desde cualquier lugar con acceso al servicio inalámbrico.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

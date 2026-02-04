@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Por falta de educación financiera, aunque también por otras circunstancias, las personas están propensas a gastar más de lo que ganan, también ocurre con los Estados, a menos que decidan ahorrar y que adquieran este hábito, lo cual implica una visión de futuro, que aunque no debe manejarse con angustia tampoco debe dejarse a la deriva.
+* Oración simplificada: Por falta de educación financiera y por otras circunstancias, las personas suelen gastar más de lo que ganan, esto también ocurre con los Estados. Lo anterior no sucedería si las personas adquieren el hábito de ahorrar, lo que implica una visión de futuro.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Entre las ciudades que se destacan por su desarrollo ambientalista, se encuentran Washington, D.C., que cuenta con tres granjas sobre tejados, y Toronto que cuenta con dos, según informan los funcionarios de esas ciudades.
+* Oración simplificada: Entre las ciudades conocidas por su cuidado ambiental, se encuentran Washington, D.C., que cuenta con tres granjas sobre tejados, y Toronto que tiene dos, según informan funcionarios oficiales.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

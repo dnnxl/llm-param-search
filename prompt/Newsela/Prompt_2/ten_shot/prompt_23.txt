@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Otros sacaron sus teléfonos celulares para evitar tener que hablar con alumnos que no conocían.
+* Oración simplificada: Otros se pusieron a usar sus teléfonos celulares.Estaban tratando de evitar hablar con desconocidos.
+
+* Oración original: Tenemos una larga historia en la crianza de vacas lecheras.
+* Oración simplificada: Wisconsin es famoso por su cría de vacas lecheras.
+
+* Oración original: "Estados Unidos está cansado de la mano temblorosa, la indecisión y debilidad en la Oficina Oval", dijo el gobernador, quien tiene planeado estar hoy en Nuevo Hampshire, uno de los primeros estados en realizar elecciones primarias.
+* Oración simplificada: El gobernador tiene planeado estar hoy en Nuevo Hampshire, uno de los primeros estados en realizar elecciones primarias.
+
+* Oración original: Pero era tan tenaz y vivaz que Carol Skaziak pensó que podría llegar a convertirse en un buen perro policía.
+* Oración simplificada: Se veía muy lista, así que Carol Skaziak pensó que podría llegar a convertirse en una buena perra policía.
+
+* Oración original: Ghani habla con cariño de la época de oro de Bagdad — desde 1960 a los 80.
+* Oración simplificada: Ghani recuerda la época de oro de Bagdad —desde los 60 hasta los 80—, cuando la gente rica de la ciudad apoyaba el arte y la cultura.
+
+* Oración original: El mayor número de informes, aproximadamente un 18 por ciento, se dio debido al mareo por movimiento, que incluye desmayos, náuseas y mareos.
+* Oración simplificada: El mayor parte de informes se dio debido al mareo por movimiento.Los afectados sufrieron desmayos, náuseas y mareos.
+
+* Oración original: Creen que esto podría provocarles que pierdan oportunidades de aprendizaje.
+* Oración simplificada: Creen que esto podría provocarles que pierdan oportunidades para aprender.
+
+* Oración original: Los pumas de Santa Mónica no pueden cruzar la autopista llena de tráfico para llegar hasta allí.
+* Oración simplificada: Pero no pueden hacerlo.Cruzar la autopista llena de tráfico es peligroso y pueden morir.
+
+* Oración original: En general, la industria ingresa 25.000 millones de dólares al año, de acuerdo a la Asociación de Software de Entretenimiento, un grupo comercial ubicado en Washington.
+* Oración simplificada: En general, la industria ingresa 25.000 millones de dólares al año.
+
+* Oración original: Por ejemplo, indicarían la cantidad de azúcares añadidos en un artículo alimenticio.
+* Oración simplificada: Por ejemplo, enseñan cuánto azúcar se ha añadido.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Entonces, según la pirámide de Maslow dispondríamos de: necesidades fisiológicas básicas: son necesidades fisiológicas básicas para mantener la homeostasis, dentro de estas se incluyen: necesidad de respirar, necesidad de beber agua, necesidad de dormir, necesidad de regular la homeostasis (ausencia de enfermedad), necesidad de comer, necesidad de liberar desechos corporales, necesidad sexual.
+* Oración simplificada: Según la pirámide de Maslow dispondríamos de necesidades fisiológicas básicas para mantener la homeostasis, como necesidad de respirar, de tomar agua, de dormir, de regular la homeostasis, de comer, de liberar desechos corporales y sexual.
+
+* Oración original: Duración del seguro: Hay seguros que pueden proteger por uno o dos años o cubrir toda la vida, en el primer caso los seguros son temporales, en el segundo, vitalicios.
+* Oración simplificada: Tercero, la duración del seguro es variable. Hay seguros temporales que protegen por uno o dos años, otros son vitalicios y cubren toda la vida.
+
+* Oración original: El recuadro siguiente muestra indicadores socioeconómicos de uso frecuente comparados con un país vecino y otro del norte de América.
+* Oración simplificada: El siguiente cuadro tiene indicadores socioeconómicos de uso frecuente comparados con un país vecino y otro de Norteamérica.
+
+* Oración original: Los magnates miraban con cierta indignación maligna () todo grado de prosperidad e independencia que comenzaba a gozar la clase inferior de sus vasallos.
+* Oración simplificada: Los magnates miraban con indignación maligna todo grado de prosperidad e independencia que comenzaban a tener sus vasallos.
+
+* Oración original: Posiblemente sea un paso difícil de dar, pero es menos incómodo que recibir llamadas de tus acreedores o de los cobradores de deudas de morosos.
+* Oración simplificada: Puede ser difícil, pero es mejor que recibir llamadas de tus fiadores o de los cobradores.
+
+* Oración original: Más concretamente, los bienes A y B son independientes cuando una variación del precio del bien A no influye en la cantidad demandada del bien B, manteniéndose constante todo lo demás.
+* Oración simplificada: Concretamente, dos bienes son independientes cuando una variación del precio de uno no influye en la demanda del otro. Por esto, todo lo demás se mantiene constante.
+
+* Oración original: Los Bancos venden varios productos, entre ellos el crédito, por lo que debe tomarse en cuenta que el análisis del crédito no es solo el producto de su situación financiera, ya sea que los ingresos del solicitante del crédito provengan de una actividad propia o bien como asalariado (Capacidad y Carácter); también existen otros elementos como: Capital, Colateral y Condición, sin embargo, capacidad y carácter por mucho, son los elementos primordiales para ganar el crédito.
+* Oración simplificada: Los Bancos venden varios productos, entre ellos el crédito. Por lo que debe tomarse en cuenta que el análisis del crédito no es solo el producto de su situación financiera. Ya sea que los ingresos del solicitante provengan de una actividad propia o bien como asalariado (Capacidad y Carácter). También existen otros elementos como: Capital, Colateral y Condición. Sin embargo, capacidad y carácter por mucho, son los elementos primordiales para ganar el crédito.
+
+* Oración original: Es financiera cuando, a partir de un monto en depósito, se obtiene una ganancia en un cierto tiempo.
+* Oración simplificada: Es financiera cuando se obtiene una ganancia en un cierto tiempo a partir de un monto en depósito.
+
+* Oración original: Debe tenerse en cuenta el desarrollo de algunos conceptos básicos, los elementos sobre planificación
+* Oración simplificada: Es fundamental desarrollar algunos conceptos básicos, los elementos sobre planificación
+
+* Oración original: La mejor manera de explicar la importancia del ahorro temprano es con un ejemplo.
+* Oración simplificada: La mejor manera de explicar la importancia de realizar un ahorro a tiempo es con un ejemplo.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

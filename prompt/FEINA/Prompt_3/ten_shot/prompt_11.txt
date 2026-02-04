@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: El inversionista debe fijarse bien en cuál entidad está invirtiendo su dinero, pues el pago del certificado, al vencimiento, dependerá de la capacidad que tenga la institución que emitió el certificado de cancelar sus obligaciones.
+* Oración simplificada: El inversionista debe fijarse en la institución donde hace los certificados. Porque la institución cumplirá sus obligaciones según su capacidad.
+
+* Oración original: ¥ Signo del yen japonés Letra «y» griega mayúscula cruzada por dos líneas horizontales.
+* Oración simplificada: Signo del yen japonés. Letra y griega mayúscula cruzada por dos líneas horizontales.
+
+* Oración original: Caso contrario se observa con los activos intangibles, los cuales muestran un crecimiento nominal del 4%; pero representan una reducción con respecto a su importancia dentro de la inversión.
+* Oración simplificada: Con los activos inmateriales ocurre lo contrario. Evidencian un crecimiento nominal del cuatro por ciento. Pero representan una reducción según su importancia en la inversión.
+
+* Oración original: La Economía, o quizás mejor, el proceso económico puede describirse, entonces, en cuatro fases, correspondiendo a dicha definición, como son: la de producción, la de intercambio, la de distribución y la de consumo.
+* Oración simplificada: La economía, o mejor, el proceso económico, de acuerdo con la anterior definición se describe en cuatro fases, la fase de producción, intercambio, distribución y de consumo.
+
+* Oración original: A los agricultores les corresponde, por lo tanto, la producción de los bienes más importantes para la vida de la población.
+* Oración simplificada: A los agricultores les corresponde la producción de los bienes más importantes para la población.
+
+* Oración original: En un artículo escrito por Gómez (2007) se plantea, entre otros, que para tener éxitos en lo que se emprenda debe tenerse presente que: Lo único seguro es la incertidumbre.
+* Oración simplificada: En un artículo escrito por Gómez se plantea que para tener éxitos en lo que se emprenda debe tenerse presente que lo único seguro es la incertidumbre.
+
+* Oración original: Cuando se logra obtener una tarjeta de crédito, el banco que se la concede en realidad le está haciendo un préstamo por la cantidad de sus compras.
+* Oración simplificada: Una tarjeta de crédito es un préstamo del banco por la cantidad de sus compras.
+
+* Oración original: Utilizando el mismo caso anterior, realizamos un depósito de $1,000, al 14% anual que se acumula cuatro veces al año. ¿Cuánto dinero tendremos al cabo de tres años?
+* Oración simplificada: Depositamos mil dólares al catorce por ciento anual acumulado cuatro veces al año. ¿Cuánto dinero tendremos después de tres años?
+
+* Oración original: La gente sin trabajo disminuye y así mismo los atracos, los robos y en general, la inseguridad social.
+* Oración simplificada: El desempleo y la inseguridad social disminuyen.
+
+* Oración original: También, los fondos de pensiones y de retiros constituyen intermediarios financieros que tienen la función de poner en marcha un plan de pensiones que permite reponer los ingresos que una persona tiene antes de acogerse al retiro, de manera que se combinan los beneficios de la seguridad social y los ahorros para estos fines.
+* Oración simplificada: Los fondos de pensiones y de retiros también son intermediarios financieros. Su función es realizar un plan de pensiones para reponer los ingresos recibidos por una persona antes de pensionarse. Para esto, se combinan los beneficios del seguro social y los ahorros.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

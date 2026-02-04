@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: López Luján espera excavar el pasadizo y descubrir qué hay detrás de las dos puertas selladas.
+* Oración simplificada: López Luján cree que detrás de las puertas selladas encontrará las cenizas de los líderes mexicanos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

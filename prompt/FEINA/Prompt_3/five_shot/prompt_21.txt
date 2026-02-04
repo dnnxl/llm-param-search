@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Así que usted no tiene derechos.
+* Oración simplificada: Usted no tiene derechos.
+
+* Oración original: Asegúrate de saber qué cargos cobran, si es que lo hacen.
+* Oración simplificada: Infórmate si cobran cargos y cuáles.
+
+* Oración original: He cometido muchos errores errores financieros durante mi vida.
+* Oración simplificada: He cometido muchos errores financieros durante mi vida.
+
+* Oración original: Esto ocurre con frecuencia con los que ingresan a los negocios, que al ver que después de los tres o seis meses no se cumplen sus expectativas entonces optan por retirarse, sin considerar que los negocios, como muchas metas de la vida, son a largo plazo.
+* Oración simplificada: Esto ocurre frecuentemente con quienes inician un negocio porque se retiran cuando no se cumplen sus expectativas después de tres o seis meses.
+
+* Oración original: ¿Cuál sería el monto de la cuota de pago semestral (anualidad)?
+* Oración simplificada: ¿Cuál sería el monto de la cuota de pago semestral? Es decir, la anualidad.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

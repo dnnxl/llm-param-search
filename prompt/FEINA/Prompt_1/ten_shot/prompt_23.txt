@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Desde el momento en que usted haga un plan, por sencillo que sea, para tratar de lograr un sueño, lo convierte en una meta.
+* Oración simplificada: Desde el momento en que usted hace un plan para tratar de lograr un sueño, lo convierte en una meta.
+
+* Oración original: Esto se obtiene cuando los recursos de la naturaleza, la industria y toda la organización económica, proporcionan los medios o herramientas efectivas para la realización de todos sus habitantes como seres humanos.
+* Oración simplificada: Esto se da cuando los recursos de la naturaleza, la industria y la organización económica proporcionan los medios para la realización de sus habitantes.
+
+* Oración original: Consulta al emisor de la tarjeta de crédito o a la institución crediticia para ver si puedes hacer los pagos automáticamente por Internet.
+* Oración simplificada: Consulta al emisor de la tarjeta de crédito si puedes pagarla automáticamente por Internet.
+
+* Oración original: En el primero, el bien o servicio se consume directamente y no es utilizado para generar otros productos.
+* Oración simplificada: En el primero, el producto o servicio se consume directamente y no se utiliza para producir otros productos.
+
+* Oración original: La mala noticia es que el proceso para corregir los errores requiere paciencia y perseverancia.
+* Oración simplificada: Pero ese proceso requiere paciencia y perseverancia.
+
+* Oración original: La promoción de la educación financiera no debe ser un sustituto para la regulación financiera, la cual es esencial para proteger a los consumidores.
+* Oración simplificada: La promoción de la educación financiera no debe sustituir a la regulación financiera, que es esencial para proteger a los consumidores.
+
+* Oración original: El precio del cobre (o sueldo de Chile) es un índice que indica el valor de la libra de cobre en los mercados internacionales.
+* Oración simplificada: El precio del cobre indica el valor de la libra de cobre en los mercados internacionales.
+
+* Oración original: Lo que no esté claro, es indispensable preguntarlo sin ningún temor ni reserva, al fin la persona es el cliente que está comprando un servicio, que debe ser transparente en todos sus aspectos, para evitar complicaciones posteriores.
+* Oración simplificada: Es indispensable preguntar lo que no esté claro. El cliente está comprando un servicio que debe ser transparente en todo aspecto, para evitar complicaciones posteriores.
+
+* Oración original: El ahorro se constituye como una reserva financiera para enfrentar imprevistos, efectuar inversiones o mejorar la calidad de vida.
+* Oración simplificada: El ahorro es una reserva financiera para enfrentar imprevistos, invertir o mejorar la calidad de vida.
+
+* Oración original: Como se puede observar, la amortización se mantiene constante, mientras que la cuota es decreciente.
+* Oración simplificada: Como se puede observar, la amortización se mantiene constante mientras que la cuota es decreciente.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

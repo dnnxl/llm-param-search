@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Por ejemplo, invertir en títulos o acciones de una compañía a un valor determinado y que ese valor por acción baje debido a malos resultados de los negocios de la empresa.
+* Oración simplificada: Por ejemplo, invertir en títulos o acciones de una compañía. Estos tienen un valor determinado y este puede bajar por malos resultados de los negocios de la empresa.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

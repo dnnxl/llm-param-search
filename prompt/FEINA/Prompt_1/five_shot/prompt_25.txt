@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: No solo aumentarán el capital, sino que recibirán una cantidad considerable de intereses al cabo de 10 años.
+* Oración simplificada: No solo aumentarán el capital, sino recibirán una cantidad considerable de intereses tras diez años.
+
+* Oración original: Bajo este sistema, generalmente, cada persona usaba su trabajo, el de su familia, su propia tierra, sus propias herramientas y su habilidad empresarial personal para producir los productos que necesitaba.
+* Oración simplificada: Bajo este sistema, generalmente, cada familia y cada persona trabajaba su propia tierra, usaba sus propias herramientas y su habilidad empresarial para elaborar los productos que necesitaba.
+
+* Oración original: El dinero está presente en la sociedad económica y en la vida de todas las personas, de allí que no es justificable el que no conozcamos algunos aspectos de él que seguramente nos facilitarían su manejo o su inversión, además de otras operaciones en que está presente, en diferentes formas o modalidades.
+* Oración simplificada: El dinero está presente en la sociedad económica y en la vida de todas las personas, por ello, es importante conocer algunos aspectos sobre él que nos facilitarán su manejo, su inversión y otras operaciones en donde él está presente de diferentes formas.
+
+* Oración original: La primera se refiere a la capacidad que tiene la organización para cubrir sus obligaciones de corto plazo, mientras que la segunda se refiere a la capacidad de cubrir el total de obligaciones (Rodríguez, 2017). ¿Cuál es más importante?
+* Oración simplificada: La primera es la capacidad de la empresa para cumplir sus obligaciones de corto plazo. La segunda es la capacidad de cumplir todas las obligaciones. ¿Cuál es más importante?
+
+* Oración original: Posteriormente, los intereses se irán agregando de mes en mes, mientras no pague la totalidad de su saldo.
+* Oración simplificada: Los intereses se agregarán mensualmente mientras no pague el saldo total.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

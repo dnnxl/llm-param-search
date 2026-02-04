@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: En caso contrario, la empresa deja de ser viable y cesará en sus funciones por quiebra.
+* Oración simplificada: Al contrario, la empresa se vuelve inviable y cesará sus funciones por bancarrota.
+
+* Oración original: Los impuestos sobre transmisiones hereditarias han subsistido hasta nuestros días, así como los que gravaban el consumo de diversos artículos: sal, cerveza, etc.
+* Oración simplificada: Los impuestos sobre transmisiones hereditarias han subsistido hasta nuestros días, así como los que gravaban el consumo de diversos artículos como sal, cerveza, entre otros.
+
+* Oración original: Su función está orientada a salvaguardar la liquidez de la empresa.
+* Oración simplificada: Su función es proteger la liquidez de la empresa.
+
+* Oración original: Pienso que, en la gran mayoría de los casos, lo que nos impide actuar es el miedo.
+* Oración simplificada: Pienso que lo que nos impide actuar es el miedo.
+
+* Oración original: Entregas los pagos a plazos al órgano judicial y un administrador fiduciario los traslada a los acreedores.
+* Oración simplificada: Entregas los pagos a plazos al órgano judicial y un administrador fiduciario los traslada a los fiadores.
+
+* Oración original: De acuerdo con los expertos, en la actualidad, uno de los métodos más usados es infiltrar en las PCs estos software llamados key loggers ó registradores de teclas.
+* Oración simplificada: De acuerdo con los expertos, uno de los métodos usados es infiltrar en las computadoras estos softwares llamados capturador de teclas.
+
+* Oración original: Por ejemplo: tener una propiedad, utilizar un servicio o comprar un producto, llevar a cabo una actividad, etc.
+* Oración simplificada: Por ejemplo: tener una propiedad, utilizar un servicio o comprar un producto, llevar a cabo una actividad, entre otros.
+
+* Oración original: Este es un concepto económico muy importante y sobre él cabalga, en gran proporción, la riqueza de un país, así como el mejor nivel y la calidad de vida que el Estado pueda brindar a sus ciudadanos y ciudadanas.
+* Oración simplificada: Este es un concepto económico muy importante. Sobre este recae la riqueza del país, el nivel y la calidad de vida que brinde el Estado a su ciudadanía.
+
+* Oración original: Ahora bien, en una economía existe una inmensa variedad de formas de dinero o agregados monetarios, que van desde el efectivo hasta títulos bancarios, pagarés, cheques, cuentas bancarias, entre otros.
+* Oración simplificada: En una economía existe gran variedad de formas de dinero, como efectivo, cheques, cuentas bancarias, entre otros.
+
+* Oración original: Al establecer las metas financieras, será importante considerar la inflación y los impuestos, para obtener los rendimientos o beneficios reales o netos.
+* Oración simplificada: Al establecer las metas financieras será importante considerar la inflación y los impuestos para obtener los rendimientos o beneficios reales o netos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

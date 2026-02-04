@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Sin embargo, cuando el fenómeno de El Niño ocurre, estas aguas de temperatura cálida que ocasionan precipitaciones se desplazan hacia el este, propiciando condiciones que generan grandes tormentas.
+* Oración simplificada: Cuando ocurre el fenómeno de El Niño, estas aguas se desplazan hacia el este, creando las condiciones necesarias para que se formen grandes tormentas.
+
+* Oración original: Dentro de este enredo de exageración y esperanza, al menos dos compañías se han comprometido a someter sus productos digitales a rigurosas pruebas para el tratamiento de condiciones específicas de salud, antes de ponerlos en el mercado.
+* Oración simplificada: En medio de opiniones que van desde la exageración hasta la esperanza, al menos dos compañías se han comprometido a someter sus productos digitales a rigurosas pruebas para el tratamiento de enfermedades específicas, antes de ponerlos en el mercado.
+
+* Oración original: Copeland explicó que en "El lago de los cisnes" realizaba movimientos muy difíciles apoyada sobre la pierna operada, pero que era importante evitar que el público lo notara.
+* Oración simplificada: En "El lago de los cisnes" realizaba movimientos muy difíciles apoyada en la pierna operada.Para ella era importante evitar que la gente se diera cuenta.
+
+* Oración original: Broadcom, una empresa informática de chips, fue la primera de nueve grandes empleadores locales en unirse con las _girl scouts_ a lo que ahora se denomina el Consorcio STEM.
+* Oración simplificada: "Estamos dejando a la mitad de la población al margen de los trabajos más interesantes del siglo 21", dijo Paula Golden, presidenta de Broadcom, una empresa informática de chips.Broadcom fue la primera en asociarse con las _girl scouts_ para crear el grupo de STEM.Creen que adiestrar chicas en las materias de STEM es una inversión sabia.
+
+* Oración original: Las estrictas regulaciones del estado de California en lo referente al medio ambiente y los generosos subsidios que otorga a quienes optan por la compra de un carro eléctrico han servido para el desarrollo de empresas como _Tesla_ y _Faraday Future_, su rival emergente.
+* Oración simplificada: Su preocupación por el medio ambiente y los generosos subsidios que otorga a los fabricantes de autos eléctricos han contribuido al crecimiento de muchas empresas.
+
+* Oración original: "Mis padres nacieron en Turquía", decía Marlene Souriano-Vinikoor, miembro de los Ladineros.
+* Oración simplificada: "Mis padres nacieron en Turquía", decía Marlene Souriano-Vinikoor.
+
+* Oración original: Gracias a la alta demanda en Asia, un colmillo de elefante se vende por 1.500 dólares la libra (casi medio kg).
+* Oración simplificada: Un colmillo de elefante se vende por 1.500 dólares la libra (casi medio kg.).
+
+* Oración original: Las _Girls Scouts_ y otras empresas locales se están asociando para reducir las diferencias entre las mujeres y los hombres en los campos de estudio y trabajo como las ciencias, la tecnología, la ingeniería y las matemáticas.
+* Oración simplificada: Las _Girl Scouts_ están trabajando con empresas locales para reducir la "brecha de género".Se le llama "brecha de género" a la falta de oportunidades iguales para las mujeres y los hombres en la sociedad.Hay más hombres que mujeres en los campos de estudio y trabajo como las ciencias, la tecnología, la ingeniería y las matemáticas.
+
+* Oración original: "Pero y ¿qué opinas de que los niños tengan que quedarse más tiempo todos los días?, pregunta su hermana Amy Kelly.
+* Oración simplificada: "¿Pero qué opinas sobre los niños que tienen que quedarse más tiempo todos los días?pregunta su hermana Amy Kelly.Pero tener a los profesores cada dos lunes vale la pena estas 14 horas, ya que les da tiempo de ponerse al día en temas como tecnología, especialmente a los más mayores.Tengo familia y mis propios hijos.
+
+* Oración original: Más de 30 personas fueron arrestadas, lo cual desencadenó más protestas por todo el estado obligando al gobernador demócrata David Ige a posponer la construcción por un breve período de tiempo.
+* Oración simplificada: Algunas personas fueron arrestadas, pero las protestas obligaron al gobernador de Hawái a retrasar la construcción.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

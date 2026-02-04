@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Japón con un 10,6 % y Brasil con 5,5 %.
+* Oración simplificada: Japón y Brasil.
+
+* Oración original: Si eres una de esas personas que creen que nunca les sobra dinero de su salario luego de pagar las cuentas y los gastos de subsistencia, empieza a pensar en el ahorro como una necesidad.
+* Oración simplificada: Si eres una de esas personas, piensa en el ahorro como una necesidad.
+
+* Oración original: En el caso de títulos que representan una participación en el patrimonio de las sociedades, se incluyen derechos a dividendos, al voto, a preferencias sobre utilidades y otras.
+* Oración simplificada: En el caso de títulos que representan una participación en el patrimonio de las sociedades se incluyen derechos a dividendos, al voto, a preferencias sobre utilidades y otras.
+
+* Oración original: También, existen otros factores que influyen negativamente en el logro de los resultados esperados en las inversiones, como por ejemplo, los citados en el Curso Introductorio al Programa de Formación de Inversores (PSP USA Corp. 2016): falta de capital inicial, falta de formación específica y falta de motivación y acompañamiento.
+* Oración simplificada: También, existen otros factores que influyen negativamente en el logro de los resultados esperados en las inversiones, por ejemplo, los citados en el Curso Introductorio al Programa de Formación de Inversores: falta de capital inicial, falta de formación específica, y falta de motivación y acompañamiento.
+
+* Oración original: Lo que se acostumbra en este caso, es prevenir la situación con un seguro que ya es un fenómeno financiero muy generalizado y para atender el cual se han fundado grandes empresas, unas dependientes completamente del Estado, como es el caso de Costa Rica, y otras empresas privadas independientes, como ocurre en la mayoría de países del mundo.
+* Oración simplificada: En este caso, se acostumbra prevenir la situación con un seguro, que es un fenómeno financiero generalizado. Para esto, se han fundado empresas estatales en Costa Rica y empresas privadas independientes en la mayoría del mundo.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

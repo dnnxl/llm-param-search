@@ -1,0 +1,21 @@
+Simplifica el siguiente segmento discursivo dado los siguientes ejemplos:
+
+Por ejemplo:
+* Segmento original: Por ejemplo, considere una panadería que reemplace sus cajeros por ánforas; el pan se coloca en las perchas y se invita a los clientes a tomar el que quieran y comerlo.
+* Segmento simplificado: Por ejemplo, una panadería reemplaza sus cajeros por vasijas. Pone el pan en las perchas e invita a los clientes a comer el pan que quieran.
+
+* Segmento original: En cambio, los comerciantes (quienes venden, sean personas o empresas) emiten o reciben facturas por sus ventas y sus compras, donde separan el valor de la mercancía del valor del impuesto y ello determina, cada mes, un saldo a favor del fisco (débito mayor que crédito) o del comerciante (débito menor que crédito).
+* Segmento simplificado: En cambio, los comerciantes dan o reciben facturas por sus ventas y compras. Donde separan el precio del producto del impuesto. Esto determina mensualmente un saldo a favor del fisco o del comerciante.
+
+* Segmento original: Pero, inclusive, siendo una persona mayor, Paul Getty trabajó arduamente, aún después de haber hecho su fortuna.
+* Segmento simplificado: Todavía siendo una persona mayor, Paul Getty trabajó mucho, incluso después de haber hecho su fortuna.
+
+* Segmento original: Por otro lado, la hierba mala generalmente no tiene uso práctico y no se clasifica como un bien económico.
+* Segmento simplificado: Por otro lado, la hierba mala no tiene uso práctico y no se clasifica como un bien económico.
+
+* Segmento original: Se selecciona la celda de entrada y se acepta el cálculo.
+* Segmento simplificado: Seleccionamos la celda de entrada y aceptamos el cálculo.
+
+Simplifica el siguiente segmento:
+* Segmento original: PREPROCESS_TEXT
+* Segmento simplificado: 

@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: La Inversión: Instrumento para Aumentar el Ahorro Los bonos generalmente proveen un flujo estable de ingresos, pues los pagos de intereses se realizan con una determinada periodicidad y en fechas establecidas.
+* Oración simplificada: La inversión es el instrumento para aumentar el ahorro. Los bonos generalmente proveen un flujo estable de ingresos, pues los pagos de intereses se realizan con una determinada periodicidad y en fechas establecidas.
+
+* Oración original: Las fugas de dinero te dejan menos dinero disponible para ahorrar y cumplir tus sueños.
+* Oración simplificada: Las fugas de dinero dejan menos dinero disponible para ahorrar y cumplir sueños.
+
+* Oración original: El bienestar no involucra únicamente la posibilidad de consumir más bienes, más comida, más televisores, mejores vehículos, etc., sino también la posibilidad de consumir mejor comida, mejores televisores, etc.
+* Oración simplificada: El bienestar también involucra la posibilidad de consumir mejor comida, mejores televisores, entre otros.
+
+* Oración original: Todos debemos estar interesados en saber qué es la productividad, ya que frecuentemente nos repiten que el nivel de vida de un país depende de la productividad.
+* Oración simplificada: Todos deben interesarse por la productividad, ya que el nivel de vida de un país depende de la productividad.
+
+* Oración original: No bien termine el plazo y comiencen a cobrar intereses, las tasas estarán muy por encima de las tasas de interés promedio.
+* Oración simplificada: Cuando termine el plazo y cobren los intereses, las tasas subirán más del interés promedio.
+
+* Oración original: En una economía primitiva, donde el comercio era por trueque y los grupos eran autosuficientes (autarquía), cada cual producía lo que necesitaba y, si sobraba algo, quizás lo cambiara por otra cosa, que necesitaba y no producía, con sus vecinos.
+* Oración simplificada: En caso de existir el derecho de propiedad privada, las personas no ponían en duda a quién pertenecía los productos producidos en esta y no dudaban de la porción a la que tenían derecho.
+
+* Oración original: Las cuentas de las cooperativas de crédito ("credit unions") están aseguradas de manera similar por Fondo Nacional de Seguro de Cooperativas de Crédito (NCUSIF), que es administrada por la Administración Nacional de Cooperativas de Crédito (NCUA).
+* Oración simplificada: El Fondo Nacional de Seguro de Cooperativas de Crédito es administrada por la Administración Nacional de Cooperativas de Crédito. Esta entidad asegura las cuentas de las cooperativas de crédito.
+
+* Oración original: Decidirse de una vez por todas a cambiar: Hacerlo por uno mismo.
+* Oración simplificada: Decidirse definitivamente a cambiar y hacerlo por uno mismo.
+
+* Oración original: El protesto es un acto legal, de constancia notarial, en que se consigna el no pago, requisito indispensable para ejercer posteriores acciones de cobro judicial.
+* Oración simplificada: El protesto es un acto legal de constancia notarial en que se consigna el no pago, requisito indispensable para ejercer posteriores acciones de cobro judicial.
+
+* Oración original: Para saber si la pantalla es real, fíjese en los datos: las falsas no tienen el logo ni el nombre del Banco y presentan mucha menos información.
+* Oración simplificada: Fíjese en los datos para saber si la pantalla es real: las falsas no tienen el logo ni el nombre del Banco y presentan mucha menos información.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

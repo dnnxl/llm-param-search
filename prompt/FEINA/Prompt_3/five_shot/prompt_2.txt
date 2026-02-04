@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Calcule su ingreso neto (no el que figura en el desprendible de pago que es bruto).
+* Oración simplificada: Calcule su ingreso neto, no el que figura en el comprobante de pago porque ese es ingreso bruto.
+
+* Oración original: Por ejemplo, para enero de 2020, cuando la UF equivalía a $28.696, este valor correspondió a $2.
+* Oración simplificada: En enero de dos mil veintidós, la Unidad de Fomento equivalía a veintiocho mil seiscientos noventa y nueve dólares, este valor correspondió a dos dólares.
+
+* Oración original: Sufre las dificultades internacionales, así como se beneficia en los períodos de bonanza.
+* Oración simplificada: Sufre las dificultades internacionales. También se beneficia en los períodos buenos.
+
+* Oración original: Las hojas de cálculo siguientes te ayudarán a comenzar con los tres primeros pasos.
+* Oración simplificada: Las siguientes hojas de cálculo te ayudarán con los primeros tres pasos.
+
+* Oración original: Sepa cuánto puede gastar al ir de compras.
+* Oración simplificada: Sepa cuánto puede gastar en compras.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

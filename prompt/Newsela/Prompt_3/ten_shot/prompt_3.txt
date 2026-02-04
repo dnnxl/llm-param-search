@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Después del arresto de Ahmed, el jefe de la policía informó que no existía prueba alguna de que el niño hubiese tenido intenciones de causar alarma.
+* Oración simplificada: Después del arresto de Ahmed, el jefe de la policía informó que no había pruebas de que el niño tuviese intenciones de causar alarma.
+
+* Oración original: Dirigiéndose a Alhadeff, quien había venido a informar al grupo como parte de un esfuerzo que se estaba haciendo por correr la voz, Amira hacía referencia a los requisitos que los interesados debían cumplir entre los cuales se encontraban: el presentar una prueba tanto de español como de cultura, el obtener una certificación que demuestre su procedencia sefardí y el trasladarse a España para completar los trámites para la obtención de la doble nacionalidad.
+* Oración simplificada: Amira hacía referencia a los requisitos que los interesados debían cumplir entre los cuales se encontraban: el presentar una prueba tanto de español como de cultura, el obtener una certificación que demuestre su procedencia sefardí y el trasladarse a España para completar los trámites.
+
+* Oración original: El archivo en Estados Unidos no ha sido completamente escarbado.
+* Oración simplificada: El archivo en Estados Unidos no se ha analizado ni estudiado.
+
+* Oración original: Johns cree que emplea "quizá una hora máximo haciendo tareas".
+* Oración simplificada: Su carga de tarea es intermedia.Johns cree que entre semana pasa "quizá una hora máximo haciendo tareas".
+
+* Oración original: Aunque Copeland está muy emocionada por ser la bailarina principal, señala que hay una desventaja en ello.
+* Oración simplificada: Para muchas personas, Copeland es un ejemplo.Copeland está muy emocionada por ser la bailarina principal, pero dice que ahora baila menos que antes.
+
+* Oración original: Así que las personas terminan donando cantidades interminables de crema de maíz, frijoles y rollos de canela casi caducos.
+* Oración simplificada: Las personas donan cantidades increíbles de crema de maíz, frijoles y rollos de canela que ya están por caducar.
+
+* Oración original: La escuela está construyendo sus propios negocios que generan ganancias.
+* Oración simplificada: La escuela está construyendo sus propios negocios para ganar dinero.
+
+* Oración original: Los militares aseguran que estas medidas son necesarias para restablecer el orden tras meses de protestas.
+* Oración simplificada: Los militares dijeron que eso era necesario para volver a poner orden después de meses de protestas.
+
+* Oración original: Al principio, tenía solo 10.000 libros electrónicos, pero desde entonces la biblioteca ha añadido otros 10.000 libros electrónicos y espera hacer lo mismo cada mes.
+* Oración simplificada: Al principio, la colección de BiblioTech solo tenía 10.000 libros electrónicos.Pero desde entonces la biblioteca ha añadido otros 10.000 libros electrónicos.Y espera añadir 10.000 libros electrónicos cada mes.
+
+* Oración original: ¿Seguro?
+* Oración simplificada: ¿Es cierto eso?
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

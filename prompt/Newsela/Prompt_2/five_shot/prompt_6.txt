@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: "No se deben tratar temas como la raza, la orientación sexual y las condiciones físicas".
+* Oración simplificada: Indica que algunos temas que se deben evitar son la raza, la religión y las condiciones físicas.
+
+* Oración original: Las fuerzas armadas trabajaban el sábado para retirar los árboles y escombros que entorpecían el paso en algunas carreteras, pero los daños causados por la tormenta fueron menores de lo esperado.
+* Oración simplificada: El sábado, las autoridades trabajaban para retirar los árboles caídos de algunas carreteras.Aun así, los daños causados por la tormenta fueron mucho menores de lo esperado.
+
+* Oración original: Ahora los militares prohibieron hacer el saludo de los tres dedos y arrestaron a jóvenes manifestantes por usarlo.
+* Oración simplificada: El ejército prohíbe que hagan la señal donde alzan los tres dedos.Arrestan a jóvenes por hacerlo.
+
+* Oración original: Ella dijo que incluso las pequeñas diferencias en el cuerpo pueden ser muy importantes.
+* Oración simplificada: ## Las pequeñas diferencias son importantes"Incluso las pequeñas diferencias en cómo se adapta el cuerpo pueden ser muy importantes de conocer".
+
+* Oración original: Los estudiantes estarían encantados si las cafeterías vendieran pizza todos los días, pero eso no sería saludable.
+* Oración simplificada: Los estudiantes estarían felices si les sirvieran pizza todos los días, pero eso no sería saludable.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

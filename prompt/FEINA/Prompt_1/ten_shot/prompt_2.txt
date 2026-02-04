@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: No se sabe cómo liberarse de estos patrones negativos en los cuales se ha atrapado a sí mismo.
+* Oración simplificada: No se sabe cómo dejar estos patrones negativos en los que se encuentra atrapado.
+
+* Oración original: No los anuncie, ni comente con nadie.
+* Oración simplificada: No los anuncie ni comente con nadie.
+
+* Oración original: Además, el tiempo es mucho más importante que la suma que ahorres o, incluso, que el retorno que recibas por las inversiones debido a la inflación y al valor del dinero en el tiempo.
+* Oración simplificada: Además, el tiempo es más importante que la suma ahorrada o el monto recibido por las inversiones. Esto se debe a la inflación y al valor cambiante del dinero.
+
+* Oración original: Alguien pudiera responder argumentando que en muchos países se paga por aire caliente en el invierno y por aire frío en el verano y esto es cierto, pero lo que ocurre es que en estos casos se ha hecho escaso cierto tipo de aire y por eso se paga por él.
+* Oración simplificada: En algunos países se paga por aire frío en verano y caliente en invierno porque ambos son escasos.
+
+* Oración original: Si no, tomo el DP.
+* Oración simplificada: La segunda opción sería el Depósito a Plazo.
+
+* Oración original: Es una línea de crédito revolutiva a 15 años plazo, con garantía hipotecaria, en donde el cliente deja su casa en garantía y obtiene el financiamiento para cubrir diversos gastos o inversiones personales tales como gastos médicos, estudios, viajes, readecuación de deudas, etc.
+* Oración simplificada: Es una línea de crédito revolutiva a quince años plazo, con garantía hipotecaria, en donde el cliente deja su casa en garantía. Así obtiene el financiamiento para cubrir gastos médicos, estudios, viajes, readecuación de deudas, etcétera.
+
+* Oración original: Usaré mi dinero para ayudar a las organizaciones benéficas que elija.
+* Oración simplificada: Usaré mi dinero para ayudar organizaciones benéficas elegidas.
+
+* Oración original: Un problema de solvencia implica que la compañía no está generando rentabilidad para los accionistas y si este problema persiste, no tendría sentido seguir operando.
+* Oración simplificada: Un problema de solvencia muestra que la empresa no es rentable para los accionistas.
+
+* Oración original: Todos los habitantes de la sociedad toman decisiones económicas, para mejorar sus remuneraciones, su consumo y, consecuentemente, elevar su bienestar.
+* Oración simplificada: Los ciudadanos toman decisiones económicas para mejorar sus sueldos, su consumo y su bienestar.
+
+* Oración original: Presupuesto de gastos: Es el instrumento que permite determinar que se tienen los recursos y la capacidad personal para poner en práctica las metas financieras personales y de la familia.
+* Oración simplificada: El presupuesto de gastos permite determinar los recursos y la capacidad personal disponibles para poner en práctica metas financieras.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

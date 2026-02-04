@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Es la pregunta que surge ahora.
+* Oración simplificada: Es la pregunta surgida.
+
+* Oración original: El presupuesto es un instrumento que ayuda a la gestión de los recursos financieros y a tomar decisiones para su mejoramiento, a partir de analizar y confrontar ingresos y egresos.
+* Oración simplificada: El presupuesto es un instrumento para la gestión de los recursos financieros. Además, ayuda a tomar decisiones para mejorar estos recursos, a partir de analizar y confrontar ingresos y egresos.
+
+* Oración original: Te recomiendo que sigas fielmente este formato que te permitirá gastar, si todo lo demás lo has llevado bien que conste sin complejos de culpa.
+* Oración simplificada: Te recomiendo que sigas fielmente este formato que te permitirá gastar sin complejos de culpa si todo lo demás lo has llevado bien.
+
+* Oración original: Las entidades de previsión que actúan en el plano nacional y sus funciones respecto de los aportes (cotizaciones) de los trabajadores, de las empresas y del Estado se indican en el cuadro a continuación.
+* Oración simplificada: Las entidades de previsión que actúan en el plano nacional y sus funciones respecto de las cotizaciones de los trabajadores, empresas y del Estado se indican en el siguiente cuadro.
+
+* Oración original: Ellas normalmente responden a las necesidades inmediatas soportando a la vez la ansiedad que tal situación genera.
+* Oración simplificada: Por lo general, estas personas cubren necesidades inmediatas mientras soportan la ansiedad que tal situación genera.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

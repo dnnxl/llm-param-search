@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Al igual que como ocurre con los retiros de cajeros automáticos, cuando se realizan pagos con tarjetas de débito, el monto de la transacción es deducido inmediatamente de la cuenta bancaria del tarjetahabiente.
+* Oración simplificada: Igual que con los cajeros automáticos, cuando se realizan pagos con tarjetas de débito, el monto de la transacción es rebajado inmediatamente de la cuenta bancaria del tarjetahabiente.
+
+* Oración original: Hay riqueza, decía, como el saber de un buen médico o el arte de un buen músico que se consume al instante en que se produce.
+* Oración simplificada: Él decía, la riqueza es como el saber de un buen médico o el arte de un buen músico porque esta se consume al instante en que se produce.
+
+* Oración original: Pero, antes que el solo presupuesto, con el cual obviamente estamos de acuerdo y reconocemos su importancia con mucha gente, la persona que quiere organizar, desarrollar y administrar sus finanzas debe planificar su vida, estableciendo sus principales metas para ella y la herramienta más importante, para las finanzas personales y del hogar, es el presupuesto personal y familiar.
+* Oración simplificada: Pero, antes de hacer el presupuesto, la persona que quiere organizar, desarrollar y administrar sus finanzas debe planificar su vida. Para esto debe establecer sus principales metas de vida y para el presupuesto personal y familiar.
+
+* Oración original: Los ingresos deben canalizarse a la creación de fondos para prevenir contingencias, es decir, estos ingresos deberán ser los mínimos posibles, pero los necesarios para que cumplan su función.
+* Oración simplificada: Los ingresos deben canalizarse hacia la creación de fondos para prevenir contingencias. Estos ingresos deberán ser los mínimos posibles pero los necesarios para que cumplan su función.
+
+* Oración original: Al seguir de cerca sus cuentas, se asegura de que los pagos por Internet, los pagos automáticos y los gastos diarios no le estén causando problemas.
+* Oración simplificada: Así, se asegura de que los pagos por Internet, los automáticos y los gastos diarios no le generen problemas.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

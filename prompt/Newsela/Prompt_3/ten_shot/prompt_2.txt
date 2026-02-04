@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Las nuevas compañías de juguetes están diseñando juguetes propicios para niñas que combinan la diversión con la ciencia.
+* Oración simplificada: Las nuevas compañías de juguetes están diseñando juguetes propicios para las niñas que combinan la diversión con la ciencia.Ella dijo que la mitad de todos los juguetes se compran para las niñas.Si las compañías de juguetes no hacen juguetes de construcción para ellas, están ignorando a la mitad de todos los compradores, explicó.
+
+* Oración original: Las películas animadas por computación son un gran negocio, ya que casi todos los años, algunas están entre los 10 éxitos de taquilla en Estados Unidos, y a partir de ellas se hacen juguetes, ropa y otros productos que generan grandes ingresos.
+* Oración simplificada: Las películas animadas por computación son un gran negocio; casi todos los años, algunas están entre los 10 éxitos de taquilla en Estados Unidos.Además, a partir de ellas surgen juguetes, ropa y otros productos que generan grandes beneficios.## Todos en grupos
+
+* Oración original: Por un lado, las agencias de bomberos han presentado anuncios para advertir sobre los peligros que conlleva el uso de estas aeronaves.
+* Oración simplificada: Los bomberos han presentado anuncios para advertir sobre los peligros de usar estas aeronaves.
+
+* Oración original: Debido a la velocidad en que las poblaciones de elefantes y rinocerontes están disminuyendo, no hay tiempo que perder.
+* Oración simplificada: Primero, no hay que comprar cosas hechas de marfil o de cuerno de rinoceronte.Mientras tanto, los elefantes y los rinocerontes están desapareciendo rápidamente.No hay tiempo que perder.
+
+* Oración original: Los asiáticos conforman en la actualidad el 26 por ciento de la población inmigrante pero en 50 años ese porcentaje aumentará al 38 por ciento, según las previsiones.
+* Oración simplificada: Las previsiones indican que la población asiática, que hoy representa el 26 por ciento de los inmigrantes, alcanzará el 38 por ciento dentro de 50 años.
+
+* Oración original: El estudio también descubrió que la mayor probabilidad de que las bacterias se movieran del suelo a la comida sucedía cuando el suelo era de baldosa.
+* Oración simplificada: El estudio halló que las bacterias se movían con la mayor facilidad del suelo a la comida cuando el suelo era de baldosa.
+
+* Oración original: Pero después, Noah, que tiene síndrome de Asperger, comenzó a mostrar una personalidad más abierta.
+* Oración simplificada: Posteriormente, Noah, que tiene síndrome de Asperger, una enfermedad que afecta a sus habilidades sociales, comenzó a abrirse más al mundo.
+
+* Oración original: Billington dijo que está contento por su continuo crecimiento.
+* Oración simplificada: Billington está contento de ver que los proyectos funcionen.
+
+* Oración original: Fue un artista quien dibujó los juicios de Salem en 1692 y otro el que documentó en 1865 el tribunal militar de quienes conspiraron en el asesinato del Presidente Abraham Lincoln.
+* Oración simplificada: Por ejemplo, los juicios de Salem en 1692 o el tribunal militar del asesinato del Presidente Abraham Lincoln.
+
+* Oración original: "Supongo que hemos creado nuestro propio pequeño rincón".
+* Oración simplificada: En lo que respecta a los aguacates verdes, Florida tiene muy poca competencia."Supongo que hemos creado nuestro propio pequeño rincón", concluye.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

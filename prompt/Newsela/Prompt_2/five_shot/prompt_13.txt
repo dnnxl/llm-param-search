@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Robert Bilzzard dijo; "A comparación de otras redes sociales, Snapchat realmente ofrece un vistazo a lo que pasa detrás de cámaras en las campañas y los candidatos.
+* Oración simplificada: Robert Bilzzard dijo; " Snapchat realmente ofrece un vistazo a lo que sucede detrás de cámaras.
+
+* Oración original: Spalding, quien ha dado clases a estudiantes de música en un taller organizado en la Casa Blanca, dice que los Obama piensan que "no porque no seas famoso quiere decir que no eres importante.
+* Oración simplificada: Spalding, quien les ha dado clases a estudiantes de música en un taller organizado por la Casa Blanca, dijo que los Obama piensan que un artista no tiene que ser famoso para ser importante.
+
+* Oración original: Morgan-Brist dijo que sí, pero primero le pidió que leyera en voz alta de una nota escrita a mano que le entregó una de las personas que apoyan el programa.
+* Oración simplificada: ## Una historia en las noticias origina un programa localMorgan-Brist dice que sí, pero primero le pide que lea en voz alta de una nota escrita a mano que le entregó una de las personas que apoyan el programa.
+
+* Oración original: El título hace referencia a uno de sus primeros papeles principales en el American Ballet Theatre.
+* Oración simplificada: Su título, "Firebird", hace referencia a uno de sus primeros papeles importantes en el American Ballet Theatre.
+
+* Oración original: Un estudio indica que, en Estados Unidos, casi 17.000 personas han sido atendidas por lesiones a causa de esa actividad a lo largo de 16 años.
+* Oración simplificada: Un estudio indica que unas 17.000 personas en Estados Unidos han sufrido lesiones por esa actividad a lo largo de 16 años.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

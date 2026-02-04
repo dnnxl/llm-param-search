@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Al ser menores las utilidades, es también menor el deseo de producir, es decir, baja la motivación laboral, se encarecen más los productos, los compradores tienen menos posibilidad de comprarlos, no hay posibilidad de invertir en ampliaciones ni de emplear nuevo personal y, por el contrario, hay que disminuir el número de trabajadores, generándose desempleo, hambre y pobreza y hasta miseria en las familias.
+* Oración simplificada: Al ser menores las ganancias, también es menor el deseo de producir. Es decir, la motivación laboral baja, se encarecen los productos, los compradores tienen menos posibilidades de comprar y no hay posibilidad de contratar nuevo personal. Por el contrario, se reduce el número de trabajadores.
+
+* Oración original: Acerca de cómo la persona pierde su individualidad y se convierte en masa o muchedumbre trata un libro muy interesante escrito por un francés en el siglo pasado: Gustave Le Bon publicó La Muchedumbre.
+* Oración simplificada: El libro La Muchedumbre escrito por Gustave Le Bon, trata cómo la persona pierde su individualidad y se convierte en muchedumbre.
+
+* Oración original: Lo contrario al crédito son las operaciones de pago al contado con dinero efectivo, documentos o canje de bienes o servicios.
+* Oración simplificada: El pago de contado con efectivo, documentos o canje de productos o servicios son transacciones contrarias al crédito.
+
+* Oración original: El comprar y pagar lo que compramos es una actividad necesaria, imprescindible para nuestra dicha supervivencia.
+* Oración simplificada: El pagar lo que compramos es una actividad necesaria, imprescindible para nuestra supervivencia.
+
+* Oración original: Profundidad: Hace referencia al número de órdenes de compra y venta para cada activo.
+* Oración simplificada: La profundidad es el número de órdenes de compra y venta para cada recurso.
+
+* Oración original: Observe el logro del éxito financiero en los siguientes términos, dice Univisión: De un lado tienes el dinero que ganas y, del otro, el que gastas.
+* Oración simplificada: Observe el resultado del éxito financiero en los siguientes términos de Univisión. Indica que tienes de un lado el dinero ganado y, del otro, el gastado.
+
+* Oración original: Después de Basilea I, viene Basilea I que labora en consulta desde 1999, presentándose el documento final en Junio de 2004, el cual trajo también importantes acuerdos y normativas.
+* Oración simplificada: Después viene Basilea I que labora en consulta desde mil novecientos noventa y nueve, y presenta el documento final en junio de dos mil cuatro que incluye también importantes acuerdos y normativas.
+
+* Oración original: Específicamente, este método trabaja con las variaciones de las cuentas.
+* Oración simplificada: Este método trabaja con las variaciones de las cuentas.
+
+* Oración original: LA PERSONA QUE SOBORNA ES QUIEN COMPRA VOLUNTADES;
+* Oración simplificada: LA PERSONA QUE SOBORNA ES QUIEN COMPRA VOLUNTADES;
+
+* Oración original: Además de sus conocimientos y su habilidad para desempeñar el cargo, digamos que otro requisito es tener su propio automóvil para visitar a los clientes de la compañía.
+* Oración simplificada: Además de sus conocimientos y habilidad para desempeñar el cargo, otro requisito es tener carro propio para visitar a los clientes de la compañía.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

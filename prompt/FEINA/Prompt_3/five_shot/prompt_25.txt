@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Eso significa que se le podrá negar un nuevo crédito, o tendrá que pagar tasas de interés más elevadas por el dinero que pida prestado, para contrarrestar el riesgo adicional.
+* Oración simplificada: Eso significa que se le podrá negar un nuevo crédito o deberá pagar tasas de interés más elevadas por sus préstamos. Así, se compensa el riesgo adicional.
+
+* Oración original: Y además la recompensa ya no parece valer la inversión emocional, intelectual y física implicada.
+* Oración simplificada: Además, la recompensa ya no parece valer la inversión emocional, intelectual y física implicada.
+
+* Oración original: Cómo y cuándo usar los fondos del plan jubilatorio, saber cuáles son las distribuciones mínimas exigidas y abrir cuentas de ahorros jubilatorios, por tu cuenta o a través de tu empleador.
+* Oración simplificada: Cómo y cuándo usar los fondos del plan de pensión. Saber las distribuciones mínimas exigidas. Y abrir cuentas de ahorros de pensión.
+
+* Oración original: Estar pobres, es no poseer dinero en un momento dado.
+* Oración simplificada: Estar pobres es no poseer dinero en un momento dado.
+
+* Oración original: El otro factor importante es la tasa de retorno.
+* Oración simplificada: La tasa de retorno es otro factor importante.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

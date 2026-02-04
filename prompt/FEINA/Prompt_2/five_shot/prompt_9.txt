@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Tal vez esté en un terrible problema, pero al menos es su problema y conoce el enredo muy bien.
+* Oración simplificada: Tal vez tenga un problema, pero al menos es su problema y conoce el enredo muy bien.
+
+* Oración original: Pasivo: Desde el punto de vista contable, son las deudas u obligaciones financieras contraídas con empresas o personas.
+* Oración simplificada: Desde el punto de vista contable, los pasivos son las deudas u obligaciones financieras contraídas con empresas o personas.
+
+* Oración original: Para el caso que se analiza en este documento, el flujo no es constante, por tanto se precisa la obtención del flujo acumulado; el cual consiste en la suma de los flujos año a año.
+* Oración simplificada: El flujo del ejemplo analizado no es constante. Por eso, necesitamos sacar el flujo acumulado. Este es la suma de flujos anual.
+
+* Oración original: Por ejemplo, generalmente la hipoteca es uno de los mejores tipos de endeudamiento, porque la mayoría de las viviendas aumenta de valor con el paso del tiempo.
+* Oración simplificada: Por ejemplo, una de las mejores deudas es la hipoteca porque el valor de las viviendas aumenta con el tiempo.
+
+* Oración original: Una vez realizado el estado de resultados proyectado, corresponde el análisis del flujo de caja.
+* Oración simplificada: Ya realizado el estado de resultados proyectado, corresponde el análisis del flujo de caja.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

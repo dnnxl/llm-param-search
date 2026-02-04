@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Uno de los pasos más importantes que puede dar para mantener la salud de sus finanzas, como reiteradamente lo hemos señalado, es controlar sus gastos.
+* Oración simplificada: Controlar sus gastos es muy importante para mantener la salud financiera.
+
+* Oración original: El inversionista puede ahorrar por múltiples razones.
+* Oración simplificada: El inversionista puede ahorrar por muchas razones.
+
+* Oración original: Ahora bien, cuando se dice que el nivel de vida de una persona es alto o bajo -como en los casos que atrás se mencionaron- se refiere al grado de comodidades de que dispone para vivir, o sea, a la cantidad de cosas que posee, pero no sólo a esto, sino a la forma misma como las tiene.
+* Oración simplificada: Entonces, el nivel de vida de una persona es alto o bajo según el grado de comodidades que tiene para vivir y la condición en la que las tiene.
+
+* Oración original: Existe otra estructura para presentación del E.S.F. que corresponde a un estilo vertical, donde, se inicia con el detalle de las cuentas de activo, luego las de pasivo y finalmente las de patrimonio.
+* Oración simplificada: El estilo vertical es otra estructura para presentar el estado de situación financiera.
+
+* Oración original: Esta relación da lugar a lo que se conoce como la ecuación contable:
+* Oración simplificada: Esta relación da paso a la ecuación contable:
+
+* Oración original: Para reparar tu crédito, es necesario que pongas todo por escrito.
+* Oración simplificada: Todo debe quedar escrito para reparar tu crédito.
+
+* Oración original: Los riesgos varían según el tipo de bono que compres.
+* Oración simplificada: Los riesgos varían según el tipo de bono comprado.
+
+* Oración original: Casi todos los estados exigen a los automovilistas el seguro de responsabilidad para automóviles que cubre costos médicos y reparaciones del vehículo entre otros costos.
+* Oración simplificada: Casi todos los estados exigen un seguro de responsabilidad para carros. Debe cubrir gastos médicos y reparaciones del carro.
+
+* Oración original: ¿En qué consiste el PIB y el PIB per cápita?
+* Oración simplificada: ¿En qué consiste el Producto Interno Bruto y el Producto Interno Bruto per cápita?
+
+* Oración original: Lo primero, entonces, en la planificación es saber qué se quiere y luego qué se tiene para lograrlo, con qué se cuenta.
+* Oración simplificada: Lo primero en la planificación es saber qué se quiere y luego qué se tiene para lograrlo.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

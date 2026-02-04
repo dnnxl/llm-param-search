@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: El Estado de Resultados  E.R., también llamado Estado de Pérdidas y Ganancias  E.P.G, tiene por objeto determinar el resultado económico de un período.
+* Oración simplificada: El estado de resultados también se llama estado de pérdidas y ganancias. Este determina el resultado económico por un período.
+
+* Oración original: Estas cuentas ofrecen una tasa de retorno más baja, pero a muy bajo riesgo.
+* Oración simplificada: Estas cuentas ofrecen una tasa de rendimiento más baja y a bajo riesgo.
+
+* Oración original: Eso te lleva a que si no tienes tiempo de analizar ni eres experto, te quedan dos opciones: confías en un asesor de inversiones o tomas la decisión.
+* Oración simplificada: Si no tienes tiempo de analizar ni eres experto te quedan dos opciones: confías en un asesor de inversiones o tomas la decisión.
+
+* Oración original: Eficiencia: Ausencia de despilfarro o utilización de los recursos económicos, que reporta el máximo nivel de satisfacción posible, con los factores y la tecnología dados.
+* Oración simplificada: La eficiencia es no desperdiciar los recursos económicos con los factores y tecnología dados y reporta el máximo nivel de satisfacción posible.
+
+* Oración original: Todas las personas, independientemente de sus niveles académicos y de la profesión que ejerzan, tienen derecho y pueden entender muchos hechos de la vida social, de la riqueza, la producción y otros, que de conocerlos les facilitarán gestionar mejor su propia vida y tomar mejores decisiones frente al ingreso económico que tienen y a su situación económica y financiera, así como de sus familias y de la sociedad misma, en la cual necesariamente estamos involucrados y tenemos responsabilidades que apuntan a la corresponsabilidad en el bienestar de todos.
+* Oración simplificada: Todos, independientemente de sus niveles académicos y profesiones, tienen derecho a entender hechos sociales, como la riqueza y producción. Esto les facilitará gestionar y tomar mejores decisiones sobre su situación económica.
+
+* Oración original: Un caballo podría costar 10 cabras y una cabaña unas 45 cabras.
+* Oración simplificada: Un caballo podría costar 10 cabras y una cabaña 45 cabras.
+
+* Oración original: Suma los montos de todos los depósitos que todavía no se registraron en tu cuenta.
+* Oración simplificada: Suma los montos de todos los depósitos no registrados todavía en tu cuenta.
+
+* Oración original: Desde los primeros capítulos de este Libro Maestro se ha podido observar, el papel clave de la inversión para una persona, la familia, la comunidad o el país.
+* Oración simplificada: Desde los primeros capítulos de este Libro Maestro se ha podido observar el papel clave de la inversión para una persona, la familia, la comunidad o el país.
+
+* Oración original: Esto se debe a que Excel reconoce ingresos y egresos.
+* Oración simplificada: Esto porque Excel reconoce ingresos y gastos.
+
+* Oración original: Según el autor, ellas son una invitación a cambiar de actitud acerca del trabajo.
+* Oración simplificada: Según el autor, estas son una invitación a cambiar de actitud acerca del trabajo.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

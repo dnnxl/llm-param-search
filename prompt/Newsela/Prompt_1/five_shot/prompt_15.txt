@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Cheryl Ortega afirmó que ha visto a padres hispanos escribir en la encuesta que en su casa se habla inglés utilizando la palabra en español.
+* Oración simplificada: Cheryl Ortega dice que ha visto padres contestar el formulario en español y decir que en su casa se habla solamente inglés.
+
+* Oración original: En el año 2013 el estado concedió más dinero a los estudiantes de bajos ingresos que están aprendiendo inglés.
+* Oración simplificada: En el año 2013 California le dio más dinero a los estudiantes pobres que aprenden inglés.
+
+* Oración original: Los militantes del Estado Islámico estaban peleando contra las fuerzas militares iraquíes.
+* Oración simplificada: El grupo del Estado Islámico estaba peleando contra el ejército de Irak.
+
+* Oración original: Pusieron granos de maíz para microondas dentro de un horno y fueron aumentando los grados de temperatura de 50 en 50.
+* Oración simplificada: Tuvieron que hacer cientos de pruebas para lograr descubrir qué era lo que hacía que los granos saltaran.Pusieron unos granos para microondas dentro de un horno y fueron aumentando la temperatura lentamente.Cada vez que aumentaban, la temperatura subía 50 grados.
+
+* Oración original: DELEON SPRINGS (Florida) - Una vaca preñada olfateaba la camioneta del ranchero David Strawn.
+* Oración simplificada: DELEON SPRINGS (Florida) - Una vaca olfateaba el camión del ranchero David Strawn.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: De esta manera los animales reciben atención y cuidado exclusivo por parte de veterinarios y nutricionistas a la vez que están al resguardo de los animales depredadores, explicaba Daren Williams, portavoz de la Asociación.
+* Oración simplificada: "De esta manera, los animales reciben atención y cuidado exclusivo de veterinarios y nutricionistas, a la vez que quedan protegidos de otros animales", explicó Daren Williams, portavoz de la asociación.**Falta de estándares claros**
+
+* Oración original: A menudo sus cosechas se arruinaban.
+* Oración simplificada: A menudo sus cosechas se arruinan.
+
+* Oración original: Los estudiantes pueden sacar libros a través de un sistema manejado por un robot, conocido como un bookBot, que entrega libros en cinco minutos o menos.
+* Oración simplificada: Los estudiantes pueden sacar libros con la ayuda de un robot.El bookBot entrega libros en cinco minutos o menos.
+
+* Oración original: Los niños asiático-estadounidenses consumen por lo general menos calorías en forma de comida rápida que sus congéneres, obteniendo apenas un promedio del 8 por ciento.
+* Oración simplificada: ## Los asiático-estadounidenses ingieren menos comida rápidaLos niños asiático-estadounidenses consumen por lo general menos calorías bajo la forma de comida rápida que sus congéneres, obteniendo apenas un promedio del 8 por ciento.
+
+* Oración original: En el grupo que le tocó hoy no hay profesionales de la salud, al menos no todavía.
+* Oración simplificada: En el grupo que le tocó hoy hay chicas de entre 11 y 14 años de edad.No son expertas en salud pero podrían serlo algún día.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

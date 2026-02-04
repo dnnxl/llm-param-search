@@ -1,0 +1,21 @@
+Simplifica el siguiente segmento discursivo dado los siguientes ejemplos:
+
+Por ejemplo:
+* Segmento original: Una cuenta de ahorro te paga dinero en forma de intereses mientras dejes tu dinero en ella.
+* Segmento simplificado: Una cuenta de ahorro te paga dinero en forma de intereses mientras guardes dinero en ella.
+
+* Segmento original: Tiene una remuneración líquida imponible que se ubica en el segundo tramo tabla progresiva (entre 13,5 utm y hasta 30 utm) y solo paga impuesto por lo que excede a las 13,5 utm pues las primeras 13,5 utm están exentas de pago.
+* Segmento simplificado: Tiene una remuneración líquida imponible que se ubica en el segundo tramo de la tabla progresiva. Esto es entre trece coma cinco y hasta treinta Unidad Tributaria Mensual. Solo paga impuesto por lo que excede las trece coma cinco Unidad Tributaria Mensual pues estas están exentas de pago.
+
+* Segmento original: No obstante, a pesar de esto, hay algunas antiguas formas de comercio y uso de medios de pago primarios que recobran vida y vigor en economías globalizadas.
+* Segmento simplificado: Sin embargo, hay formas de comercio y medios de pago antiguos que recobran importancia en economías globalizadas.
+
+* Segmento original: Pero, además de tal aspecto, la educación debe asumir también los impuestos y la tributación como un hecho, fenómeno o mandato legal y social y, como una situación que el ciudadano debe aprender a manejar desde el marco de sus finanzas personales y familiares y también empresariales, ya que ella implica una erogación de dinero que afecta su presupuesto y, que por lo tanto, él o ella debe financiar y equilibrar, con diferentes y sensatas decisiones, que van desde no afectar sensiblemente su mismo presupuesto, hasta economizar haciendo buen uso de los servicios que el Estado le provee y que motiva muchos de los impuestos mencionados.
+* Segmento simplificado: Pero, además la educación debe asumir los impuestos y la tributación como un hecho, fenómeno o mandato legal y social, como una situación que el ciudadano debe aprender a manejar desde el marco de sus finanzas personales, familiares y empresariales. Ya que implica una distribución de dinero que afecta su presupuesto por lo tanto él o ella debe financiar y equilibrar con sensatas decisiones. Que van desde no afectar sensiblemente su mismo presupuesto hasta economizar al hacer buen uso de los servicios que el Estado le provee y que motiva muchos de los impuestos mencionados.
+
+* Segmento original: Lorenzo: Y tuve que pagar todo inmediatamente; si no, no me dejaban sacar a Yuyis del hospital y la cuenta crecería.
+* Segmento simplificado: Lorenzo: Y tuve que pagar todo inmediatamente. Si no, no me dejaban sacar a Yuyis del hospital y la cuenta crecería.
+
+Simplifica el siguiente segmento:
+* Segmento original: PREPROCESS_TEXT
+* Segmento simplificado: 

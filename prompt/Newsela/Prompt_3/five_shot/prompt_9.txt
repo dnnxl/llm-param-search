@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Los equipos de mujeres juegan en torneos organizados en privado contra un puñado de otras escuelas privadas, universidades y clubes.
+* Oración simplificada: Los equipos de mujeres juegan en torneos privados.
+
+* Oración original: Sólo unas 10 o 20 especies han sido vistas fuera de su ámbito geográfico.
+* Oración simplificada: Sólo 10 o 20 especies se han visto lejos de su casa.
+
+* Oración original: Les dijo que su barco se llamaba el Taishan y que llevaba 182 toneladas de mero negro congelado.
+* Oración simplificada: Dijo que su barco se llamaba el Taishan.Además, dijo que estaba lleno de un tipo de pez llamado mero negro.También les dijeron que llevaban mucho tiempo siguiéndolo.
+
+* Oración original: Cuando eso sucede, sirve la comida en una gran fuente en mesas para diez personas, y los seminaristas se sirven ellos mismos.
+* Oración simplificada: La Hermana Flor sirve la comida en una gran fuente en mesas para diez personas.Los estudiantes se sirven ellos mismos.
+
+* Oración original: "Ustedes son una pieza clave para el éxito de sus padres", le dijo Charles E. Samuels, Director de la Agencia Federal de Prisiones, a las 20 niñas.
+* Oración simplificada: "Ustedes son una ayuda importantísima para que su papá pueda triunfar", le dijo el Director de la Agencia Federal de Prisiones, Charles E. Samuels, a las 20 niñas.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

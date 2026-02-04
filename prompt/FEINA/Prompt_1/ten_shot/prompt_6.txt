@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Utilidad de posesión: Resulta de transferir la posesión de un producto o servicio de una persona a otra.
+* Oración simplificada: Utilidad de posesión, se trata de transferir la posesión de un producto o servicio de una persona a otra.
+
+* Oración original: Desde luego en este grupo puede haber categorías, clases o estratos.
+* Oración simplificada: Dentro de este grupo hay categorías, clases o estratos.
+
+* Oración original: Algunos especialistas aconsejan, por ejemplo, una vez definido lo que se quiere lograr con la inversión, poner en marcha su primera experiencia con montos iniciales y que se pueden incrementar periódicamente (un mes, un trimestre, un semestre
+* Oración simplificada: Algunos especialistas recomiendan invertir con montos iniciales y aumentarlos periódicamente...
+
+* Oración original: Este comportamiento puede obedecer a varias causas, mencionamos dos que consideramos sustanciales: la primera, que somos producto de una educación, que como ya lo hemos expresado, no nos educa en planificación ni en finanzas para la vida, considerando tales conocimientos y habilidades exclusivos para especialistas y segundo, quizás por el miedo que invade a muchas personas al descubrir cuánto gastan cada mes y cómo lo gastan, fundamentalmente por haber sido atrapados por una sociedad que cada vez es más consumista, porque como dice Rivers: Las cosas nos proporcionan comodidad, seguridad y evidencia de nuestro éxito.
+* Oración simplificada: Este comportamiento tiene varias causas, aunque mencionamos dos esenciales. En primer lugar, somos producto de una educación que no nos educa en planificación ni en finanzas para la vida. Esto porque se considera como conocimientos y habilidades exclusivos para especialistas. En segundo lugar, muchas personas sienten miedo al descubrir cuánto y cómo gastan cada mes, principalmente por pertenecer a una sociedad cada vez más consumista. Respecto a lo anterior, Rivers dice que las cosas nos proporcionan comodidad, seguridad y evidencia nuestro éxito.
+
+* Oración original: Y le va a presentar algunos retos personales pero no es ese escenario lúgubre que tal vez esperaría.
+* Oración simplificada: Y le va a presentar retos personales, pero no es ese escenario terrible que tal vez esperaría.
+
+* Oración original: Se solicitó un préstamo por $3,000 a tres años.
+* Oración simplificada: Pedimos un préstamo de tres mil dólares a tres años.
+
+* Oración original: El que tanto afecte, según el mismo Alonso, Brailovsky y Ortiz, dependerá de dos cosas: el momento en que ocurra y el número de dependientes involucrados.
+* Oración simplificada: Alonso, Brailovsky y Ortiz señalan que la afectación dependerá de cuándo ocurra y el número de dependientes involucrados.
+
+* Oración original: Después de Basilea I, viene Basilea I que labora en consulta desde 1999, presentándose el documento final en Junio de 2004, el cual trajo también importantes acuerdos y normativas.
+* Oración simplificada: Después viene Basilea I que labora en consulta desde mil novecientos noventa y nueve, y presenta el documento final en junio de dos mil cuatro que incluye también importantes acuerdos y normativas.
+
+* Oración original: Evasión fiscal: Acción ilegal de no cumplir con los compromisos u obligaciones tributarias que se tiene con el Estado, utilizando a veces mecanismos engañosos.
+* Oración simplificada: La evasión fiscal es el no cumplir con las obligaciones tributarias estatales a través de mecanismos engañosos.
+
+* Oración original: No dejes que pase un día más, busca papel y lápiz y comienza hoy mismo a tomar control de tus finanzas.
+* Oración simplificada: No dejes que pase un día más, busca papel y lápiz y comienza a tomar control de tus finanzas.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

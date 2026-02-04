@@ -1,0 +1,21 @@
+Simplifica el siguiente segmento discursivo dado los siguientes ejemplos:
+
+Por ejemplo:
+* Segmento original: La interpretación de dichos índices puede variar, no obstante, en su mayoría se lo realiza de abajo hacia arriba: tomando como unidad al denominador y asignando el resultado del índice al numerador.
+* Segmento simplificado: La interpretación de los índices puede varias. Sin embargo, generalmente se realiza de abajo hacia arriba. Tomamos como unidad al denominador y damos el resultado del índice al numerador.
+
+* Segmento original: Sin embargo, cuando las transacciones son varias y de montos considerables, no es práctico que una persona lleve consigo grandes cantidades de efectivo, lo cual representa un alto riesgo para dicha persona.
+* Segmento simplificado: Sin embargo, cuando son varias transacciones y de montos considerables, no es práctico que una persona lleve consigo grandes cantidades de efectivo. Esto puede representar un alto riesgo.
+
+* Segmento original: Los bienes son clasificados por los autores de diferentes maneras.
+* Segmento simplificado: Los bienes son clasificados de diferentes maneras.
+
+* Segmento original: Otra opción, es hacer un certificado desmaterializado, en cuyo caso la inversión queda anotada en los registros de la entidad financiera y solamente el dueño del título puede cambiarlo, este tipo de títulos no pueden ser endosados a terceros.
+* Segmento simplificado: Otra opción es hacer un certificado desmaterializado. Porque la inversión se registra en la institución financiera y solamente el dueño lo puede retirar.
+
+* Segmento original: b) En el campo inmobiliario, empresarial o productivo y de proyectos.
+* Segmento simplificado: Segundo, en el campo inmobiliario, empresarial o productivo y de proyectos.
+
+Simplifica el siguiente segmento:
+* Segmento original: PREPROCESS_TEXT
+* Segmento simplificado: 

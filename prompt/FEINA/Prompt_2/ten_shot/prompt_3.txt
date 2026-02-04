@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Ahora no nos empujamos como antes, y con las nuevas mesas de trabajo no nos cansamos de la espalda.
+* Oración simplificada: Ahora no nos empujamos, y con las nuevas mesas de trabajo no nos cansamos de la espalda.
+
+* Oración original: Dichas entidades se gobiernan por medio de sus juntas directivas y realizan esfuerzos y actividades en estrecha colaboración con el Poder Ejecutivo.
+* Oración simplificada: Estas entidades se gobiernan mediante sus juntas directivas y realizan esfuerzos en colaboración con el Poder Ejecutivo.
+
+* Oración original: Hay personas que utilizan el vehículo hasta para ir a la pulpería que se encuentra al lado de la casa, desaprovechando oportunidades tan importantes para la salud mediante el ejercicio.
+* Oración simplificada: Hay personas que usan el vehículo para viajes muy cortos, desaprovechando oportunidades tan importantes para la salud mediante el ejercicio.
+
+* Oración original: El estudio del interés se divide en dos apartados: interés simple e interés compuesto.
+* Oración simplificada: El estudio del interés tiene dos apartados: interés simple e interés compuesto.
+
+* Oración original: Una de las mejores formas de gestionar el riesgo es distribuir tus inversiones y ahorros a través de diversos canales.
+* Oración simplificada: Distribuir tus inversiones y ahorros en diferentes medios es una buena forma de administrar el riesgo.
+
+* Oración original: El objetivo del capítulo es brindar conceptos básicos que permitan realizar análisis de finanzas a largo plazo y evaluación de rentabilidad.
+* Oración simplificada: El objetivo del capítulo es dar conceptos básicos para analizar las finanzas a largo plazo y evaluar la rentabilidad.
+
+* Oración original: Se dice que en Chile funciona adecuadamente el Estado de Derecho y que sus habitantes tienen apego al «Contrato Social» (respeto a las leyes y cumplimiento de la palabra), además de poseer instituciones fiscalizadoras que hacen posible su clasificación como país no corrupto, aunque igualmente hay presencia de este flagelo en muchos ámbitos de la vida pública y privada.
+* Oración simplificada: Se dice que en Chile funciona el Estado de Derecho y que se respetan las leyes y el cumplimiento de la palabra. Además de que poseen instituciones fiscalizadoras que posibilitan su clasificación como país no corrupto. Pero, igualmente, hay presencia de este delito en muchos ámbitos de la vida pública y privada.
+
+* Oración original: c) Utilidad de tiempo La utilidad de tiempo ocurre cuando un producto o servicio es más útil en un momento que en otro.
+* Oración simplificada: La utilidad de tiempo ocurre cuando un producto o servicio es más útil en un momento que en otro.
+
+* Oración original: Cuando se está viajando, se facilitan los gastos grandes como cuartos de hotel, pasajes de avión y renta de un vehículo.
+* Oración simplificada: Se facilitan los gastos grandes al viajar, como cuartos de hotel, pasajes de avión y renta de un vehículo.
+
+* Oración original: En general, se dice que la rentabilidad normal de una inversión en países desarrollados fluctúa, en promedio, entre el 6 % y el 8 % anual.
+* Oración simplificada: Generalmente, la rentabilidad normal de una inversión en países desarrollados varía entre el seis por ciento y el ocho por ciento anual.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Además, Las exportaciones no pagan IVA.
+* Oración simplificada: Además, las exportaciones no pagan el impuesto al valor agregado.
+
+* Oración original: Transferir dinero entre sus cuentas: se pueden realizar transferencias electrónicas de fondos, todos los días del año.
+* Oración simplificada: Transferir dinero entre nuestras cuentas, todos los días.
+
+* Oración original: El beneficio de asignación familiar se paga a los trabajadores activos de acuerdo con ciertos requisitos (hijos menores de 24 años, cónyuges, padres o abuelos cuando estos dependen del trabajador como «cargas autorizadas» y otros beneficiarios).
+* Oración simplificada: El beneficio de asignación familiar se paga a los trabajadores activos de acuerdo con ciertos requisitos. Por ejemplo, hijos menores de veinticuatro años, cónyuges, padres o abuelos que dependen del trabajador y otros beneficiarios.
+
+* Oración original: Cuándo vas a comenzar a utilizar los beneficios, cuánto recibirás por ellos y cualquier situación especial (por ejemplo, fallecimiento de uno de los cónyuges).
+* Oración simplificada: Cuándo comenzarás a utilizar los beneficios. Cuánto recibirás. Y cualquier situación especial.
+
+* Oración original: El estudio de la discriminación de precios consiste en el análisis de las estrategias que pueden utilizarse para extraer la mayor cantidad de excedente del consumidor posible; es decir, acercarse de la mejor manera a la disposición a pagar que tiene una persona.
+* Oración simplificada: Estudiar la discriminación de precios es analizar las estrategias para sacar la mayor cantidad de excedente del consumidor posible. Es decir, acercarse a la disposición de pago de una persona.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

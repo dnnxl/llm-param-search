@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Los sobregiros dañarán tu reputación con el banco y con las personas a quienes les debes dinero.
+* Oración simplificada: Los sobregiros dañarán tu reputación con el banco y con los prestamistas.
+
+* Oración original: Dentro del Sistema Bancario Nacional se incluyen, asimismo, las entidades vinculadas con la banca, como las asociaciones bancarias.
+* Oración simplificada: Las asociaciones bancarias también se incluyen en el sistema bancario nacional.
+
+* Oración original: La globalización es un fenómeno contemporáneo identificado como un proceso de interacciones económicas, tecnológicas, políticas, sociales y culturales entre todas las naciones del mundo que se dan a través de la unión de mercados, sociedades y culturas, y que genera una creciente comunicación e interdependencia entre los países.
+* Oración simplificada: La globalización es un proceso actual de interacciones económicas, tecnológicas, sociales y culturales entre los países. Se dan mediante la unión de mercados, sociedades y culturas. Provoca una creciente comunicación e interdependencia entre los países.
+
+* Oración original: ¿La cooperativa de crédito está asegurada por la Administración Nacional de Cooperativas de Crédito (NCUA, por su sigla en inglés)?
+* Oración simplificada: ¿La Administración Nacional de Cooperativas de Crédito asegura esa cooperativa de crédito?
+
+* Oración original: El primero de ellos indica si un proyecto es rentable, mientras que el segundo pone a prueba esa rentabilidad a través de la alteración de algunos supuestos o variables previamente definidas (Meza, 2017).
+* Oración simplificada: El primero indica si un proyecto es rentable. El segunda prueba la rentabilidad mediante algunos supuestos o variables preestablecidas.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

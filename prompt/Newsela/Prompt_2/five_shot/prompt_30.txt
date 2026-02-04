@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Para ella, las razones para tal desperdicio no eran complicadas y las soluciones eran sencillas.
+* Oración simplificada: Para la adolescente Maria Rose Belding, las razones para tal desperdicio no eran complicadas.
+
+* Oración original: WASHINGTON— Estudiantes, padres y profesores se han quejado de la cantidad de horas que pasan los niños realizando exámenes estandarizados, especialmente desde que comenzaron los estándares comunes estatales "Common Core".
+* Oración simplificada: WASHINGTON— Estudiantes, padres y maestros se han quejado durante mucho tiempo de la cantidad de horas que los niños pasan realizando exámenes estandarizados.
+
+* Oración original: Rousey miró fijamente al extraño con las orejas erguidas y muy atenta.
+* Oración simplificada: La pusieron a prueba.Rousey no le tenía miedo a los extraños.Cuando alguien que no conocía se le acercaba, ella lo miraba fijamente, con las orejas erguidas y muy atenta.
+
+* Oración original: LOS ÁNGELES — Los niños aman la pizza, pero la pizza los está engordando.
+* Oración simplificada: LOS ÁNGELES — Los niños aman la pizza.Pero la pizza está engordando a los niños.
+
+* Oración original: En una sociedad cada vez más multilingüe, una gran cantidad de estados están reevaluando la forma en que tratan a los alumnos que aprenden inglés como segundo idioma.
+* Oración simplificada: En nuestra sociedad la gente cada vez habla más idiomas diferentes.Una gran cantidad de estados están estudiando cómo tratan a los alumnos que aprenden inglés como segundo idioma.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

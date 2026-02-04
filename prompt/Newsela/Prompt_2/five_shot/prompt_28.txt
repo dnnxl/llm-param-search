@@ -1,0 +1,29 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Es demasiado pronto como para lograr determinar el impacto que podría generar la agricultura sobre los tejados, que apenas comienza, en el campo de la producción alimentaria.
+* Oración simplificada: ## Y este es solo el comienzoAún es pronto como para determinar el impacto que tendrá la agricultura sobre los tejados en el campo de la producción alimentaria.
+
+* Oración original: A Taylor-Young le gustó el hecho de que fue muy fácil tomar las fotos.
+* Oración simplificada: A Taylor-Young le gustó que fuera tan fácil tomar fotos.
+
+* Oración original: ¿Cómo ayuda el ejercicio al cerebro?
+* Oración simplificada: ## La conexión entre el ejercicio y el cerebro 
+¿Cómo ayuda el ejercicio al cerebro?
+
+* Oración original: El gobierno de Estados Unidos impuso por primera vez un embargo comercial contra Cuba en 1960, después que el gobierno comunista de Fidel Castro llegara al poder en una revolución.
+* Oración simplificada: En este momento, Cuba y Estados Unidos no comercian bienes entre uno y otro porque hay una ley que lo prohíbe — Estados Unidos impuso un embargo comercial a Cuba.El gobierno de Estados Unidos impuso el embargo a Cuba en 1960, después que el gobierno comunista de Fidel Castro llegara al poder.
+
+* Oración original: Cerca de la sierra de Santa Mónica está la sierra de Santa Susana.
+* Oración simplificada: Cerca de la sierra de Santa Mónica, hay otras montañas.Sería bueno que los pumas de Santa Mónica se acercasen a estos otros gatos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

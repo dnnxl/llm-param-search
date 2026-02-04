@@ -1,0 +1,21 @@
+Simplifica el siguiente segmento discursivo dado los siguientes ejemplos:
+
+Por ejemplo:
+* Segmento original: Deben tener una cuota de simplicidad; es decir que, aunque detrás de los impuestos hay unas teorías que en muchos casos resultan complejas, es necesario que éstos sean sencillos de imponer y recaudar para evitar que se produzcan evasiones basadas en su complejidad.
+* Segmento simplificado: Deben tener una cuota de simplicidad. Es decir, aunque detrás de los impuestos hay unas teorías que en muchos casos resultan complejas es necesario que éstos sean sencillos de imponer y recaudar para evitar que se produzcan evasiones basadas en su complejidad.
+
+* Segmento original: Había una mujer que dictaba un seminario sobre cómo cambiar su vida.
+* Segmento simplificado: Había una mujer que daba un seminario sobre cómo cambiar su vida.
+
+* Segmento original: Al principio funcionó muy buen; no tenían que emitir cheques ni preocuparse por los pagos atrasados.
+* Segmento simplificado: Esto funcionó muy bien al principio. No debían emitir cheques ni preocuparse por los pagos atrasados.
+
+* Segmento original: Las actividades de Financiamiento  AF se refieren a actividades que produzcan cambios en patrimonio y préstamos a entidades.
+* Segmento simplificado: Las actividades de financiamiento son actividades productoras de cambios en patrimonio y préstamos a empresas.
+
+* Segmento original: Esta simple suposición nos permitirá generar un patrimonio hacia el futuro.
+* Segmento simplificado: Esto nos permitirá crear un patrimonio.
+
+Simplifica el siguiente segmento:
+* Segmento original: PREPROCESS_TEXT
+* Segmento simplificado: 

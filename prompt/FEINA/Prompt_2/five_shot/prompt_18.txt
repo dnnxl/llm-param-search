@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: La función para calcular el valor futuro en Excel es VF.
+* Oración simplificada: La función para calcular el valor futuro en Excel es VF.
+
+* Oración original: Es una anotación del banco en el cheque, o lo firman personas autorizadas para ello.
+* Oración simplificada: Es una anotación den banco en el cheque.
+
+* Oración original: Los ingresos activos están constituidos por el salario o sueldo que se percibe, cuando se tiene un empleo, honorarios que se cobran como contraprestación de servicios, comisiones y otros pagos de la misma naturaleza.
+* Oración simplificada: Los ingresos activos están conformados por el salario o sueldo que se recibe cuando se tiene un empleo, por los honorarios que se cobran en la prestación de servicios, las comisiones y otros pagos de la misma naturaleza.
+
+* Oración original: Plantear y ejecutar un presupuesto que se ajuste a las circunstancias y necesidades personales y familiares, es una meta que se puede establecer a corto o mediano incluso, a largo plazo, revisándolo y retroalimentándolo permanentemente, es decir, periódicamente.
+* Oración simplificada: Plantear y ejecutar un presupuesto ajustable a las circunstancias y necesidades personales y familiares es una meta que se puede establecer a distintos plazos. Para esto, se debe revisar y retroalimentarlo periódicamente.
+
+* Oración original: Digamos sí, para concluir este tema, que la producción en dicho país será considerable o raquítica según el grado de desarrollo que tengan dichos factores y la manera racional o irracional como se han utilizado.
+* Oración simplificada: Para concluir este tema, se afirma que la producción en un país será abundante o escasa según el grado de desarrollo que tengan dichos factores y la manera racional o irracional de utilizarlos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

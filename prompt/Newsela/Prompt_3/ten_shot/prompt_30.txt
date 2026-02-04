@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: La legislación de Missouri presentó un requisito en el que se exige que cualquier distrito que haya empeorado considerablemente su desempeño deberá regresar al programa tradicional de cinco días, pero ningún distrito ha tenido que hacer eso.
+* Oración simplificada: La ley de Missouri dice que si algún distrito empeora su rendimiento deberá regresar al horario de cinco días.Aún es prematuro pero ningún distrito ha tenido que hacer eso.
+
+* Oración original: El sistema Super Cruise de General Motors, por ejemplo, que se espera esté implementado en el Cadillac CT6 para el año 2017, le permitirá al conductor retirar las manos del volante sin importar a qué velocidad se encuentre transitando por la autopista, pero el auto no tendrá la capacidad de cambiar de un carril a otro por sí solo.
+* Oración simplificada: El sistema Super Cruise de General Motors, por ejemplo, que se espera se implemente en el Cadillac CT6 para el año 2017, permitirá que el conductor retire las manos del volante sin importar a qué velocidad esté viajando el vehículo.Sin embargo, el auto no tendrá la capacidad de cambiar de un carril a otro por sí solo, como ocurre con el sistema de Tesla.
+
+* Oración original: Uno de ellos es que el reino tiene reglas sobre mantener separados a hombres y mujeres.
+* Oración simplificada: Uno de ellos es que el reino tiene reglas sobre mantener separados a hombres y mujeres.Puede ser muy difícil para las mujeres encontrar lugares para entrenar.
+
+* Oración original: En el vídeo, Copeland aparece dando giros mientras la voz de una mujer dice que su cuerpo no es apropiado para el ballet.
+* Oración simplificada: Copeland aparece bailando mientras la voz de una mujer lee una carta.Era una carta que declaraba que su cuerpo no servía para el ballet.
+
+* Oración original: La categoría más grande de informes, aproximadamente un 18 por ciento, tenía que ver con el mareo por movimiento, que incluye desmayos, náuseas y mareos.
+* Oración simplificada: ## El mareo por movimiento figura de primerasEl mayor número de informes, aproximadamente un 18 por ciento, se dio debido al mareo por movimiento, que incluye desmayos, náuseas y mareos.
+
+* Oración original: Solo este año, los incendios les han causado enfermedades a miles de personas.
+* Oración simplificada: Solo este año, miles de personas se han enfermado por culpa del humo causado por los fuegos.
+
+* Oración original: El no dormir lo suficiente causa que los estudiantes estén agotados.
+* Oración simplificada: El no dormir suficiente causa que los estudiantes estén muy cansados.
+
+* Oración original: Se piensa que ambos aspectos contribuyen a mantener unida a la sociedad.
+* Oración simplificada: Se piensa que ambas ideas contribuyen a mantener unida a la sociedad.
+
+* Oración original: Las metas de estudio son establecidas por los maestros y por un programa de computadoras.
+* Oración simplificada: Los maestros les dan metas de estudio cada semana.
+
+* Oración original: Philip Carney, director de Ed White Middle School en San Antonio, comenzó un programa de disciplina restaurativa hace tres años y dice que, desde entonces, las suspensiones han disminuido un 72 por ciento.
+* Oración simplificada: Philip Carney es el director de Ed White Middle School, una escuela en San Antonio.Hace tres años comenzó un programa de disciplina restaurativa y dice que, desde entonces, hay muchas menos suspensiones.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

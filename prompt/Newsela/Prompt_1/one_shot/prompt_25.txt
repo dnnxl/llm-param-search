@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: En la mayoría de los casos, las férulas no estaban puestas correctamente.
+* Oración simplificada: Descubrió que a la mayoría de ellos le había puesto una férula incorrectamente.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

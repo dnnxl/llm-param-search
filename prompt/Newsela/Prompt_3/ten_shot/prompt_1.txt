@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Hoy en día, en China los entierros son un negocio controversial que también hace mucho dinero.
+* Oración simplificada: ## Con la muerte se hace mucho dinero en China
+
+* Oración original: Paul Ryan, Presidente de la Cámara de Representantes, quien asumiera por vez primera el puesto tradicional del Representante ubicado atrás del Presidente de la nación, expresó que "los nobles clichés de Obama y su nostálgica retórica pueden muy bien ser útiles como hermosos extractos, pero no explican cómo" solucionar los problemas.
+* Oración simplificada: Paul Ryan, presidente de la Cámara de Representantes, expresó que "los nobles clichés de Obama y su nostálgico discurso pueden ser útiles como hermosos extractos pero no explican cómo" solucionar los problemas.
+
+* Oración original: Los analistas pueden pasar días observando un lugar para tratar de decidir si pertenece o no al grupo del Estado Islámico.
+* Oración simplificada: Los analistas pueden pasar días enteros vigilando un lugar.Y les es difícil decir si ese lugar está en manos de los soldados del Estado Islámico o no.
+
+* Oración original: No es bueno para su salud ni para sus calificaciones.
+* Oración simplificada: No es bueno para la salud ni para las calificaciones de los estudiantes.
+
+* Oración original: La única buena noticia para los cultivadores de olivas de Puglia es el hecho de que la bacteria no tiene impacto en la fruta y el aceite que producen los árboles sanos, porque los árboles enfermos no producen aceitunas.
+* Oración simplificada: Los oficiales en Puglia caminan por los olivares, marcando con una X los árboles que serán cortados en breve.La única buena noticia es que la bacteria no tiene efecto alguno en la fruta y el aceite que producen los árboles sanos, porque los árboles infectados no producen aceitunas.
+
+* Oración original: Además, en América del Norte y del Sur, se generan series de tormentas que recorren amplios territorios.
+* Oración simplificada: También se generan tormentas en ciertas zonas de América del Norte y del Sur.
+
+* Oración original: Las calorías miden la cantidad de energía que las comidas y bebidas aportan.
+* Oración simplificada: Las calorías son la cantidad de comidas o bebidas que la gente consume.
+
+* Oración original: Hace siete años, el mercado semanal de libros voló por los aires cuando un carro bomba explotó arrebatando la vida de 26 personas, pero ahora el mercado bulle de nuevo con iraquíes a quienes les encantan los libros y las ideas.
+* Oración simplificada: Siete años atrás, un carro bomba ocasionó que el mercado semanal de libros volara por los aires matando a 26 personas.Ahora de nuevo está lleno de iraquíes a quienes les encantan los libros y las ideas.
+
+* Oración original: Según explicaban los autores en el artículo, hace poco las ballenas asesinas "penetraron por las zonas despejadas de hielo y se internaron en la Bahía de Hudson donde se pudo constatar que se dieron a la caza de varias especies de mamíferos marinos del Ártico, entre los cuales estaban la ballena beluga (Delphinapterus leucas), el narval (Monodon monoceros), la ballena boreal y por lo menos cuatro especies de focas".
+* Oración simplificada: Hace poco las orcas entraron por las zonas despejadas de hielo, se internaron en la Bahía de Hudson y allí se dieron a la caza de varias especies de mamíferos marinos del Ártico.
+
+* Oración original: El gobierno federal contrató un centro de detención juvenil en Vicennes, Indiana, desde el año 2004 hasta el año 2010, para que alojara a niños inmigrantes.
+* Oración simplificada: El gobierno federal contrató un centro de detención juvenil en Vicennes, Indiana, desde el año 2004 hasta el año 2010.Este centro de detención se llamaba Southwest Indiana Regional Youth Village y debía alojar a niños inmigrantes.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

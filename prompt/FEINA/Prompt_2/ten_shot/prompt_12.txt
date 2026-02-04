@@ -1,0 +1,48 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: El rendimiento normal de un fondo de inversión que invierte en bonos (es decir, el rendimiento que en promedio obtendrá el fondo de inversión a lo largo de un periodo lo suficientemente prolongado) debe andar alrededor de las tasas de interés que pagan en el mercado los bonos en que invierte.
+* Oración simplificada: El rendimiento que en promedio obtendrá el fondo de inversión a lo largo de un periodo lo suficientemente prolongado debe oscilar alrededor de las tasas de interés que pagan en el mercado los bonos en que invierte.
+
+* Oración original: Este modelo se sustenta en otorgar amplia libertad, para actividades económicas y no económicas, tanto a personas como a empresas, limitando la acción del Estado a un papel normativo y de intervención solo en los casos donde los particulares no puedan acceder.
+* Oración simplificada: Este modelo otorga libertad para actividades económicas y no económicas a personas y empresas. Limita la acción del Estado a un papel normativo y de intervención en casos especiales.
+
+* Oración original: En este grupo se encuentran la seguridad social, las aseguradoras y otras instituciones de este tipo.
+* Oración simplificada: En este grupo están la seguridad social, las aseguradoras y otras instituciones.
+
+* Oración original: Rentabilidad
+ INTERÉS DE 2 PESOS SOBRE UNA INVERSIÓN DE 100 PESOS = RENTABILIDAD DE 2 % ((2 ÷ 100) × 100 = 2%) POR CADA 100 PESOS SE GANAN 2 PESOS
+ Endeudamiento
+ DEUDA DE 30 PESOS POR SOBRE EL CAPITAL DE 20 PESOS = ENDEUDAMIENTO DE 1,5 VECES EL CAPITAL (30 ÷ 20 = 1,5) POR CADA PESO DE CAPITAL EXISTE 1,5 PESOS DE DEUDA
+ Liquidez
+ 80 PESOS DE DINERO DISPONIBLE POR SOBRE DEUDAS DE 40 PESOS = LIQUIDEZ DE DOS VECES EL VALOR DE LA DEUDA (80 ÷ 40 = 2) POR CADA PESO DE DEUDA SE DISPONE DE 2 PESOS PARA PAGO
+* Oración simplificada: EL INTERÉS DE DOS PESOS SOBRE UNA INVERSIÓN DE CIEN PESOS DA UNA RENTABILIDAD DE DOS POR CIENTO. ES DECIR, POR CADA CIEN PESOS GANAMOS DOS PESOS. LA DEUDA DE TREINTA PESOS SOBRE EL CAPITAL DE VEINTE PESOS RESULTA EN UNA DEUDA DE UNO PUNTO CINCO VECES EL CAPITAL. ES DECIR, POR CADA PESO DE CAPITAL HAY UNO PUNTO CINCO PESOS DE DEUDA. EN OCHENTA PESOS DE DINERO DISPONIBLE SOBRE DEUDAS DE CUARENTA PESOS DA UNA LIQUIDEZ DEL DOBLE DE LA DEUDA. POR CADA PESO ADEUDADO HAY DOS PESOS PARA PAGAR.
+
+* Oración original: Los efectos que produce la inflación son siempre negativos e impactan en la economía general, en las empresas y en las personas.
+* Oración simplificada: Los efectos producidos por la inflación siempre son negativos e impactan en la economía general, en las empresas y en las personas.
+
+* Oración original: Cuando pidas un informe, ten a la mano tu número de Seguro Social, fecha de nacimiento, tu dirección actual y las anteriores (de los últimos cinco años) y el nombre de soltera, si corresponde.
+* Oración simplificada: Para pedir un informe necesitas tu número de Seguro Social, fecha de nacimiento, dirección actual y anteriores y el nombre de soltera si corresponde.
+
+* Oración original: La siguiente tabla muestra la construcción del estado financiero por el método indirecto con sus respectivas anotaciones: Como se puede observar, la estructura del EFE por el método indirecto se basa en la revisión del balance del año corriente y el año previo, junto con información del estado de resultados.
+* Oración simplificada: La siguiente tabla evidencia la construcción del estado financiero por el método indirecto con sus anotaciones. La estructura del estado de flujo de efectivo por el método indirecto se basa en la revisión del balance del año corriente y previo con la información del estado de resultados.
+
+* Oración original: Muchas personas, equivocadamente piensan que el momento para comenzar a preocuparse de cómo administrar sus finanzas es cuando tengan suficiente dinero en el banco, pero lo cierto es que a menos que comiencen a aprender los principios que conducen al éxito financiero desde ahora, nunca tendrán suficiente dinero para preocuparse de cómo administrarlo.
+* Oración simplificada: Muchas personas piensan equivocadamente que el momento para comenzar a preocuparse por cómo administrar sus finanzas es cuando tengan suficiente dinero en el banco.  Pero lo cierto es que a menos de que comiencen a aprender los principios que conducen al éxito financiero desde ahora, nunca tendrán suficiente dinero para preocuparse de cómo administrarlo.
+
+* Oración original: Dentro de los gastos deben incluirse varios rubros para la estabilidad de la familia en caso de imprevistos, tales como:
+* Oración simplificada: Se deben incluir varios rubros dentro de los gastos para la estabilidad de la familia en caso de imprevistos, como:
+
+* Oración original: Por lo tanto, una nación, como tampoco una persona, una familia o una empresa deben consumir todo lo que produce, sino que debe ahorrar e invertir parte de su producción en maquinaria, equipo y edificios u otros bienes, según quien sea, para aumentar su ingreso y subir el nivel de vida del futuro.
+* Oración simplificada: Una nación, una persona, familia o empresa no debe consumir todo lo que produce, sino que debe ahorrar e invertir parte de su producción en maquinaria, equipo, edificios y otros bienes. Esta inversión aumentará los ingresos y mejorará el nivel de vida.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

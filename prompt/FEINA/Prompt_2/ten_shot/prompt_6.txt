@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: En este caso específico, es el dinero extra que se obtiene al depositar nuestro dinero en una cuenta de banco.
+* Oración simplificada: En este caso, es el dinero extra obtenido al depositar nuestro dinero en una cuenta bancaria.
+
+* Oración original: Las metas a corto plazo más comunes son, por ejemplo: cancelar deudas; crear fondos de emergencia; tomarse vacaciones; comprar autos o artículos para el hogar.
+* Oración simplificada: Las metas a corto plazo más comunes son: pagar deudas. Crear fondos de emergencia. Vacacionar. Comprar carro o artículos para el hogar.
+
+* Oración original: Para reducir el riesgo, los prestamistas analizan su comportamiento pasado respecto a pedir prestado utilizando un informe de crédito, o un documento que describe su historial de crédito.
+* Oración simplificada: Los prestamistas analizan su comportamiento pasado respecto a los préstamos para reducir el riesgo. Para esto, utilizan un informe crediticio o un documento que describe su historial crediticio.
+
+* Oración original: El Key logger o Capturador de Teclas: son herramientas de software o hardware que permiten grabar el texto que escribe una persona en su teclado.
+* Oración simplificada: Capturador de teclas: son herramientas de software o hardware que permiten grabar el texto que escribe una persona en su teclado.
+
+* Oración original: Los Agentes Especialistas tan sólo cobran una serie de comisiones, pero sin tocar los recursos, ni los títulos financieros.
+* Oración simplificada: Los agentes especialistas cobran comisiones. Pero no tocan los recursos ni los títulos financieros.
+
+* Oración original: Un caballo podría costar 10 cabras y una cabaña unas 45 cabras.
+* Oración simplificada: Un caballo podría costar 10 cabras y una cabaña 45 cabras.
+
+* Oración original: El modelo económico que prevalece en el mundo occidental, desde la segunda mitad del siglo XX, es el de la economía de mercados cuyos principales exponentes fueron el economista austríaco, Friedrich von Hayek, y el estadounidense Milton Friedman, ambos defensores del liberalismo económico, modelo ideológico que nació en la denominada «escuela austríaca», a comienzos del 1900, y que posteriormente fue adoptado y expandido por la Universidad de Chicago.
+* Oración simplificada: El modelo económico sobresaliente en Occidente es el de la economía de mercados. Sus promotores fueron El austríaco Friedrich von Hayek y el estadounidense Milton Friedman. Quienes defendían el liberalismo económico surgido de la escuela austriaca a comienzos de mil novecientos.
+
+* Oración original: La educación financiera permite, asimismo, contar con un mayor conocimiento de los productos financieros, conceptos y riesgos, y desarrollar habilidades y confianza para tomar decisiones informadas, para conocer dónde acudir para obtener ayuda, y para tomar otras acciones efectivas para mejorar su bienestar financiero; asimismo, está orientada a la formación, capacitación, buenos hábitos y costumbres en cuanto al uso de los instrumentos y herramientas básicas de la vida financiera de las personas y, por ende, de aquellas responsables de hogares y por extensión de la vida comunitaria y social.
+* Oración simplificada: La educación financiera permite un mayor conocimiento de los productos, conceptos y riesgos. También desarrollar habilidades y confianza para tomar decisiones informadas, saber dónde acudir si necesita ayuda y tomar otras acciones efectivas para su bienestar financiero.   Asimismo, está orientada a la formación en cuanto al uso de las herramientas básicas de la vida financiera de las personas responsables de hogares o a nivel comunal y social.
+
+* Oración original: Por otro lado, la elaboración de una tabla de amortización alemana no difiere en estructura, pero sí en el proceso de su construcción.
+* Oración simplificada: Por otro lado, la elaboración de una tabla de amortización alemana no difiere en estructura, pero sí en el proceso de su construcción.
+
+* Oración original: Crecimiento económico expresión empleada para explicar el mejoramiento de la economía medida en función y en proporción del producto interno bruto (PIB) de los países.
+* Oración simplificada: El crecimiento económico es la expresión usada para explicar el mejoramiento de la economía. Esta se mide según el Producto Interno Bruto de los países.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

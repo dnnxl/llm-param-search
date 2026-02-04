@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Algunos pueden cooperar en ciertos asuntos, pero no en otros, pero me parece que cualquier territorio que no coopere plenamente con las autoridades federales sería una ciudad santuario", dijo el ejecutivo.
+* Oración simplificada: Algunos pueden cooperar en unas situaciones, pero no en otras", dijo.Pero él piensa que cualquier ciudad que no coopere plenamente con las agencias de control de inmigrantes es una ciudad santuario.
+
+* Oración original: Resnick trabaja para SZ DJI Technology Co., una empresa que fabrica drones con propósitos de entretenimiento.
+* Oración simplificada: Jon Resnick trabaja para una empresa de tecnología que fabrica drones.
+
+* Oración original: "No querrás echar a perder lo que ya pagaste".
+* Oración simplificada: "Usted no quisiera tirar lo que le costó".
+
+* Oración original: "¿Qué te dice la basura de nosotros?"
+* Oración simplificada: "¿Qué dice la basura de nosotros?## Ritmos vitales en la basura
+
+* Oración original: Terunofuji Haruo resultó triunfador en una competencia en la que se destacaron  otros dos mongoles, un búlgaro y varios luchadores de Hawái, Polinesia, Egipto y Georgia.
+* Oración simplificada: Un luchador de Mongolia resultó triunfador.También se destacaron otros luchadores de Bulgaria, Hawái, Polinesia, Egipto y Georgia.
+
+* Oración original: La comparación consolida los temores de que las artistas mujeres se están excluyendo sistemáticamente de la radio comercial.
+* Oración simplificada: La comparación aumentó los temores de que las artistas mujeres se están excluyendo a propósito de la radio comercial.
+
+* Oración original: La ONU ha estado trabajando durante más de dos décadas para persuadir a los gobiernos de que reduzcan las emisiones emitidas por los humanos que, según los científicos, están calentando el planeta.
+* Oración simplificada: La ONU (Organización de las Naciones Unidas) ha estado trabajando durante más de dos décadas para persuadir a los Gobiernos de que reduzcan las emisiones que están calentando el planeta.
+
+* Oración original: El desecho de alimentos es algo "que debe combatirse desde múltiples niveles", señala Mathy Stanislaus, un funcionario superior en la Agencia de Protección Ambiental que busca poner fin al desperdicio alimentario.
+* Oración simplificada: El descartar alimentos es algo "que debe combatirse en varios niveles", señaló Mathy Stanislaus, un funcionario de la Agencia de Protección Ambiental quien busca poner fin al desperdicio alimentario.
+
+* Oración original: La ballena tendría que haber nadado una gran distancia río arriba.
+* Oración simplificada: ## Un buen nado río arribaLa ballena tendría que haber nadado una gran distancia río arriba, explicaba Jacobs.
+
+* Oración original: Solo hasta ahora, en lo que va del año 2014, ha ganado 64 millones de dólares según la revista Forbes, e indudablemente ganará mucho más con las ventas de cada descarga que le aportan aproximadamente 70 centavos por dólar, en contraposición a los $0.006 o $0.0084 por canción que por derechos de autor le pagaría Spotify, que cuenta con 40 millones de usuarios alrededor del mundo.
+* Oración simplificada: Indudablemente que tiene un valor para ella.En lo que va del año 2014, Swift ha ganado 64 millones de dólares según la revista Forbes.Y ganará mucho más con las ventas de cada descarga que le aportan aproximadamente 70 centavos por dólar.Es mucho más que los $0.006 o $0.0084 por canción que por derechos de autor le pagaría Spotify.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

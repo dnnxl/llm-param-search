@@ -1,0 +1,5 @@
+Simplifica la siguiente oración compleja paso a paso.
+
+Oración original: PREPROCESS_TEXT
+
+Oración simplificada:

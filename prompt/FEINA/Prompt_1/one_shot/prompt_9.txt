@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Realizar trabajos independientes y extras al trabajo regular, puede ofrecer resultados.
+* Oración simplificada: Realizar trabajos independientes y extras al trabajo regular puede ofrecer resultados.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

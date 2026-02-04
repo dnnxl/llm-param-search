@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Y ganará mucho más con las ventas de cada descarga que le aportan aproximadamente 70 centavos por dólar.
+* Oración simplificada: Indudablemente ganará mucho más con las ventas de cada descarga en iTunes.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

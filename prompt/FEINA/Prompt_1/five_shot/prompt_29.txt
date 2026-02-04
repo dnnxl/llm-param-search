@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La Inversión: Instrumento para Aumentar el Ahorro Los bonos generalmente proveen un flujo estable de ingresos, pues los pagos de intereses se realizan con una determinada periodicidad y en fechas establecidas.
+* Oración simplificada: La inversión es el instrumento para aumentar el ahorro. Los bonos generalmente proveen un flujo estable de ingresos, pues los pagos de intereses se realizan con una determinada periodicidad y en fechas establecidas.
+
+* Oración original: Lamentablemente, pocos países del planeta tienen un seguro para esta contingencia, pero sí se sabe que a ello se está expuesto permanentemente por los vaivenes, a veces insospechados del mercado del empleo, es recomendable que las personas piensen en mantener un fondo con recursos suficientes que vayan de dos a seis meses aproximadamente de sueldo o salario, equivalente al sueldo que tenga en el momento en que está trabajando, asunto que no es fácil, comprendemos suficientemente y dependiendo también de varios factores como es el monto del salario que devenga la persona y hasta donde le admite posibilidades de ahorro, de la claridad que ella tenga sobre el problema, etc.
+* Oración simplificada: Lamentablemente, pocos países tienen un seguro para esta situación, pero estamos permanentemente expuestos a esto por el inestable mercado de empleo. Las personas deberían mantener un fondo con recursos de entre dos a seis meses del sueldo actual, aunque es complicado. Pues depende de varios factores, como el salario de la persona y si le permite ahorrar, la consciencia sobre el problema, entre otros.
+
+* Oración original: Un punto importante de mencionar es que estos indicadores nunca se contradicen.
+* Oración simplificada: Estos indicadores nunca se contradicen.
+
+* Oración original: Hay que desarrollar ingresos pasivos, basados en inversiones sólidas y seguras que superen el nivel de gastos personales, para llegar a la independencia financiera."
+* Oración simplificada: Para tener independencia financiera, hay que desarrollar ingresos pasivos basados en inversiones sólidas y seguras superiores al nivel de gastos personales.
+
+* Oración original: Los bienes de capital, o bienes de producción, que son los que se usan para producir otras mercancías, que pueden ser bienes de consumo o de capital.
+* Oración simplificada: Los bienes de capital o bienes de producción usados para producir otras mercancías, pueden ser bienes de consumo o de capital.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

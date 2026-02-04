@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Sobre ella hay muchas opiniones y conceptos, a veces controversiales, sobre todo si se la mira unilateral o reduccionistamente como la simple y desaforada acumulación de dinero que inclina a perfilar la más como un fin que como lo que realmente es: un medio.
+* Oración simplificada: Sobre ella hay muchas opiniones y conceptos que a veces son controversiales, por ejemplo, cuando es definida de manera unilateral como la simple y desaforada acumulación de dinero. Esta definición la perfila más como un fin y no como lo que realmente es, un medio.
+
+* Oración original: Es posible que la empresa que recibe el pago también cobre un cargo.
+* Oración simplificada: La empresa receptora del pago podría cobrar también un cargo.
+
+* Oración original: Al seguir de cerca sus cuentas, se asegura de que los pagos por Internet, los pagos automáticos y los gastos diarios no le estén causando problemas.
+* Oración simplificada: Así, se asegura de que los pagos por Internet, los automáticos y los gastos diarios no le generen problemas.
+
+* Oración original: Ingresos Es importante cuantificar los ingresos netos del hogar: entiéndase los salarios de las personas que trabajan (ya con las deducciones de impuestos y CCSS).
+* Oración simplificada: Es importante cuantificar los ingresos netos del hogar. Entiéndase los salarios de las personas que trabajan, ya con las deducciones de impuestos y Caja Costarricense de Seguro Social.
+
+* Oración original: Por ejemplo, todavía tendrás que pagar la mantención de tus hijos, los préstamos estudiantiles, los impuestos y los gastos de pensión alimenticia.
+* Oración simplificada: Por ejemplo, todavía pagarás los préstamos estudiantiles, los impuestos y la pensión alimenticia.
+
+* Oración original: A: Cantidad en la cuenta.
+* Oración simplificada: La letra a significa cantidad en la cuenta.
+
+* Oración original: Esto es sólo un sueño infantil, parecido al de soñar con que un día se va a aparecer un Hada Madrina y, con un golpe de su varita mágica nos va a convertir en un Príncipe encantado o en una reina de belleza.
+* Oración simplificada: Esto es un sueño infantil. Igual que soñar con un Hada Madrina que nos convierte en un Príncipe encantado o en una reina de belleza.
+
+* Oración original: Los impuestos son un compromiso de todos: gobernantes y gobernados, para mantener la simbiosis del Estado y sus circunstancias con la población y así garantizar una vida de desarrollo y dignidad de todas las personas que forman parte de aquél.
+* Oración simplificada: Los impuestos son un compromiso de todos para mantener la simbiosis del Estado y sus circunstancias con la población, y así garantizar una vida de desarrollo y dignidad de todas las personas que forman parte de aquél.
+
+* Oración original: Pero, está tomando decisiones sobre la realidad ahora, ¿no es cierto?
+* Oración simplificada: Pero está tomando decisiones sobre la realidad ahora ¿no es cierto?
+
+* Oración original: A doña Ana la llevaron hoy al hospital.
+* Oración simplificada: "A doña Ana la llevaron hoy al hospital".
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

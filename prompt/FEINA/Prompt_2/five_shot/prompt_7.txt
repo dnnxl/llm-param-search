@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Es una opción para el desarrollo humano.
+* Oración simplificada: La economía social es una opción para el desarrollo humano.
+
+* Oración original: Para concluir el capítulo, se explica el concepto de economizar, que también es ineludible al tratar un tema como la riqueza.
+* Oración simplificada: Para concluir el capítulo, se explica cómo economizar, tema que también es necesario exponer al hablar sobre la riqueza.
+
+* Oración original: Acciones, éstas representan una porción de una empresa.
+* Oración simplificada: Las acciones representan una porción de una empresa.
+
+* Oración original: No obstante, dada la magnitud de las cuentas, el crecimiento de la utilidad neta es del 561%.
+* Oración simplificada: Por el tamaño de las cuentas, el crecimiento de la ganancia neta es de quinientos sesenta y uno por ciento.
+
+* Oración original: Los criterios clásicos podemos resumirlos en tres, tan sencillos que podrás apreciarlos y aplicarlos:
+* Oración simplificada: Los criterios básicos son tres:
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

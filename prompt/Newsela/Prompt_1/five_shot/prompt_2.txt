@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Han podido evitar el drama propio de los clubes de chicas y lograr mantener una amistad increíblemente unida durante todos estos años, y algunas creen que los valores culturales japoneses de cohesión y armonía de grupo han ayudado a mantenerlas unidas.
+* Oración simplificada: Su amistad se ha visto libre de situaciones dramáticas y se han mantenido muy unidas a lo largo de todos estos años.Unas piensan que los valores culturales japoneses de cohesión y armonía de grupo las ha mantenido unidas.
+
+* Oración original: Él sueña que un día en el futuro cercano la Asociación Nacional de Deportistas Universitarios (NCAA, por sus siglas en inglés) creará una conferencia para deportes como _goalball_ que incluya deportistas  con o sin discapacidades.
+* Oración simplificada: Él sueña que un día, pronto, la Asociación Nacional de Deportistas Universitarios, (NCAA, en inglés)  creará una liga de nivel universitario como el goalball, que incluye deportistas con o sin discapacidades.
+
+* Oración original: No todos los niños tienen derecho a ser admitidos.
+* Oración simplificada: No a todos los niños se les debería permitir quedarse.
+
+* Oración original: "Me informé de todo durante más de dos meses", relata Zaidah, quien nació en Alepo, en el sur de Siria, y llevaba dos años viviendo y trabajando en Turquía.
+* Oración simplificada: "Me informé de todo durante más de dos meses", dijo Zaidah, quien nació en Siria, en la ciudad de Alepo.
+
+* Oración original: De la misma manera que se transmiten otras formas de malaria.
+* Oración simplificada: De la misma forma se pasan otras formas de malaria.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

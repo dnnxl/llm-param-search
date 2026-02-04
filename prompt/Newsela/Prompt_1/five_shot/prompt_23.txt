@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Cada primavera, elegía algunos de los picos nevados a lo largo de este extremo occidental de las Rocallosas para predecir la cantidad de escorrentía —o agua gratis— propia de la época que rebosaría los ríos y se derramaría por toda la extensión irregular de sus sembradíos de trigo y alfalfa.
+* Oración simplificada: Cada primavera, elige algunos de los picos nevados de las Rocallosas para predecir la cantidad de agua que llenará los ríos y se derramará por sus campos de trigo y alfalfa.
+
+* Oración original: La comparación aumentó los temores de que las artistas mujeres se están excluyendo a propósito de la radio comercial.
+* Oración simplificada: Se entendió que estaban excluyendo a propósito a las artistas mujeres.
+
+* Oración original: Este movimiento se hace llamar "Los Otros Dreamers".
+* Oración simplificada: ## "Los Otros Dreamers"Se hacen llamar "Los Otros Dreamers".
+
+* Oración original: Clinton quiere ser presidenta de Estados Unidos.
+* Oración simplificada: Lorella quiere que elijan a Hillary Clinton como presidenta de Estados Unidos.
+
+* Oración original: "Cuba es una sociedad diferente".
+* Oración simplificada: ## Diferencias sociales"Cuba es una sociedad diferente".
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

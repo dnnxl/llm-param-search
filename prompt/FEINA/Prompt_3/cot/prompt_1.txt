@@ -1,0 +1,23 @@
+Simplificar una oración compleja siguiendo un razonamiento paso a paso.
+
+Instrucciones:
+Sigue estas cinco reglas para simplificar una oración:
+
+1. Sustituye palabras poco frecuentes por sinónimos más comunes.  
+2. Cambia palabras abstractas por otras con un significado concreto e imaginable.  
+3. Reemplaza palabras polisémicas cuando no se usen en su sentido más común, usando sinónimos más claros.  
+4. Elimina palabras o frases innecesarias que no aportan al significado esencial.  
+5. Reemplaza expresiones léxicas complejas por equivalentes más simples (una palabra o frase corta).  
+
+Proceso paso a paso:  
+Primero, analiza la oración original e identifica qué palabras o frases aplican a cada una de las cinco reglas. Luego, realiza las sustituciones o eliminaciones necesarias. Finalmente, escribe la versión simplificada.
+
+Oración original: PREPROCESS_TEXT
+
+Paso 1: Identificar palabras poco frecuentes 
+Paso 2: Identificar palabras abstractas 
+Paso 3: Identificar palabras polisémicas 
+Paso 4: Identificar redundancias o frases innecesarias
+Paso 5: Reescribir expresiones complejas 
+
+Oración simplificada final:

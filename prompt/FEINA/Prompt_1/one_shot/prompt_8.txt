@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Realizables: Ahorraré $100 semanales desde la última semana de Julio hasta mis vacaciones de fin de año, y no: Participaré en todos los concursos de radio para ganarme el dinero para mi viaje de fin de año."
+* Oración simplificada: Realizables. Por ejemplo, una meta realizable es proponerse ahorrar cien dólares semanales desde la última semana de julio hasta las vacaciones de fin de año, mientras que no lo es participar en todos los concursos de radio para ganar el dinero para un viaje de fin de año.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

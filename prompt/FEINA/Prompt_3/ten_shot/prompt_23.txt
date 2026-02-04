@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: De esta manera podríamos seguir haciendo el análisis sobre otros impuestos, pero con lo revisado consideramos que es suficiente para tener la visión que nos propusimos.
+* Oración simplificada: De esta manera podríamos seguir con el análisis sobre otros impuestos, pero con lo revisado es suficiente para tener la visión que nos propusimos.
+
+* Oración original: Mira cuánto podría haber ahorrado Sal en el pago de los intereses de su compra de $1000 si hubiera buscado una tarjeta con una tasa de interés baja.
+* Oración simplificada: Cuánto se ahorraría Sal en los intereses de su compra de mil dólares si hubiera buscado una tarjeta con una tasa de interés baja.
+
+* Oración original: En cualquier caso, tanto la liquidez como la solvencia son variables que deben permanecer en constante observación.
+* Oración simplificada: La liquidez y la solvencia son dos variables que se deben observar constantemente.
+
+* Oración original: También se pueden identificar cinco fuentes o instrumentos de financiamiento, ellos son: El crédito bancario, el pagaré, la línea de crédito, el crédito hipotecario y el crédito prendario.
+* Oración simplificada: Hay cinco fuentes de financiamiento: El crédito bancario, crédito hipotecario, crédito prendario, el pagaré y la línea de crédito.
+
+* Oración original: Mientras esa concepción no cambie, mientras la ciudadanía no logre convertirse en una contraparte aceptada por los gobernantes, los ciudadanos seguirán haciendo como que pagan y el gobierno como que gobierna.
+* Oración simplificada: Mientras la ciudadanía no logre convertirse en una contraparte aceptada por los gobernantes, los ciudadanos simularán que pagan y el gobierno que gobierna.
+
+* Oración original: Si se utiliza, entonces, el presupuesto, como hizo Mariana, usted puede llevar también un control de sus ingresos y gastos, identificar los cambios que puede realizar, para aumentar sus ingresos o reducir sus gastos y preparar un nuevo presupuesto ajustado que incluya más ahorros.
+* Oración simplificada: Utilizar el presupuesto como hizo Mariana permite llevar un control de sus ingresos y gastos e identificar posibles cambios. Estos cambios se pueden realizar para aumentar sus ingresos o reducir sus gastos y ajustar el presupuesto para incluir más ahorros.
+
+* Oración original: A menudo sucede que nadie se encarga de dirigir la fortuna del Estado más que cuando se siente poco capaz de dirigir sus propios negocios.
+* Oración simplificada: A menudo sucede que ninguna persona se encarga de dirigir la fortuna del Estado, sobre todo, si se siente poco capaz de dirigir sus propios negocios.
+
+* Oración original: Una deuda de conveniencia se da cuando se usa el crédito para pagar un gasto grande durante un tiempo.
+* Oración simplificada: Una deuda de conveniencia ocurre cuando usa el crédito para pagar un gasto grande durante un tiempo.
+
+* Oración original: Colisión: Choque de dos cuerpos. Oposición y pugna de ideas, principios o intereses. Parte del ingreso que no se destina al ahorro, sino que es aplicado a la adquisición de alimentos, educación, ocio, entre otros.
+* Oración simplificada: Una colisión es un choque de dos cuerpos o una oposición y enfrentamiento de ideas, principios o intereses. También es la parte del ingreso no destinado al ahorro, pues se usa a la adquisición de alimentos, educación, ocio, entre otros.
+
+* Oración original: Hace dos años, la Yuyis se enfermó muy grave: tenía un dolor que se le iba haciendo cada vez más fuerte.
+* Oración simplificada: Hace dos años, la Yuyis se enfermó muy grave. Tenía un dolor cada vez más fuerte.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

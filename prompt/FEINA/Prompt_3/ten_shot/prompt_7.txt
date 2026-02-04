@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: La ética de la política fiscal de una sociedad debe desarrollarse, entonces, a partir de dos principios morales: en primer lugar, el primer deber de todo gobierno es desarrollar un sistema fiscal justo y recto: justo en la manera en que se recaudan y administran los impuestos, y recto en la manera en que los ingresos fiscales son administrados y gastados.
+* Oración simplificada: La ética de la política fiscal de una sociedad debe desarrollarse a partir de dos principios morales: en primer lugar, desarrollar un sistema fiscal justo en la manera en que se recaudan y administran los impuestos, y recto en la manera en que los ingresos fiscales son administrados y gastados.
+
+* Oración original: Las empresas, que son agentes económicos conjuntamente con los consumidores individuales, los hogares o familias, el gobierno y el sector externo, y no nos referimos sólo a las grandes, sino también a las pequeñas y a las medianas, cumplen un doble papel principal en la economía.
+* Oración simplificada: Igual que los demás consumidores, todas las empresas son agentes económicos y cumplen un doble papel principal en la economía.
+
+* Oración original: Sus características intrínsecas han favorecido su uso para llevar a cabo infinidad de transacciones comerciales.
+* Oración simplificada: Sus características favorecen su uso para llevar a cabo infinidad de transacciones comerciales.
+
+* Oración original: En sus comienzos cada moneda valía alrededor de $300, a fines de 2019 llega a $15.000 y continúa con alzas y bajas.
+* Oración simplificada: Al inicio, cada moneda valía casi trescientos pesos. A fines de dos mil diecinueve llegó a quince mil pesos. Sigue con alzas y bajas.
+
+* Oración original: Los portafolios de inversiones pueden contar con fondos que tienen diferentes objetivos o metas de inversión como, por ejemplo, un fondo de acciones de compañías que tienen prestigio y reputación y que cumplen con el pago de dividendos; así como un fondo de bonos que genera ingresos fijos y regulares, que pueden ser de menor riesgo y cuyo rendimiento puede ser menor.
+* Oración simplificada: Los portafolios de inversiones pueden contar con fondos que tienen diferentes objetivos o metas de inversión, por ejemplo, un fondo de acciones de compañías que tienen prestigio y reputación que cumplen con el pago de dividendos. Así como un fondo de bonos que genera ingresos fijos y regulares y pueden ser de menor riesgo y menor rendimiento.
+
+* Oración original: Los bienes de capital, o bienes de producción, son los que se usan para producir otras mercancías, que pueden ser bienes de consumo o de capital.
+* Oración simplificada: Los bienes de capital, o bienes de producción, son usados para producir otras mercancías que pueden ser bienes de consumo o de capital.
+
+* Oración original: El intercambio es el mercadeo de la producción hacia las fuentes de consumo.
+* Oración simplificada: El intercambio es el comercio de la producción hacia las fuentes de consumo.
+
+* Oración original: Estos autores dejaron profundas reflexiones, cada uno a su manera sobre la vida humana en sociedad y en la cual los impuestos son un factor determinante.
+* Oración simplificada: Estos autores dejaron profundas reflexiones sobre la vida humana en sociedad y en la cual los impuestos son un factor determinante.
+
+* Oración original: La otra clase de papel moneda son los cheques firmados por las personas que tienen respaldo o depósitos en los bancos, en sus llamadas cuentas corrientes.
+* Oración simplificada: Otra clase de papel moneda son los cheques firmados por las personas que tienen respaldo o depósitos en sus cuentas corrientes.
+
+* Oración original: La respuesta es sencillamente que el banco ha creado utilidad de tiempo en beneficio de usted.
+* Oración simplificada: La respuesta es que el banco creó utilidad de tiempo en su beneficio.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

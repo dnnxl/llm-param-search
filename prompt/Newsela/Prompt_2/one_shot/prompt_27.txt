@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Mientras tanto, la historia sobre cómo, cuándo y dónde aparecieron los perros seguirá siendo un misterio.
+* Oración simplificada: Al estudiar el ADN, los científicos pueden entender mejor la historia de los perros.La historia exacta sobre cómo aparecieron los perros sigue siendo un misterio.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

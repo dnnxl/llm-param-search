@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: ## Recuerdan a Oscar
+* Oración simplificada: ## Poca atención a la muerte de Oscar## Recuerdan a Oscar
+
+* Oración original: "Lo que podemos decir concluyentemente es que los resultados justifican más pruebas en estudios más amplios, mejor controlados", dice.
+* Oración simplificada: **Planifican estudios extensos**"Lo que podemos decir es que los resultados justifican más pruebas en estudios más amplios, mejor controlados", afirma.Los científicos van a comparar ambos grupos.
+
+* Oración original: Antes de llegar a Tailandia, el Kunlun fue perseguido por 900 millas (aprox.
+* Oración simplificada: Antes de llegar a Tailandia, el Kunlun fue hallado en las Islas Cocos de Australia.Los funcionarios lo habían perseguido por 900 millas (aprox.
+
+* Oración original: Esas cifras fueron lo suficientemente elevadas como para descubrir que corresponden al 5 por ciento y al 7 por ciento de todo el consumo de calorías diario, respectivamente.
+* Oración simplificada: En general, la pizza aporta alrededor del 5 por ciento del consumo diario de calorías en niños y el 7 por ciento en adolescentes.
+
+* Oración original: "No puedo decir que (mis sentimientos) hayan cambiado mucho, pero solo espero que no haya más guerras".
+* Oración simplificada: ## "Solo espero que no haya más guerras""No puedo decir que (mis sentimientos) hayan cambiado mucho, pero solo espero que no haya más guerras".
+
+* Oración original: Acababa de tirar a la basura cientos de cajas de macarrones con queso pasados de fecha delante de muchas personas hambrientas que hacían una larga fila por su ración de alimento.
+* Oración simplificada: Acababa de tirar a la basura cientos de cajas de macarrones con queso pasados de fecha.Tenía delante de sí muchas personas hambrientas que hacían una larga fila para poder comer.
+
+* Oración original: Esa expresión ahora se considera un insulto racista.
+* Oración simplificada: **Insultos racistas y trato severo**Esa expresión ahora se considera un insulto racista.
+
+* Oración original: "Pero 42.000 toneladas no es suficiente", dijo, mirando hacia una apertura con Estados Unidos.
+* Oración simplificada: "Pero 42.000 toneladas no es suficiente", dijo, pensando en el potencial de comercio con Estados Unidos.
+
+* Oración original: Consideran que da mala suerte, comentó Marks.
+* Oración simplificada: Consideran que da mala suerte, comentó Marks.Marks ha trabajado en muchos proyectos en Asia.
+
+* Oración original: Él es el director del Departamento de Horticultura, o ciencia de las plantas, de la Universidad de Wisconsin-Madison.
+* Oración simplificada: Él es un profesor de la Universidad de Wisconsin-Madison y estudia horticultura, o ciencia de las plantas.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

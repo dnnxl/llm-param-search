@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Por otra parte, para facilitar el estudio de la economía, ésta se ha dividido en dos grandes campos o áreas, permanentemente mencionadas en los análisis económicos:
+* Oración simplificada: Por otra parte, se ha dividido la economía en dos grandes áreas para facilitar su estudio. Estos dos campos siempre son mencionados en los análisis económicos:
+
+* Oración original: Hay que agregar que las decisiones adecuadas, basadas en la verdad y el bien, en torno a los conceptos antes indicados contribuyen al logro de la libertad financiera.
+* Oración simplificada: Hay que agregar las decisiones adecuadas sobre los conceptos anteriores contribuyen al logro de la libertad financiera.
+
+* Oración original: Lo importante, entonces, es entender entre otros aspectos, que las personas que trabajan por un sueldo, un jornal u otro ingreso, llevan a la casa o familia una cierta cantidad de dinero y que muchas veces no hay suficiente cantidad de él para todo lo que a la familia le gustaría tener, especialmente, porque como alguien dijera con muy buen sentido, los salarios suben por las escaleras mientras el costo de la vida asciende por el ascensor.
+* Oración simplificada: Lo importante es entender que las personas trabajan por un sueldo, un jornal u otro ingreso. Además, llevan a la casa o familia una cantidad de dinero que muchas veces no alcanza porque los salarios suben por las escaleras mientras el costo de la vida sube por el ascensor.
+
+* Oración original: La producción en la forma de valor de tiempo es una actividad económica de mucha importancia.
+* Oración simplificada: La producción en la forma de valor de tiempo es una actividad económica muy importante.
+
+* Oración original: Es posible que tengas sentimientos confusos respecto al dinero.
+* Oración simplificada: Puedes tener sentimientos confusos respecto al dinero.
+
+* Oración original: Si lo que tengo que invertir hoy en día en el DP para conseguir $10,000, en un año y medio, es mayor que lo que tengo que invertir en el proyecto Z (que también paga $10,000 en un año y medio), entonces tomo el proyecto Z.
+* Oración simplificada: Si el dinero que debo invertir en el Depósito a Plazo para conseguir diez mil dólares en un año y medio es mayor al que debo invertir en el proyecto Z, que también paga diez mil dólares en un año y medio, entonces elijo el proyecto Z.
+
+* Oración original: Al mismo tiempo, como economía abierta al mundo, es un importador de bienes durables de uso doméstico e industrial, como automóviles, artículos electrónicos, vestuario y alimentos de consumo masivo.
+* Oración simplificada: También importa productos domésticos e industriales.
+
+* Oración original: El sector que estamos mencionando y que constituye el sector de Economía Social, según Leiva, Palencia y otros tiene su fundamento en principios filosóficos, económicos, sociológicos y antropológicos, que en su conjunto buscan generar alternativas para la generación de riqueza, en un contexto de participación, pertenencia y logro de condiciones plenas de calidad de vida.
+* Oración simplificada: El de Economía Social se basa en principios filosóficos, económicos, sociológicos y antropológicos. Estos buscan crear alternativas para generar riqueza, en un contexto de participación, pertenencia y logro de condiciones plenas de calidad de vida.
+
+* Oración original: Estado fiscal o braket: Rangos de ingreso a partir de los cuales se calcula la clase de impuesto.
+* Oración simplificada: El estado fiscal son los rangos de ingresos utilizados para calcular la clase de impuesto.
+
+* Oración original: Elementos Introductorios La capacitación que se espera facilitar y para la cual este Libro Maestro aporta los conocimientos básicos necesarios, obviamente no apunta a especialistas sino a todas las personas, inicialmente, como se señaló anteriormente, a jóvenes entre 15 y 20 años, que estén o no estudiando y que como cualquier otra persona del común, debe acreditar en su formación o cultura básica, conceptos esenciales de economía y finanzas que le permitan administrar sus ingresos y, así mismo, visualizar y proyectar su futuro y el de su familia, especialmente si llega a faltar o cuando se retire por edad o por otra circunstancia, del mundo laboral.
+* Oración simplificada: Este libro presenta los conocimientos básicos necesarios para la capacitación por facilitar. Esta se dirige, inicialmente, a jóvenes entre 15 y 20 años estudiantes o no. Quienes deben demostrar en su formación o cultura básica, conceptos básicos de economía y finanzas que le permitan administrar sus ingresos, visualizar y proyectar su futuro familiar en caso de fallecer o retirarse del mundo laboral.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

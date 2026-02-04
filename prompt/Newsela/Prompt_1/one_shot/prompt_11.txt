@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Estos padres ahora están presionando a las ciudades para que sean más receptivas con las familias.
+* Oración simplificada: En el pasado, muchas familias se mudaron a los suburbios.Ahora, eso podría estar cambiando lentamente.Más padres jóvenes se están quedando en la ciudad.Estos padres están presionando a las ciudades para que sean más receptivas con las familias.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

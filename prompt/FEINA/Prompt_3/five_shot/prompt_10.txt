@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: El crédito de los ciudadanos en las cosas más nimias no debe ser esclavizado y dependiente de una multitud de oficiales subalternos de las rentas.
+* Oración simplificada: El crédito de los ciudadanos en las cosas más insignificantes no debe ser sometido.
+
+* Oración original: Lo primero que se debe hacer, entonces, en el proceso de la planeación en este referente, es definir qué quiere, necesita y desea la persona que está haciendo el plan y determinar, entonces, sus metas u objetivos, las cuales puede establecer a un año, ya que lo que se espera es que la persona se detenga cada año, a revisar evaluativamente su plan y reformularlo, retroalimentando el del nuevo año con el análisis que obtenga de los resultados del año inmediatamente anterior o que está evaluando, y desde luego también, de las limitantes que encontró para ejecutar o desarrollar su plan, como lo hace cualquier empresa grande o pequeña y como lo haría, desde luego, si es organizada, lo cual supone la buena administración.
+* Oración simplificada: Lo primero que se debe hacer en el proceso de la planeación es definir qué quiere, necesita y desea la persona, determinar sus metas u objetivos que se pueden establecer a un año. Ya que lo que se espera es que la persona se detenga cada año a revisar su plan y reformularlo, que retroalimente el del nuevo año con el análisis que obtenga de los resultados del año inmediatamente anterior o que está evaluando. También, identificar las limitantes que encontró para ejecutar o desarrollar su plan, como lo hace cualquier empresa grande o pequeña.
+
+* Oración original: Activos: Antes de explicar, lo que aquí se debe hacer, señalemos, que los activos son todas las cosas o bienes que se posee.
+* Oración simplificada: Activos: Antes de explicar, señalemos que los activos son todas las cosas o bienes que se posee.
+
+* Oración original: Adicionalmente, las propias instituciones financieras, pueden proveer este tipo de educación no solo a sus clientes, sino también a sus empleados para que ellos también promuevan estas actividades.
+* Oración simplificada: Asimismo, las instituciones financieras pueden proveer este tipo de educación a sus clientes y a sus empleados, para que ellos también la promuevan.
+
+* Oración original: Solo tú puedes arreglar los malos antecedentes pagando tus deudas y pagando las facturas actuales en fecha.
+* Oración simplificada: Paga tus deudas y facturas actuales para arreglar tu historial negativo.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

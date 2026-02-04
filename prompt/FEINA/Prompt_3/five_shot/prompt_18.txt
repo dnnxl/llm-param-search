@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Los impuestos, y por ende la tributación, tienen orígenes remotos en la cultura o desarrollo de la sociedad humana, pero es en la Edad Media, en el Feudalismo, donde se perfilan numerosos impuestos que proyectan su presencia, con algunas de sus características, a los impuestos contemporáneos.
+* Oración simplificada: Los impuestos y su tributación tienen orígenes remotos en el desarrollo de la sociedad humana. En la Edad Media, en el Feudalismo, es donde se presentan numerosos impuestos, algunas características de estos se reflejan en los impuestos contemporáneos.
+
+* Oración original: Permite adoptar nuevos hábitos, aunque no tan fácilmente como se esperaría, que faciliten manejar los ingresos con sabiduría, sensatez y responsabilidad, igualmente, tener la visión para aprovechar toda buena oportunidad financiera, que facilite ver con claridad aquello que pueda ser perjudicial para las finanzas personales y familiares.
+* Oración simplificada: Permite adoptar nuevos hábitos que faciliten manejar los ingresos con sabiduría, sensatez y responsabilidad, aunque no tan fácilmente. Además, ayuda a ver toda buena oportunidad financiera y aquello que perjudique las finanzas personales y familiares.
+
+* Oración original: La riqueza genera renta y la renta aumenta la riqueza, por lo que la renta es una variable flujo que refleja la variación en el tiempo de dos niveles de riqueza.
+* Oración simplificada: La riqueza genera renta y la renta aumenta la riqueza, por ello, la renta es una variable flujo, es decir, una variable que mide la variación de los niveles de riqueza en el tiempo.
+
+* Oración original: PLANES DE AHORROS (TSP, POR SU SIGLA EN INGLÉS) Y PLANES 457: Los planes TSP cubren a los trabajadores e integrantes del servicio del gobierno federal y los planes 457 cubren a los trabajadores de los gobiernos estatales y locales.
+* Oración simplificada: PLANES DE AHORROS T ESE PE, POR SU SIGLA EN INGLÉS, Y PLANES CUATROCIENTOS CINCUENTA Y SIETE. Los planes TE ESE PE cubren a los trabajadores e integrantes del servicio del gobierno federal y los planes cuatrocientos cincuenta y siete cubren a los trabajadores de los gobiernos estatales y locales.
+
+* Oración original: Recuerde que el presupuesto de su hogar es un ejercicio reiterativo, algo que hay que hacer varias veces y estar revisando constantemente.
+* Oración simplificada: Recuerde que el presupuesto de su hogar es un ejercicio reiterativo, debe revisarlo constantemente.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

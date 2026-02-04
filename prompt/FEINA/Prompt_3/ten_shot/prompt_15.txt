@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Sin ir más lejos, pregúntese cuántas veces ha deseado comer una hamburguesa y ha terminado comprando un combo con papas y gaseosa.
+* Oración simplificada: Cuántas veces deseó comer una hamburguesa, pero compró un combo con papas y gaseosa.
+
+* Oración original: Utilidad de lugar: Ocurre cuando un producto o servicio es más útil en un sitio que en otro.
+* Oración simplificada: Utilidad de lugar, ocurre cuando un producto o servicio es más útil en un sitio que en otro.
+
+* Oración original: El seguro protege tus sueños y todo lo que te esfuerzas por lograr.
+* Oración simplificada: El seguro protege tus sueños y metas.
+
+* Oración original: Como se explicó anteriormente, la cuota es constante, por lo que el ejercicio se convierte en una aplicación de una anualidad vencida.
+* Oración simplificada: Como se explicó anteriormente, la cuota es constante por lo que el ejercicio se convierte en una aplicación de una anualidad vencida.
+
+* Oración original: ¿El banco está asegurado por la Corporación Federal de Seguro de Depósitos (FDIC)?
+* Oración simplificada: ¿La Corporación Federal de Seguro de Depósitos asegura ese?
+
+* Oración original: Las personas recién casadas, el comerciante que quiere triunfar, el empresario, el farmacéutico, la madre de familia, el electricista, todas necesitan carburante y ese carburante, es gasolina, ese empuje para seguir avanzando siempre es el entusiasmo.
+* Oración simplificada: Muchas personas necesitan el entusiasmo para avanzar.
+
+* Oración original: Indicadores financieros. Para complementar la información de los estados financieros de las empresas, existen indicadores destinados a medir la situación de rentabilidad, endeudamiento, liquidez y rotación de recursos y deudas de la empresa, y de uso general tanto para usuarios internos como externos.
+* Oración simplificada: Los indicadores financieros miden la rentabilidad, endeudamiento, liquidez y flujo de recursos y deudas de la empresa. Los usan los usuarios internos y externos.
+
+* Oración original: Claro, cinco a diez años no es mucho tiempo cuando se trata de invertir dinero, así que usted todavía querrá escoger métodos con un nivel de riesgo relativamente moderado.
+* Oración simplificada: Cinco a diez años no es mucho tiempo si se trata de invertir. Entonces, usted escogerá formas de riesgo moderado.
+
+* Oración original: Esto debe hacerse de acuerdo con cada situación, teniendo en cuenta la edad y según el presupuesto familiar de cada quien.
+* Oración simplificada: Esto se hace de acuerdo con cada situación, según la edad y el presupuesto familiar de cada uno.
+
+* Oración original: Pero, también, el interés puede acumularse dos veces al año, cuatro veces al año, o incluso diariamente.
+* Oración simplificada: Pero también el interés puede acumularse dos veces al año, cuatro veces al año o incluso diariamente.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

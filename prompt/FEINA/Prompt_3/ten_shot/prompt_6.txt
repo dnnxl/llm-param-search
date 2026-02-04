@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Los cajeros automáticos permiten a las personas, por un lado, mantener un saldo más alto en sus cuentas bancarias por medio del retiro de montos más pequeños con más frecuencia y, por otro, les permite un fácil acceso al dinero en momentos más oportunos.
+* Oración simplificada: Los cajeros automáticos permiten mantener un saldo más alto en las cuentas bancarias mediante el retiros más pequeños y frecuentes. Además, le permite un fácil acceso al dinero en momentos más oportunos.
+
+* Oración original: Solicité la quiebra prevista en el capítulo 13 hace cinco años, y ahora tengo que comprar un auto nuevo.
+* Oración simplificada: Solicité la quiebra mencionada en el capítulo trece hace cinco años. Ahora debo comprar carro.
+
+* Oración original: La diferencia entre sus montos indica el saldo, que puede ser déficit o superávit.
+* Oración simplificada: La diferencia entre sus montos es el saldo. Este puede ser pérdida o ganancia.
+
+* Oración original: No obstante, existen ocasiones en las que se debe aplicar un cambio de tasa para operaciones específicas.
+* Oración simplificada: Sin embargo, hay momentos donde debemos aplicar un cambio de tasa para operaciones específicas.
+
+* Oración original: El administrador de escenarios es una herramienta en Excel que permite alterar múltiples variables con el objetivo de observar el efecto en otras variables de resultados.
+* Oración simplificada: El administrador de escenarios es una herramienta en Excel. Permite cambiar muchas variables para ver el efecto en otras variables de resultados.
+
+* Oración original: Al mismo tiempo, como economía abierta al mundo, es un importador de bienes durables de uso doméstico e industrial, como automóviles, artículos electrónicos, vestuario y alimentos de consumo masivo.
+* Oración simplificada: También importa productos domésticos e industriales.
+
+* Oración original: Una de las causas indudables de este aumento del costo de vida está relacionada con la falta de productividad.
+* Oración simplificada: Una de las causas del aumento del costo de vida es la falta de productividad.
+
+* Oración original: Realizables: Ahorraré $100 semanales desde la última semana de Julio hasta mis vacaciones de fin de año, y no: Participaré en todos los concursos de radio para ganarme el dinero para mi viaje de fin de año."
+* Oración simplificada: Realizables. Por ejemplo, una meta realizable es proponerse ahorrar cien dólares semanales desde la última semana de julio hasta las vacaciones de fin de año, mientras que no lo es participar en todos los concursos de radio para ganar el dinero para un viaje de fin de año.
+
+* Oración original: La fórmula para el éxito es que no hay fórmulas.
+* Oración simplificada: No hay fórmulas para el éxito.
+
+* Oración original: Como ejemplos mayores podemos observar la construcción de ciudades con todos los sistemas, bienes y servicios que se han creado por el ser humano, ya sea utilizando, modificando o transformando los diversos recursos naturales, en beneficio de los integrantes de las comunidades, con el fin de poder sobrevivir y disfrutar de una placentera estancia durante su vida en la tierra, legando a las generaciones futuras, los avances que en su época pudo lograr.
+* Oración simplificada: Otros ejemplos son la construcción de ciudades con todos los sistemas, bienes y servicios creados por el ser humano. Para beneficiar a las comunidades se utilizaron, modificaron o transformaron diversos recursos naturales. El fin era sobrevivir y disfrutar de una placentera estancia durante su vida, legando a las generaciones futuras los avances logrados.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

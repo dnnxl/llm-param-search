@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: En el caso anterior, una cabra tendría un problema a la hora de servir como dinero, y es que es un bien perecedero, dado que la cabra con el tiempo muere.
+* Oración simplificada: En el caso anterior, una cabra no serviría como dinero, porque las cabras mueren.
+
+* Oración original: Es pregunta que nos tenemos que hacer con rigor todos los que sabemos que tenemos que proteger, hoy más que nunca, el ambiente.
+* Oración simplificada: Quienes saben que se debe proteger el ambiente, se hacen la pregunta con rigor.
+
+* Oración original: El dinero es, entonces, un gran sintetizador, lo cual queda también muy bien explicado con la función de acumulador de valores que antes se le asignó.
+* Oración simplificada: El dinero es un gran sintetizador.
+
+* Oración original: Es preciso recordar, que un sueño no se hará realidad hasta cuando se convierta en una meta y que una meta se alcanza comenzando con la decisión de tener perseverancia y disciplina.
+* Oración simplificada: Para realizar un sueño este debe ser una meta y una meta se alcanza con perseverancia y disciplina.
+
+* Oración original: Después de todo la producción no puede organizarse por sí sola.
+* Oración simplificada: La producción debe organizarse.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

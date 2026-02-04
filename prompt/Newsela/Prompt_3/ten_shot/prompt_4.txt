@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Los estudiantes asisten de martes a viernes pero por más tiempo, ya que todavía tienen cumplir con las horas de clases mínimas requeridas por el estado.
+* Oración simplificada: Los estudiantes van de martes a viernes pero más tiempo.Y es que tienen que cumplir con las reglas  estatales de horas de clases.
+
+* Oración original: El proyecto tiene varios objetivos.
+* Oración simplificada: El programa tiene muchas ventajas.
+
+* Oración original: ## Ahora más niños pueden imprimir y leer
+* Oración simplificada: ## La gente podrá leer más
+
+* Oración original: Puede ser que los estudios más interesantes sean los de los neurocientíficos, que están usando resonancias magnéticas y otros dispositivos tecnológicos para aprender cómo afectan al cerebro los videojuegos.
+* Oración simplificada: Puede ser que los estudios más interesantes sean los de los neurocientíficos, que están estudiando cómo afectan al cerebro los videojuegos.
+
+* Oración original: Es un programa de televisión sobre los mapuches.
+* Oración simplificada: Él es un escritor mapuche y presentador de un programa de televisión sobre el grupo.
+
+* Oración original: De acuerdo con las estadísticas presentadas por el Great Pumpkin Commonwealth, que establece las reglas para los concursos, Wisconsin ocupa el quinto lugar entre los ganadores de calabazas gigantes.
+* Oración simplificada: Wisconsin es uno de los principales participantes en este campo.De acuerdo a Great Pumpkin Commonwealth, que establece las reglas para las competencias, se encuentra en el quinto lugar entre los ganadores de las calabazas gigantes.
+
+* Oración original: Más temprano, Juanes y Legend habían recorrido el centro y hablado con los detenidos en el interior.
+* Oración simplificada: Más temprano, Juanes y Legend recorrieron el centro y hablaron con los detenidos en el interior.
+
+* Oración original: ", decía Victor Amira, miembro de los "Ladineros", un grupo que se reúne semanalmente en la comunidad de retiro judía The Summit at First Hill, para estudiar cartas y otros textos escritos en lo que alguna vez fuera el idioma de los sefarditas.
+* Oración simplificada: ", decía Victor Amira, un miembro de los "Ladineros" — un grupo que se reúne semanalmente en The Summit at First Hill, una comunidad de retiro judía, para estudiar lo que alguna vez fuera el idioma de los sefarditas.
+
+* Oración original: En comparación con las muertes de afroestadounidenses a causa de un tiroteo, como lo es el caso de Michael Brown en Ferguson, Mo., y de Walter Scott en Carolina del Sur, las muertes de latinos a manos de los cuerpos policiales no han recibido la misma atención ni remotamente.
+* Oración simplificada: En comparación con las muertes de afroestadounidenses en tiroteos de la policía, como lo es el caso de Michael Brown en Ferguson, Missouri, las muertes de latinos a manos de la policía no reciben la misma atención.
+
+* Oración original: A pesar de que la epidemia de la enfermedad del Ébola fue la de mayor tasa de mortalidad jamás registrada, la OMS se resistió a hacer sonar la alarma internacional hasta agosto, un retraso que algunos argumentan podría haber costado muchas vidas.
+* Oración simplificada: A pesar de que la epidemia de la enfermedad del Ébola se cobró más muertes que ninguna otra en la historia, la OMS no hizo sonar la alarma internacional hasta agosto.Algunos argumentan que este retraso podría haber costado muchas vidas.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

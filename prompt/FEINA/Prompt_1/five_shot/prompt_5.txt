@@ -1,0 +1,21 @@
+Simplifica el siguiente segmento discursivo dado los siguientes ejemplos:
+
+Por ejemplo:
+* Segmento original: Además, Las exportaciones no pagan IVA.
+* Segmento simplificado: Además, las exportaciones no pagan el impuesto al valor agregado.
+
+* Segmento original: m) Bonos del Tesoro de EE.
+* Segmento simplificado: Bonos del Tesoro de Estados Unidos.
+
+* Segmento original: Impuesto de primera categoría es para las utilidades de las empresas e inversiones de personas naturales.
+* Segmento simplificado: Impuesto de primera categoría es para las ganancias de las empresas e inversiones de personas naturales.
+
+* Segmento original: Para obtener la relación de tasas se plantea un ejemplo en el que se desea capitalizar un VP a un año.
+* Segmento simplificado: Para sacar la relación de tasas mencionamos un ejemplo para capitalizar un valor principal a un año.
+
+* Segmento original: Tiempo (t): número de años que durará el ahorro.
+* Segmento simplificado: El tiempo es el número de años que durará el ahorro.
+
+Simplifica el siguiente segmento:
+* Segmento original: PREPROCESS_TEXT
+* Segmento simplificado: 

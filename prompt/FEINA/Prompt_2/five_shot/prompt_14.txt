@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: No hacer gastos altos innecesarios en alimentos.
+* Oración simplificada: No gastar innecesariamente en alimentos.
+
+* Oración original: Por ello los países pobres, donde la mayor parte del ingreso se debe gastar en satisfacer las necesidades del momento en muchos casos acuciantes sin que sea posible el ahorro, la escasez de éste constituye una traba para la crucial inversión interna tanto en capital físico como en capital humano.
+* Oración simplificada: Por ello en los países pobres la mayor parte del ingreso se debe gastar en satisfacer las necesidades del momento sin que sea posible el ahorro.  La escasez de este constituye una traba para la inversión interna en capital físico y en capital humano.
+
+* Oración original: Mientras la situación se mantenga siempre tendrá el primer lugar.
+* Oración simplificada: Siempre tendrá el primer lugar mientras se mantenga la situación.
+
+* Oración original: Ejemplos de pasivos pueden ser: La hipoteca de una casa, saldos de las tarjetas de crédito, un préstamo para la compra de un automóvil.
+* Oración simplificada: Algunos ejemplos son: La hipoteca de una casa, saldos en tarjetas de crédito, préstamos para la compra de un carro.
+
+* Oración original: Las principales diferencias frente a otros productos como los fondos de inversión o las cuentas de ahorro son que no tienen costo por mantenimiento, ni comisiones por saldos mínimos, administración o apertura y que además pagan una tasa de interés que se determina desde el momento inicial de la inversión y no puede ser cambiada durante el plazo pactado.
+* Oración simplificada: Las principales diferencias frente a otros productos como fondos de inversión o cuentas de ahorro son las siguientes. No tienen costo de mantenimiento ni comisiones por saldos mínimos o de administración. Pagan una tasa de interés fijada desde el inicio de la inversión y no puede ser cambiada.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

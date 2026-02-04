@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Los seguros, constituyen aspectos significativos en la educación financiera.
+* Oración simplificada: El tema de los seguros es esencial en la educación financiera.
+
+* Oración original: Esta relación da lugar a lo que se conoce como la ecuación contable:
+* Oración simplificada: Esta relación da paso a la ecuación contable:
+
+* Oración original: ¿Cuál es la diferencia, entonces, entre los sueños de un niño y las metas de un hombre maduro?
+* Oración simplificada: ¿Cuál es la diferencia entre los sueños de un niño y las metas de un hombre maduro?
+
+* Oración original: Si pides dinero prestado de la cuenta 401(k), tendrás menos dinero para la jubilación.
+* Oración simplificada: Si pide dinero prestado de la cuenta cuatrocientos uno k, tendrás menos dinero para la jubilación.
+
+* Oración original: La riqueza es un concepto de inventario; es el valor total de nuestros bienes económicos en cualquier momento específico, reiteramos.
+* Oración simplificada: La riqueza es un concepto de inventario. Reiteramos que esta corresponde al precio total de nuestros bienes económicos en un tiempo específico.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

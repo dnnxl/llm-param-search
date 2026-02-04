@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Nadie duda de que cualquier impuesto es una de las prendas más seguras de la libertad del ciudadano.
+* Oración simplificada: La obligación del pago de cualquier impuesto es una de las formas más seguras de apropiarse de la libertad del ciudadano.
+
+* Oración original: ¿Es importante realizar los pagos de su tarjeta de crédito a tiempo?
+* Oración simplificada: ¿Es importante pagar su tarjeta de crédito a tiempo?
+
+* Oración original: Esto no significa nada a menos de que tengamos claro, en detalle, antes de continuar, el significado de un bien económico y el de un servicio económico, conceptos que son fundamentales para comprender bien las bases comunes de la economía en un contexto para la educación financiera, y que por eso, aún cuando ya se señalaron en capítulo anterior, ahora queremos ratificarlos.
+* Oración simplificada: Esto no significa nada si no se tiene claro el significado de un bien económico y el de un servicio económico. Ambos conceptos son fundamentales para comprender las bases comunes de la economía en un contexto para la educación financiera. Es por esto por lo que deben ser retomados.
+
+* Oración original: Cuando elimines una deuda, celebra tu progreso, pero evita que la celebración te haga contraer deudas nuevamente.
+* Oración simplificada: Cuando elimines una deuda, celebra sin adquirir nuevas deudas.
+
+* Oración original: Para la elaboración del estado financiero a través de este método se requiere información de la contabilidad correspondiente a los movimientos en efectivo que se hayan generado en el período, así como las notas financieras que acompañan a los estados financieros que servirán para elaborar la parte de actividades de inversión y financiamiento.
+* Oración simplificada: Para hacer el estado financiero mediante este método necesitamos información de la contabilidad de los movimientos en efectivos generados en el período. También, las notas de los estados financieros para elaborar la parte de actividades de inversión y financiamiento.
+
+* Oración original: Acorde a la legislación ecuatoriana, se aplica un 15% de participación de trabajadores, y con la diferencia se calcula el impuesto a la renta por el 22%.
+* Oración simplificada: Acorde a la legislación ecuatoriana, se aplica un quince por ciento de participación de trabajadores y con la diferencia se calcula el impuesto a la renta por el veintidós por ciento.
+
+* Oración original: Asegúrese de contar con la última versión de su navegador y actualice los parches de seguridad liberados para éste.
+* Oración simplificada: Asegúrese de contar con la última versión de su navegador y actualice los parches de seguridad liberados para este.
+
+* Oración original: Procedamos a explicarlo de modo más amplio.
+* Oración simplificada: Lo explicamos ampliamente.
+
+* Oración original: Lo anterior, referido a los bienes económicos, pero la economía se ocupa también de los servicios económicos.
+* Oración simplificada: Lo anterior explica los bienes económicos, pero la economía también se ocupa de los servicios económicos.
+
+* Oración original: Interés: Cantidad de dinero que recibe una persona por el servicio de prestar su dinero, o costo en que un deudor incurre al hacer uso de un préstamo.
+* Oración simplificada: El interés es la cantidad de dinero que recibe alguien por prestar su dinero o el costo en que un deudor cae al usar un préstamo.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

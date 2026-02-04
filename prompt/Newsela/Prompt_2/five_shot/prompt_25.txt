@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: KAMPALA, Uganda — Madinah Nalukenge recuerda el día en que comenzó a vender comida en una terminal de autobuses aquí en la capital de Uganda en el año 2004.
+* Oración simplificada: KAMPALA, Uganda — Madinah Nalukenge es una mujer soltera que en el año 2004 estaba pasando por momentos muy difíciles.Decidió usar los últimos 10 dólares que le quedaban para empezar a cocinar y vender comida en la estación de autobuses en la capital de Uganda.
+
+* Oración original: Mark Simmons, el ex entrenador de SeaWorld que fue contratado para ayudar a Keiko en Islandia, dijo que la experiencia mostró que los hábitats tipo corrales en el mar no son un ambiente seguro para las ballenas.
+* Oración simplificada: Mark Simmons, un exentrenador de SeaWorld quien fue contratado para ayudar a Keiko en Islandia, dijo que la experiencia mostró que los corrales marinos no son un ambiente seguro para las ballenas.
+
+* Oración original: Susan Santos quería que sus hijos crecieran hablando inglés.
+* Oración simplificada: Su esposa, Susan, quería que sus hijos crecieran hablando inglés.
+
+* Oración original: Y en algunas escuelas incluso han añadido clases los sábados.pregunta su hermana Amy Kelly.
+* Oración simplificada: Y algunas escuelas han añadido incluso clases los sábados.preguntó su hermana Amy Kelly.
+
+* Oración original: Skaziak y Jason Walters fundaron Throw Away Dogs Project.
+* Oración simplificada: Skaziak y Jason Walters tienen una organización.Se llama Throw Away Dogs Project.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,23 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Los críticos aplaudieron la animación de la película.
+* Oración simplificada: Los críticos dijeron que les gustó la animación de la película.
+
+* Oración original: Esta vez se extendió por el mundo durante los próximos 20 años a través de las ratas que había en los barcos.
+* Oración simplificada: Apareció en Hong Kong cerca de 1894, y se esparció por el mundo durante los próximos 20 años a través de las ratas que había en los barcos.
+
+* Oración original: Desde el 2011 se han creado unos 10.000 empleos y ahora hay un total de 47.000 puestos de trabajo.
+* Oración simplificada: Desde el 2011 se han creado miles de empleos.
+
+* Oración original: ##Un recuerdo duradero
+"No había visto a mis hijas en meses, no podía creer lo mucho que habían crecido", dijo Williams, de 37 años, quien se encuentra en prisión por cargos de droga."Estaba tan contento de verlas, pero tan triste porque no podría irme con ellas.
+* Oración simplificada: ##"Una pieza clave para el triunfo de papá"
+"No había visto a mis hijas en meses, no podía creer lo mucho que habían crecido", dijo Williams."Estaba tan contento de verlas, pero tan triste porque no podría irme con ellas.
+
+* Oración original: Chaichana dijo que cuando finalmente abordó el barco no encontró ningún equipo ilegal de pesca.
+* Oración simplificada: Chaichana dijo que no encontró ningún equipo ilegal de pesca cuando abordó el barco y que las autoridades del puerto de Songkhla no pudieron determinar de dónde venía el cargamento ni cómo lo habían pescado.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

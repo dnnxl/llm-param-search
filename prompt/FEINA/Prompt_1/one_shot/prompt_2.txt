@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: De manera particular, se deben desarrollar los aspectos conceptuales y la importancia del ahorro; "el ahorro y los intereses;" "cómo calcular y manejar los intereses;" "las cuentas de ahorro y sus tipos;" "cómo aumentar los ahorros;" el ahorro y la inversión; "el cálculo del futuro de los ahorros actuales y cómo identificar metas para ahorrar."
+* Oración simplificada: Se deben desarrollar aspectos conceptuales y la importancia del ahorro, el ahorro y los intereses, cómo calcular y manejar los intereses, las cuentas de ahorro y sus tipos, cómo aumentar los ahorros, el ahorro y la inversión, el cálculo del futuro de los ahorros actuales y cómo identificar metas para ahorrar.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

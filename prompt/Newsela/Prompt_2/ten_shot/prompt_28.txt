@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: A través de la historia, los afroestadounidenses han sido muy maltratados por la policía.
+* Oración simplificada: Una de las razones es que los latinos y los afroestadounidenses piensan de manera diferente a la policía.Los afroestadounidenses han sido maltratados por la policía por muchos años.
+
+* Oración original: "En lugar de comportarnos como bárbaros – decía - y vivir golpeándonos por la cabeza, podemos ser como una familia".
+* Oración simplificada: En una reunión de cierre después de la presentación, Pratt contaba que toda su perspectiva había cambiado: "En lugar de vivir golpeándonos por la cabeza, podemos ser como una familia".
+
+* Oración original: En cuanto al futuro, el doctor Hong se aventuró a predecir que en una semana o dos habrá un mínimo de casos y muertes a causa de MERS en Corea del Sur.
+* Oración simplificada: En cuanto al futuro, el doctor Hong se aventuró a predecir que en una semana o dos habrá un mínimo de casos y muertes a causa de MERS en Corea del Sur.Aunque la información disponible demuestra que las infecciones de MERS en esta región han ocurrido casi por exclusivo en hospitales, se han cerrado 2.474 escuelas, (incluyendo 22 universidades) debido a las medidas de precaución tomadas ante la enfermedad.
+
+* Oración original: Perdió parte de su fuerza al chocar contra las montañas, que lograron proteger la ciudad turística de Puerto Vallarta y el puerto de Manzanillo.
+* Oración simplificada: Poco después chocó contra las montañas, que lograron debilitar sus fuertes vientos.En la ciudad turística de Puerto Vallarta y el puerto de Manzanillo, hubo tan solo vientos leves y lluvias ligeras.## Se salva una importante zona turística
+
+* Oración original: En el primer plan se dice que los drones deben pesar menos de 25 kilos (55 libras).
+* Oración simplificada: Para hacerlos seguros los drones deben pesar menos de 25 kilos (55 libras).
+
+* Oración original: Ellos temen que hará de Siria un lugar aún más duro cuando la guerra termine.
+* Oración simplificada: Temen que haga de Siria un lugar más duro para vivir después de que la guerra termine.
+
+* Oración original: Steven Peck, el fundador y presidente de Green Roofs for Healthy Cities —una asociación industrial con sede en Toronto que promueve los techos verdes— comenta que las ciudades "apenas comienzan a descubrir" el potencial que ofrecen los techos verdes y las granjas sobre tejados, los cuales "le dan un uso productivo a un espacio que de otra manera estaría desperdiciado".
+* Oración simplificada: Steven Peck, el fundador y presidente de Green Roofs for Healthy Cities —una asociación que promueve los techos verdes— comenta que las ciudades "apenas comienzan a descubrir" el potencial que ofrecen los techos verdes.
+
+* Oración original: Eso sí, Hyperion podría transformar el sector de la animación:
+* Oración simplificada: Por su parte, Hyperion podría transformar el sector de la animación.
+
+* Oración original: Antes de que llegara la tormenta, Reyna intentó asegurar las tejas de su casa con cables.
+* Oración simplificada: Antes de la tormenta, intentó amarrar las tejas de su casa con cables.Perdieron muchas cosas, pero se sentían felices de seguir vivos.
+
+* Oración original: Luego los dueños no pueden manejar a los animales.
+* Oración simplificada: Luego los dueños no pueden cuidarlos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

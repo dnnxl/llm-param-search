@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Asimismo, ha publicado en julio de 2005, el documento Recomendaciones sobre Principios y Buenas Prácticas de Educación Financiera y la Toma de Conciencia en esa Materia, que fue adoptado por su Consejo.
+* Oración simplificada: Asimismo, ha publicado el documento titulado Recomendaciones sobre Principios y Buenas Prácticas de Educación Financiera y la Toma de Conciencia en esa Materia. Este documento fue publicado en julio de dos mil cinco y fue acogido por el Consejo de esta organización.
+
+* Oración original: Como es obvio, el resultado de esta fase es el conjunto de productos (bienes y servicios) que requiere la sociedad para satisfacción de las necesidades, surgiendo así el sector primario de la economía, al que en el próximo capítulo nos referiremos.
+* Oración simplificada: El resultado de esta fase es el conjunto de productos, bienes y servicios, que requiere la sociedad para satisfacción de las necesidades y así surge el sector primario de la economía. En el próximo capítulo se explicará esto.
+
+* Oración original: Si cancelas una deuda, no dejes de apartar ese dinero: destínalo a pagar otra deuda.
+* Oración simplificada: Si pagas una deuda, usa ese dinero para pagar otra deuda.
+
+* Oración original: Recordemos que el nivel de vida depende en parte de la cantidad de cosas de que dispongan las personas para satisfacer sus necesidades.
+* Oración simplificada: Recordemos que el nivel de vida depende de aquello que tengan las personas para satisfacer sus necesidades.
+
+* Oración original: Posiblemente algunas cosas las compres todos los días y otras solo en ciertas ocasiones.
+* Oración simplificada: Posiblemente algunas solo las compre en ciertas ocasiones.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

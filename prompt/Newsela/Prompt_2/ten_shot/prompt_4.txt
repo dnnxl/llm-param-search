@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: La razón es que los juguetes destinados a un género se vendían mejor.
+* Oración simplificada: ## Los que no tienen distinción de género no se vendieronEso cambió después.La razón es que los juguetes destinados a un género se vendían mejor.
+
+* Oración original: Pero no todos los sauditas están de acuerdo con estos cambios.
+* Oración simplificada: No estaban de acuerdo con que hombres y mujeres trabajaran juntos.
+
+* Oración original: Wolfe, de 56 años, es un antiguo ingeniero de software y graduado superior de la escuela de negocios de Misuri, cuyo padre dio clase en la universidad.
+* Oración simplificada: Wolfe, de 56 años, es ingeniero de _software_ y graduado de la Facultad de Administración de Misuri.Su padre impartió clases en la universidad.
+
+* Oración original: Una represa construida en este furor hidráulico pagado por los Gobiernos debería, como cualquiera de las ya terminadas, resistir las fuertes sacudidas del suelo causadas por un terremoto extremo, apunta Martin Wieland, de la Comisión Internacional de Grandes Represas, grupo de ingenieros que hace recomendaciones relativas a los estándares estructurales.
+* Oración simplificada: ## Una zona muy propensa a los terremotosConsiderando la situación, Nepal necesita reforzar las represas de la región, que, según Martin Wieland, deberían poder resistir las fuertes sacudidas del suelo causadas por un terremoto extremo.Wieland trabaja para la Comisión Internacional de Grandes Represas, un grupo de ingenieros que hace recomendaciones para la construcción de estas estructuras.
+
+* Oración original: Este fue el primer distrito escolar en Missouri que realizó dicho cambio después de que la Asamblea General aprobara la ley el año anterior.
+* Oración simplificada: Este fue el primer distrito escolar en Missouri que realizó dicho cambio.
+
+* Oración original: En definitiva, los estados buscaban proteger el derecho a comprar y vender personas.
+* Oración simplificada: A fin de cuentas, lo que los estados querían proteger era el derecho a comprar y vender personas.
+
+* Oración original: Pero el punto principal de Swift —la idea de que los músicos, si está dentro de sus posibilidades, no deberían degradar su música regalándola— es acertado.
+* Oración simplificada: Pero el punto principal de Swift es válido.Si está dentro de sus posibilidades, los músicos no deberían degradar su música regalándola.
+
+* Oración original: Estas instrucciones permiten hacer muchas cosas.
+* Oración simplificada: Está en preescolar.Esto le permite hacer muchas cosas.
+
+* Oración original: Cada región ha experientado mejoras desde 1990.
+* Oración simplificada: Cada región ha experimentado mejoras desde 1990.
+
+* Oración original: Nadawi, con su pelo cortado a media melena y vistiendo un elegante abrigo de gamuza tipo campana, buscaba rostros jóvenes entre la muchedumbre que pasaba, en especial los de mujeres jóvenes, pero encontraba pocos.
+* Oración simplificada: Nadawi, con su pelo corto y vistiendo un elegante abrigo, busca rostros jóvenes entre la muchedumbre que pasa, en especial los de mujeres jóvenes, pero encuentra pocos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

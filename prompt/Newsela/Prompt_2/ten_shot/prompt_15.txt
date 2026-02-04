@@ -1,0 +1,46 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Nick Faircloth, de 23 años, descubrió el "parkour" cuando tenía 16.
+* Oración simplificada: Nick Faircloth tiene 23 años de edad.Él descubrió el "parkour" cuando tenía 16.
+
+* Oración original: Tres años de búsqueda y ni rastro de un león, fue la experiencia de Philipp Henschel, coordinador de investigaciones sobre leones en el grupo de conservación Panthera, con sede en Nueva York.
+* Oración simplificada: LAGOS, Nigeria — Los leones están desapareciendo de África, donde por mucho tiempo han sido símbolo de la belleza salvaje, el poder y la libertad del continente.La escasez de ejemplares preocupa a muchos investigadores, como Philipp Henschel, coordinador de investigaciones sobre leones en el grupo de conservación Panthera, con sede en Nueva York.
+
+* Oración original: También explican que pondrá en peligro el ecosistema tan frágil y poco común que florece en el lugar — una tundra alpina en sus alturas más elevadas y bosques habitados por más de una docena de especies en peligro de extinción en sus cuestas inferiores — a pesar de que un estudio sobre el posible impacto ambiental concluyó lo contrario.
+* Oración simplificada: También explican que pondrá en peligro el frágil ecosistema que florece en el lugar, aunque un estudio sobre su posible impacto ambiental concluyó lo contrario.
+
+* Oración original: De momento, declaró Noori, venden unos 450 dólares diarios de comida cada día, suficiente para tener un pequeño beneficio mensual pero lejos de recuperar todavía su inversión inicial.
+* Oración simplificada: De momento, aseguró Noori, venden unos 450 dólares diarios de comida cada día, suficiente para tener un pequeño beneficio mensual.
+
+* Oración original: José Antonio Barrientos, de los Misioneros Pasionistas, confirmó la existencia de la deuda y dijo que la orden teme además que nuevas normas oficiales hagan que algunas escuelas de la congregación no cumplan con esas pautas y requieran costosos arreglos.
+* Oración simplificada: José Antonio Barrientos pertenece a los Misioneros Pasionistas.Un misionero es una persona que viaja a distintos países a predicar los evangelios cristianos.Él confirmó la existencia de la deuda, y dijo que la orden teme además que algunas escuelas de la congregación no cumplan con las pautas de las nuevas normas oficiales, y requieran costosos arreglos, lo que aumentaría la deuda.
+
+* Oración original: Ella dijo que disfruta especialmente los viajes por carretera cuando todos los jugadores y sus familias salen a cenar juntos y se quedan en el mismo hotel.
+* Oración simplificada: ##Difíciles probabilidades, pero se sigue disfrutandoElla dijo que disfruta especialmente de los viajes por carretera en los juegos de visita, cuando todos los jugadores y los miembros familiares salen a cenar juntos y se quedan en el mismo hotel.
+
+* Oración original: Como esta respuesta inmunológica innata es tan útil, ha sido un punto fuerte de selección positiva durante el tiempo, declaró Quintana-Murci.
+* Oración simplificada: Como esta respuesta inmunológica innata es tan útil, ha sido un punto fuerte en la selección positiva, declaró Quintana-Murci.La selección positiva es cuando las características útiles, con el tiempo, aumentan en la población.
+
+* Oración original: Si lo hacían, se tomaba nota del tiempo transcurrido entre el primer bostezo y el siguiente.
+* Oración simplificada: Si lo hacían, se tomaba nota del tiempo que había pasado entre el primer bostezo y el siguiente.## Entre amigos ocurre más
+
+* Oración original: > 
+> Este ensayo está disponible para los suscriptores de McClatchy-Tribune News Service.> 
+> Este ensayo está disponible para los subscritores de McClatchy-Tribune News Service.
+* Oración simplificada: > 
+> Este ensayo está disponible para los suscriptores de McClatchy-Tribune News Service.
+
+* Oración original: Ahora, ella y otros alumnos están recibiendo más atención porque una nueva ley requiere que el estado de California identifique a los estudiantes de inglés a largo plazo.
+* Oración simplificada: Ahora, Dasha y otros alumnos están recibiendo más atención.Una nueva ley establece que el estado debe identificar y ayudar a los estudiantes que lo necesitan.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

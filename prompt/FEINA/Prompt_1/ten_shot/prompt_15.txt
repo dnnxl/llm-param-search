@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Si estaba esperando algo distinto, una fórmula simple, entonces cierre este libro y mire hacia otras latitudes.
+* Oración simplificada: Si esperaba algo distinto, una fórmula simple, entonces cierre este libro y mire hacia otro lado.
+
+* Oración original: Por esta razón, cada inversionista debe determinar cuánto riesgo está dispuesto a asumir con el fin de obtener una mayor rentabilidad por su inversión, y con base en esta evaluación, decidir en cuáles instrumentos invertir.
+* Oración simplificada: Por esta razón, cada inversionista debe determinar cuánto riesgo está dispuesto a asumir con el fin de obtener una mayor rentabilidad por su inversión, y con base en esta evaluación decidir en cuáles instrumentos invertir.
+
+* Oración original: Magnate: Persona muy ilustre y principal por su cargo y poder, especialmente económico.
+* Oración simplificada: Un magnate es persona distinguida por su cargo y poder, especialmente económico.
+
+* Oración original: Se indicó, además, que no es conveniente sólo pensar en opciones de educación formal regular ya que también puede pensarse en acciones de educación no formal y que es conveniente no sólo pensar en los y las jóvenes que están dentro de la escuela, sino que es necesario pensar en la otra mitad de jóvenes que está fuera de la escuela.
+* Oración simplificada: Se indicó que no es conveniente pensar solo en opciones de educación formal regular, también puede pensarse en acciones de educación no formal.  También, que es preciso pensar en los y las jóvenes que asisten a la escuela y los que no.
+
+* Oración original: Y al no analizar, acudes al manejo de efectivo de forma normal, o sea: puedes llevarlo ayudándote de una chequera con o sin intereses.
+* Oración simplificada: Y al no analizar acudes al manejo de efectivo de forma normal, o sea puedes llevarlo con ayuda de una chequera con o sin intereses.
+
+* Oración original: En este grupo se encuentran la seguridad social, las aseguradoras y otras instituciones de este tipo.
+* Oración simplificada: En este grupo están la seguridad social, las aseguradoras y otras instituciones.
+
+* Oración original: Un poco después, uno de ellos olvidó hacer el seguimiento de un pago de alimentos.
+* Oración simplificada: Poco después, uno de ellos olvidó supervisar un pago alimenticio.
+
+* Oración original: Puede ser algo que ya compraste, algo que estés planeando comprar o algo que realmente quieres comprar, pero crees que no tienes el dinero suficiente para hacerlo.
+* Oración simplificada: Puede ser algo que ya compraste o planeas comprar, pero sin tener el dinero suficiente para hacerlo.
+
+* Oración original: Esto es lo que puedes preguntar.
+* Oración simplificada: Puedes preguntar esto.
+
+* Oración original: Sin embargo, la desventaja de ella es que compromete parte del ingreso futuro de la persona, y si no se es consciente y organizado se puede adquirir más deuda de la que se puede pagar, corriendo el gran riesgo de descarrilar su plan financiero y su futuro.
+* Oración simplificada: Sin embargo, la desventaja de esta es que compromete parte del ingreso futuro de la persona. Por esto, se puede adquirir más deuda de la pagable si no se es consciente y organizado. Así, se arriesga a perjudicar su plan financiero y su futuro.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

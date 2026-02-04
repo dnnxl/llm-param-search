@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Muy pocas personas tienen todos los recursos, o el ingreso necesario para obtener todos los bienes y servicios que se requieren o se desean.
+* Oración simplificada: Pocas personas tienen los recursos o los ingresos necesarios para obtener todos los bienes y servicios que ellas requieren o desean.
+
+* Oración original: Aunque el ingreso o renta real es el valor de los bienes y servicios producidos, con frecuencia se considera que los ingresos son medidos en dinero.
+* Oración simplificada: Aunque el ingreso real es el valor total de los bienes y los servicios producidos, con frecuencia, se considera que los ingresos son medidos en dinero.
+
+* Oración original: El impuesto debe aplicarse equitativamente a los contribuyentes.
+* Oración simplificada: El impuesto debe aplicarse equitativamente a los contribuyentes.
+
+* Oración original: Todos en la vida, desde pequeños, somos permanentemente compradores.
+* Oración simplificada: Somos compradores permanentes desde pequeños.
+
+* Oración original: Transparencia: Lo que supone que la información se puede obtener a un costo reducido y que todos los intervinientes en el mercado tienen las mismas posibilidades.
+* Oración simplificada: La transparencia supone que la información se puede obtener a un bajo costo. Y que los participantes del mercado tienen las mismas posibilidades.
+
+* Oración original: La primera es que su hijo será quien en última instancia tendrá que pagar los servicios de salud de esos millones de ancianos que no pueden pagar por sí mismos.
+* Oración simplificada: La primera, su hijo deberá pagar los servicios de salud de esos millones de ancianos que no pueden pagar por sí mismos.
+
+* Oración original: Este tema se analizará en profundidad en las páginas siguientes.
+* Oración simplificada: Este tema se analizará en las siguientes páginas.
+
+* Oración original: Financiar los gastos del gobierno: A través de las décadas, el propósito primordial de la tributación ha sido el de producir suficientes ingresos para financiar el costo de los servicios que se esperan de las distintas ramas del gobierno.
+* Oración simplificada: Financiar los gastos del gobierno: el propósito primordial de la tributación es producir suficientes ingresos para financiar el costo de los servicios de las distintas ramas del gobierno.
+
+* Oración original: Si su tarjeta de crédito tiene una tasa de interés baja porque usted tiene un excelente historial crediticio, un pago con retraso podría eliminar su tasa de interés baja y reemplazarla por una mucho más alta.
+* Oración simplificada: Si su tarjeta de crédito tiene una tasa de interés bajo por su excelente historial crediticio, un pago con atraso la reemplazará por una más alta.
+
+* Oración original: Las industrias transformativas y el comercio no constituían riqueza para estos últimos, llamados fisiócratas.
+* Oración simplificada: Para los llamados fisiócratas, las industrias con capacidad de transformación y el comercio no establecían una forma de riqueza.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

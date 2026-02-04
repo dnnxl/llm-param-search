@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Naturalmente, su presupuesto no tiene que verse idéntico a esta propuesta, pero al menos le da un marco de referencia de qué tan lejos está de un presupuesto ideal.
+* Oración simplificada: Su presupuesto no tiene que verse idéntico a esta propuesta. Esta solo es un marco de referencia para construir su presupuesto ideal.
+
+* Oración original: Después del dinero plástico llega el electrónico que tiene su justificación en el auge que ha tenido la electrónica en la vida actual; la automatización del sistema financiero, el desarrollo de las telecomunicaciones y la nueva cultura de ahorro, inversión y gasto de la sociedad, son factores que en conjunto hacen inminente la desaparición del dinero en efectivo y de otras formas tradicionales de pago.
+* Oración simplificada: Después del dinero plástico llegó el electrónico. Algunos factores que contribuyen a la desaparición del dinero en efectivo son la automatización del sistema financiero y el desarrollo de las telecomunicaciones.
+
+* Oración original: Impuestos y contribuciones: Los impuestos pueden ser directos e indirectos. Los primeros gravan las rentas y el capital de las personas, los segundos gravan los gastos de consumo. Las contribuciones gravan a los bienes raíces y son proporcionales al avalúo o tasación que hace el Estado de esos bienes. - Empresas estatales que proporcionan utilidades directamente por las ventas de bienes y servicios. - Préstamos, que pueden ser tanto internos como externos, lo que a su vez origina la deuda pública.
+* Oración simplificada: Los impuestos y las contribuciones. Los impuestos son directos o indirectos. Los directos gravan las rentas y el dinero de las personas. Los indirectos gravan los gastos de consumo. Las contribuciones gravan las propiedades en proporción con su valor. Empresas estatales proveedoras de ganancias directas por los bienes y servicios. Préstamos internos o externos que provocan la deuda pública.
+
+* Oración original: Asimismo, debe conocer las obligaciones adicionales al crédito que obligan a mantener en perfecto estado de mantenimiento y conservación la garantía, nos referimos a los seguros y a las responsabilidades propias en que nos hacen incurrir los bienes, tales como derechos de circulación (vehículos) o impuestos territoriales y municipales (vivienda o lote).
+* Oración simplificada: Asimismo, debe conocer las obligaciones adicionales al crédito para mantener y conservar la garantía. Nos referimos a los seguros y a las responsabilidades propias en que nos hacen incurrir los bienes. Por ejemplo, derechos de circulación o impuestos territoriales y municipales.
+
+* Oración original: Para el conjunto de la economía, porque contribuyen de forma decisiva a la asignación eficiente de los recursos.
+* Oración simplificada: Para el conjunto de la economía porque ayudan en el pago de los recursos.
+
+* Oración original: Cheque positivo: es un sistema que se encuentra ligado a la cuenta corriente, permite garantizar mayor seguridad y control en el momento de realizar las transacciones con cheques, registrándose antes de ser utilizados todos aquellos cheques girados y que superen el monto mínimo previamente establecido, de manera que únicamente se harán efectivos aquellos cheques que son autorizados por el cliente, evitando fraudes o estafas.
+* Oración simplificada: Cheque positivo: es un sistema ligado a la cuenta corriente más seguro para hacer transacciones con cheques. Los cheques se registran antes de su uso. Por eso, se pagarán solo los cheques autorizados por el cliente para evitar fraudes.
+
+* Oración original: Las atribuciones del Banco, para estos efectos, serán la regulación de la cantidad de dinero y de crédito en circulación, la ejecución de operaciones de crédito y cambios internacionales, como, asimismo, la dictación de normas en materia monetaria, crediticia, financiera y de cambios internacionales».
+* Oración simplificada: Las atribuciones del Banco serán la regulación de la cantidad de dinero y de crédito en circulación, la ejecución de operaciones de crédito y cambios internacionales como la dictación de normas en materia monetaria, crediticia, financiera y de cambios internacionales.
+
+* Oración original: Este sector está constituido, en primer lugar por la agricultura, cuyos agricultores al usar la tierra producen los elementos necesarios para la alimentación de todos los habitantes del país.
+* Oración simplificada: La agricultura forma parte de este sector. Los agricultores producen los elementos necesarios para la alimentación de todos los habitantes del país.
+
+* Oración original: Por lo tanto, se justifican económicamente los sueldos y comisiones que reciben.
+* Oración simplificada: Por lo tanto, los sueldos y comisiones recibidos se justifican económicamente.
+
+* Oración original: ¿Hasta cuándo tendremos aire libre que todos podamos respirar libremente porque lo tenemos allí en el ambiente y lo único que tenemos que hacer es respirarlo?
+* Oración simplificada: ¿Hasta cuándo se podrá respirar libremente el aire que está en el ambiente?
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

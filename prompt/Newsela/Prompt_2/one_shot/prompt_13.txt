@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Un pequeño molino muele maíz para preparar tortillas recién hechas, hay ovejas pastando, cerdos y pollos que comen los sobrantes de la cocina y lo que no comen los seminaristas es donado a hospitales de la zona.
+* Oración simplificada: En un pequeño molino, muele maíz para preparar tortillas recién hechas, hay ovejas pastando, y cerdos y pollos que se comen las sobras de la cocina, y lo que no comen los seminaristas se les dona a los hospitales de la zona.## Lecciones para aprender a cocinar mariscos y carnes
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

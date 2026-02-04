@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La frecuencia y el periodo de pago: La frecuencia se refiere a cada cuánto se debe pagar el seguro.
+* Oración simplificada: Cuarto, la frecuencia y el periodo de pago. La frecuencia es cada cuanto se paga el seguro.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: También, por dinero, las personas pueden tener problemas: preocupaciones financieras, sufrimiento, peleas con los seres queridos
+* Oración simplificada: También, las personas pueden tener problemas por dinero como preocupaciones financieras, sufrimiento o peleas con los seres queridos...
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

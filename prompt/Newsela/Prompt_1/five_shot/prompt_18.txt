@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Abzug sospecha que el personal sanitario tampoco está colocando las férulas correctamente a los adultos.
+* Oración simplificada: Abzug sospecha que tampoco están poniendo bien las férulas.
+
+* Oración original: Haydée Reyes, por ejemplo, forma parte de los jóvenes que se han ido superando.
+* Oración simplificada: Haydée Reyes es una de esos jóvenes que se han superado.
+
+* Oración original: Al Spartak solamente le multaron con 1.300 dólares aproximadamente.
+* Oración simplificada: A pesar de todo, al Spartak solamente le multaron con 1.300 dólares aproximadamente.
+
+* Oración original: Lo que es más, los artistas reconocidos internacionalmente intentan donar las obras de las que están orgullosos.
+* Oración simplificada: Es más, los artistas tratan de entregar trabajo del que se sienten orgullosos.
+
+* Oración original: Dicen que al quedar tan poca mano de obra, las personas se vieron obligadas a inventar algunas máquinas para poder hacer ciertos trabajos.
+* Oración simplificada: Los que quedaron vivos tuvieron que inventar algunas máquinas para poder hacer ciertos trabajos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: No ha podido atraer más dinero para ayudar las situaciones difíciles del estado, y ha discutido con las personas de su gobierno.
+* Oración simplificada: No ha podido traer dinero para ayudar las situaciones difíciles del estado.También ha discutido con las personas de su gobierno.
+
+* Oración original: MARYSVILLE (Washington) — Mientras mueve el dedo por el panel táctil de su portátil, Lauren Meek, de seis años, arrastra y suelta un bloque de código para crear un conjunto de instrucciones.
+* Oración simplificada: MARYSVILLE (Washington) — Lauren Meek desliza el dedo por el panel táctil de su computadora portátil.Arrastra y suelta un bloque de código para crear un conjunto de instrucciones.
+
+* Oración original: "Sinceramente, no sé si existe la respuesta perfecta", dijo Rambler respecto a los problemas de disciplina en los barrios de Akron, que están por encima de la media y donde la policía afirma que los delitos están fuera de control.
+* Oración simplificada: "Sinceramente, no sé si existe la respuesta perfecta", dijo Rambler acerca de los problemas de disciplina en los barrios de Akron, los cuales están por encima del promedio y donde la policía afirma que hay más delitos.
+
+* Oración original: Hay unas 5 millones de especies animales en el planeta.
+* Oración simplificada: Cinco millones de especies animales quedan en el planeta.
+
+* Oración original: Ferguson ha realizado decenas de estudios sobre este tema y siempre ha llegado a la conclusión de que los videojuegos violentos no contribuyen a las agresiones en sociedad.
+* Oración simplificada: ## Los videojuegos han llegado para quedarseFerguson ha descubierto repetidamente que los videojuegos violentos no contribuyen a las agresiones en niños.
+
+* Oración original: En tan solo un año, la participación ha aumentado de 35 escuelas en 2014 a más de 700.
+* Oración simplificada: El año pasado, 35 escuelas participaron.Este año, el número aumentó a más de 700.
+
+* Oración original: Esta primavera vivió en España durante tres meses mientras ayudaba a organizar una conferencia internacional de judíos sefarditas y la estadía no hizo sino reafirmar dicha conexión.
+* Oración simplificada: Esta primavera vivió en España durante tres meses y reafirmó dicha conexión.
+
+* Oración original: "La otra noche se me presentó un problema con mi hijo, que está en quinto grado, porque estuvo trabajando hasta tarde y estaba desesperado, al borde de un colapso".
+* Oración simplificada: "La otra noche se me presentó un problema con mi hijo.Él está en quinto grado,y estuvo trabajando hasta tarde y estaba desesperado.
+
+* Oración original: ## Muchos machos, pero pocas hembras en el área
+* Oración simplificada: ## Muchos machos, pero pocas hembras
+
+* Oración original: Es imperturbable, al menos hasta que habla de su rechazo a que le llamen de una cierta manera: "Una palabra que no me sienta nada bien es «genio»", dijo.
+* Oración simplificada: Permanece tranquilo, al menos hasta que habla de cómo no le gusta que le llamen de cierta manera: "Una palabra que no me sienta nada bien es genio", dice.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

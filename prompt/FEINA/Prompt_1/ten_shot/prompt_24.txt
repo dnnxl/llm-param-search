@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La ética de la política fiscal de una sociedad debe desarrollarse, entonces, a partir de dos principios morales: en primer lugar, el primer deber de todo gobierno es desarrollar un sistema fiscal justo y recto: justo en la manera en que se recaudan y administran los impuestos, y recto en la manera en que los ingresos fiscales son administrados y gastados.
+* Oración simplificada: La ética de la política fiscal de una sociedad debe desarrollarse a partir de dos principios morales: en primer lugar, desarrollar un sistema fiscal justo en la manera en que se recaudan y administran los impuestos, y recto en la manera en que los ingresos fiscales son administrados y gastados.
+
+* Oración original: El segundo está constituido por el manejo equilibrado que hacen de los factores de producción para llevar a cabo la misma en las mejores condiciones económicas, sociales, ambientales, etc.
+* Oración simplificada: El segundo papel principal es el manejo equilibrado de los factores de producción, es decir, llevar a cabo la producción en las mejores condiciones económicas, sociales, ambientales, etcétera.
+
+* Oración original: Existe otra estructura para presentación del E.S.F. que corresponde a un estilo vertical, donde, se inicia con el detalle de las cuentas de activo, luego las de pasivo y finalmente las de patrimonio.
+* Oración simplificada: El estilo vertical es otra estructura para presentar el estado de situación financiera.
+
+* Oración original: Estos informes son importantes porque permiten: i) proporcionar información para evaluar la eficiencia del capital de trabajo; ii) analizar el uso eficiente de los recursos y la gestión administrativa; iii) conocer la capacidad de generar utilidades por parte de la organización; y, iv) tomar decisiones sobre inversión, endeudamiento o ventas (Izaguirre, 2018).
+* Oración simplificada: Estos informes son importantes porque permiten: Aportar información para evaluar la eficiencia del capital de trabajo. Analizar el uso eficiente de los recursos y la administración. Conocer la capacidad de la empresa para generar ganancias. Y decidir sobre inversión, deudas o ventas.
+
+* Oración original: Leí recientemente acerca de un hombre que dijo algo humorísticamente: No parece extraño que el éxito siempre esté enmascarado en un, manto de trabajo arduo."
+* Oración simplificada: Hace poco leí un comentario humorístico: No parece extraño que el éxito siempre esté enmascarado en un manto de trabajo arduo."
+
+* Oración original: Como ya lo dijimos, los seguros son otro elemento digno de conocer en el ámbito de la educación financiera ciudadana.
+* Oración simplificada: Según lo dicho, los seguros son otro elemento digno de conocer respecto la educación financiera ciudadana.
+
+* Oración original: Ya que otorgar crédito se basa en la confianza, y específicamente en la creencia del prestamista de que la persona pagará el dinero prestado, los prestamistas asumen cierto riesgo cuando le ofrecen una tarjeta de crédito, un préstamo o una hipoteca.
+* Oración simplificada: Pues otorgar crédito se basa en la confianza. Específicamente, se fundamenta en la creencia del prestamista de que la persona pagará el préstamo. Por esto, los prestamistas asumen cierto riesgo al ofrecerle una tarjeta de crédito, un préstamo o una hipoteca.
+
+* Oración original: La empresa está sujeta a una tasa fiscal del 22%.
+* Oración simplificada: La empresa está sujeta a una tasa fiscal del veintidós por ciento.
+
+* Oración original: Corresponden a aquellos gastos que crecen con la facturación del negocio, pero que no corresponden a costos directos de producción.
+* Oración simplificada: Son aquellos gastos aumentados con la facturación del negocio. Pero no son costos directos de producción.
+
+* Oración original: Por tanto, m sería 12.
+* Oración simplificada: Por eso, las veces que el período de capitalización entra en el período de la tasa sería doce.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

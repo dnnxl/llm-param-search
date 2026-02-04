@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Desde el aparato productivo, las empresas, salen hacia los consumidores con bienes y servicios para satisfacer las necesidades de las familias de las comunidades.
+* Oración simplificada: Las empresas salen desde la producción hacia los consumidores con bienes y servicios para satisfacer sus necesidades.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

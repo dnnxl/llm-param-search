@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: El baloncesto también es visto como algo más aceptable por la sociedad que otros deportes para niñas.
+* Oración simplificada: La sociedad también ve al baloncesto como algo más aceptable que otros deportes para niñas.
+
+* Oración original: Primero se le resistió al poderoso imperio inca y luego a los conquistadores españoles.
+* Oración simplificada: Primero lucharon contra el poderoso imperio inca.Luego lucharon contra los conquistadores españoles hace 500 años.
+
+* Oración original: No podía creer que ninguno de los 900 alumnos hubiese pedido matemáticas o inglés.
+* Oración simplificada: No podía creer que nadie quisiera aprender matemáticas o inglés.
+
+* Oración original: Quería que se reconociera oficialmente que, durante la época de la guerra, muchos prisioneros coreanos habían sido obligados a trabajar en la isla.
+* Oración simplificada: Finalmente, Japón reconoció que muchos coreanos habían sido obligados a trabajar en aquellos lugares.
+
+* Oración original: NUEVA YORK (AP) — En el Departamento de Sanidad de la Ciudad de Nueva York (New York City Department of Sanitation) hay una mujer que estudia los materiales que se tiran en la ciudad más grande de Estados Unidos.
+* Oración simplificada: NUEVA YORK (AP) — En la Ciudad de Nueva York hay una mujer que estudia las cosas que bota la gente.
+
+* Oración original: La mayoría de las lesiones ocurrió en tirolesas comerciales, campamentos y otros sitios no residenciales.
+* Oración simplificada: La mayoría de las lesiones reportadas ocurrieron en tirolesas comerciales, en campamentos y en otras zonas no residenciales.
+
+* Oración original: Muy simple, cocinamos el territorio de Chile.
+* Oración simplificada: Es muy sencillo: cocinamos para el territorio de Chile.
+
+* Oración original: Los afroestadounidenses le dicen que tengan cuidado con la policía, y les advierten que pueden tener problemas aun cuando no hayan hecho nada malo.
+* Oración simplificada: ## La conversación es diferente para los latinos y para los afroestadounidensesLos afroestadounidenses le dicen que tengan cuidado con la policía.Les advierten que pueden tener problemas aun cuando no hayan hecho nada malo.
+
+* Oración original: El mes pasado, regresó a su casa en Connecticut para visitar a su madre.
+* Oración simplificada: El mes pasado, regresó a su casa en Connecticut para visitar a su madre y para recibir una nueva prótesis.
+
+* Oración original: Algunos fueron enviados de vuelta a sus casas.
+* Oración simplificada: Algunos fueron devueltos a sus hogares.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

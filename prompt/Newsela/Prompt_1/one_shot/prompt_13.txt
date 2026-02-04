@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La tercera vez que se metió en una pelea sucedió algo diferente: un orientador de la escuela secundaria Augustus Hawkins en Los Ángeles llevó a Banks y al otro adolescente implicado aparte.
+* Oración simplificada: La tercera vez que se metió en una pelea sucedió algo diferente.Esta vez el orientador se llevó a Banks y al otro estudiante aparte.El orientador se llama Joseph Luciani.Trabaja en la escuela secundaria Augustus Hawkins en Los Ángeles.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

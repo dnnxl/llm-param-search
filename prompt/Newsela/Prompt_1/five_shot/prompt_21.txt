@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La acción afirmativa supone un paso muy importante: aumenta las posibilidades de que se acepte a los estudiantes de color en las escuelas que correspondan con su verdadero nivel de capacidad, a pesar de las puntuaciones de los exámenes que se desploman con frecuencia debido a los complicados entornos psicológicos.
+* Oración simplificada: ## La acción afirmativa sirve para compensarLa acción afirmativa supone un paso muy importante: aumenta las posibilidades de que se acepte a los estudiantes de color en las escuelas que correspondan con su nivel de capacidad real, a pesar de que las puntuaciones de los exámenes con frecuencia son bajas por los complicados entornos psicológicos.
+
+* Oración original: "Me disculpé con los padres por cualquier nerviosismo causado", dijo.
+* Oración simplificada: Sugirió incluir representantes de varios grupos en el consejo de estudiantes."Me disculpé con los padres por toda la ansiedad que se les causó", dijo.
+
+* Oración original: Descubrió su amor a la comida cuando cocinaba para sus amigos.
+* Oración simplificada: Le encantaba cocinar para sus amigos.**Nueva escuela de cocina**
+
+* Oración original: Cuando Edgar fue a buscar agua de todos modos, sufrió una salvaje golpiza y acabó con la nariz quebrada.
+* Oración simplificada: Edgar no obedeció y fue a buscar agua de todos modos, sufrió una salvaje golpiza.Acabó con la nariz rota.
+
+* Oración original: Pero saca su hogar adelante como una auténtica madre valiente: las decenas de trofeos y medallas de fútbol de Luisa se han colocado como si se tratase de un brillante ejército en el espacio dedicado al ocio.
+* Oración simplificada: ## Trofeos y medallas en filaLos trofeos y medallas de fútbol de Luisa se han colocado en fila como un ejército.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

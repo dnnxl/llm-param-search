@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Su propaganda para Under Armor, la cual logra capturar el esfuerzo que ella ha hecho por traspasar las barreras del ballet clásico, ha tenido más de 8 millones de visitas en YouTube.
+* Oración simplificada: El anuncio, que captura el esfuerzo de Copeland por traspasar las barreras del ballet clásico, ha tenido más de 8 millones de visitas en YouTube.
+
+* Oración original: Un grupo de voluntarios entrenados por Bohn ubicó una madriguera cerca del Granada Golf Course, en Coral Gables.
+* Oración simplificada: Su grupo de voluntarios encontró una madriguera cerca del Granada Golf Course, en Coral Gables.
+
+* Oración original: Ambos grupos de investigación afirmaron que todavía queda mucho por hacer para determinar con exactitud cómo este ADN neandertal ayudó a sobrevivir a los seres humanos.
+* Oración simplificada: ## Sobrevivir y progresar gracias a los neandertalesLos científicos aseguraron que todavía queda mucho por hacer para determinar con exactitud cómo este ADN neandertal ayudó a sobrevivir a los humanos.
+
+* Oración original: Aunque no se cree que el virus se contagia por el aire, las infecciones en los hospitales han ocurrido en pacientes que compartían el mismo cuarto o sala de espera, incluso si se encontraban hasta a dos metros de distancia.
+* Oración simplificada: No se cree que la enfermedad se pega por el aire.Pero pasó que en los hospitales personas que compartían el mismo cuarto o sala de espera se les pegó, hasta si se encontraban a dos metros de distancia.
+
+* Oración original: Con gentileza, su madre le preguntaba si podía ver tal o cual color y por lo general respondía que sí, aunque no siempre.
+* Oración simplificada: Su madre le preguntaba si podía ver tal o cual color, a lo que usualmente respondía que sí, pero no siempre.
+
+* Oración original: "Uno se pone a pensar que el comité no tiene miembros con el suficiente nivel o trayectoria" para valorar positivamente o negativamente las obras.
+* Oración simplificada: Continuó diciendo: "El comité no tiene miembros con el suficiente nivel o trayectoria" para juzgar lo que es bueno y lo que es malo.
+
+* Oración original: Más allá, en la calle, las pequeñas butacas de madera del Café Shabandar se encuentran atiborradas de clientes, ancianos y jóvenes, hombres y mujeres.
+* Oración simplificada: Más allá, en la calle, las pequeñas butacas de madera del Café Shabandar se encuentran repletas de clientes.
+
+* Oración original: Un llamado "contrato con la ciudad sede" fue la razón por la que Boston abandonó la competencia.
+* Oración simplificada: Boston se retiró de la competencia.Por eso Boston abandonó la competencia.
+
+* Oración original: En consecuencia, el comercio inicial entre los países tendría que ser hecho de manera menos formal, a través de un medio llamado comercio en la maleta.
+* Oración simplificada: ## Haciendo comercio con una maletaAl principio, los países podrían necesitar intercambiar mercancías utilizando un sistema llamado comercio en la maleta.
+
+* Oración original: "A mi modo de ver, esto viene a ser una especie de testimonio de cómo un animal, al cual hemos venido estudiando desde hace siglos, es capaz de hacer cosas asombrosas de las cuales no nos habíamos percatado antes, sino hasta ahora que nos hemos detenido a observar más de cerca", dijo el autor del estudio, Kenneth Catania, especialista en neurobiología en la Vanderbilt University de Tennessee.
+* Oración simplificada: "A mi modo de ver, esto es una especie de testimonio de cómo un animal que hemos estudiado durante siglos es capaz de hacer cosas asombrosas de las cuales no nos habíamos percatado antes", dijo el autor del estudio, Kenneth Catania.Catania es un científico especialista en neurobiología en Vanderbilt University, en el estado de Tennessee.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: SEATTLE — Anand Mariappan trabaja en Microsoft, donde pasa los días creando herramientas para análisis de datos diseñados principalmente para personas como él.
+* Oración simplificada: SEATTLE — Anand Mariappan es especialista en programas informáticos y trabaja para Microsoft.
+
+* Oración original: Juntas, las cinco extinciones masivas mataron al 75 por ciento de la vida del planeta.
+* Oración simplificada: Juntas, las cinco extinciones masivas mataron a tres cuartas partes de la vida del planeta.
+
+* Oración original: Dice que aunque tuvo suerte de sobrevivir, no alberga "resentimientos" hacia sus captores.
+* Oración simplificada: ## Veterano de 96 años no alberga resentimientosEl hombre, que tuvo la suerte de sobrevivir, dice que no alberga "resentimientos" hacia sus captores.
+
+* Oración original: Primero se le resistió al poderoso imperio inca y luego a los conquistadores españoles.
+* Oración simplificada: Primero lucharon contra el poderoso imperio inca.Luego lucharon contra los conquistadores españoles hace 500 años.
+
+* Oración original: Las armas de juguete llegan sobre todo de China y la vecina Pakistán, y en el reciente Eid se entregaron muchos a chicos jóvenes.
+* Oración simplificada: Las armas de juguete —muchas de ellas copias de las armas de soldados estadounidenses— llegan sobre todo de China y la vecina Pakistán, y en el reciente Eid o festival, se entregaron muchos a chicos jóvenes.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

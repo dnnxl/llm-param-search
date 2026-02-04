@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Atacaron el periódico por publicar caricaturas de Mahoma, el fundador de la religión islámica.
+* Oración simplificada: Atacaron el periódico por publicar dibujos de Mahoma, el fundador de su religión.
+
+* Oración original: Landa respondió, y mediante Anderson, pudo ponerse en contacto con "Los Otros Dreamers".
+* Oración simplificada: Landa respondió y se puso en contacto con "Los Otros Dreamers".
+
+* Oración original: Los "Miércoles de caminata" la profesora de educación física, Elisabeth Spaulding, pone el disco Kidz Bop —con actuaciones infantiles de canciones populares— mientras los niños dan vueltas caminando dentro del gimnasio.
+* Oración simplificada: Los "Miércoles de caminata" la profesora de educación física, Elisabeth Spaulding pone música mientras los niños dan vueltas caminando dentro del gimnasio.
+
+* Oración original: Pero Chalmers dice que este año, hasta ahora, el distrito solo ha fumigado una vez en una media docena de parques, antes de las festividades del 4 de julio, y quizá cancele una fumigación aérea que estaba programada para el 20 de julio.
+* Oración simplificada: Pero hasta ahora, dijo Vásquez, este año el distrito solo ha fumigado una vez en una media docena de parques, antes de las festividades del 4 de julio.
+
+* Oración original: La anguila procedía entonces a bombardear el cuerpo de la presa con una serie de descargas que obligaban a los músculos del desafortunado animal a contraerse a tal punto que quedaban agotados, logrando paralizar efectivamente a su presa de forma temporal, lo que le permitía a la anguila liberarla para posicionarla.
+* Oración simplificada: ## La descarga tiene un efecto paralizadorLuego, la anguila bombardeaba el cuerpo de la presa con varias descargas, y los músculos del desafortunado animal se contraían hasta quedar agotados.La anguila lograba paralizar a su presa temporalmente de manera efectiva, lo que le permitía liberarla para colocarla y comérsela.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

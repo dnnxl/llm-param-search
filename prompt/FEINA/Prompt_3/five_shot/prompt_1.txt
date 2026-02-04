@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Fraccionamiento refiere a que pueda ser dividido en céntimos para hacer pagos exactos.
+* Oración simplificada: Fraccionamiento. Se puede dividir en céntimos para pagos exactos.
+
+* Oración original: Si bien es cierto que la ciencia y la tecnología han avanzado para poder controlar las inseguridades de los sistemas humanos, políticos y económicos, entre otros, así mismo, y esto es dialéctico y a la vez paradójico, dichos sistemas han traído también consigo su vulnerabilidad, la cual está sujeta a la impredecible inteligencia humana que en muchos casos utiliza ésta para la maldad y así es como, pese a que los bancos y otras empresas se preocupan por el bienestar y la comodidad de sus clientes, algunas personas están atentas para ver cómo sacan provecho de esto para cometer fraude.
+* Oración simplificada: Si bien es cierto que la ciencia y la tecnología han avanzado para poder controlar las inseguridades de los sistemas humanos, políticos y económicos, así mismo esto es dialéctico y a la vez paradójico. Dichos sistemas han traído también consigo su vulnerabilidad, y así es como pese a que los bancos y otras empresas se preocupan por el bienestar y la comodidad de sus clientes, algunas personas están atentas para ver cómo sacan provecho y cometer fraude.
+
+* Oración original: La valoración, en última instancia, consiste en evaluar los ingresos y egresos del negocio descontados a una tasa específica para constatar si es rentable o no realizar la inversión.
+* Oración simplificada: La valoración consiste en evaluar los ingresos y egresos del negocio descontados a una tasa específica para constatar si es rentable o no realizar la inversión.
+
+* Oración original: A veces podría ocurrir que el agua estuviese contaminada de gérmenes de la fiebre tifoidea o de otra enfermedad.
+* Oración simplificada: El agua podría estar contaminada de gérmenes de la fiebre tifoidea o de otra enfermedad.
+
+* Oración original: Había una mujer que dictaba un seminario sobre cómo cambiar su vida.
+* Oración simplificada: Había una mujer que daba un seminario sobre cómo cambiar su vida.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

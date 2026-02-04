@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Pues, el uso de mi chequera testimoniará que soy una persona cumplida y que soy ordenada en la administración de mis cuentas.
+* Oración simplificada: Pues, el uso de la chequera probará mi orden y responsabilidad en la administración de mis cuentas.
+
+* Oración original: Conjunto de flora y fauna de una región.
+* Oración simplificada: Es el conjunto de flora y fauna de una región.
+
+* Oración original: El sistema funciona bajo el mismo principio de la comunicación, es decir, cuenta con un emisor, un medio, un mensaje y un receptor.
+* Oración simplificada: El sistema funciona bajo el mismo principio de la comunicación, cuenta con un emisor, un medio, un mensaje y un receptor.
+
+* Oración original: Además, el ganado vacuno, ovino, caprino, porcino y otro produce la carne que es también base de la alimentación de todas las personas, además de otros derivados como lana para los textiles y vestidos, cueros que se utilizan para zapatos, maletines y otros productos de la marroquinería, entre otros.
+* Oración simplificada: Asimismo, la ganadería vacuna, ovina, caprina y porcina produce la carne que es base de la alimentación de las personas. También produce derivados como lana para los textiles y vestidos, cueros para productos de la marroquinería, entre otros.
+
+* Oración original: Usted puede alcanzar todas estas metas si lleva un presupuesto, ahorra e invierte y disminuye la cantidad de deudas en las que usted incurre.
+* Oración simplificada: Usted puede alcanzar estas metas si lleva un presupuesto, ahorra, invierte y disminuye la cantidad de deudas en las que cae.
+
+* Oración original: En el marco de una cultura de prosperidad o éxito la educación financiera contribuye a la formación en valores, entre otros, como la honestidad, la responsabilidad, el respeto, el cumplimiento; es decir, el desarrollo de comportamientos económicos adecuados como las diversas vías de ganar dinero y su adecuada utilización o administración.
+* Oración simplificada: En una cultura de prosperidad, la educación financiera contribuye a la formación de valores para el desarrollo de comportamientos económicos adecuados, como las diversas formas de ganar dinero y su administración.
+
+* Oración original: Además, deben recibir asesoría crediticia de forma obligatoria a través de un programa aprobado por el gobierno.
+* Oración simplificada: Además, deben recibir asesoría crediticia obligatoriamente en un programa aprobado por el gobierno.
+
+* Oración original: Sin entusiasmo, dijo alguien famoso, nunca se ha podido realizar nada grande.
+* Oración simplificada: Sin entusiasmo no se logró nada grande.
+
+* Oración original: ¿Cuál sería el porcentaje de interés que habría que aplicarse para duplicar un capital de $150,000 en seis años?
+* Oración simplificada: ¿Cuál sería el porcentaje de interés que habría que aplicar para duplicar un capital de ciento cincuenta mil dólares en seis años?
+
+* Oración original: Los medios de pago en Internet son muchos y tampoco hay ninguno que sea perfecto.
+* Oración simplificada: Los medios de pago en internet son muchos, pero ninguno es perfecto.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

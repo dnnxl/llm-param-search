@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Pides dinero prestado para cancelar otras deudas.
+* Oración simplificada: Pides dinero prestado para pagar otras deudas.
+
+* Oración original: El dinero plástico (tarjetas de débito o crédito), que consiste en que las personas puedan hacer sus pagos sin necesidad de tener especies monetarias, sustituye en un alto porcentaje el uso de las monedas, billetes y cheques.
+* Oración simplificada: Las tarjetas de débito o crédito sustituyen en un alto porcentaje el uso de las monedas, billetes y cheques.
+
+* Oración original: La forma institucional depende de la función, es decir, la innovación y la competencia entre instituciones a la larga dan como resultado una mayor eficiencia en el desempeño de las funciones del sistema financiero.
+* Oración simplificada: La forma institucional depende de la función. Es decir, la innovación y la competencia entre instituciones hacen más eficientes las funciones del sistema financiero.
+
+* Oración original: Tiene estrecha relación con los ingresos.
+* Oración simplificada: Se relaciona con los ingresos.
+
+* Oración original: Publicidades y presentaciones comerciales: muchas aplicaciones son gratis, pero muestran publicidades de productos y servicios.
+* Oración simplificada: Publicidades y presentaciones comerciales. Muchas aplicaciones son gratis, pero publicitan productos y servicios.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

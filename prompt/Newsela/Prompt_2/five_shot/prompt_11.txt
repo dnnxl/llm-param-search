@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Se trata de una referencia a los "Dreamers", el nombre que reciben los jóvenes que esperan poder permanecer en Estados Unidos, y corren peligro de que los expulsen porque están en el país ilegalmente.
+* Oración simplificada: Los "Dreamers" son los jóvenes inmigrantes en Estados Unidos, que luchan por permanecer en el país.Landa es una de los "otros" "Dreamers" — los que ya han sido deportados y luchan por tener la oportunidad de tener una vida mejor.
+
+* Oración original: Al analizarlos, Walker relacionó la escasez de monzones, o vientos estacionales, y sus consecuentes sequías con el cambio en las presiones atmosféricas en el este y el oeste del océano Pacífico.
+* Oración simplificada: Walker se dio cuenta de que estos vientos, que suelen traer lluvia en ciertas épocas del año, no siempre ocurrían con la misma frecuencia.Con el tiempo, descubrió que existía una relación entre los monzones y los cambios de la presión atmosférica en el este y el oeste del océano Pacífico.
+
+* Oración original: El _Aedes albopictus_, también conocido como mosquito tigre asiático, llegó a la zona por primera vez en los cargamentos de bambú procedentes de China, y se ha propagado por todo el estado durante los últimos cuatro años.
+* Oración simplificada: Se trata del _Aedes albopictus_, también conocido como mosquito tigre asiático.El insecto, que llegó en cargamentos de bambú procedentes de China, se ha extendido a todo el estado en los últimos cuatro años.
+
+* Oración original: Los efectos del huracán fueron menores en Puerto Vallarta.
+* Oración simplificada: El huracán no hizo tanto daño en Puerto Vallarta.
+
+* Oración original: "Me gusta", dijo Walters finalmente.
+* Oración simplificada: ## "Me gusta"
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

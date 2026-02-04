@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La quiebra del capítulo 13 permanece en tus antecedentes crediticios por al menos siete años.
+* Oración simplificada: Esta quiebra permanece en tu historial por siete años.
+
+* Oración original: En su acción económica, las personas de la sociedad, ya sean personas individuales o personas jurídicas (empresas), reciben el nombre de Agentes Económicos.
+* Oración simplificada: Los ciudadanos, personas individuales o jurídicos, son Agentes Económicos.
+
+* Oración original: Luego, la inversión no es otra cosa que el empleo productivo de los ahorros personales y familiares, aunque también se puede invertir con recursos ajenos (préstamos, créditos), siempre y cuando la rentabilidad de la inversión sea mayor al costo de utilizar recursos de terceros.
+* Oración simplificada: La inversión es emplear productivamente los ahorros personales y familiares. También se puede invertir con préstamos o créditos, mientras la rentabilidad sea mayor al costo de utilizar recursos de terceros.
+
+* Oración original: Veamos los dos principales tipos de quiebra disponibles para los consumidores individuales.
+* Oración simplificada: Hay dos tipos de quiebra para los consumidores individuales.
+
+* Oración original: Para ahorrar, es necesario gastar menos de lo que se gana, de allí la importancia del presupuesto antes mencionado.
+* Oración simplificada: Gastar menos de lo ganado es necesario para ahorrar, por eso, es importante el presupuesto.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

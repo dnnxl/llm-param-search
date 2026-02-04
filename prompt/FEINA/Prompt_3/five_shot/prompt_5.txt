@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Por productividad se debe entender, por una parte, el aumento de bienes y servicios que se producen en un país, cuando se utiliza la técnica y la tecnología para aumentarlos, o la organización administrativa.
+* Oración simplificada: Por productividad se entiende el aumento de bienes y servicios producidos en un país. Esto es resultado del uso de la técnica, la tecnología y la organización administrativa.
+
+* Oración original: El problema está en que se gastan todo lo que le entra, no hay nada para el futuro.
+* Oración simplificada: Gastar todos los ingresos es un problema, porque no queda dinero para el futuro.
+
+* Oración original: Virtual: Que tiene virtud para producir un efecto, aunque no lo produce de presente, frecuentemente en oposición a efectivo o real. Implícito, tácito. Que tiene existencia aparente y no real.
+* Oración simplificada: Virtual, es algo que tiene virtud para producir un efecto, frecuentemente, en oposición a lo efectivo o real. Lo virtual se refiere a algo implícito, que tiene existencia aparente y no real.
+
+* Oración original: Los planes 529 son planes de ahorros, que pueden crecer en un régimen de pago de impuestos diferido y, a la vez, como plan prepagado.
+* Oración simplificada: Los planes quinientos veintinueve son planes de ahorros que pueden crecer en un régimen de pago de impuestos diferido y a la vez como plan prepagado.
+
+* Oración original: El mismo organismo cuantifica el número de pobres que hay en el mundo, lo cual realmente no puede dejar de asombrar, especialmente cuando la riqueza se concentra en tan poquísimas manos.
+* Oración simplificada: La misma organización cuantifica el número de personas pobres que hay en el mundo. Estas cifras son alarmantes, sobre todo, cuando la riqueza está en manos de muy pocas personas.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

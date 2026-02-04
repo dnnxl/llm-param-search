@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Algunas universidades privadas pequeñas están haciendo un esfuerzo para recibir y mantener a los alumnos de primera generación, y no les va mal.
+* Oración simplificada: Sin embargo, algunas universidades privadas pequeñas están intentando cambiar eso.Hacen un esfuerzo para recibir y mantener a los alumnos de primera generación, y no les va mal.
+
+* Oración original: Según las fuentes informantes en Centroamérica, unas personas conocidas como los "coyotes" —delincuentes que se ganan la vida pasando personas de contrabando— han estado divulgando la idea de que se ha descuidado la seguridad en la frontera estadounidense para fomentar su negocio.
+* Oración simplificada: Según las fuentes informantes en Centroamérica, unas personas conocidas como los "coyotes" —delincuentes que se ganan la vida pasando personas de contrabando— le aseguran a la gente que la seguridad en la frontera estadounidense está muy descuidada.Eso ayuda a que su negocio crezca.
+
+* Oración original: Los funcionarios del parque todavía están tratando de determinar si las cámaras captaron al mismo zorro o a uno diferente.
+* Oración simplificada: Las cámaras comienzan a grabar solo cuando detectan movimiento.Los funcionarios del parque aún están tratando de determinar si las cámaras tomaron fotos del mismo zorro o de diferentes.
+
+* Oración original: Las autoridades promueven la capacitación del personal escolar para la resolución de conflictos, que ayudaría a los estudiantes a resolver sus problemas de forma pacífica.
+* Oración simplificada: ## El Gobierno quiere capacitar al personal escolarLas autoridades quieren que el personal escolar reciba capacitación para la resolución de conflictos y ayude a los estudiantes a resolver sus problemas de forma pacífica.
+
+* Oración original: "Estaba muy contento de verlas, pero muy triste porque no podría irme con ellas.
+* Oración simplificada: "Estaba tan contento de verlas, pero tan triste porque no podría irme con ellas.
+
+* Oración original: ANKARA, TURQUÍA —El Pastor Ahmet Guvener logró para su hija, que profesa la religión cristiana, una exención de las clases de religión obligatoria en su escuela turca.
+* Oración simplificada: ANKARA, TURQUÍA — Ahmet Guvener, un pastor cristiano en Turquía, consiguió una exención para su hija de las clases de religión islámica obligatoria requeridas en su escuela.Pero las alternativas ofrecidas por su escuela seguían siendo clases religiosas.
+
+* Oración original: Esta política equivocada no muestra lo que nuestra historia nacional es en verdad.
+* Oración simplificada: Pero así no es nuestra historia nacional.
+
+* Oración original: Hay unas fotos de sus paseos, zapatos de silla de montar y guantes blancos.
+* Oración simplificada: Había fotografías de sus paseos en grupo, zapatos a la antigua y guantes de gala.
+
+* Oración original: Los manifestantes también pidieron respeto por los estudiantes alauitas chiitas.
+* Oración simplificada: La gente manifestada también reclamó respeto por los estudiantes alauitas chiitas.
+
+* Oración original: "Cuando paso mucho tiempo jugando, a menudo no siento la necesidad de comer tanto, aunque consumo mucha energía", contó.
+* Oración simplificada: "Cuando paso mucho tiempo jugando, a menudo no siento la necesidad de comer tanto", contó, "puedo pasar de tres a cuatro horas sin comer".
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

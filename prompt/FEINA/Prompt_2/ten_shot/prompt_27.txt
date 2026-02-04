@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Este proceso es lo que se llama resolución de nombres, y de ello se encargan los servidores DNS (Domain Name Server).
+* Oración simplificada: Este proceso se llama resolución de nombres, y de ello se encargan los servidores Domain Name Server.
+
+* Oración original: A nivel más global también existen indicadores sobre el funcionamiento de la economía y estos son útiles tanto para las empresas como para las personas.
+* Oración simplificada: También hay indicadores sobre el funcionamiento de la economía. Estos son útiles para las empresas y las personas.
+
+* Oración original: Ahora bien, cuando se dice que el nivel de vida de una persona es alto o bajo -como en los casos que atrás se mencionaron- se refiere al grado de comodidades de que dispone para vivir, o sea, a la cantidad de cosas que posee, pero no sólo a esto, sino a la forma misma como las tiene.
+* Oración simplificada: Entonces, el nivel de vida de una persona es alto o bajo según el grado de comodidades que tiene para vivir y la condición en la que las tiene.
+
+* Oración original: Desde tiempos remotos, el hombre ideó sistemas para dar valor a las cosas y poder intercambiarlas, primero se utilizó el trueque (intercambio directo de una mercancía por otra), pero ésta no fue una solución muy efectiva, pues el comercio siguió en crecimiento y no dio abasto, por lo que se tomó la determinación de adoptar ciertos productos que fueran aceptados, de un modo general, como unidad de cambio y medida de valor, surgiendo así el concepto de dinero mercancía, el cual consistía en un bien que era aceptado como medio de pago, que a su vez tuviera una medida de valor y también se pudiera utilizar para consumo final, o sea, que tenía un valor de uso, como por ejemplo: el ganado.
+* Oración simplificada: El hombre ha creado sistemas para darle valor a las cosas y poder intercambiarlas. Por ejemplo, se usó primero el trueque y luego el dinero mercancía, que es un bien que se usa como medio de pago y como producto de consumo final, como el ganado.
+
+* Oración original: Muchas empresas, empleadores, empresas de servicios públicos y compañías hipotecarias, entre otras, pueden consultar tus antecedentes crediticios.
+* Oración simplificada: Muchas empresas, empleadores, empresas de servicios públicos y compañías hipotecarias consultan tu historial crediticio.
+
+* Oración original: Las preguntas pueden abarcar el instrumento de inversión (tener claro qué es lo que se va a recibir, en qué período, los riesgos y las condiciones), sobre el emisor (la entidad que emite el instrumento y que le va a devolver el dinero al final del período) y sobre el asesor financiero, si quiere optar por uno, el cual puede ser un puesto de bolsa.
+* Oración simplificada: Las preguntas pueden abarcar el instrumento de inversión, como tener claro qué es lo que se va a recibir, en qué período, los riesgos y las condiciones. Sobre el emisor, la entidad que emite el instrumento y que le va a devolver el dinero al final del período. Y sobre el asesor financiero el cual puede ser un puesto de bolsa.
+
+* Oración original: En un balance, es la diferencia entre el activo y el pasivo.
+* Oración simplificada: Es la diferencia entre el activo y el pasivo en un balance.
+
+* Oración original: Crea una lista de gastos previsibles y piensa cómo crees que gastas tu dinero en un mes normal.
+* Oración simplificada: Crea una lista de gastos probables y piensa cómo gastas tu dinero en un mes.
+
+* Oración original: El operativo consiste en un alquiler a largo plazo, en el que no necesariamente el arrendatario adquirirá el activo, su intención u objetivo es usar ese activo.
+* Oración simplificada: El operativo es un alquiler a largo plazo. En este, la intención del arrendatario es usar ese activo y no necesariamente adquirirlo.
+
+* Oración original: Como mencionamos antes, las condiciones ofrecidas deben quedar claramente establecidas en el documento legal que respalda la operación y cualquier consulta o duda debe ser aclarada con el Abogado o con el Ejecutivo antes de firmar.
+* Oración simplificada: Las condiciones ofrecidas deben quedar claramente establecidas en el documento legal que respalda la operación. Cualquier consulta debe ser aclarada con el Abogado o con el Ejecutivo antes de firmar.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

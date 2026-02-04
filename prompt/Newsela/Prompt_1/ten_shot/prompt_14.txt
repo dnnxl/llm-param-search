@@ -1,0 +1,40 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: (En la actualidad, la tarifa para la solicitud se ha estabilizado en un costo de 100 euros, un poco más en dólares estadounidenses).De acuerdo a la apreciación de Alhadeff, aun cuando en la actualidad solo viven alrededor de
+40.000 judíos en España, el gobierno se ha comprometido a enmendar los abusos
+cometidos en el pasado.
+* Oración simplificada: Aun cuando en la actualidad solo viven alrededor de
+40.000 judíos en España, el gobierno se ha comprometido a enmendar los abusos
+cometidos en el pasado.
+
+* Oración original: Durante el segundo año de la atracción se incorporó una nueva modalidad, la cual consiste en que las reservaciones ahora requieren de la compra de un paquete fotográfico con un costo que va desde $39.99, para grupos con un máximo de cinco personas, hasta $73.99, para grupos con un máximo de ocho.
+* Oración simplificada: En su segundo año de presentación, la atracción introdujo un cambio importante: ahora las reservas requieren la compra de un paquete fotográfico cuyo costo va desde $39.99, para grupos con un máximo de cinco personas, hasta $73.99, para grupos con un máximo de ocho.
+
+* Oración original: Su secreto se mantuvo hasta el año 2009.
+* Oración simplificada: Su secreto quedó descubierto en 2009.
+
+* Oración original: Y acaba de añadir otra sede en la sala de deliberación del jurado de la corte de justicia del condado de Bexar.
+* Oración simplificada: Acaba de añadir otra sede en la sala del juzgado del condado de Bexar.Los ciudadanos deben ir a la corte cada tantos años y sentarse entre el jurado.
+
+* Oración original: Las principales empresas de tecnología tienen una clasificación alta en el índice de igualdad de Human Rights Watch, que refleja cómo las compañías tratan a los empleados homosexuales.
+* Oración simplificada: Las principales empresas de tecnología, entre ellas Google y Apple, tratan muy bien a los empleados homosexuales.
+
+* Oración original: Con la velocidad del rayo levantó la mano: "Yo nunca he ido a Europa", dijo.
+* Oración simplificada: "Yo nunca he ido a Europa", dijo.
+
+* Oración original: Algunos esclavos escapaban de sus dueños y se escondían en las montañas.
+* Oración simplificada: Algunos se escapaban y se escondían en las montañas.
+
+* Oración original: Los nombres comunes para estas bacterias son E. coli y estafilococo.
+* Oración simplificada: Los estudiantes monitorearon luego la transferencia de dos bacterias comunes, llamadas E. coli y estafilococo.
+
+* Oración original: "Si el producto número 81 es el aguacate, nos habremos ganado la lotería puesto que Estados Unidos es uno de los mayores consumidores de aguacates", manifestó a los periodistas.
+* Oración simplificada: ## A ganar la lotería del aguacateDe acuerdo al ministro de Agricultura colombiano Aurelio Iragorri, su país ya exporta 80 clases de productos agrícolas a Estados Unidos."Si el producto número 81 es el aguacate, nos habremos ganado la lotería puesto que Estados Unidos es uno de los mayores consumidores de aguacates", indicó a los periodistas.## Competencia de exportación de aguacates
+
+* Oración original: "Aquí lo llevamos en la sangre.
+* Oración simplificada: "Lo llevamos en la sangre.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

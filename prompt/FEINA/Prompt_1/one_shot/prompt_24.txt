@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Antes de elaborar un presupuesto, como previamente lo señalamos, que implica necesariamente referirse al factor dinero, hay que trabajar en lo que algunos autores denominan Planeación de Vida.
+* Oración simplificada: Antes de elaborar un presupuesto que implica necesariamente referirse al factor dinero, hay que trabajar en lo que algunos autores denominan Planeación de Vida.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

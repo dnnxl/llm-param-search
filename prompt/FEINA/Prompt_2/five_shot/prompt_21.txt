@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Como, en general, las personas no han recibido educación financiera, en el manejo que hacen de sus ingresos no prevén recursos que les permita tener alguna reserva económica para enfrentar alguna de las múltiples contingencias o imprevistos de que antes se ha hablado aquí.
+* Oración simplificada: Generalmente, las personas no han recibido educación financiera en el manejo de sus ingresos. Por esto, no contemplan recursos para alguna reserva económica para enfrentar alguno de los imprevistos mencionados anteriormente.
+
+* Oración original: Y así como los países pueden salir de su postración a la pobreza, igualmente la persona y la familia pueden hacerlo, realizando un replanteamiento en sus vidas y en su actitud, porque lamentablemente, la pobreza no sólo se nutre de la carencia física, real de bienes y servicios, sino también, y quizás allí está también su origen, de la actitud de las personas, ya que lamentablemente muchas parecen ser educadas para ser y vivir pobres y al margen del atesoramiento del dinero, porque si bien la felicidad no es el dinero si es un medio que puede contribuir a ella.
+* Oración simplificada: Y así como los países pueden salir de la pobreza, igual la persona y la familia si realizan un replanteamiento en su vida y actitud.  La pobreza no sólo se nutre de la carencia física real de bienes y servicios sino también de la actitud de las personas, ya que lamentablemente muchas parecen ser educadas para vivir pobres y al margen del atesoramiento del dinero. Porque, aunque la felicidad no es el dinero, sí es un medio que puede contribuir a ella.
+
+* Oración original: «El sistema de administración financiera del Estado comprende el conjunto de procesos administrativos que permiten la obtención de recursos y su aplicación a la concreción de los logros de los objetivos del Estado []»
+* Oración simplificada: El sistema de administración financiera del Estado incluye los procesos administrativos para obtener recursos y aplicarlos al cumplimiento de los objetivos del Estado.
+
+* Oración original: Si se aumenta la producción de bienes y servicios, y los hay en abundancia para todos, entonces los precios no siguen subiendo, sino que se mantienen estables y el salario se puede distribuir en tal forma que alcance para lo esencial y aun permita dejar algunos colones que sirvan para otras necesidades como la recreación y ojalá también para el ahorro.
+* Oración simplificada: Si aumenta la producción de bienes y servicios, entonces los precios se mantienen estables. Además, el salario puede alcanzar para las necesidades básicas, la recreación y el ahorro.
+
+* Oración original: Amplitud: Nos indica el volumen de activos que se intercambian en él.
+* Oración simplificada: La amplitud nos indica el volumen de recursos intercambiados.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

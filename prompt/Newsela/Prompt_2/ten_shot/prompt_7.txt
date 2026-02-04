@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Primero se produce la inmunidad innata y, si tiene éxito, puede destruir a un patógeno en pocas horas, incluso antes de darnos cuenta de que estamos enfermos.
+* Oración simplificada: Primero se produce la inmunidad innata.Si esta tiene éxito, puede destruir a un patógeno en pocas horas, incluso antes que la persona se de cuenta que está enferma.
+
+* Oración original: Tal vez sea cierto que en cinco segundos se trasfieren menos bacterias a la comida que en 10, "pero esperar cero segundos es mucho mejor que esperar siquiera un segundo", dijo.
+* Oración simplificada: LeJeune dice que tal vez sea cierto que en cinco segundos se trasfieren menos bacterias a la comida que en 10."Pero esperar cero segundos es mucho más aconsejable que esperar siquiera un segundo", dijo.
+
+* Oración original: La gente joven pasa más tiempo en internet, viendo la televisión o en las redes sociales, explicó.
+* Oración simplificada: La gente joven pasa más tiempo viendo la televisión o con el ordenador, añadió.
+
+* Oración original: ¿Se puede decir acaso que una persona tiene un cerebro masculino o un cerebro femenino?
+* Oración simplificada: ¿Se puede decir que alguien tiene un cerebro masculino o un cerebro femenino?## Cada cerebro es único
+
+* Oración original: Luego los dueños no pueden manejar a los animales.
+* Oración simplificada: Luego los dueños no pueden cuidarlos.
+
+* Oración original: "Se puede ser un latino de quinta generación y, aun así, la retórica, el racismo y las cosas que hay que oír de algunos líderes políticos... te menosprecian", dijo Grijalva en una reunión electoral de hispanos del Congreso el pasado octubre.
+* Oración simplificada: "Se puede ser un latino de quinta generación y, aun así, hay que oír las expresiones, el racismo y las cosas que dicen algunos líderes políticos... te desprecian", dijo Grijalva el pasado octubre.
+
+* Oración original: Pero algo faltaba.
+* Oración simplificada: Algo faltaba.
+
+* Oración original: Así pueden explicarles el proceso y despejar dudas, dice ella.
+* Oración simplificada: ## El proceso no es óptimoAsí pueden explicarles el proceso y despejar dudas, dice ella.
+
+* Oración original: Pero cuenta que logró desarrollar un sentido de comunidad por otro lado.
+* Oración simplificada: No obstante, encontró un sentido de comunidad en otro lado.
+
+* Oración original: Trump dice que ese plan es una prueba de que él puede enviar a esas personas a sus países con éxito y amablemente.
+* Oración simplificada: Muchos eran de México.A Trump le gusta ese programa.Dice que ese plan es una prueba de que él puede enviar a estas personas a sus países amablemente.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

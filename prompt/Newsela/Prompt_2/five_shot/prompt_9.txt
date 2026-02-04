@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Hace poco, Mike Droney llevaba uno de los letreros creados por Todd.
+* Oración simplificada: Hace poco, Mike Droney llevaba uno de los letreros de Todd.Droney no está seguro de que el letrero realmente haya funcionado.
+
+* Oración original: La legislación de Missouri presentó un nuevo requisito en el que se exige que cualquier distrito que haya empeorado sustancialmente su desempeño deberá regresar al programa tradicional de cinco días.
+* Oración simplificada: La legislación de Missouri presentó un requisito en el que se exige que cualquier distrito que haya empeorado considerablemente su desempeño deberá regresar al horario tradicional de cinco días, pero ningún distrito ha tenido que hacer eso hasta ahora.
+
+* Oración original: En los noventa, un grupo de adolescentes franceses se apoderó de la filosofía del "parkour" adoptándola para fines civiles.
+* Oración simplificada: Los orígenes del "parkour" son inciertos.En los 90, un grupo de adolescentes franceses revivió el "parkour" y lo adaptó para la vida de la ciudad.
+
+* Oración original: Como parte de los esfuerzos del instituto, se incluye un programa de orientación que ha sido creado para que los jóvenes se relacionen y conozcan el campus antes de empezar.
+* Oración simplificada: Hace cinco años, la universidad lanzó un programa de orientación que ha sido creado para que las jóvenes se relacionen y conozcan el campus antes de empezar.
+
+* Oración original: Nancy Nygren es la directora ejecutiva de las _girl scouts_ del condado de Orange.
+* Oración simplificada: Nancy Nygren ama las ciencias.Ella es la directora ejecutiva de las _girl scouts_ del condado de Orange, en California del Sur.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

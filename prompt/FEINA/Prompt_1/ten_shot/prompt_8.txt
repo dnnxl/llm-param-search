@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La firma y/o: es la cuenta que está a nombre de dos personas (por ejemplo: esposa y esposo), en la cual pueden firmar de manera indistinta cualquier de las dos personas.
+* Oración simplificada: La firma y u o: es la cuenta a nombre de dos personas. Puede firmar cualquiera de las dos personas.
+
+* Oración original: Usted debe asegurarse, por lo tanto, de saber dónde están y a dónde deben ir todos los documentos y el propósito de cada uno de ellos.
+* Oración simplificada: Por lo tanto, usted debe saber dónde van los documentos y el propósito de cada uno.
+
+* Oración original: Japón con un 10,6 % y Brasil con 5,5 %.
+* Oración simplificada: Japón y Brasil.
+
+* Oración original: Con un certificado de depósito, la contrapartida es que tienes que dejar el dinero en la cuenta por un plazo determinado.
+* Oración simplificada: La neutralización con un certificado de depósito es dejar el dinero en la cuenta por un plazo determinado.
+
+* Oración original: El concepto de escasez es un concepto muy relevante en la economía, ya que ésta es una característica esencial de un bien económico y además porque éste es un elemento, que junto con la utilidad del artículo determinan su valor y precio.
+* Oración simplificada: El concepto de escasez es una característica esencial de un bien económico. Junto con la utilidad del artículo determinan su valor y precio.
+
+* Oración original: Inversión institucional: Función de las Instituciones financieras bancarias y no bancarias que administran fondos y están autorizadas por ley.
+* Oración simplificada: La inversión institucional es una función de las instituciones bancarias y no bancarias que administran fondos y están autorizadas por ley.
+
+* Oración original: Esto se debe a que, en general, es el consumidor final de los productos (el comprador, sean personas o empresas) quien paga el impuesto.
+* Oración simplificada: Porque quien paga el impuesto es el comprador.
+
+* Oración original: Excel realiza regresiones a través de la herramienta REGRESIÓN, no obstante, debido a todas las consideraciones que deben observarse para realizar e interpretar los resultados de una regresión, este método no será ampliado en este texto.
+* Oración simplificada: Excel realiza regresiones a través de la herramienta regresión. No obstante, debido a todas las consideraciones que deben observarse para realizar e interpretar los resultados de una regresión este método no será ampliado en este texto.
+
+* Oración original: En lo que corresponde al análisis vertical del E.R., consiste en igualar a 100% la facturación y obtener el porcentaje que representan las otras partes del estado financiero con respecto a la facturación (Martín, 2016).
+* Oración simplificada: El análisis vertical de estado de resultados consiste en igualar a cien por ciento la facturación. Y obtener el porcentaje de la facturación de las otras partes.
+
+* Oración original: La siguiente tabla muestra el análisis horizontal del estado de resultados entre los años 2016 y 2017.
+* Oración simplificada: La siguiente tabla muestra el análisis horizontal del estado de resultados entre los años dos mil dieciséis y dos mil diecisiete.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

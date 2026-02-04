@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: De Sousa se unió a Microsoft en Sudáfrica en el año 1992 y formó parte del equipo que en el año 2005 implementara una estrategia con fines no comerciales para el continente, centrándose en lograr que la tecnología sirviese de ayuda para alcanzar los objetivos de desarrollo que las Naciones Unidas había establecido para el territorio.
+* Oración simplificada: De Sousa se unió a Microsoft en Sudáfrica en 1992 y formó parte del equipo que elaboró, en el año 2005, una estrategia de desarrollo para el continente africano que se centraba en lograr que la tecnología sirviese de ayuda para alcanzar los objetivos que la Organización de las Naciones Unidas había establecido para el territorio.
+
+* Oración original: En Los Ángeles, los latinos dicen que la educación y el voto son un clave para su futuro.
+* Oración simplificada: Los latinos de Los Ángeles dicen que la educación y el voto son muy importantes para su futuro.
+
+* Oración original: Sin embargo, en las muestras más recientes, la huella química de la esponja ya no estaba.
+* Oración simplificada: Los químicos funcionaban como agentes embalsamadores, lo que ayudaba a preservar los cuerpos para la vida después de la muerte.Embalsamar es el proceso en que se evita, a través de químicos, que el cuerpo muerto se descomponga.Sin embargo, en las muestras más recientes, la huella química de la esponja ya no estaba.
+
+* Oración original: Por otro lado, si los perros son capaces de tener un bostezo contagioso, entonces los lobos también deberían serlo.
+* Oración simplificada: Decidieron averiguar si los lobos también son son capaces de tener un bostezo contagioso.
+
+* Oración original: ## **¿Subsanando daños?
+* Oración simplificada: ## **¿Quieren enmendar errores del pasado?**
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

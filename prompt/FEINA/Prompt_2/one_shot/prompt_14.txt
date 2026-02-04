@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: A Smith se le atacaba también porque se consideraba su definición de riqueza muy restringida, de allí que alguien más, consideraba como uno de los primeros elementos de la riqueza el talento, la ciencia y el arte.
+* Oración simplificada: Smith también fue criticado porque se pensaba que su definición de riqueza era muy restringida. Por eso, otro autor consideraba el talento, la ciencia y el arte como elementos primordiales de la riqueza.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

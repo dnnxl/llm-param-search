@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Con un GPS, ayudó a pilotar la lancha que los acercó a él y a otras 30 personas a Molivos.
+* Oración simplificada: Con un GPS, ayudó a pilotar el bote que los llevó a él y a otras 30 personas a la isla de Lesbos.
+
+* Oración original: **Aprender las materias de STEM es importante para la economía**
+* Oración simplificada: **Los trabajos en las materias de STEM pagan muy bien**
+
+* Oración original: Entonces una amiga que iba con ella le propuso que probara con American Well, un servicio que permite a los usuarios de _smartphones_ u otros equipos que acceden a la Web realizar consultas por video con un médico.
+* Oración simplificada: Entonces, una amiga le propuso que probara con American Well, un servicio que les permite a los usuarios de _smartphones_ u otros equipos hacer videoconsultas con un médico vía Internet.
+
+* Oración original: Holder ha puesto en marcha en los últimos años un proceso en el cual varios departamentos de policía han sido sometidos a una investigación federal.
+* Oración simplificada: Holder ha investigado a varios departamentos de policía en los últimos años y ha ordenado cambios.
+
+* Oración original: El nuevo enemigo de Estados Unidos es el Estado Islámico.
+* Oración simplificada: Muchos tienen miedo a un nuevo enemigo.El Estado Islámico.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

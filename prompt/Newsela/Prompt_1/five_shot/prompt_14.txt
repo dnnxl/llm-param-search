@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: The Education Commission of the States (Comisión de Educación de los Estados) calcula que cientos de distritos en 17 estados lo han hecho, y los números suben.
+* Oración simplificada: Un grupo experto en educación calcula que cientos de distritos en 17 estados lo han hecho.Además creen que el número sube.
+
+* Oración original: Los expertos pidieron a los voluntarios que respondieran a una serie de preguntas de matemáticas, que practicaran unos ejercicios de fuerza de agarre o que sumergieran la mano en agua helada durante dos minutos.
+* Oración simplificada: Los voluntarios respondieron a unas preguntas de aritmética, hicieron unos ejercicios o pusieron la mano en agua helada por dos minutos.
+
+* Oración original: Según las listas del Consejo, sin esta aguja el One World Trade Center ni siquiera estaría entre los primeros diez edificios más altos del mundo.
+* Oración simplificada: Sin esta aguja, el One World Trade Center ni siquiera estaría entre los primeros diez edificios más altos del mundo.
+
+* Oración original: Los científicos no pueden decir con certeza cuán rápido están pasando estos cambios, tal vez porque porque ocurren con escarabajos y otros insectos que comúnmente se pasan por alto.
+* Oración simplificada: Ellos no pueden estar seguros de qué tan rápido está pasando.Tal vez eso es porque gran parte de ello está pasando con escarabajos y otros insectos que son pasados por alto.
+
+* Oración original: Repitiendo que España expulsó a los judíos, dice que prefiere honrar a Turquía por ser "el país que nos acogió".
+* Oración simplificada: Él prefiere honrar a Turquía por ser "el país que nos acogió".
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

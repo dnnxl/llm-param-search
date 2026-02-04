@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La infección comienza con fiebre, dolores de cabeza, escalofríos, la sensación de sentirse débil y la hinchazón de las glándulas linfáticas (llamadas "bubones", por eso su nombre).
+* Oración simplificada: Comienza con fiebre, dolores de cabeza, escalofríos, debilidad, y las glándulas se hinchan.Estas glándulas son los "bubones".
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

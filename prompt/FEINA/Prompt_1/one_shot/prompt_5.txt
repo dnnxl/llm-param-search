@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La Macroeconomía, por otro lado, es la rama de la economía especializada en estudiar el comportamiento de los grandes agregados.
+* Oración simplificada: Por otro lado, la Macroeconomía es la rama de la economía especializada en estudiar el comportamiento de los grandes agregados.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

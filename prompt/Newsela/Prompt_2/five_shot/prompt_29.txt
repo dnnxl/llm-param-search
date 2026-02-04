@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Las aguas se desplazan hacia el este, creando las condiciones necesarias para que se formen tormentas.
+* Oración simplificada: El Niño mueve estas aguas hacia el este, donde se formarán nuevas tormentas.
+
+* Oración original: Al hacer todo esto, se liberan de las situaciones que les impiden a muchos jóvenes de zonas pobres cumplir sus sueños.
+* Oración simplificada: Cuando hacen todo esto, se liberan de aquellas cosas que les impiden cumplir sus sueños.
+
+* Oración original: Las mujeres también tienen que pagarle a un conductor para llegar allí porque a las mujeres sauditas no se les permite conducir.
+* Oración simplificada: Las mujeres también tienen que pagarle a un conductor para llegar allí.Las mujeres sauditas no tienen permitido conducir.
+
+* Oración original: Allí se le encontró jugando con niños y pescadores a lo largo de la orilla.
+* Oración simplificada: Allí se le encontró jugando con niños y pescadores en la orilla.
+
+* Oración original: Raúl Cevallos, un residente de Texas que organizó un grupo para crear conciencia, descubrió que muchos jóvenes desconocen la historia.
+* Oración simplificada: Raúl Cevallos organizó un grupo en Texas para educar a los estudiantes.Cevallos descubrió que muchos jóvenes no conocen la historia.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

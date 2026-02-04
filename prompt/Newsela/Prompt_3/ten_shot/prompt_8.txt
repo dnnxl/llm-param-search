@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Benítez y otros siete trabajadores, en su mayoría hombres jóvenes como él, comenzaron la Coalición de Trabajadores de Immokalee.
+* Oración simplificada: Benítez y otros siete trabajadores comenzaron la Coalición de Trabajadores de Immokalee, llegaron a ser conocidos como uno de los grupos de trabajadores agrícolas organizados de mayor éxito en el país.
+
+* Oración original: No obstante, añadieron los expertos, los resultados podrían variar si las pruebas se realizaran con una bebida energética diferente o con un grupo mayor de voluntarios.
+* Oración simplificada: Además, los expertos añadieron que los resultados podrían variar.Habría que realizar las pruebas con una bebida energética diferente o con un grupo mayor de voluntarios.
+
+* Oración original: En conjunto, los estadounidenses de origen asiático y los nativos de Polinesia llegan a ser muy exitosos, y constituyen el grupo racial más preparado y mejor remunerado de Estados Unidos, por lo cual conforman el estereotipo del "grupo minoritario modelo", un ejemplo para otros grupos de migrantes, por ser trabajadores y pacientes.
+* Oración simplificada: En conjunto, los estadounidenses de origen asiático llegan a ser muy exitosos.Son el grupo racial más preparado y que gana más dinero en Estados Unidos.Por eso los llaman el "grupo minoritario modelo".No obstante, es un error decir que los estadounidenses de origen asiático son un ejemplo para los otros grupos de migrantes, por ser trabajadores y pacientes.Ese estereotipo, que significa una imagen generalizada sobre algo o alguien, no refleja la lucha diaria a la que se enfrentan muchos estadounidenses de origen asiático, dicen los científicos.
+
+* Oración original: Maciuca añadió que los programas de _software_ son cada vez más importantes en la industria automotriz, por lo que llevó a abrir una sucursal en Silicon Valley.
+* Oración simplificada: Los programas de  _software_ se han convertido en algo fundamental para la industria, por lo que tenía sentido que Ford se instalara en Silicon Valley.
+
+* Oración original: Los jugadores son tratados como cualquier otro grupo de atletas.
+* Oración simplificada: Los equipos de eSports son como cualquier otro equipo deportivo universitario.
+
+* Oración original: Lo que preocupa a los especialistas como Udwadia es que la India está generando miles de casos como el de Nisha, y aunque han empezado a responder al problema, la reacción es poca y lenta.
+* Oración simplificada: Lo que preocupa a los especialistas como Udwadia es que la India está generando miles de casos como Nisha.
+
+* Oración original: Aunque el mundo está más preparado que nunca para lidiar con las consecuencias de este fenómeno, 11 millones de niños en el sur y el este de África corren el riesgo de ser víctimas del hambre, la sed o las enfermedades.
+* Oración simplificada: El mundo está más preparado que nunca para combatir los efectos de El Niño.Aun así, en el sur y el este de África, 11 millones de niños corren el riesgo de ser víctimas del hambre, la sed o las enfermedades.
+
+* Oración original: Los centros alimentarios de emergencia han sido desde antaño el destino final de todos aquellos productos que estorban en las despensas de los estadounidenses.
+* Oración simplificada: Las personas que ya no quieren algunos productos en sus despensas los llevan a los centros alimentarios de emergencia.
+
+* Oración original: Un grupo de cinco lobos mestizos vive en un área amplia y cerrada en la parte de atrás del santuario.
+* Oración simplificada: Un grupo de cinco lobos mestizos vive en un área amplia en la parte trasera del refugio.
+
+* Oración original: La decisión de crear Hyperion no estuve exenta de riesgos, ya que los programadores todavía estaban codificándolo cuando "Big Hero 6" empezó a producirse y lo completaron recién en julio de 2014, pocos meses antes de que la película empezara la postproducción.
+* Oración simplificada: La decisión de crear Hyperion tenía sus riesgos.Los programadores todavía estaban codificándolo cuando se empezó a producir "Big Hero 6"; de hecho, no se completó hasta julio de 2014, pocos meses antes de que la película entrara en postproducción.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

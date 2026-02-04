@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Puede que Sisa logre finalmente hacer su deseo realidad —al menos dentro de la legalidad— de acuerdo con una propuesta de ley en el Congreso según la cual los términos _alien e illegal alien_ se eliminarían de las leyes federales y de los carteles y textos gubernamentales.
+* Oración simplificada: Puede que Sisa logre finalmente cumplir su deseo —al menos dentro de la legalidad— de acuerdo con un proyecto de ley que está ahora siendo analizado en el Congreso.Según este proyecto, los términos _alien_ e _illegal alien_ se eliminarían de las leyes federales y de las comunicaciones y textos gubernamentales.
+
+* Oración original: El informe predice que el racismo también puede amenazar la seguridad de los visitantes a la Copa Mundial de 2018, que se celebrará en Rusia.
+* Oración simplificada: El racismo podría incluso amenazar la seguridad de los visitantes de la Copa Mundial de 2018.El campeonato mundial de fútbol se celebrará en Rusia, e irán jugadores y aficionados de todo el mundo.
+
+* Oración original: "Cuando uno no puede apoyar a los bomberos sobre el terreno, los incendios crecen", señaló Ken Pimlott, director del Departamento Forestal y de Protección Contra el Fuego de California.
+* Oración simplificada: El mes pasado, un incendio forestal obligó a cerrar una carretera en el sur de California.Los helicópteros se disponían a prestar ayuda, pero la presencia de cinco drones en la zona les impidió volar."Cuando uno no puede apoyar a los bomberos sobre el terreno, los incendios crecen", señaló Ken Pimlott.Pimlott es el director del Departamento Forestal y de Protección Contra el Fuego de California.
+
+* Oración original: Las escuelas de Georgia han respondido.
+* Oración simplificada: Las escuelas de Georgia escucharon el llamado.
+
+* Oración original: En los próximos días y semanas la sonda estudiará el lado nocturno de Plutón, iluminado por lunas y buscará anillos planetarios iluminados por el sol.
+* Oración simplificada: La sonda también estudiará el lado nocturno de Plutón, iluminado por lunas, y buscará anillos planetarios iluminados por el Sol.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

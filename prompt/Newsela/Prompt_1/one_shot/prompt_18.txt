@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Cuando a Sánchez Paulsen se le prohibió volver a entrar en Estados Unidos, el plan era que los niños se quedaran con ella en México, pero resultó ser demasiado difícil criar a los niños en un país donde ella consideraba que ni las escuelas ni la calidad de vida estaban a la altura de los Estados Unidos, relató.
+* Oración simplificada: Cuando a Sánchez Paulsen le prohibieron regresar a Estados Unidos, el plan era que los niños se quedaran con ella en México.Después se dio cuenta de que ni las escuelas ni la calidad de vida estaban a la altura de Estados Unidos.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

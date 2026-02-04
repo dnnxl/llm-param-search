@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Balancea su peso, hecha atrás el brazo y realiza un saque con un toque tan ligero como el de una pluma.
+* Oración simplificada: Echa atrás el brazo y realiza un saque con un toque ligero como una pluma.
+
+* Oración original: Al igual que los demás muchachos, estos jóvenes se mudan a otros estados para asistir a la universidad, o por motivos relacionados con el trabajo o la familia, explicaba Fátima Morales, miembro adjunto del departamento de políticas y compromiso comunitario de la organización defensora de derechos _Children Now_.
+* Oración simplificada: Al igual que los demás muchachos, estos jóvenes se mudan a otros estados para asistir a la universidad, o por razones de trabajo o familia, explicaba Fátima Morales, miembro del departamento de políticas y compromiso comunitario de Children Now.
+
+* Oración original: Pero China se está quedando rápidamente sin espacio para tumbas en la tierra .
+* Oración simplificada: Pero China se está quedando rápidamente sin espacio en la tierra para tumbas.
+
+* Oración original: En opinión de la BJL, honrar a Wilson ofende a los estudiantes afroamericanos, porque Wilson era un racista.
+* Oración simplificada: Según la opinión de la BJL, honrar a Wilson ofende a los estudiantes afroamericanos, porque Wilson era un racista.## Wilson realizó múltiples reformas
+
+* Oración original: SAN DIEGO, California— Los niños de Estados Unidos están cambiando su manera de entretenerse.
+* Oración simplificada: SAN DIEGO, California— Los niños de Estados Unidos ven menos televisión.
+
+* Oración original: Puede ser algo nuevo o pueden optar por mejorar algo que ya exista.
+* Oración simplificada: Los participantes tendrán la alternativa de inventar un producto nuevo o de mejorar un producto que ya exista.
+
+* Oración original: NUEVA YORK — El martes, un grupo de expertos en construcción determinó que la nueva torre World Trade Center de Nueva York es el rascacielos más alto del país.
+* Oración simplificada: NUEVA YORK — La nueva torre World Trade Center de Nueva York es el edificio más alto del país.Así lo decidió el martes un grupo de expertos en construcción.
+
+* Oración original: Tomó algunos peces, les colocó unos electrodos y los puso cerca de la anguila, como si fueran una carnada.
+* Oración simplificada: Tomó algunos peces, les colocó unos conductores de electricidad y los puso cerca de la anguila como carnada.
+
+* Oración original: "El ICE y el gobierno siempre han sabido que la detención de familias no funciona.
+* Oración simplificada: ## La detención de familias no funciona"El ICE y el Gobierno siempre han sabido que la detención de familias no funciona.
+
+* Oración original: En el año 2013 el estado concedió más dinero a los estudiantes de bajos ingresos que están aprendiendo inglés.
+* Oración simplificada: En el año 2013 California le dio más dinero a los estudiantes pobres que aprenden inglés.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

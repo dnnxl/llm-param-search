@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: La fórmula para calcular el interés compuesto, en estos intervalos de tiempo, es la siguiente:
+* Oración simplificada: La fórmula para calcular el interés compuesto, en estos intervalos de tiempo, es la siguiente:
+
+* Oración original: Es decir, si se cotiza al 95%, se coloca 95.
+* Oración simplificada: Es decir, si se cotiza al noventa y cinco por ciento, se coloca noventa y cinco.
+
+* Oración original: Al finalizar este contrato, el activo pasará a ser del cliente.
+* Oración simplificada: El activo pertenecerá al cliente al finalizar este contrato.
+
+* Oración original: Las fuentes de efectivo se registran con signos positivos, mientras que los usos llevan signos negativos.
+* Oración simplificada: Las fuentes de efectivo se registran con signos positivos. Los usos llevan signos negativos.
+
+* Oración original: Bowjer, citado por los mismos Alonso, Brailovsky y Ortiz dice que: en el presupuesto la prioridad principal son las contingencias y, agregan aquéllos: no hay más que dos fuentes de ingresos en tales circunstancias: los seguros y los ahorros.
+* Oración simplificada: Bowjer dice que los imprevistos son la prioridad en el presupuesto. Además, Alonso, Brailovsky y Ortiz agregan que solo existen dos fuentes de ingreso en tales circunstancias: los seguros y los ahorros.
+
+* Oración original: En el ámbito nacional, tenemos el denominado «cartel de los pollos», aquí las pocas firmas productoras limitan la competencia de mercado con acuerdos de volúmenes y precios a su favor en desmedro de los consumidores.
+* Oración simplificada: Nacionalmente, tenemos el cartel de los pollos, pues las pocas firmas productoras limitan la competencia mercantil. Esto lo hacen con acuerdos de volúmenes y precios a su favor que dañan a los consumidores.
+
+* Oración original: Como ya lo dijimos, los seguros son otro elemento digno de conocer en el ámbito de la educación financiera ciudadana.
+* Oración simplificada: Según lo dicho, los seguros son otro elemento digno de conocer respecto la educación financiera ciudadana.
+
+* Oración original: son productoras de los bienes y servicios destinados a satisfacer necesidades de uso y consumo de la población.
+* Oración simplificada: Son productoras de bienes y servicios para satisfacer necesidades de las personas.
+
+* Oración original: Uno tiene que darse cuenta de que no hay verdad que se tenga que aprender más urgentemente que el éxito viene del trabajo, que es producto del trabajo arduo.
+* Oración simplificada: El éxito es fruto de mucho trabajo.
+
+* Oración original: Los mismos problemas el día en que hay que pagar los impuestos prediales y de patrimonio.
+* Oración simplificada: Suceden los mismos problemas el día de pago de los impuestos prediales y de patrimonio.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

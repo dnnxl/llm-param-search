@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Pero transmiten la información a los comandantes y pilotos que sí lo hacen.
+* Oración simplificada: Ellos le dan la información a los pilotos que sí lo hacen.
+
+* Oración original: Él desarrolla tecnología para vigilar aviones y drones.
+* Oración simplificada: Moshe ayuda a vigilar aviones.
+
+* Oración original: Los clubes protegían a los jóvenes de la discriminación y de la exclusión a las que estaban sujetos por ser japoneses-americanos.
+* Oración simplificada: Los clubes protegían a los niños y a los adolescentes de los hirientes actos y críticas de otras personas que despreciaban a los japoneses.Los grupos también eran divertidos.
+
+* Oración original: Dice que la asistencia por parte de los residentes hispanohablantes ha aumentado.
+* Oración simplificada: Dice que la asistencia de los hispanohablantes ha aumentado.
+
+* Oración original: La exhibición tiene 27 autorretratos de grandes artistas como Rembrandt van Rijn.
+* Oración simplificada: La exhibición muestra 27 autorretratos de pintores famosos, como Rembrandt.A Rembrandt le encantaba hacerse autorretratos.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

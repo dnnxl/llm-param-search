@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: En Indonesia, muchas empresas cortan y queman plantas para crear zonas de cosecha.
+* Oración simplificada: En Indonesia, los agricultores cortan y queman árboles.Necesitan espacio para sembrar otras plantas.
+
+* Oración original: ## Una conversación del siglo XXI
+* Oración simplificada: ## Conversación y educación
+
+* Oración original: El dinero se estaba acabando.
+* Oración simplificada: El dinero se estaba acabando para el país y para la escuela.
+
+* Oración original: Wolff hizo uso de un espacio disponible en un edificio del condado, y puso en marcha la biblioteca a finales de septiembre.
+* Oración simplificada: Wolff utilizó un espacio disponible de un edificio del condado, diseñó la biblioteca y la puso a funcionar a finales de septiembre.BiblioTech acaba de añadir otra sede en la sala de deliberación del jurado de la corte de justicia del condado de Bexar.
+
+* Oración original: Con esta actualización, las cifras sobre los tamaños de porciones presentarán un aumento para algunos productos, como el helado.
+* Oración simplificada: El nuevo tamaño de porción para la soda será al menos de 12 onzas.Habrá un aumento en las cifras de algunos productos como el helado.
+
+* Oración original: En sus manos está el plasmar lo que la cámara no puede, que consiste en captar la humanidad presente en la sala con un toque personal, explicaba.
+* Oración simplificada: En sus manos transmite lo que la cámara no puede, capta la humanidad presente en la sala con un toque personal, explicaba.
+
+* Oración original: Como resultado, tras la unificación del país, muchos alemanes del este perdieron las casas en las que habían vivido algunos durante décadas porque eran de los alemanes del oeste, que habían huido o las habían abandonado —dependiendo de la perspectiva de cada uno— pero luego las pudieron reclamar cuando se reunificó Alemania.
+* Oración simplificada: Como resultado, cuando se reunificó Alemania, muchos alemanes perdieron las casas en las que habían vivido durante décadas, que fueron a parar a manos de los alemanes del oeste que habían dejado las casas mucho tiempo antes, pero regresaron para reclamarlas tras la caída del Muro.
+
+* Oración original: El grupo de Quintana-Murci intentaba entender qué influencia han tenido los patógenos microscópicos en el genoma humano.
+* Oración simplificada: El grupo de Quintana-Murci quiere entender cómo los patógenos afectan a los genes humanos.
+
+* Oración original: Hall y sus estudiantes fabricaron cinco generadores y mandaron cuatro a Haití, Costa Rica, Guatemala y Kenia.
+* Oración simplificada: Ella y sus estudiantes construyeron cinco maletas solares.Una vez terminadas, se enviaron cuatro a Haití, Costa Rica, Guatemala y Kenia.Hall se quedó con una para sus clases.
+
+* Oración original: A medida que crecían y se graduaban de la Universidad sus reuniones se fueron convirtiendo en encuentros de tipo social centrándose en los cumpleaños, matrimonios y baby showers.
+* Oración simplificada: A medida que las jóvenes crecían y se graduaban de la Universidad sus encuentros se fueron convirtiendo en reuniones de tipo social incluyendo cumpleaños, matrimonios y baby showers.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

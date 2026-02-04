@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Una vez al año, tienes derecho a obtener gratis el informe crediticio de cada una de las tres agencias de informes crediticios que hay en el país: Equifax, Experian y TransUnion.
+* Oración simplificada: Una vez al año, puedes pedir el informe crediticio en cada una de las tres agencias del país: Equifax, Experian y TransUnion.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

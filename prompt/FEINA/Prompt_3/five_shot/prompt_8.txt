@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Los tipos de cuentas de ahorro más comunes son los siguientes:
+* Oración simplificada: Los tipos de cuentas de ahorro más comunes son los siguientes:
+
+* Oración original: Solamente representa la riqueza o un dominio sobre bienes y servicios.
+* Oración simplificada: Este solamente representa la riqueza o una pertenencia de bienes y servicios.
+
+* Oración original: La competencia tiene que ver con la participación, en la actividad económica, de varios vendedores y varios compradores.
+* Oración simplificada: La competencia es la participación de varios vendedores y compradores.
+
+* Oración original: Las personas o las tiendas se niegan a darte crédito.
+* Oración simplificada: Las personas o las tiendas no te dan crédito.
+
+* Oración original: Si algo no tiene claro sobre sus impuestos, aclare primero todo lo pertinente sobre ellos, antes de tomar cualquier decisión.
+* Oración simplificada: Cuarto. Si no tiene algún aspecto claro sobre sus impuestos, aclare primero todo lo relacionado con ellos antes de tomar cualquier decisión.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

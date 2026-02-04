@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Lorenzo: Fíjate Rogelio, tuve una experiencia espeluznante en relación con los gastos que uno debe hacer por alguna enfermedad.
+* Oración simplificada: Lorenzo: Fíjate Rogelio. Tuve una experiencia horrible en relación con los gastos que uno debe hacer por alguna enfermedad.
+
+* Oración original: Posiblemente sea mejor cambiar el auto por otro más barato o usar un medio de transporte alternativo, en vez de dejar que el acreedor recupere el auto, lo que dañaría tus antecedentes crediticios.
+* Oración simplificada: Puedes cambiarlo por uno más barato o usar otro medio de transporte. No dejes que el fiador recupere el carro porque daña tu historial crediticio.
+
+* Oración original: En el caso de una inversión en un certificado de depósito, por ejemplo, por una misma suma de dinero invertida hoy, se recibirá como consecuencia del alza en las tasas de interés un flujo de intereses más alto a lo largo del tiempo que el que habría recibido antes del alza en las tasas de interés.
+* Oración simplificada: En el caso de una inversión en un certificado de depósito por una misma suma de dinero invertida hoy, se recibirá un flujo de intereses más alto a lo largo del tiempo como consecuencia del alza en las tasas de interés.
+
+* Oración original: En relación con el nivel de vida, digamos, continúan Cao García y Hailstones, que si cualquiera de nosotros pudiese entrar en la casa de un obrero industrial de hace cien años creería que está entrando a un mundo diferente.
+* Oración simplificada: En relación con el nivel de vida, Cao García y Hailstones dicen que si cualquiera de nosotros entrara en la casa de un obrero industrial de hace cien años creería que entra a un mundo diferente.
+
+* Oración original: El primero de ellos se utiliza para negocios monoproductos, mientras que el segundo se usa en negocios que manejan varios productos o presentaciones de productos.
+* Oración simplificada: El primero lo utilizan los monoproductores. El segundo lo usan las empresas que administran varios productos.
+
+* Oración original: Usted querrá que ese signo negativo se convierta en positivo.
+* Oración simplificada: El propósito es que esa cifra negativa se convierta en positiva.
+
+* Oración original: Nunca le revele su clave o PIN a nadie.
+* Oración simplificada: Nunca le dé su clave a nadie.
+
+* Oración original: En el futuro podrás lograr el equilibrio.
+* Oración simplificada: En el futuro lograrás el equilibrio.
+
+* Oración original: Así mismo, se reconoció como flujo positivo el valor en libros y la utilidad perpetua, respectivamente.
+* Oración simplificada: Además, reconocimos el valor en libros y la utilidad perpetua como flujo positivo.
+
+* Oración original: La mayor parte de los ingresos se consumen a medida que se producen.
+* Oración simplificada: La mayor parte de los ingresos se consumen cuando se producen.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Debido a las ventajas que brindan las tarjetas de crédito, como son seguridad (evita que se tenga que llevar dinero en efectivo) y conveniencia (en caso de una emergencia se puede disponer de crédito inmediato o adelanto de efectivo), presentamos aquí algunos consejos de cómo administrarlas.
+* Oración simplificada: Presentamos aquí algunos consejos para administrar las tarjetas de crédito por sus ventajas. Por un lado, la seguridad generada al evitar llevar dinero en efectivo. Por otro lado, la conveniencia de disponer de crédito inmediato en caso de una emergencia.
+
+* Oración original: Chauvin (2005) señala en un artículo sobre ¿Seguridad económica o libertad financiera? que la libertad financiera no se mide por cuánto dinero hace una persona trabajando, sino por cuánto dinero le ingresa cuando NO trabaja o trabaja poco.
+* Oración simplificada: En un artículo del dos mil cinco titulado ¿Seguridad económica o libertad financiera?, Chauvin afirma que la libertad financiera no se mide por cuánto dinero hace una persona trabajando, sino por cuánto dinero le ingresa cuando no trabaja o trabaja poco.
+
+* Oración original: Este comportamiento puede obedecer a varias causas, mencionamos dos que consideramos sustanciales: la primera, que somos producto de una educación, que como ya lo hemos expresado, no nos educa en planificación ni en finanzas para la vida, considerando tales conocimientos y habilidades exclusivos para especialistas y segundo, quizás por el miedo que invade a muchas personas al descubrir cuánto gastan cada mes y cómo lo gastan, fundamentalmente por haber sido atrapados por una sociedad que cada vez es más consumista, porque como dice Rivers: Las cosas nos proporcionan comodidad, seguridad y evidencia de nuestro éxito.
+* Oración simplificada: Este comportamiento tiene varias causas, aunque mencionamos dos esenciales. En primer lugar, somos producto de una educación que no nos educa en planificación ni en finanzas para la vida. Esto porque se considera como conocimientos y habilidades exclusivos para especialistas. En segundo lugar, muchas personas sienten miedo al descubrir cuánto y cómo gastan cada mes, principalmente por pertenecer a una sociedad cada vez más consumista. Respecto a lo anterior, Rivers dice que las cosas nos proporcionan comodidad, seguridad y evidencia nuestro éxito.
+
+* Oración original: Algunas posesiones, como su automóvil, una TV de pantalla gigante o cualquier otro tamaño, un bote y la ropa, son activos, pero no son activos para la creación de riqueza, porque no generan ningún dinero ni incrementan su valor, ya que más bien cuando se adquieren y se ponen en uso, generan un proceso de depreciación.
+* Oración simplificada: Algunas posesiones, el carro, una TV, un bote y ropa son activos, pero no son activos para la creación de riqueza. Estos no generan ningún dinero ni incrementan su valor. Por el contrario, al adquirirlos y usarlos, inician un proceso de pérdida de valor.
+
+* Oración original: Incluye la posibilidad de que los resultados financieros sean menores que lo esperado o, incluso, haya pérdida del capital invertido.
+* Oración simplificada: Incluye la posibilidad de que los resultados financieros sean menores que lo esperado o que haya pérdida del capital invertido.
+
+* Oración original: También puede ocurrir que haya escasez de bienes y servicios disponibles en el país.
+* Oración simplificada: También ocurre a veces que hay escasez de bienes y servicios disponibles en el país.
+
+* Oración original: También se aplica a la red médica de la aseguradora y se utiliza comúnmente en caso de cirugías o internamiento en hospital, lo cual se puede programar con algunos días de anticipación.
+* Oración simplificada: También aplica a la red médica de la aseguradora y se utiliza en caso de cirugías o internamiento en hospital. Esto se puede programar con algunos días de anticipación.
+
+* Oración original: Los hackers realizan sistemáticamente "barridos" de las computadoras conectadas a Internet, en busca de puertos de comunicaciones "abiertos" a través de los que puedan ingresar en los equipos.
+* Oración simplificada: Los hackers realizan sistemáticamente "barridos" de las computadoras conectadas a Internet. Ellos buscan puertos de comunicaciones "abiertos" a través de los que puedan ingresar en los equipos.
+
+* Oración original: En el crédito está incorporado el concepto de confianza entre deudor y acreedor, pues el primero debe pagar a tiempo lo prestado por el segundo, más los intereses correspondientes.
+* Oración simplificada: El crédito incluye la confianza entre deudor y fiador. Porque el primero debe pagar a tiempo el préstamo más los intereses.
+
+* Oración original: Caso contrario se observa con los activos intangibles, los cuales muestran un crecimiento nominal del 4%; pero representan una reducción con respecto a su importancia dentro de la inversión.
+* Oración simplificada: Con los activos inmateriales ocurre lo contrario. Evidencian un crecimiento nominal del cuatro por ciento. Pero representan una reducción según su importancia en la inversión.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

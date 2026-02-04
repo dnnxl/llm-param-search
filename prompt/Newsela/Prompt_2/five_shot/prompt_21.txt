@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: El equipo de Schiffman está tratando de obtener fondos para financiar la investigación de posibles tratamientos basados en los estudios realizados con elefantes.
+* Oración simplificada: ## Se necesitan más estudiosEl equipo de Schiffman está tratando de obtener fondos para financiar la investigación de posibles tratamientos basados en los estudios realizados con el elefante.
+
+* Oración original: Es el primer vistazo a nivel nacional de las lesiones y la necesidad de mejores regulaciones y medidas de seguridad, dicen los investigadores.
+* Oración simplificada: Según los investigadores, es el primer vistazo a nivel nacional de las lesiones causadas por tirolesas.Los resultados demuestran que existe la necesidad de mejorar tanto las regulaciones del deporte como sus medidas de seguridad.
+
+* Oración original: Las cajas estaban marcadas "1465", que es el número de familias que la compañía ha mudado a Orlando desde enero.
+* Oración simplificada: La compañía ha mudado a casi 1.500 familias desde el mes de enero.
+
+* Oración original: El Valle del Silicio es el nombre de una zona en el norte de California donde se localizan muchas compañías de alta tecnología.
+* Oración simplificada: El Valle del Silicio es el apodo de un área en el norte de California, donde hay muchas compañías de tecnología como Apple y Google.
+
+* Oración original: El primer prototipo de la línea Roominate de Maykah Inc. era un auto, indicó Bettina Chen, cofundadora de la compañía de Sunnyvale, California.
+* Oración simplificada: La primera versión de la línea Roominate de Maykah Inc. era un auto, explicó Bettina Chen, cofundadora de la compañía.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

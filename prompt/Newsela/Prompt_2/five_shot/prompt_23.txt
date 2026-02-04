@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Pixar, empresa asociada de Disney Animation, lleva muchos años siendo precursora en este sector y produjo el primer largometraje animado en 1995, "Toy Story".
+* Oración simplificada: Por otro lado, Pixar, que es propiedad de la misma empresa que Disney Animation, lleva muchos años siendo precursora y produjo el primer largometraje animado en 1995, "Toy Story".
+
+* Oración original: Se considera que los niños son más fáciles de "reclutar" porque pueden ser influenciados para que lleven a cabo un ataque y las fuerzas de seguridad rara vez sospechan de ellos.
+* Oración simplificada: Se considera que los niños porque pueden llevar a cabo un ataque y las fuerzas de seguridad rara vez sospechan de ellos.
+
+* Oración original: ### A FAVOR: Es lo que se llama un gobierno representativo: debe regir la posición de la mayoría
+* Oración simplificada: ### A FAVOR: Los militantes podrían infiltrarse junto con los refugiados.
+
+* Oración original: Según Cotman, con la edad, los niveles del FNDC disminuyen, y esta disminución es una de las razones por las cuales las funciones cerebrales se deterioran en las personas ancianas.
+* Oración simplificada: Según Cotman, los niveles del FNDC disminuyen con la edad.Esta disminución es una de las razones por las cuales las funciones cerebrales se deterioran en las personas ancianas."Es como un fertilizante del cerebro", dijo Cotman.
+
+* Oración original: Pero al llegar aquí su carrera se estancó, ya que sin contar con sus documentos universitarios no lograba encontrar un trabajo a la altura de su experiencia.
+* Oración simplificada: Pero al llegar aquí, no lograba encontrar un buen trabajo.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

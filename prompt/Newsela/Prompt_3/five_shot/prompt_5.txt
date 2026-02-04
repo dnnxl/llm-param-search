@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Los padres, conscientes quizá del futuro de sus hijas, están ayudando a hacer que las muñecas STEM sea una categoría "en expansión", afirmó Jackie, editora jefe de la guía de regalos Toy Insider.
+* Oración simplificada: Algunos padres están interesados y están ayudando a hacer que las muñecas STEM sean una categoría "en expansión", afirmó Jackie, editora jefe de la guía de regalos Toy Insider.## Regalos para sus hijas
+
+* Oración original: Luego los científicos buscaron casos de ballenas nadando río arriba desde el mar.
+* Oración simplificada: Luego los científicos buscaron otros casos de ballenas que hubieran nadado río arriba desde el mar.
+
+* Oración original: "Puedes tener un biplaza donde los pasajeros se sienten uno frente a otro", afirmó Belker.
+* Oración simplificada: "Puedes tener un auto de dos plazas donde los pasajeros se sienten uno frente a otro", dijo Belker.
+
+* Oración original: Los antiguos romanos creían que Júpiter era el rey de los dioses, ya que destruyó a una antigua raza de titanes para gobernar los cielos y la Tierra.
+* Oración simplificada: En tiempos de los romanos, la gente creía que Júpiter era el rey de los dioses, que aniquiló la raza de titanes para gobernar los cielos y la Tierra.
+
+* Oración original: De la misma forma se pasan otras formas de malaria.
+* Oración simplificada: Fornace estudia a los enfermos de malaria.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

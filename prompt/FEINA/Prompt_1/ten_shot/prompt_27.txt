@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Algunos ejemplos son: Cobros procedentes de las ventas de bienes y prestación de servicios, cobros procedentes de regalías, cuotas, comisiones y otros ingresos, pagos a proveedores por el suministro de bienes y servicios, pagos a y por cuenta de los empleados, cobros y pagos de las entidades de seguros por primas y prestaciones, anualidades y otras obligaciones derivadas de las pólizas suscritas, pagos o devoluciones de impuestos d=sobre las ganancias.
+* Oración simplificada: Algunos ejemplos son: Cobros procedentes de las ventas de bienes y prestación de servicios. Cobros de regalías, cuotas, comisiones y otros ingresos. Pagos a proveedores por la distribución de bienes y servicios. Pagos y de los empleados. Cobros y pagos de las aseguradoras por primas y prestaciones. Anualidades. Pagos de las pólizas suscritas. Pagos o devoluciones de impuestos.
+
+* Oración original: Las transacciones no monetarias, tradicionalmente están compuestas por las depreciaciones.
+* Oración simplificada: Las depreciaciones componen las transacciones no monetarias.
+
+* Oración original: Para cualquier economía es fundamental contar con sistemas de pagos eficientes y seguros.
+* Oración simplificada: Todas las economías deben tener sistemas de pagos eficientes y seguros.
+
+* Oración original: Una nueva pregunta importante que surge aquí en estas reflexiones con el mismo Soule es:
+* Oración simplificada: En estas reflexiones surge una pregunta importante:
+
+* Oración original: ¿Está gastando en cosas que no necesita?
+* Oración simplificada: Pregúntese si gasta en cosas innecesarias.
+
+* Oración original: Al final de los tres años contaremos con $1,481.54 en el banco.
+* Oración simplificada: Al final de los tres años tendremos mil cuatrocientos ochenta y un dólares con cincuenta y cuatro centavos en el banco.
+
+* Oración original: Usar cupones si me permiten ahorrar dinero.
+* Oración simplificada: Usar cupones solo si me permiten ahorrar dinero.
+
+* Oración original: El primer paso para apartar dinero y ahorrarlo consiste en decidir que puedes hacerlo.
+* Oración simplificada: El primer paso para ahorrar es la decisión de hacerlo.
+
+* Oración original: Por esa razón, al aumentar la tasa de interés de 10% a 20% el precio del bono cae por debajo de $100; si al bono le falta poco para vencer, llegará a un precio por debajo de $100 pero cercano a $100; si en cambio le faltan muchos años, llegará a un precio cercano a $50.
+* Oración simplificada: Por esa razón, al aumentar la tasa de interés de diez por ciento a veinte por ciento el precio del bono cae por debajo de cien dólares. Si al bono le falta poco para vencer, llegará a un precio por debajo de cien dólares, pero cercano a esa cantidad.  Si en cambio le faltan muchos años llegará a un precio cercano a cincuenta dólares.
+
+* Oración original: El hecho es que, si su ingreso neto mensual es negativo, realmente no puede darse el lujo de continuar con el estilo de vida que lleva.
+* Oración simplificada: Si su ingreso neto mensual es negativo, no puede continuar con el estilo de vida que lleva.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

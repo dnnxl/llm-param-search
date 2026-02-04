@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Anteriormente, mencionamos las formas de averiguar a dónde va a parar tu dinero y cómo detener las fugas de dinero.
+* Oración simplificada: Ya mencionamos las formas de saber a dónde va tu dinero y cómo detener las pérdidas de este.
+
+* Oración original: En esta parte del continente los Incas hicieron lo propio y acostumbraban reservar parte de lo obtenido de su actividad productiva en cavernas frías, a modo de congelador, de modo que cuando no hubiera producción de alimentos ya se contaba con una reserva.
+* Oración simplificada: Los Incas guardaban una parte de su actividad productiva en cavernas frías, así se contaba con una reserva cuando no había producción de alimentos.
+
+* Oración original: Una vez que se apoderan de su disco duro, configuran su equipo como una plataforma de descarga y distribución de software pirata a la que pueden acceder otros usuarios.
+* Oración simplificada: Cuando tienen su disco duro, configuran su equipo como una plataforma de descarga y distribución de software pirata. A esta pueden acceder otros usuarios.
+
+* Oración original: Ahora bien, es importante señalar que las inversiones no surgen de la nada, sino que requieren de financiamiento.
+* Oración simplificada: Ahora bien, las inversiones no surgen de la nada, sino que requieren de financiamiento.
+
+* Oración original: Si el VAN es positivo, entonces la TIR será mayor que la TMAR.
+* Oración simplificada: Si el valor actual neto es positivo. Entonces, la tasa interna de retorno será mayor que la tasa mínima atractiva de retorno.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

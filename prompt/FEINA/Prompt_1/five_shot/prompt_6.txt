@@ -1,0 +1,21 @@
+Simplifica el siguiente segmento discursivo dado los siguientes ejemplos:
+
+Por ejemplo:
+* Segmento original: Lo primero en este caso, además de su historial y otros factores es la determinación de su capacidad de pago, la cual ofrece indicadores sobre la cantidad máxima con la que usted podría endeudarse.
+* Segmento simplificado: Lo primero es determinar su capacidad de pago. Esta ofrece indicadores sobre la cantidad máxima con la que usted podría endeudarse.
+
+* Segmento original: Al igual que las cuentas de ahorros normales, las cuentas de depósitos del mercado monetario pueden fijar una cantidad límite de retiros mensuales.
+* Segmento simplificado: Las cuentas de depósitos del mercado monetario pueden fijar un límite de retiros mensuales tal que las cuentas de ahorro normales.
+
+* Segmento original: El inversionista puede ahorrar por múltiples razones.
+* Segmento simplificado: El inversionista puede ahorrar por muchas razones.
+
+* Segmento original: Colisión: Choque de dos cuerpos. Oposición y pugna de ideas, principios o intereses. Parte del ingreso que no se destina al ahorro, sino que es aplicado a la adquisición de alimentos, educación, ocio, entre otros.
+* Segmento simplificado: Una colisión es un choque de dos cuerpos o una oposición y enfrentamiento de ideas, principios o intereses. También es la parte del ingreso no destinado al ahorro, pues se usa a la adquisición de alimentos, educación, ocio, entre otros.
+
+* Segmento original: Diversificar las inversiones en diferentes instrumentos para evitar riesgos; pero, si el capital es pequeño, la diversificación no sería aconsejable, pues se incurriría en lo que se denomina pulverización.
+* Segmento simplificado: Diversificar las inversiones en diferentes instrumentos para evitar riesgos. Pero si el capital es pequeño la diversificación no sería aconsejable, pues se incurriría en lo que se denomina pulverización.
+
+Simplifica el siguiente segmento:
+* Segmento original: PREPROCESS_TEXT
+* Segmento simplificado: 

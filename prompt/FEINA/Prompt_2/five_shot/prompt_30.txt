@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Veamos los dos principales tipos de quiebra disponibles para los consumidores individuales.
+* Oración simplificada: Hay dos tipos de quiebra para los consumidores individuales.
+
+* Oración original: Los impuestos son generalmente calculados con base en porcentajes, llamados tasas de impuestos, sobre un valor particular, la base de impuestos.
+* Oración simplificada: Los impuestos son generalmente calculados con base en porcentajes llamados tasas de impuestos sobre un valor particular o la base de impuestos.
+
+* Oración original: Tiempo (n): número de años o meses que durará el ahorro.
+* Oración simplificada: La letra n es para expresar el tiempo, este es el número de años o meses que durará el ahorro.
+
+* Oración original: Generalmente, el monto mínimo adeudado corresponde sólo una fracción de su saldo real, de manera que puede llevarle tiempo pagar sus tarjetas de crédito si sólo paga este mínimo por mes.
+* Oración simplificada: Generalmente, el monto mínimo es solo una parte de su saldo real. Si solo paga este mínimo mensual durará mucho para pagar sus tarjetas de crédito.
+
+* Oración original: Además, deben recibir asesoría crediticia de forma obligatoria a través de un programa aprobado por el gobierno.
+* Oración simplificada: Además, deben recibir asesoría crediticia obligatoriamente en un programa aprobado por el gobierno.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

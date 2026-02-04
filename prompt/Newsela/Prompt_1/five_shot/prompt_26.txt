@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: ## Un planeta misterioso
+* Oración simplificada: ## El planeta enano
+
+* Oración original: En 2013 el Tribunal Constitucional de República Dominicana determinó que las personas nacidas en el país de padres extranjeros sin permiso de residencia no cualificaban para residencia automática.
+* Oración simplificada: El gobierno dijo que las personas nacidas en el país de padres extranjeros que no tienen permiso para quedarse no cualificaban para residencia automática.
+
+* Oración original: Los primos consideraron brevemente cambiarle el nombre a la humilde salchicha para los consumidores afganos, pero al final decidieron mantener su nombre.
+* Oración simplificada: ## El perro caliente humildeEn un momento dado, los primos consideraron darle a la humilde salchicha un nombre afgano y una identidad, pero al final decidieron hacerlo simple.
+
+* Oración original: El oso repite la demostración una y otra vez — un depredador de 930 libras respondiendo al llamado inaudible de una audiencia que pide que salga otra vez.
+* Oración simplificada: El oso sigue haciendo lo mismo, una y otra vez.
+
+* Oración original: La reina del _soul,_ Aretha Franklin, también ha estado presente en varios eventos presidenciales, entre ellos la primera ceremonia inaugural de Obama en 2009, en la que interpretó "My Country, 'Tis of Thee".
+* Oración simplificada: La reina del _soul,_ Aretha Franklin, cantó "My Country, 'Tis of Thee" en la primera ceremonia de inauguración de Obama en 2009.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

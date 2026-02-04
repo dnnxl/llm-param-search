@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: En comparación, las posibilidades de resultar herido en un accidente en el baño —específicamente aquellas que resulten en una visita al hospital— son de uno en 1.037 en un año dado.
+* Oración simplificada: En comparación, las posibilidades de resultar herido en un accidente en el baño que requiera una visita al hospital, son de una en 1.037.
+
+* Oración original: Así que resultó particularmente inusual cuando cinco vehículos pintados para parecer una gran salchicha de Frankfurt —con líneas amarillas brillantes en zig zag— aparecieron en las calles de la capital este año.
+* Oración simplificada: Así que resultó particularmente inusual cuando cinco vehículos pintados como una gran salchicha de Frankfurt aparecieron en las calles de la capital este año.
+
+* Oración original: En el Pascagoula-Gautier School District, la población de estudiantes aprendiendo inglés tuvo un incremento de más del doble: de 196 en el año 2005 a 463 en el año 2007.
+* Oración simplificada: En el Distrito Escolar de Pascagoula-Gautier, el número de estudiantes de inglés más que se duplicó, de 196 en el año 2005 a 463 en el año 2007.
+
+* Oración original: Es muy importante que los trabajadores estén bien preparados para los empleos del futuro.
+* Oración simplificada: Los trabajadores tienen que estar bien capacitados para los empleos del futuro.## Más ayuda para los trabajadores
+
+* Oración original: Los funcionarios de Nueva York decían que no tenían un cómputo de la cantidad de techos verdes existentes, pero Gotham Greens ya tiene tres granjas de tejado en zonas comerciales de Nueva York: unos desarrollos que incluyen 15.000 y 20.000 pies cuadrados en Brooklyn, y un tejado de 60.000 pies cuadrados que iniciará la siembra de cultivos este año en Queens.
+* Oración simplificada: Nueva York dice que no sabe cuántos techos verdes tienen.Pero Gotham Greens ya tiene tres granjas de tejado en Nueva York.En Brooklyn tienen unos de 15.000 y 20.000 pies cuadrados.Este año abrirán uno de 60.000 pies cuadrados en Queens.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

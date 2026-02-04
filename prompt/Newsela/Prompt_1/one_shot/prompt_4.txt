@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La nueva tarifa, junto con el ornamentado hogar de Santa, forma parte de una nueva tendencia en los centros comerciales, tanto en Chicago como en el resto del país, de montar las exhibiciones temáticas de las festividades de manera cada vez más ostentosa con el objetivo de atraer de vuelta a los centros comerciales a los compradores en línea.
+* Oración simplificada: Tanto la nueva tarifa como el ornamentado hogar de Santa forman parte de una tendencia que se ha puesto de moda a lo largo de todo el país.Con el objetivo de atraer nuevamente a los compradores en línea, los centros comerciales presentan exposiciones festivas cada vez más ostentosas.## Se rebelan contra las tendencias comerciales
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

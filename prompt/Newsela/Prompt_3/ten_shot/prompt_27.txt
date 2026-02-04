@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: "Las pruebas informatizadas pueden ofrecer una falsa seguridad", explicó Canty.
+* Oración simplificada: "Las pruebas informatizadas pueden ofrecer una falsa seguridad", explicó Canty, "si el jugador pasa la prueba, seguramente se convencerá de que está bien.
+
+* Oración original: "Como directora, quiero darles espacio a las voces de los estudiantes, y así conocer cómo es su experiencia en la escuela.
+* Oración simplificada: De esa manera, les puede dar espacio a las voces de todos los estudiantes.Quiere conocer cómo es su experiencia en la escuela.Entiende que si faltan miembros de los distintos grupos, no podrá conocer lo que sucede en la escuela.
+
+* Oración original: ## "League of Legends"
+* Oración simplificada: ## "Tomándoselo en serio"
+
+* Oración original: ## El Niño altera los vientos y las lluvias
+* Oración simplificada: ## El Niño cambia vientos, lluvias y océanos
+
+* Oración original: Los empleos en el sector automotriz californiano han aumentado un 26 por ciento desde el 2011, generando unos 47.000 puestos de trabajo este año.
+* Oración simplificada: Desde el 2011 se han creado unos 10.000 empleos y ahora hay un total de 47.000 puestos de trabajo.
+
+* Oración original: Aamir Mansour, cinco años más grande y del doble de su tamaño, volteó a Majid y preguntó: "¿Por qué, crees que vas a vivir?"
+* Oración simplificada: ## "¿Piensas que vas a vivir?"Aamir Mansour, cinco años más grande y del doble de su tamaño, volteó a Majid y preguntó, "¿Por qué, crees que vas a vivir?"
+
+* Oración original: Los riesgos de usar estrógeno son bajos.
+* Oración simplificada: Los riesgos de usar sus medicinas son bajos.
+
+* Oración original: Hace poco, Mike Droney, quien vive en la calle hace seis años, llevaba uno de los letreros elaborados por Todd.
+* Oración simplificada: Hace poco, Mike Droney llevaba uno de los letreros creados por Todd.
+
+* Oración original: Rod Weader, un agente inmobiliario de 68 años de North Charleston que asistió a la reunión, afirmó que estaba de acuerdo con el plan de Trump "en un 150 por ciento".
+* Oración simplificada: Rod Weader, agente inmobiliario de 68 años de North Charleston, asistió a la reunión y afirmó estar de acuerdo con el plan de Trump "en un 150 por ciento".
+
+* Oración original: La falta de maestros de lenguas extranjeras con frecuencia impide que las escuelas contraten maestros, añadió el secretario de Educación.
+* Oración simplificada: Como no hay maestros de lenguas de otros países, las escuelas no pueden contratar maestros, añadió el secretario de Educación.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

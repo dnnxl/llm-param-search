@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: A continuación unos consejos útiles para la buena administración del uso de su tarjeta de crédito:
+* Oración simplificada: Daremos uno consejos para la administración de su tarjeta de crédito:
+
+* Oración original: El crédito da la oportunidad de adquirir y disfrutar de bienes y servicios hoy y pagarlos a futuro.
+* Oración simplificada: El crédito permite disfrutar productos y servicios y pagarlos después.
+
+* Oración original: Si el valor es superior a 1, se concluye en la rentabilidad del mismo y se aprueba su ejecución.
+* Oración simplificada: Si el valor es superior a uno concluimos su rentabilidad. Y aprobamos su realización.
+
+* Oración original: Ante ello, debes responder a siete preguntas:
+* Oración simplificada: Ante ello, debes responder siete preguntas:
+
+* Oración original: En el primer caso, la diferencia debe pagarse al fisco; en el segundo, el fisco devuelve a la empresa el saldo a favor.
+* Oración simplificada: En el primer caso, la diferencia se paga al fisco. En el segundo, el fisco devuelve el sobrante a la empresa.
+
+* Oración original: Puede ser difícil acumular y retener riquezas en la forma de mercancías, ya que algunos productos abultan demasiado para guardarlos, otros son perecederos, y para algunos el costo de almacenarlos puede ser prohibitivo.
+* Oración simplificada: Puede ser difícil acumular riquezas en forma de mercancías, porque algunos productos son muy grandes, perecederos o con costos de almacenamiento prohibidos.
+
+* Oración original: El ahorro que se invierte produce un interés, que es una expresión del valor del dinero en el tiempo.
+* Oración simplificada: El ahorro invertido genera intereses, los cuales son pruebas del valor del dinero a largo plazo.
+
+* Oración original: Para modificar patrones de consumo o empleo dentro de la economía, haciendo ciertos tipos de transacciones más o menos atractivas.
+* Oración simplificada: Para modificar patrones de consumo o empleo dentro de la economía se hacen ciertos tipos de transacciones más o menos atractivas.
+
+* Oración original: El hecho es que la mayoría de ustedes están todos en el mismo barco, pero ni siquiera lo saben.
+* Oración simplificada: La mayoría de ustedes está en la misma situación, pero no lo saben.
+
+* Oración original: Separe una cantidad determinada de dinero para contribuir a sus ahorros, jubilación o cuentas de inversión.
+* Oración simplificada: Separe una cantidad de dinero para sus ahorros, pensión o cuentas de inversión.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

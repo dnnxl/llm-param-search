@@ -1,0 +1,31 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Ambas cosas pueden causar fluctuaciones de glucosa.
+* Oración simplificada: La glucosa es el azúcar en la sangre.Ambas cosas pueden causar cambios de glucosa.
+
+* Oración original: Los funcionarios gaboneses, en colaboración con Panthera y el Instituto Max Planck, están buscando dos hembras con la esperanza de crear una población de leones en el parque.
+* Oración simplificada: Varios grupos están buscando dos hembras para él, con la esperanza de crear una población de leones en el parque.
+
+* Oración original: El segundo grupo de investigadores, quienes trabajaban con especímenes de zoológico congelados, estudiaron más de 60 especies diferentes.
+* Oración simplificada: El segundo grupo de investigadores estudió a más de 60 especies diferentes.Las demás especies tienen solo uno como los humanos.
+
+* Oración original: ¿Cómo ayuda el ejercicio al cerebro?
+* Oración simplificada: ## La conexión entre el ejercicio y el cerebro 
+¿Cómo ayuda el ejercicio al cerebro?
+
+* Oración original: ##El alto costo del equipo
+Clark dijo que las escuelas algunas veces bajan las cuotas para los estudiantes más pobres que quieren practicar deportes.
+* Oración simplificada: ##El equipo cuesta incluso más
+Clark dijo que las escuelas algunas veces reducen sus cuotas para los estudiantes que no tienen suficiente dinero.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

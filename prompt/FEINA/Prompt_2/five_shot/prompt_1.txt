@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Para nuestros propósitos la siguiente definición parece ser la más adecuada: Trabajo es la actividad humana que reside en transformar el ambiente con el fin de lograr ciertos objetivos, especialmente la subsistencia y conservación de la vida.
+* Oración simplificada: Esta definición es la más adecuada para nuestros propósitos: trabajo es la actividad humana que reside en transformar el ambiente con el fin de lograr ciertos objetivos, especialmente la subsistencia y conservación de la vida.
+
+* Oración original: Cuando recibas los cheques de reembolso, deposítalos en tu cuenta de ahorro.
+* Oración simplificada: Deposita los cheques de reembolso recibidos en tu cuenta de ahorro.
+
+* Oración original: Mientras más se sienta como si hubiese fracasado en cierta área, más rápido va a sentir el ímpetu de demostrar que sí puede tener éxito.
+* Oración simplificada: Mientras más sienta que fracasó en cierta área, mayores ganas sentirá por demostrar que sí puede tener éxito.
+
+* Oración original: Como puede verse, siguiendo esta historia, el origen del dinero, la configuración y evolución que fue tomando, está entrañablemente ligado al proceso mismo del mercadeo, cuyas primeras luces también se vislumbran con el ya mencionado trueque.
+* Oración simplificada: El origen del dinero, su configuración y su evolución están ligados al proceso del mercadeo, que empezó con el trueque.
+
+* Oración original: Es importante que sus años dorados realmente sean dorados y no una ilusión sin sustento financiero.
+* Oración simplificada: Es importante que sus años de retiro sean de provecho y no una ilusión sin sustento financiero.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Ambos grupos de investigación han notificado un complejo génico formado por tres genes que conforman parte de la respuesta inmunológica innata del cuerpo a las bacterias y virus invasores.
+* Oración simplificada: Ambos grupos de investigación han notado un grupo de tres genes.Estos forman parte de la reacción inmunológica innata del cuerpo a las bacterias y virus invasores.La inmunidad innata es cuando las personas nacen con la protección para ciertas enfermedades.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: De hecho, muchos subproductos industriales y también agropecuarios han pasado o pasan por esta transición.
+* Oración simplificada: Muchos subproductos industriales y agropecuarios pasan por este cambio.
+
+* Oración original: Cobros derivados del reembolso de anticipos y préstamos a terceros (distintos de las operaciones de este tipo hechas por entidades financieras).
+* Oración simplificada: Cobros de devolución de adelantos y préstamos a terceros.
+
+* Oración original: Desde el mismo momento en que usted da el primer paso hacia delante, deja de ser niño y se convierte en hombre.
+* Oración simplificada: Desde que da el primer paso hacia delante, deja de ser niño y se convierte en hombre.
+
+* Oración original: Una opción es revisar si la inversión que se desea está calificada por una agencia.
+* Oración simplificada: Una opción es revisar si la inversión deseada está calificada por una agencia.
+
+* Oración original: En general, se dice que la rentabilidad normal de una inversión en países desarrollados fluctúa, en promedio, entre el 6 % y el 8 % anual.
+* Oración simplificada: Generalmente, la rentabilidad normal de una inversión en países desarrollados varía entre el seis por ciento y el ocho por ciento anual.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Solamente en este año, 13 jugadores cubanos fueron contratados por equipos de las grandes ligas.
+* Oración simplificada: Este año, 13 jugadores cubanos fueron contratados por equipos de las grandes ligas.## Soñando con las grandes ligas
+
+* Oración original: Según los dirigentes de Under Armour, la clave está en lograr sacar a la luz los temas que favorecen la conexión emocional de sus clientes con los deportistas y los equipos.
+* Oración simplificada: ## La clave está en la conexión emocionalSegún los dirigentes de Under Armour, la clave es encontrar temas que establezcan una conexión emocional entre los deportistas, los equipos y los clientes.
+
+* Oración original: Después jugaron al softball, un deporte al que muchos de los adolescentes no habían jugado nunca.
+* Oración simplificada: Después, jugaron una partida de softball.Muchos de los adolescentes nunca habían jugado antes al softball.
+
+* Oración original: HUNTINGTON BEACH, Calif. — Algunos republicanos conservadores usan la expresión "ciudad santuario" para que las leyes aplicables a inmigrantes, o personas de otros países que residen en los Estados Unidos, sean más estrictas.
+* Oración simplificada: HUNTINGTON BEACH, Calif. — Algunos legisladores conservadores se están quejando de las ciudades que protegen a inmigrantes que están en el país ilegalmente, o personas de otros países que están aquí en contra de la ley.Ellos les llaman "ciudades santuario".Un santuario es un lugar seguro.
+
+* Oración original: Quiere que los 50 estados usen el examen de ciudadanía estadounidense con estudiantes de preparatoria en 2017.
+* Oración simplificada: Ellos quieren que los 50 estados usen el examen de ciudadanía en sus escuelas preparatorias.Y quieren que esto suceda en 2017.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

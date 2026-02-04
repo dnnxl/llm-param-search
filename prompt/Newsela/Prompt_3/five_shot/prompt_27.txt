@@ -1,0 +1,27 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Frecuentemente, los legisladores, decía Ramakrishnan, "no admiten el hecho de que puede haber cientos de miles de individuos pertenecientes al grupo asiático que se encuentran enfrentándose a barreras lingüísticas, viviendo con un alto índice de pobreza y sin acceso a ningún servicio de asistencia médica.
+* Oración simplificada: Ramakrishnan comentó que hay "cientos de miles de individuos pertenecientes al grupo asiático que se encuentran enfrentando barreras lingüísticas, viviendo en la pobreza y sin acceso a ningún servicio de salud".
+
+* Oración original: Ababio dice que cuando trabaja su teléfono está apagado y su computador también, excepto si tiene que buscar algo en Internet.
+* Oración simplificada: Ababio dice que cuando trabaja su teléfono está apagado y su computador también.Solo lo prende si necesita buscar algo en Internet.
+
+* Oración original: Quienes promueven el cambio cuentan con la atención de algunos de los principales líderes nacionales.
+* Oración simplificada: ## Líderes hacen un llamado al cambioLos que están impulsando el cambio tienen la atención de los principales líderes.
+
+* Oración original: Aun así, los científicos se han preguntado durante mucho tiempo: ¿podrían los genes peligrosos ser alterados antes de ser transmitidos a otra generación o eliminarse cuando un bebé se encuentra en el útero de su madre?
+* Oración simplificada: Si hacen eso pueden evitar que un gen dañino pase de una generación a otra.Tal vez los doctores podrían hasta eliminar genes dañinos del cuerpo de un bebé aún en el útero de su madre.
+
+* Oración original: Simplemente seguimos la ley", dijo el jefe de policía, Robert Handy, y añadió que normalmente sus policías no preguntan a los residentes su estatus migratorio porque eso no tiene relación con sus casos.
+* Oración simplificada: ## El jefe de la policía piensa que deben seguir la leySolo seguimos la ley", dijo el jefe de policía, Robert Handy, y añadió que normalmente sus policías no preguntan a los residentes si son inmigrantes.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

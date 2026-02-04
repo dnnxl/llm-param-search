@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: "Y al hacer eso, se nos crea el hábito, en cierta forma, de ayudar a los demás".
+* Oración simplificada: ## Crear el hábito de ayudar a los demásY al hacer eso, les crea el hábito, en cierta forma, de ayudar a los demás.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

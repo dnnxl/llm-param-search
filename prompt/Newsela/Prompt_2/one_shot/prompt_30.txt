@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Son también los que guardan la mayor semejanza genética con el lobo gris, del cual se piensa desde hace mucho tiempo, que es el más cercano ancestro en estado salvaje del perro.
+* Oración simplificada: Los científicos descubrieron que los canes provenientes del sur de Asia Oriental son los que presentan la mayor diversidad genética en comparación con las poblaciones de otras partes del mundo, y son también los que guardan la mayor semejanza genética con el lobo gris, el cual se cree que es el antepasado más cercano del perro.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

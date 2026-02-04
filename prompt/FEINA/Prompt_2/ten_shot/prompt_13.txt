@@ -1,0 +1,43 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: En este sentido, se desarrollan temas como qué es, para qué sirve, y aspectos que comprende la educación financiera; así como el concepto de libertad financiera.
+* Oración simplificada: En ese sentido, se tratan temas como qué es, para qué sirve, el concepto de libertad financiera y otros aspectos.
+
+* Oración original: Ellos son: a) el trabajo, b) la tierra y los recursos naturales, c) el capital y d) la habilidad empresarial y obviamente la tecnología para ésta.
+* Oración simplificada: Ellos son: a) el trabajo, b) la tierra y los recursos naturales, c) el capital y d) la habilidad empresarial y la tecnología para esta.
+
+* Oración original: Cuando él murió, era un multimillonario -el hombre más adinerado del mundo-.
+* Oración simplificada: Cuando él murió, era un multimillonario.
+
+* Oración original: En este sentido, en el marco de la educación financiera es importante realizar inversiones en su propia formación, entrenamiento y capacitación, haciendo realidad los planteamientos de una educación permanente, para toda la vida que contribuye, a su vez, con la realización personal.
+* Oración simplificada: este sentido, en el marco de la educación financiera es importante realizar inversiones en su propia formación, entrenamiento y capacitación.  Hacer realidad los planteamientos de una educación permanente que contribuye con la realización personal.
+
+* Oración original: Micro-climático: Relativo al microclima, que es el clima local o situado en un lugar de características distintas a las de la zona en que se encuentra.
+* Oración simplificada: Un microclima es un clima situado en un lugar de características distintas a las de la zona en que se encuentra.
+
+* Oración original: Avisa de inmediato al banco o a la cooperativa de crédito ("credit union") si existe algún error o si perdiste o te robaron un cheque o la tarjeta de débito o de crédito.
+* Oración simplificada: Avisa inmediatamente al banco o a la cooperativa de crédito si existe algún error. Hazlo también si perdiste o te robaron un cheque o la tarjeta de débito o crédito.
+
+* Oración original: Luego, el mismo autor agrega, y aunque extenso, pero dada su importancia lo transcribiremos en toda su dimensión:
+* Oración simplificada: Luego, el mismo autor agrega una opinión extensa, pero se trascribirá completa por su importancia:
+
+* Oración original: En caso de que la empresa decida decretar un dividendo, los accionistas preferentes tienen prioridad sobre los accionistas comunes.
+* Oración simplificada: Los accionistas preferentes tienen prioridad sobre los accionistas comunes cuando la empresa decreta un dividendo.
+
+* Oración original: Específicas: Quiero pasar mis vacaciones de fin de año en la playa Puerto Escondido. Y no: Quiero hacer algo diferente en mis vacaciones de fin de año."
+* Oración simplificada: Específicas. Por ejemplo, querer pasar las vacaciones de fin de año en la playa Puerto Escondido es un deseo específico.
+
+* Oración original: La siguiente figura muestra algunas relaciones del Estados de Resultados y el Estado de Situación Financiera:
+* Oración simplificada: La siguiente figura muestra algunas relaciones del estado de resultados y el estado de situación financiera:
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

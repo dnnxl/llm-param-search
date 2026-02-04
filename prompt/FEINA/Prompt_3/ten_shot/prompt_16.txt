@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: La actual sede del gobierno de Chile, el conocido Palacio de la moneda, ubicado en la calle del mismo nombre, en el centro de la ciudad de Santiago, originalmente fue proyectado para albergar la casa de moneda, entidad encargada de acuñar y emitir dinero en la época colonial, por eso lleva ese nombre.
+* Oración simplificada: La actual sede del Gobierno de Chile, el Palacio de la moneda ubicado en la calle del mismo nombre en el centro de la ciudad de Santiago, originalmente fue proyectado para albergar la casa de moneda, entidad encargada de acuñar y emitir el dinero en la época colonial.
+
+* Oración original: La productividad, además de aumentar el deseo de producir e incrementar el empleo, ayuda a vivir mejor y a disminuir el costo de vida, lo que puede redundar en un mejor nivel de vida.
+* Oración simplificada: La productividad eleva el deseo de producción y aumento de empleo, ayuda a vivir mejor y a disminuir el costo de vida.
+
+* Oración original: La producción, digamos sencillamente que es, entre las diferentes acepciones del concepto y según el enfoque económico, crear cosas o servicios con valor económico.
+* Oración simplificada: Entre los diferentes significados del concepto y según el enfoque económico, la producción es crear productos o servicios con un valor económico.
+
+* Oración original: Existen algunos conceptos que se irán clarificando a medida que se vaya ganando experiencia en el mundo de las inversiones.
+* Oración simplificada: Hay conceptos que se aclararán conforme se adquiera experiencia en las inversiones.
+
+* Oración original: Calcule el valor futuro de un préstamo de $1,000 a 5 años plazo al 12% capitalizable mensualmente.
+* Oración simplificada: Calcule el valor futuro de un préstamo de mil dólares a cinco años al doce por ciento capitalizable mensualmente.
+
+* Oración original: Se presentan datos en verde y rojo para diferentes cuentas; sin embargo, lo más importante es la última línea que presenta un saldo mayor de utilidad a la presupuestada.
+* Oración simplificada: Se presentan datos en verde y rojo para diferentes cuentas. Sin embargo, lo más importante es la última línea que presenta un saldo mayor de utilidad a la presupuestada.
+
+* Oración original: Además, el ganado vacuno, ovino, caprino, porcino y otro produce la carne que es también base de la alimentación de todas las personas, además de otros derivados como lana para los textiles y vestidos, cueros que se utilizan para zapatos, maletines y otros productos de la marroquinería, entre otros.
+* Oración simplificada: Asimismo, la ganadería vacuna, ovina, caprina y porcina produce la carne que es base de la alimentación de las personas. También produce derivados como lana para los textiles y vestidos, cueros para productos de la marroquinería, entre otros.
+
+* Oración original: Veremos esta opción más adelante en la segunda parte.
+* Oración simplificada: Veremos esta opción en la segunda parte.
+
+* Oración original: La gente dudaría de almacenar sus riquezas en la forma de dinero si supieran que el valor adquisitivo del dinero fuera a decaer sustancialmente durante el período durante el cual el dinero fuese a ser guardado.
+* Oración simplificada: La gente no guardaría sus riquezas en forma de dinero si supiera que su valor fuera a decaer durante ese período en el que está guardado.
+
+* Oración original: Este impuesto se calcula sobre el total de las remuneraciones sin considerar los beneficios de colación o alimentación y rebajando los descuentos previsionales del trabajador.
+* Oración simplificada: Este impuesto se calcula sobre el total de las remuneraciones sin considerar los beneficios de colación o alimentación. Además, rebaja los descuentos previsionales del trabajador.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

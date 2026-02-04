@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Los impuestos sobre la gasolina y el licor, así como las licencias para automóviles o vehículos en general se basan hasta cierto punto, en la teoría de los beneficios recibidos.
+* Oración simplificada: Los impuestos sobre la gasolina, el licor y las licencias para vehículos se basan en la teoría de los beneficios recibidos.
+
+* Oración original: El varias veces mencionado Yager, nos dice acertadamente sobre estos aspectos lo siguiente: La mayoría de ustedes están hambrientos de tener libertad financiera, están hastiados de tener batallas financieras porque son como un carrusel.
+* Oración simplificada: Yager habla acertadamente sobre estos aspectos y dice que la mayoría ambiciona tener libertad financiera y está cansada de tener batallas financieras inútiles.
+
+* Oración original: Por ello los países pobres, donde la mayor parte del ingreso se debe gastar en satisfacer las necesidades del momento en muchos casos acuciantes sin que sea posible el ahorro, la escasez de éste constituye una traba para la crucial inversión interna tanto en capital físico como en capital humano.
+* Oración simplificada: Por ello en los países pobres la mayor parte del ingreso se debe gastar en satisfacer las necesidades del momento sin que sea posible el ahorro.  La escasez de este constituye una traba para la inversión interna en capital físico y en capital humano.
+
+* Oración original: Tenía miedo.
+* Oración simplificada: Tenía miedo.
+
+* Oración original: Al igual que en el anterior, no se verá obligado a asegurar el vehículo full coberturas.
+* Oración simplificada: Al igual que en el anterior, no está obligado a asegurar el vehículo con total cobertura.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Los autores coinciden en que se necesitan, al menos los siguientes estudios, para obtener la información deseada.
+* Oración simplificada: Los autores coinciden en que se necesitan al menos los siguientes estudios para obtener la información deseada.
+
+* Oración original: Antes de solicitar un crédito, asegúrate de saber cuáles son las tasas de interés y los costos.
+* Oración simplificada: Antes de solicitar un crédito debes saber las tasas de interés y los costos.
+
+* Oración original: En los siguientes apartados veremos medidas sencillas para administrar el dinero de forma eficiente.
+* Oración simplificada: En los siguientes apartados veremos medidas para administrar el dinero eficazmente.
+
+* Oración original: Si al llegar hay mucha gente, mejor espere a que se descongestione el uso de la máquina.
+* Oración simplificada: Mejor espere a que se descongestione el uso de la máquina si al llegar hay mucha gente.
+
+* Oración original: El primer paso para identificar las metas para ahorrar es establecer las metas.
+* Oración simplificada: El primer paso para identificar las metas de ahorro es establecerlas.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

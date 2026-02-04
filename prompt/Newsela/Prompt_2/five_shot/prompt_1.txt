@@ -1,0 +1,28 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Era el día de su boda, ella arrastraba un largo vestido blanco y querían conmemorar el momento con un fondo de Hubba Bubba y Trident.
+* Oración simplificada: Era el día de su boda.Ella arrastraba un largo vestido blanco y quería recordar la ocasión con un fondo de Hubba Bubba y Trident.
+
+* Oración original: PALO ALTO, California — Ford Motor Company, un fabricante de automóviles, ha estado en Detroit desde 1903.
+* Oración simplificada: PALO ALTO, California — Ford Motor Company es un fabricante de automóviles.Lleva más de 100 años en Detroit, una ciudad de Míchigan.El estado es uno de los mayores fabricantes de automóviles autoconducidos.
+
+* Oración original: La escuela fue saqueada días después del derrocamiento de Saddam Hussein.
+* Oración simplificada: La escuela fue saqueada días después de que el presidente Saddam Hussein fuera derrocado, y más tarde fue parcialmente quemada.
+
+* Oración original: Sus clientes incluyen personas de negocios extranjeras que no quieren lidiar con el confuso sistema de taxis del país.
+* Oración simplificada: Muchas personas de negocios extranjeras que no quieren formar parte del confuso sistema de taxis del país usan el servicio.
+
+* Oración original: Los peces que utilizó para su experimento tenían muerte encefálica, lo que quiere decir que sus cerebros ya no funcionaban.
+* Oración simplificada: Estos peces estaban como dormidos, pues sus cerebros ya no funcionaban.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

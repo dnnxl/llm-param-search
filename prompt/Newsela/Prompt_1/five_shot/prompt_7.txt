@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La prisión que él diseñó incluía un gran cuarto con un tragaluz para que pudiera entrar la luz del sol.
+* Oración simplificada: Su diseño tenía un cuarto grande con un tragaluz para que el sol pudiera entrar.
+
+* Oración original: StoryCorps quiere que decenas de miles de jóvenes de todo el territorio estadounidense graben una entrevista con uno de sus abuelos o con alguna otra persona mayor.
+* Oración simplificada: StoryCorps quiere que miles de jóvenes en Estados Unidos entrevisten a uno de sus abuelos o a otra persona mayor.
+
+* Oración original: Las compañías de entretenimiento han estado compitiendo para desarrollar la mejor tecnología y que las películas se vean realistas.
+* Oración simplificada: Las empresas que crean películas animadas han estado compitiendo para desarrollar la mejor tecnología.
+
+* Oración original: Aproximadamente 6,4 millones de niños en Estados Unidos y una décima parte de los niños de todo el mundo sufren de esta afección y tienen dificultades a la hora de prestar atención y controlar sus impulsos.
+* Oración simplificada: Aproximadamente, 6,4 millones de niños en los Estados Unidos y una décima parte de los niños de todo el mundo sufren este problema.A estos niños se les dificulta prestar atención y controlar sus impulsos.
+
+* Oración original: Agregó que no queda mucho tiempo para hacer esto.
+* Oración simplificada: No queda mucho tiempo para construir este puente.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

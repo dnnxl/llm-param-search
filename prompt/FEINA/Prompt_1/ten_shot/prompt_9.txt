@@ -1,0 +1,36 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La función para calcular el valor futuro en Excel es VF.
+* Oración simplificada: La función para calcular el valor futuro en Excel es VF.
+
+* Oración original: La discriminación de grado 1 o discriminación perfecta es el tipo de discriminación más complicada de alcanzar.
+* Oración simplificada: La discriminación de grado uno es la más difícil de alcanzar.
+
+* Oración original: En la quiebra prevista en el capítulo 7, tus activos se venden y el dinero se divide entre tus acreedores.
+* Oración simplificada: En la quiebra del capítulo siete, tus recursos se venden y el dinero se reparte entre tus fiadores.
+
+* Oración original: La diferencia estriba en que mientras las necesidades de déficit pueden ser satisfechas, las necesidades del ser son una fuerza impelente continua.
+* Oración simplificada: La diferencia consiste en que mientras las necesidades del déficit pueden ser satisfechas, las necesidades del ser son una fuerza activa y constante.
+
+* Oración original: La siguiente figura presenta el planteamiento de una tabla que considere variaciones en ingresos y costos de producción que estaban al 50%.
+* Oración simplificada: La siguiente figura presenta una tabla con variaciones en ingresos y costos de producción al cincuenta por ciento.
+
+* Oración original: En una pequeña república, el pueblo abriga entera confianza en sus magistrados y está convencido de la necesidad que tiene todo vasallo de mantener el Estado, creyendo al mismo tiempo que se invierte fielmente para el fin a que se destina, puede verificarse un pago sincero y voluntario.
+* Oración simplificada: En una pequeña república el pueblo abriga entera confianza en sus magistrados y está convencido de la necesidad que tiene todo vasallo de mantener el Estado Cree al mismo tiempo que se invierte fielmente para el fin a que se destina, puede verificarse un pago sincero y voluntario.
+
+* Oración original: Su construcción no difiere del cálculo previamente presentado para el análisis horizontal, la diferencia es que en este caso se utilizan los porcentajes del análisis vertical de cada año que se debe obtener previamente.
+* Oración simplificada: Su construcción no difiere del cálculo presentado para el análisis horizontal. La diferencia es que se utilizan los porcentajes del análisis vertical de cada año obtenido previamente.
+
+* Oración original: Diversificar las inversiones en diferentes instrumentos para evitar riesgos; pero, si el capital es pequeño, la diversificación no sería aconsejable, pues se incurriría en lo que se denomina pulverización.
+* Oración simplificada: Diversificar las inversiones en diferentes instrumentos para evitar riesgos. Pero si el capital es pequeño la diversificación no sería aconsejable, pues se incurriría en lo que se denomina pulverización.
+
+* Oración original: El bono representa el compromiso jurídico asumido por la empresa de pagar intereses por el uso de tu dinero (por ejemplo, para construir puentes o rutas) y de devolverte el monto que pagaste originalmente por el bono (el capital).
+* Oración simplificada: El bono es el compromiso jurídico asumido por la empresa de pagar intereses por usar tu dinero. También, de devolverte el monto pagado.
+
+* Oración original: Haz todos los pagos en fecha, incluso si pagas solo el mínimo.
+* Oración simplificada: Paga puntualmente.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

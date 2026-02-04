@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: La Coalición decidió escribirle a Taco Bell.
+* Oración simplificada: La Coalición quiso ver si Taco Bell acordaba pagarles más.
+
+* Oración original: Solo se han documentado ocho casos de peste en Oregón en los últimos veinte años.
+* Oración simplificada: Ciertamente, la enfermedad es poco común, pues en Oregón solo se han documentado ocho casos de peste en los últimos 20 años.
+
+* Oración original: Esos datos recolectados podrían ser fotografías, imágenes en 3D de las plantas, lecturas de calor de cultivos o animales, u otras observaciones que un dron hace al volar.
+* Oración simplificada: Los drones pueden tomar fotografías y fotos en 3D de las plantas.Esa información antes tomaba días por reunir.Ahora puedes tenerla en minutos u horas.
+
+* Oración original: Eso no solo prolonga la crisis actual sino que socava cualquier posible acuerdo entre los demócratas y los republicanos, quienes tendrán que trabajar juntos para pagar el costo de la presente crisis y para finalmente reconstruir un sistema de inmigración que le ha estado fallando al país.
+* Oración simplificada: El tratar de ganar votos para los demócratas culpando a los congresistas Republicanos por inactividad en la frontera es algo irresponsable y peligroso.Eso solo prolongará la crisis actual.También afecta negativamente cualquier posible acuerdo entre los demócratas y los republicanos.Ellos necesitan trabajar juntos para poner fin a la presente crisis y para finalmente reconstruir un sistema de inmigración que le ha estado fallando al país.
+
+* Oración original: Cada vez aumentan más las pruebas de que ayuda a reducir las expulsiones de las escuelas, mantiene a los muchachos fuera de prisión y ayuda a evitar que aquellos jóvenes y adultos que ya han sido sentenciados caigan en la reincidencia.
+* Oración simplificada: Hay pruebas de que ayuda a mantener a los jóvenes en las escuelas y fuera del sistema de justicia penal.También ayuda a evitar que los jóvenes y adultos que ya han sido sentenciados caigan en la reincidencia.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

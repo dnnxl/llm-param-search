@@ -1,0 +1,42 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+1. Sustituya las palabras de uso poco frecuente por sinónimos utilizados comúnmente. 
+2. Sustituya las palabras con referentes abstractos y poco imaginables por palabras con referentes concretos e imaginables.
+3. Sustituya las palabras polisémicas cuando estas no se refieren al significado más recurrente. Utilice sinónimos que faciliten la desambiguación semántica.
+4. Elimine las palabras y frases que no sean necesarias para comprender el significado esencial del texto.
+5. Sustituya las expresiones léxicas complejas por sus equivalentes en una sola palabra o una frase corta con el mismo significado.
+
+Por ejemplo:
+* Oración original: Les pide que por favor organicen talleres con prisioneros y guardias similares a este.
+* Oración simplificada: Les pide que hagan talleres similares con los prisioneros.
+
+* Oración original: Se cree que ciertos tipos de ejercicio, en especial los aeróbicos, ayudan a compensar la pérdida de proteína y restablecer niveles propios de la juventud en el cerebro que se encuentra en proceso de envejecimiento.
+* Oración simplificada: Se cree que ciertos tipos de ejercicio ayudan a compensar la pérdida de proteína en las personas que envejecen y restablecer niveles propios de la juventud en el cerebro.
+
+* Oración original: El colegio nuevo era caro, pero obtuvo un descuento y solo compraba lo necesario para su familia.
+* Oración simplificada: El colegio era caro, pero obtuvo un descuento y por mucho tiempo solo compraba lo necesario.
+
+* Oración original: Es más, el récord mundial ha sido superado nueve veces en 10 años.
+* Oración simplificada: Durante los últimos 10 años el récord ha sido superado nueve veces.
+
+* Oración original: Con un toque de marcador la vestimenta carcelaria de Knight se enciende de naranja, y cada uno de sus bocetos concluye con "Mona", una firma en color negro.
+* Oración simplificada: Cada uno de sus bocetos concluye con "Mona", una firma en color negro.
+
+* Oración original: Pollak esperaba ver que la brecha se cerrara a medida que los niños crecían, ya que pasaban más tiempo en la escuela y fuera de sus hogares; pero no fue el caso.
+* Oración simplificada: Él pensaba que pasar más tiempo en la escuela ayudaría al cerebro de los niños.Pero no fue así.
+
+* Oración original: Los aparatos registraron cuánto tiempo estuvieron las niñas en actividad y cuán rápidos eran los movimientos.
+* Oración simplificada: Los aparatos registraron cuánto tiempo estuvieron las niñas en actividad y la rapidez de los movimientos.
+
+* Oración original: — Un arqueólogo mexicano afirmó que su equipo ha encontrado un pasaje con forma de túnel que parece conducir hacia dos cámaras cerradas.
+* Oración simplificada: — El equipo de un arqueólogo mexicano ha encontrado un importante pasadizo en el Templo Mayor de México, D.F.El pasaje con forma de túnel parece conducir hacia dos cámaras selladas que están debajo del templo.
+
+* Oración original: Pensaron también atarles un montón de globos a las piernas.
+* Oración simplificada: También pensaron atarles muchos globos a las piernas, o ponerla dentro de una caja.
+
+* Oración original: Los propietarios obtendrán el sistema a través de una actualización de software a partir de la tarde del miércoles en Norteamérica.
+* Oración simplificada: ## La clave está en la actualización del softwareEn Norteamérica, los propietarios obtendrán el sistema a través de una actualización de software a partir de la tarde del miércoles.Por su parte, los propietarios en Europa y Asia tardarán cerca de una semana en recibir la actualización.
+
+Proporciona solo la simplificación de la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

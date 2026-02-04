@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: A este movimiento todavía le queda mucho por lograr: En Estados Unidos hay más de 24.000 preparatorias (también llamados liceos, institutos de bachillerato o de secundaria, según el país).Las escuelas públicas de St. Paul (Minnesota) retrasaron la adopción de un horario más tardío para todos sus alumnos de preparatoria, incluso después de haber observado estupendos resultados en un proyecto piloto con una escuela, por motivos de transporte público.
+* Oración simplificada: A este movimiento todavía le queda mucho por lograr: en Estados Unidos hay más de 24.000 preparatorias (también llamados liceos, o institutos de bachillerato o de secundaria, según el país).Incluso después de haber observado muy buenos resultados en un proyecto piloto con una escuela, las escuelas públicas de St. Paul (Minnesota) retrasaron la adopción de un horario más tarde para todos sus alumnos de preparatoria por razones económicas: encarecía los costos del transporte público.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

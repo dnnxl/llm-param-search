@@ -1,0 +1,16 @@
+Simplifica la siguiente oración dada las siguientes reglas:
+
+- Responda siempre con el mismo formato. 
+- Responda siempre en español 
+- Utilice palabras más simples y oraciones más cortas. 
+- Evite estructuras de oraciones complejas. 
+- Use voz activa y tiempo presente cuando sea posible. 
+- Acorte párrafos largos. 
+
+Por ejemplo:
+* Oración original: Antes de elaborar un presupuesto se debe trabajar en la planificación, la cual es un ejercicio de análisis, que permite prever o vislumbrar con anticipación que los hechos ocurran o puedan ocurrir.
+* Oración simplificada: La planificación es un ejercicio de análisis que permite prever los hechos futuros. Se debe trabajar en la planificación antes de elaborar un presupuesto.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

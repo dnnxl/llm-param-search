@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: Cuando él murió, era un multimillonario -el hombre más adinerado del mundo-.
+* Oración simplificada: Cuando él murió, era un multimillonario.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

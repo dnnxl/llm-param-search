@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: El acuario, el cual ha dicho que necesita a las belugas para fortalecer la reserva de genes de cetáceos en cautiverio en Estados Unidos y para investigación, argumentó que la negativa de la agencia a su solicitud de permiso fue arbitraria y caprichosa.
+* Oración simplificada: El acuario argumentó que necesita las belugas para fortalecer la reserva de genes de cetáceos en cautiverio en Estados Unidos y para investigaciones.En su opinión, la negativa de la agencia a su solicitud de permiso fue arbitraria y caprichosa.## Varios acuarios de Estados Unidos
+
+* Oración original: Él dijo que parte del problema es la alta demanda de los productos de Rey y por eso algunos de los compradores no la consiguen en las tiendas.
+* Oración simplificada: Dijo que parte del problema es que demasiada gente está comprando los juguetes de Rey.
+
+* Oración original: Creen que esto podría provocarles que pierdan oportunidades de aprendizaje.
+* Oración simplificada: Creen que esto podría provocarles que pierdan oportunidades para aprender.
+
+* Oración original: Peter Nasir, quien tenía la esperanza de que su restaurante Azure se convirtiera en un destino culinario, se lamentó recientemente al ver que el nivel máximo de aventura de su clientela se limita a su pollo chow mein.
+* Oración simplificada: Peter Nasir, quien tenía la esperanza de que su restaurante Azure fuera un éxito, se lamentó recientemente al ver que el nivel de aventura al que su clientela está dispuesta a llegar se limita a su pollo chow mein.
+
+* Oración original: La red les permite compartir unos con otros, de forma rápida y eficiente, los alimentos excedentes que, de otra forma, irían a parar a la basura.
+* Oración simplificada: La red les permite a los comedores compartir unos con otros los alimentos excedentes que, de otra forma, irían a parar a la basura.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

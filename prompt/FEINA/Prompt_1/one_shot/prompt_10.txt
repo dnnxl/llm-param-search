@@ -1,0 +1,9 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: En el lenguaje económico y de la administración de las finanzas, es muy común oír hablar de la inversión, como una modalidad o recurso que le permite a las personas, a las familias, a las empresas y organizaciones e incluso al Estado, poner a trabajar sus ahorros, en función de incrementarlos y aportarle a ellos un valor agregado mediante los intereses, dividendos u otros dineros que se obtienen con la inversión, según sea el tipo o modalidad de inversión por la que se opte.
+* Oración simplificada: En el lenguaje económico y de la administración de las finanzas es común escuchar sobre inversión. Como un recurso que les permite a las personas aumentar sus ahorros según la modalidad de inversión escogida.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 

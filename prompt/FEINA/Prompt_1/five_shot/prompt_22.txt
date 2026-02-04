@@ -1,0 +1,21 @@
+Simplifica la siguiente oración dado los siguientes ejemplos:
+
+Por ejemplo:
+* Oración original: ¿Qué características deben tener los medios de pago en Internet?
+* Oración simplificada: ¿Cuáles características deben tener los medios de pago en internet?
+
+* Oración original: Inversión: Es la aplicación de recursos económicos al objetivo de obtener ganancias por un determinado periodo.
+* Oración simplificada: Una inversión es la aplicación de recursos económicos al objetivo de obtener ganancias por un determinado período.
+
+* Oración original: Se trata sólo de una entre las tantas razones perentorias atadas al trabajo, a la producción y sobre todo a la vida ciudadana de las sociedades y los estados de hoy en día, pues los impuestos, además de esta dimensión material, tienen otros alcances existenciales y políticos y, por estas circunstancias, se torna más enfática la necesidad cuidadosa de la equidad y el respeto del contribuyente por parte del Estado, especialmente cuando hay tendencia a la sobrecarga tributaria, producto a veces de arreglos políticos espurios, no muy claros por consiguiente, entre los gobernantes y otros grupos que conllevan especiales intereses y, también a veces, por la insensatez en el manejo de la economía del país.
+* Oración simplificada: Se trata de una entre las tantas razones perentorias atadas al trabajo, a la producción y sobre todo a la vida ciudadana de las sociedades y los estados de hoy. Pues los impuestos, además de esta dimensión material tienen otros alcances existenciales y políticos, y por estas circunstancias se torna más enfática la necesidad de la equidad y el respeto del contribuyente por parte del Estado. Especialmente cuando hay tendencia a la sobrecarga tributaria debido a arreglos políticos ilegítimos entre los gobernantes y otros grupos que conllevan especiales intereses. Y también a veces por la insensatez en el manejo de la economía del país.
+
+* Oración original: El segundo paso es conocer su flujo de efectivo, es decir, cuáles son los recursos financieros con los que cuenta, ¿cuánto dinero debe?
+* Oración simplificada: El segundo paso es conocer cuáles son sus recursos financieros, ¿cuánto dinero debe?
+
+* Oración original: Las personas o las tiendas se niegan a darte crédito.
+* Oración simplificada: Las personas o las tiendas no te dan crédito.
+
+Simplifica la siguiente oración:
+* Oración original: PREPROCESS_TEXT
+* Oración simplificada: 
