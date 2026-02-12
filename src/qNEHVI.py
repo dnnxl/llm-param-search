@@ -184,7 +184,7 @@ from botorch.optim import optimize_acqf
 from botorch.sampling.normal import SobolQMCNormalSampler
 from botorch.utils.multi_objective.pareto import is_non_dominated
 from botorch.utils.multi_objective.hypervolume import Hypervolume
-
+from botorch.utils.sampling import draw_sobol_samples
 
 # =========================================================
 # USER CONFIG
@@ -195,8 +195,8 @@ DATA_PATH = "/home/danny.xie/data/dxie/llm-param-search/dataset/FEINA_test_split
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 N_BATCH = 10
-MC_SAMPLES = 128
-REF_POINT = torch.tensor([20.0, 0.75], dtype=torch.double)
+MC_SAMPLES = 128 # Monte Carlo Samples
+REF_POINT = torch.tensor([20.0, 0.75], dtype=torch.double) # SARI and BERTScore reference point for hypervolume calculation
 
 
 # =========================================================
@@ -394,6 +394,8 @@ def evaluate_decoding_params(x_unnorm: torch.Tensor):
 # =========================================================
 # SEARCH SPACE
 # =========================================================
+# Temperature, top p, top k, repetition penalty, max tokens
+# Adjustar con los findings con lo que encontró Martin
 bounds = torch.tensor([
     [0.1, 0.5,   10, 1.0,  20],
     [1.5, 1.0,  200, 2.0, 200],
@@ -445,7 +447,6 @@ def save_bo_state(iteration, train_x, train_obj, train_obj_true):
         os.path.join(RESULTS_DIR, f"bo_iteration_{iteration}.csv"), index=False
     )
 
-
 def save_pareto(iteration, train_x, train_obj_true):
     pareto_mask = is_non_dominated(train_obj_true)
     pareto_x = unnormalize(train_x[pareto_mask], bounds).cpu().numpy()
@@ -462,14 +463,12 @@ def save_pareto(iteration, train_x, train_obj_true):
     })
     df.to_csv(os.path.join(RESULTS_DIR, f"pareto_iteration_{iteration}.csv"), index=False)
 
-
 def save_hypervolume(iteration, train_obj_true):
     hv = Hypervolume(ref_point=REF_POINT)
     pareto_mask = is_non_dominated(train_obj_true)
     hv_value = hv.compute(train_obj_true[pareto_mask])
     with open(os.path.join(RESULTS_DIR, "hypervolume.csv"), "a") as f:
         f.write(f"{iteration},{hv_value}\n")
-
 
 def save_best_configuration(train_x, train_obj_true):
     pareto_mask = is_non_dominated(train_obj_true)
@@ -491,12 +490,17 @@ def save_best_configuration(train_x, train_obj_true):
     with open(os.path.join(RESULTS_DIR, "best_configuration.json"), "w") as f:
         json.dump(result, f, indent=4)
 
-
 # =========================================================
 # INITIAL DATA + BO LOOP (UNCHANGED)
 # =========================================================
 def generate_initial_data(n=6):
-    train_x = torch.rand(n, bounds.shape[1], dtype=torch.double)
+    #train_x = torch.rand(n, bounds.shape[1], dtype=torch.double)
+    train_x = draw_sobol_samples(
+        bounds=bounds,
+        n=n,
+        q=1
+    ).squeeze(1)
+
     x_unnorm = unnormalize(train_x, bounds)
     train_obj_true = evaluate_decoding_params(x_unnorm)
     noise_std = torch.tensor([0.5, 0.01])
@@ -545,7 +549,7 @@ for iteration in range(N_BATCH):
     candidates, _ = optimize_acqf(
         acq_function=acq_func,
         bounds=standard_bounds,
-        q=2,
+        q=1, # Cuantos configuraciones candidatas genero (temperature, top p, topk, ...)
         num_restarts=10,
         raw_samples=256,
     )
