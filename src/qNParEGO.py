@@ -187,6 +187,7 @@ from botorch.utils.multi_objective.pareto import is_non_dominated
 from botorch.utils.multi_objective.hypervolume import Hypervolume
 from botorch.sampling.normal import SobolQMCNormalSampler
 from botorch.utils.transforms import unnormalize
+from botorch.utils.sampling import draw_sobol_samples
 
 # =========================================================
 # USER CONFIG
@@ -479,7 +480,13 @@ def save_best_configuration(train_x, train_obj_true):
 # INITIAL DATA + MODEL
 # =========================================================
 def generate_initial_data(n=6):
-    train_x = torch.rand(n, bounds.shape[1], dtype=torch.double)
+    #train_x = torch.rand(n, bounds.shape[1], dtype=torch.double)
+    train_x = draw_sobol_samples(
+        bounds=bounds,
+        n=n,
+        q=1
+    ).squeeze(1)
+
     x_unnorm = unnormalize(train_x, bounds)
     train_obj_true = evaluate_decoding_params(x_unnorm)
     noise_std = torch.tensor([0.5, 0.01])
