@@ -166,7 +166,9 @@ import re
 import json
 import time
 import torch
+import random
 import hashlib
+import platform
 import numpy as np
 import pandas as pd
 from tqdm import tqdm
@@ -189,27 +191,67 @@ from botorch.utils.sampling import draw_sobol_samples
 # =========================================================
 # USER CONFIG
 # =========================================================
-MODEL_NAME = "unsloth/Qwen3-0.6B-unsloth-bnb-4bit"
-DATA_PATH = "/home/danny.xie/data/dxie/llm-param-search/dataset/FEINA_test_split_train_2.csv"
+OPTIMIZATION_ALGORITHM = "qNEHVI"
+MODEL_NAME = "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit" #"unsloth/Qwen3-0.6B-unsloth-bnb-4bit"
+SAFE_MODEL_NAME = MODEL_NAME.replace("/", "_")
+DATA_PATH = "/data/dxie/llm-optimization/dataset/FEINA_test_split_train_30.csv"
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 N_BATCH = 10
-MC_SAMPLES = 128 # Monte Carlo Samples
-REF_POINT = torch.tensor([20.0, 0.75], dtype=torch.double) # SARI and BERTScore reference point for hypervolume calculation
+N_INIT = 50
+MC_SAMPLES = 128
+REF_POINT = torch.tensor([20.0, 0.75], dtype=torch.double)
 
+EXPERIMENT_ID = "experiment_01"
+SEED = 42
 
 # =========================================================
-# EXPERIMENT FOLDER
+# REPRODUCIBILITY
 # =========================================================
-EXPERIMENT_ID = datetime.now().strftime("%Y%m%d_%H%M%S")
-RESULTS_DIR = f"/home/danny.xie/data/dxie/llm-param-search/src/bo_results_{EXPERIMENT_ID}"
+torch.manual_seed(SEED)
+np.random.seed(SEED)
+random.seed(SEED)
+
+# =========================================================
+# DIRECTORIES
+# =========================================================
+RESULTS_DIR = f"./bo_results_{SAFE_MODEL_NAME}_{EXPERIMENT_ID}"
 CACHE_DIR = os.path.join(RESULTS_DIR, "cache")
 os.makedirs(RESULTS_DIR, exist_ok=True)
 os.makedirs(CACHE_DIR, exist_ok=True)
 
-print(f"Results will be saved in: {RESULTS_DIR}")
+CHECKPOINT_PATH = os.path.join(RESULTS_DIR, "bo_checkpoint.pt")
+HV_LOG_PATH = os.path.join(RESULTS_DIR, "hypervolume_log.txt")
 
+print(f"Results directory: {RESULTS_DIR}")
+
+# =========================================================
+# SAVE EXPERIMENT METADATA
+# =========================================================
+metadata = {
+    "algorithm_optimization": OPTIMIZATION_ALGORITHM,
+    "model_name": MODEL_NAME,
+    "dataset_path": DATA_PATH,
+    "n_init": N_INIT,
+    "n_batch": N_BATCH,
+    "mc_samples": MC_SAMPLES,
+    "ref_point": REF_POINT.tolist(),
+    "seed": SEED,
+}
+
+with open(os.path.join(RESULTS_DIR, "experiment_config.json"), "w") as f:
+    json.dump(metadata, f, indent=4)
+
+env_info = {
+    "python_version": platform.python_version(),
+    "torch_version": torch.__version__,
+    "device": DEVICE,
+    "platform": platform.platform(),
+}
+
+with open(os.path.join(RESULTS_DIR, "environment.json"), "w") as f:
+    json.dump(env_info, f, indent=4)
 
 # =========================================================
 # LOAD MODEL + METRICS
@@ -220,12 +262,11 @@ llm_model, tokenizer = FastModel.from_pretrained(
     max_seq_length=8192,
 )
 
-print("Loading evaluation metrics...")
+print("Loading metrics...")
 sari_metric = evaluate.load("sari")
 bertscore_metric = evaluate.load("bertscore")
 
 df_global = pd.read_csv(DATA_PATH)
-
 
 # =========================================================
 # PROMPT
@@ -233,13 +274,8 @@ df_global = pd.read_csv(DATA_PATH)
 def build_prompt(text):
     return f"Simplifica el siguiente segmento discursivo:\n\nSegmento complejo: {text}\nSegmento simplificado:"
 
-
-# =========================================================
-# CLEANING
-# =========================================================
 def clean_string(s):
     return re.sub(r"\s+", " ", s or "").strip()
-
 
 def extract_assistant_response(raw_text):
     if "Qwen" in MODEL_NAME:
@@ -251,45 +287,43 @@ def extract_assistant_response(raw_text):
                 return clean_string(parts[-1])
     return clean_string(raw_text)
 
-
-# =========================================================
-# GENERATION
-# =========================================================
 def generate_simplification(text, temperature, top_p, top_k, rep_pen, max_tokens):
     prompt = build_prompt(text)
 
     messages = [{"role": "user", "content": prompt}]
     prompt_text = tokenizer.apply_chat_template(
-        messages, add_generation_prompt=True, tokenize=False
+        messages,
+        add_generation_prompt=True,
+        tokenize=False,
+        enable_thinking=False
     )
-    inputs = tokenizer(prompt_text, return_tensors="pt").to(DEVICE)
+
+    inputs = tokenizer(prompt_text, return_tensors="pt")
+    inputs = {k: v.to(DEVICE) for k, v in inputs.items()}
 
     with torch.no_grad():
         outputs = llm_model.generate(
             **inputs,
-            max_new_tokens=max_tokens,
+            max_new_tokens=int(max_tokens),
             do_sample=True,
-            temperature=temperature,
-            top_p=top_p,
+            temperature=float(temperature),
+            top_p=float(top_p),
             top_k=int(top_k),
-            repetition_penalty=rep_pen,
-            eos_token_id=tokenizer.eos_token_id,
-            pad_token_id=tokenizer.eos_token_id,
+            repetition_penalty=float(rep_pen),
+            use_cache=True,
         )
 
     decoded = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    return extract_assistant_response(decoded)
-
+    return clean_string(extract_assistant_response(decoded))
 
 # =========================================================
-# CACHE HASH
+# CACHE
 # =========================================================
 def config_hash(params):
     return hashlib.md5(json.dumps(params, sort_keys=True).encode()).hexdigest()
 
-
 # =========================================================
-# OBJECTIVE FUNCTION (NOW SAVES GENERATIONS)
+# OBJECTIVE FUNCTION
 # =========================================================
 def evaluate_decoding_params(x_unnorm: torch.Tensor):
     results = []
@@ -299,28 +333,23 @@ def evaluate_decoding_params(x_unnorm: torch.Tensor):
         max_tokens = int(max_tokens)
 
         params = {
-            "temp": temperature,
+            "temperature": temperature,
             "top_p": top_p,
             "top_k": int(top_k),
-            "rep": rep_pen,
-            "max_tok": max_tokens,
+            "rep_pen": rep_pen,
+            "max_tokens": max_tokens,
         }
 
         hash_id = config_hash(params)
         cache_file = os.path.join(CACHE_DIR, hash_id + ".json")
-        gen_file_json = os.path.join(CACHE_DIR, hash_id + "_generations.json")
-        gen_file_csv = os.path.join(CACHE_DIR, hash_id + "_generations.csv")
 
-        if os.path.exists(cache_file) and os.path.exists(gen_file_json):
+        if os.path.exists(cache_file):
             with open(cache_file) as f:
                 metrics = json.load(f)
-            print("Loaded cached result:", metrics)
             results.append([metrics["sari"], metrics["bert"]])
             continue
 
         preds, sources, refs_all = [], [], []
-
-        start_time = time.time()
 
         for _, row_data in tqdm(df_global.iterrows(), total=len(df_global), leave=False):
             source = str(row_data["Segmento"])
@@ -332,15 +361,12 @@ def evaluate_decoding_params(x_unnorm: torch.Tensor):
             ]
 
             pred = generate_simplification(
-                source, float(temperature), float(top_p),
-                int(top_k), float(rep_pen), max_tokens
+                source, temperature, top_p, top_k, rep_pen, max_tokens
             )
 
             preds.append(pred)
             sources.append(source)
             refs_all.append(refs)
-
-        inference_time = time.time() - start_time
 
         sari = sari_metric.compute(
             sources=sources,
@@ -352,161 +378,45 @@ def evaluate_decoding_params(x_unnorm: torch.Tensor):
             bertscore_metric.compute(
                 predictions=preds,
                 references=refs_all,
-                lang="other"
+                lang="other",
+                nthreads=8,
             )["f1"]
         )
 
         metrics = {
             "sari": sari,
             "bert": float(bert),
-            "inference_time_sec": inference_time
+            "params": params,
+            "predictions": preds,
         }
 
         with open(cache_file, "w") as f:
-            json.dump(metrics, f, indent=4)
+            json.dump(metrics, f)
 
-        # ================= GENERATION SAVE =================
-        generation_data = [
-            {"source": s, "prediction": p, "references": r}
-            for s, p, r in zip(sources, preds, refs_all)
-        ]
-
-        with open(gen_file_json, "w") as f:
-            json.dump({"params": params, "generations": generation_data}, f, indent=2, ensure_ascii=False)
-
-        df_gen = pd.DataFrame({
-            "source": sources,
-            "prediction": preds,
-            "ref_1": [r[0] for r in refs_all],
-            "ref_2": [r[1] for r in refs_all],
-            "ref_3": [r[2] for r in refs_all],
-            "ref_4": [r[3] for r in refs_all],
-        })
-        df_gen.to_csv(gen_file_csv, index=False)
-        # ===================================================
-
-        print("Evaluated:", metrics)
         results.append([sari, bert])
 
     return torch.tensor(results, dtype=torch.double)
 
-
 # =========================================================
 # SEARCH SPACE
 # =========================================================
-# Temperature, top p, top k, repetition penalty, max tokens
-# Adjustar con los findings con lo que encontró Martin
 bounds = torch.tensor([
-    [0.1, 0.5,   10, 1.0,  20],
-    [1.5, 1.0,  200, 2.0, 200],
+    [0.1, 0.5, 10, 1.0, 50],
+    [1.5, 1.0, 200, 2.0, 200],
 ], dtype=torch.double)
 
 standard_bounds = torch.zeros_like(bounds)
 standard_bounds[1] = 1
 
-
 # =========================================================
-# SAVE FUNCTIONS (unchanged except inference time read)
+# INITIAL DATA
 # =========================================================
-def save_bo_state(iteration, train_x, train_obj, train_obj_true):
-    x_unnorm = unnormalize(train_x, bounds).cpu().numpy()
-    noisy = train_obj.cpu().numpy()
-    true = train_obj_true.cpu().numpy()
-
-    rows = []
-    for i in range(len(x_unnorm)):
-        params = {
-            "temp": x_unnorm[i][0],
-            "top_p": x_unnorm[i][1],
-            "top_k": int(x_unnorm[i][2]),
-            "rep": x_unnorm[i][3],
-            "max_tok": int(x_unnorm[i][4]),
-        }
-
-        cache_file = os.path.join(CACHE_DIR, config_hash(params) + ".json")
-        inference_time = None
-        if os.path.exists(cache_file):
-            with open(cache_file) as f:
-                inference_time = json.load(f).get("inference_time_sec")
-
-        rows.append({
-            "iteration": iteration,
-            "temperature": x_unnorm[i][0],
-            "top_p": x_unnorm[i][1],
-            "top_k": int(x_unnorm[i][2]),
-            "repetition_penalty": x_unnorm[i][3],
-            "max_tokens": int(x_unnorm[i][4]),
-            "sari_true": true[i][0],
-            "bert_true": true[i][1],
-            "sari_noisy": noisy[i][0],
-            "bert_noisy": noisy[i][1],
-            "inference_time_sec": inference_time,
-        })
-
-    pd.DataFrame(rows).to_csv(
-        os.path.join(RESULTS_DIR, f"bo_iteration_{iteration}.csv"), index=False
-    )
-
-def save_pareto(iteration, train_x, train_obj_true):
-    pareto_mask = is_non_dominated(train_obj_true)
-    pareto_x = unnormalize(train_x[pareto_mask], bounds).cpu().numpy()
-    pareto_y = train_obj_true[pareto_mask].cpu().numpy()
-
-    df = pd.DataFrame({
-        "temperature": pareto_x[:,0],
-        "top_p": pareto_x[:,1],
-        "top_k": pareto_x[:,2],
-        "repetition_penalty": pareto_x[:,3],
-        "max_tokens": pareto_x[:,4],
-        "sari": pareto_y[:,0],
-        "bert": pareto_y[:,1],
-    })
-    df.to_csv(os.path.join(RESULTS_DIR, f"pareto_iteration_{iteration}.csv"), index=False)
-
-def save_hypervolume(iteration, train_obj_true):
-    hv = Hypervolume(ref_point=REF_POINT)
-    pareto_mask = is_non_dominated(train_obj_true)
-    hv_value = hv.compute(train_obj_true[pareto_mask])
-    with open(os.path.join(RESULTS_DIR, "hypervolume.csv"), "a") as f:
-        f.write(f"{iteration},{hv_value}\n")
-
-def save_best_configuration(train_x, train_obj_true):
-    pareto_mask = is_non_dominated(train_obj_true)
-    pareto_x = unnormalize(train_x[pareto_mask], bounds)
-    pareto_y = train_obj_true[pareto_mask]
-    scores = pareto_y.sum(dim=1)
-    best_idx = torch.argmax(scores)
-
-    result = {
-        "temperature": float(pareto_x[best_idx][0]),
-        "top_p": float(pareto_x[best_idx][1]),
-        "top_k": int(pareto_x[best_idx][2]),
-        "repetition_penalty": float(pareto_x[best_idx][3]),
-        "max_tokens": int(pareto_x[best_idx][4]),
-        "sari": float(pareto_y[best_idx][0]),
-        "bert": float(pareto_y[best_idx][1]),
-    }
-
-    with open(os.path.join(RESULTS_DIR, "best_configuration.json"), "w") as f:
-        json.dump(result, f, indent=4)
-
-# =========================================================
-# INITIAL DATA + BO LOOP (UNCHANGED)
-# =========================================================
-def generate_initial_data(n=6):
-    #train_x = torch.rand(n, bounds.shape[1], dtype=torch.double)
-    train_x = draw_sobol_samples(
-        bounds=bounds,
-        n=n,
-        q=1
-    ).squeeze(1)
-
-    x_unnorm = unnormalize(train_x, bounds)
-    train_obj_true = evaluate_decoding_params(x_unnorm)
+def generate_initial_data(n=N_INIT):
+    train_x = draw_sobol_samples(bounds=bounds, n=n, q=1).squeeze(1)
+    train_obj_true = evaluate_decoding_params(train_x)
     noise_std = torch.tensor([0.5, 0.01])
     train_obj = train_obj_true + noise_std * torch.randn_like(train_obj_true)
     return train_x, train_obj, train_obj_true
-
 
 def initialize_model(train_x, train_obj):
     models = []
@@ -521,18 +431,45 @@ def initialize_model(train_x, train_obj):
     mll = SumMarginalLogLikelihood(model.likelihood, model)
     return mll, model
 
+# =========================================================
+# CHECKPOINT
+# =========================================================
+def save_checkpoint(iteration, train_x, train_obj, train_obj_true):
+    torch.save({
+        "iteration": iteration,
+        "train_x": train_x.cpu(),
+        "train_obj": train_obj.cpu(),
+        "train_obj_true": train_obj_true.cpu(),
+    }, CHECKPOINT_PATH)
 
-train_x, train_obj, train_obj_true = generate_initial_data()
+def load_checkpoint():
+    checkpoint = torch.load(CHECKPOINT_PATH)
+    return (
+        checkpoint["iteration"],
+        checkpoint["train_x"],
+        checkpoint["train_obj"],
+        checkpoint["train_obj_true"],
+    )
+
+# =========================================================
+# START / RESUME
+# =========================================================
+if os.path.exists(CHECKPOINT_PATH):
+    print("Resuming experiment...")
+    start_iter, train_x, train_obj, train_obj_true = load_checkpoint()
+else:
+    print("Starting new experiment...")
+    start_iter = 0
+    train_x, train_obj, train_obj_true = generate_initial_data()
+
 mll, model = initialize_model(train_x, train_obj)
 
-with open(os.path.join(RESULTS_DIR, "hypervolume.csv"), "w") as f:
-    f.write("iteration,hypervolume\n")
-
-with open(os.path.join(RESULTS_DIR, "bo_timing.csv"), "w") as f:
-    f.write("iteration,bo_time_sec\n")
-
-for iteration in range(N_BATCH):
+# =========================================================
+# BO LOOP
+# =========================================================
+for iteration in range(start_iter, N_BATCH):
     print(f"\n=== BO Iteration {iteration+1} ===")
+
     fit_gpytorch_mll(mll)
 
     sampler = SobolQMCNormalSampler(sample_shape=torch.Size([MC_SAMPLES]))
@@ -545,18 +482,13 @@ for iteration in range(N_BATCH):
         prune_baseline=True,
     )
 
-    bo_start = time.time()
     candidates, _ = optimize_acqf(
         acq_function=acq_func,
         bounds=standard_bounds,
-        q=1, # Cuantos configuraciones candidatas genero (temperature, top p, topk, ...)
+        q=1,
         num_restarts=10,
         raw_samples=256,
     )
-    bo_time = time.time() - bo_start
-
-    with open(os.path.join(RESULTS_DIR, "bo_timing.csv"), "a") as f:
-        f.write(f"{iteration+1},{bo_time}\n")
 
     new_x = candidates
     new_x_unnorm = unnormalize(new_x, bounds)
@@ -569,12 +501,35 @@ for iteration in range(N_BATCH):
     train_obj = torch.cat([train_obj, new_obj])
     train_obj_true = torch.cat([train_obj_true, new_obj_true])
 
-    save_bo_state(iteration+1, train_x, train_obj, train_obj_true)
-    save_pareto(iteration+1, train_x, train_obj_true)
-    save_hypervolume(iteration+1, train_obj_true)
+    # Hypervolume logging
+    hv = Hypervolume(ref_point=REF_POINT)
+    pareto_mask = is_non_dominated(train_obj_true)
+    hv_value = hv.compute(train_obj_true[pareto_mask])
+
+    with open(HV_LOG_PATH, "a") as f:
+        f.write(f"{iteration+1},{hv_value}\n")
+
+    save_checkpoint(iteration + 1, train_x, train_obj, train_obj_true)
 
     mll, model = initialize_model(train_x, train_obj)
 
-save_best_configuration(train_x, train_obj_true)
+# =========================================================
+# SAVE FINAL RESULTS
+# =========================================================
+print("Saving final results...")
 
-print("\nExperiment completed successfully.")
+final_x_unnorm = unnormalize(train_x, bounds)
+
+results_df = pd.DataFrame(
+    final_x_unnorm.numpy(),
+    columns=["temperature", "top_p", "top_k", "rep_pen", "max_tokens"]
+)
+results_df["sari"] = train_obj_true[:, 0].numpy()
+results_df["bert"] = train_obj_true[:, 1].numpy()
+results_df.to_csv(os.path.join(RESULTS_DIR, "all_evaluations.csv"), index=False)
+
+pareto_mask = is_non_dominated(train_obj_true)
+pareto_df = results_df[pareto_mask.numpy()]
+pareto_df.to_csv(os.path.join(RESULTS_DIR, "pareto_front.csv"), index=False)
+
+print("Experiment completed successfully.")
