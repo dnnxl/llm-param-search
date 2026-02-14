@@ -162,6 +162,10 @@ bo_results_TIMESTAMP/
  └── best_configuration.json # final best decoding setup
 """
 
+
+
+
+
 import os
 import re
 import json
@@ -187,7 +191,7 @@ from botorch.acquisition.multi_objective.monte_carlo import qNoisyExpectedHyperv
 from botorch.optim import optimize_acqf
 from botorch.sampling.normal import SobolQMCNormalSampler
 from botorch.utils.multi_objective.pareto import is_non_dominated
-from botorch.utils.multi_objective.hypervolume import Hypervolume
+from botorch.utils.multi_objective.box_decompositions import DominatedPartitioning
 from botorch.utils.sampling import draw_sobol_samples
 
 
@@ -197,51 +201,39 @@ from botorch.utils.sampling import draw_sobol_samples
 def parse_args():
     parser = argparse.ArgumentParser(description="Multi-objective BO for LLM decoding optimization")
 
-    # Experiment
     parser.add_argument("--experiment_id", type=str, default="experiment_01")
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--device", type=str, default="cuda")
+    parser.add_argument("--optimization_algorithm", type=str, default="qNEHVI")
 
-    # Model
     parser.add_argument("--model_name", type=str,
                         default="unsloth/Qwen3-0.6B-unsloth-bnb-4bit")
     parser.add_argument("--max_seq_length", type=int, default=8192)
 
-    # Data
     parser.add_argument("--data_path", type=str,
                         default="/data/dxie/llm-optimization/dataset/FEINA_test_split_train_30.csv")
 
-    # BO settings
-    parser.add_argument("--optimization_algorithm", type=str, default="qNEHVI")
-    parser.add_argument("--n_batch", type=int, default=50)
+    parser.add_argument("--n_batch", type=int, default=200)
     parser.add_argument("--n_init", type=int, default=50)
     parser.add_argument("--mc_samples", type=int, default=128)
 
-    # Reference point
     parser.add_argument("--ref_sari", type=float, default=20.0)
     parser.add_argument("--ref_bert", type=float, default=0.75)
 
-    # Noise
     parser.add_argument("--noise_sari", type=float, default=0.5)
     parser.add_argument("--noise_bert", type=float, default=0.01)
 
-    # Bounds
     parser.add_argument("--temp_min", type=float, default=0.1)
     parser.add_argument("--temp_max", type=float, default=1.5)
-
     parser.add_argument("--top_p_min", type=float, default=0.5)
     parser.add_argument("--top_p_max", type=float, default=1.0)
-
     parser.add_argument("--top_k_min", type=int, default=10)
     parser.add_argument("--top_k_max", type=int, default=200)
-
     parser.add_argument("--rep_pen_min", type=float, default=1.0)
     parser.add_argument("--rep_pen_max", type=float, default=2.0)
-
     parser.add_argument("--max_tokens_min", type=int, default=50)
     parser.add_argument("--max_tokens_max", type=int, default=200)
 
-    # Acquisition optimization
     parser.add_argument("--num_restarts", type=int, default=10)
     parser.add_argument("--raw_samples", type=int, default=256)
     parser.add_argument("--candidates_generation", type=int, default=1)
@@ -251,9 +243,8 @@ def parse_args():
 
 args = parse_args()
 
-
 # =========================================================
-# CONFIGURATION
+# SEED & DEVICE
 # =========================================================
 torch.manual_seed(args.seed)
 np.random.seed(args.seed)
@@ -261,62 +252,38 @@ random.seed(args.seed)
 
 DEVICE = args.device if torch.cuda.is_available() else "cpu"
 
+# =========================================================
+# CONFIGURATION
+# =========================================================
 MODEL_NAME = args.model_name
 SAFE_MODEL_NAME = MODEL_NAME.replace("/", "_")
 
-REF_POINT = torch.tensor(
-    [args.ref_sari, args.ref_bert],
-    dtype=torch.double
-)
-
-NOISE_SE = [args.noise_sari, args.noise_bert]
+REF_POINT = torch.tensor([args.ref_sari, args.ref_bert], dtype=torch.double)
+NOISE_SE = torch.tensor([args.noise_sari, args.noise_bert], dtype=torch.double)
 
 bounds = torch.tensor([
-    [
-        args.temp_min,
-        args.top_p_min,
-        args.top_k_min,
-        args.rep_pen_min,
-        args.max_tokens_min
-    ],
-    [
-        args.temp_max,
-        args.top_p_max,
-        args.top_k_max,
-        args.rep_pen_max,
-        args.max_tokens_max
-    ],
+    [args.temp_min, args.top_p_min, args.top_k_min, args.rep_pen_min, args.max_tokens_min],
+    [args.temp_max, args.top_p_max, args.top_k_max, args.rep_pen_max, args.max_tokens_max],
 ], dtype=torch.double)
 
 standard_bounds = torch.zeros_like(bounds)
 standard_bounds[1] = 1
 
-
 # =========================================================
 # DIRECTORIES
 # =========================================================
-RESULTS_DIR = f"./bo_results_{SAFE_MODEL_NAME}_{args.experiment_id}"
+RESULTS_DIR = f"./{args.optimization_algorithm}_{SAFE_MODEL_NAME}_{args.experiment_id}"
 CACHE_DIR = os.path.join(RESULTS_DIR, "cache")
 os.makedirs(RESULTS_DIR, exist_ok=True)
 os.makedirs(CACHE_DIR, exist_ok=True)
 
 CHECKPOINT_PATH = os.path.join(RESULTS_DIR, "bo_checkpoint.pt")
-HV_LOG_PATH = os.path.join(RESULTS_DIR, "hypervolume_log.txt")
+HV_LOG_PATH = os.path.join(RESULTS_DIR, "hypervolume_log.csv")
 
-print(f"Results directory: {RESULTS_DIR}")
-
-with open(os.path.join(RESULTS_DIR, "experiment_config.json"), "w") as f:
-    json.dump(vars(args), f, indent=4)
-
-env_info = {
-    "python_version": platform.python_version(),
-    "torch_version": torch.__version__,
-    "device": DEVICE,
-    "platform": platform.platform(),
-}
-with open(os.path.join(RESULTS_DIR, "environment.json"), "w") as f:
-    json.dump(env_info, f, indent=4)
-
+# Initialize HV log
+if not os.path.exists(HV_LOG_PATH):
+    with open(HV_LOG_PATH, "w") as f:
+        f.write("iteration,hypervolume\n")
 
 # =========================================================
 # LOAD MODEL
@@ -333,21 +300,25 @@ bertscore_metric = evaluate.load("bertscore")
 
 df_global = pd.read_csv(args.data_path)
 
-
 # =========================================================
 # UTILITIES
 # =========================================================
 def build_prompt(text):
-    return f"Simplifica el siguiente segmento discursivo:\n\nSegmento complejo: {text}\nSegmento simplificado:"
+    return f"Simplifica el siguiente segmento discursivo:\n\n{text}\n\nSegmento simplificado:"
 
 
 def clean_string(s):
     return re.sub(r"\s+", " ", s or "").strip()
 
-
 def extract_assistant_response(raw_text):
+    if "Qwen" in MODEL_NAME:
+        return re.sub(r'^.*?</think>', '', raw_text, flags=re.DOTALL).strip()
+    elif "Llama" in MODEL_NAME:
+        if re.search(r"\bassistant\b", raw_text, flags=re.IGNORECASE):
+            parts = re.split(r"\bassistant[:\s]*\b", raw_text, flags=re.IGNORECASE)
+            if len(parts) >= 2:
+                return clean_string(parts[-1])
     return clean_string(raw_text)
-
 
 def generate_simplification(text, temperature, top_p, top_k, rep_pen, max_tokens):
     prompt = build_prompt(text)
@@ -375,12 +346,11 @@ def generate_simplification(text, temperature, top_p, top_k, rep_pen, max_tokens
         )
 
     decoded = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    return clean_string(decoded)
+    return clean_string(extract_assistant_response(decoded))
 
 
 def config_hash(params):
     return hashlib.md5(json.dumps(params, sort_keys=True).encode()).hexdigest()
-
 
 # =========================================================
 # OBJECTIVE FUNCTION
@@ -390,14 +360,13 @@ def evaluate_decoding_params(x_unnorm: torch.Tensor):
 
     for row in x_unnorm:
         temperature, top_p, top_k, rep_pen, max_tokens = row.tolist()
-        max_tokens = int(max_tokens)
 
         params = {
             "temperature": temperature,
             "top_p": top_p,
             "top_k": int(top_k),
             "rep_pen": rep_pen,
-            "max_tokens": max_tokens,
+            "max_tokens": int(max_tokens),
         }
 
         hash_id = config_hash(params)
@@ -420,9 +389,7 @@ def evaluate_decoding_params(x_unnorm: torch.Tensor):
                 str(row_data["P_Vivian"]),
             ]
 
-            pred = generate_simplification(
-                source, temperature, top_p, top_k, rep_pen, max_tokens
-            )
+            pred = generate_simplification(source, **params)
 
             preds.append(pred)
             sources.append(source)
@@ -443,11 +410,7 @@ def evaluate_decoding_params(x_unnorm: torch.Tensor):
             )["f1"]
         )
 
-        metrics = {
-            "sari": sari,
-            "bert": float(bert),
-            "params": params,
-        }
+        metrics = {"sari": sari, "bert": float(bert), "params": params}
 
         with open(cache_file, "w") as f:
             json.dump(metrics, f)
@@ -456,36 +419,68 @@ def evaluate_decoding_params(x_unnorm: torch.Tensor):
 
     return torch.tensor(results, dtype=torch.double)
 
-
 # =========================================================
 # INITIAL DATA
 # =========================================================
 def generate_initial_data(n=args.n_init):
     train_x = draw_sobol_samples(bounds=bounds, n=n, q=1).squeeze(1)
     train_obj_true = evaluate_decoding_params(train_x)
-    noise_std = torch.tensor(NOISE_SE)
-    train_obj = train_obj_true + noise_std * torch.randn_like(train_obj_true)
+    train_obj = train_obj_true + NOISE_SE * torch.randn_like(train_obj_true)
     return train_x, train_obj, train_obj_true
 
 
 def initialize_model(train_x, train_obj):
     models = []
-    noise_var = torch.tensor([NOISE_SE[0]**2, NOISE_SE[1]**2], dtype=torch.double)
 
+    train_x = normalize(train_x, bounds)
     for i in range(train_obj.shape[-1]):
         y = train_obj[:, i:i+1]
-        yvar = torch.full_like(y, noise_var[i])
+        yvar = torch.full_like(y, NOISE_SE[i] ** 2)
         models.append(SingleTaskGP(train_x, y, yvar))
 
     model = ModelListGP(*models)
     mll = SumMarginalLogLikelihood(model.likelihood, model)
     return mll, model
 
+# =========================================================
+# HYPERVOLUME
+# =========================================================
+def compute_and_log_hv(train_obj_true, iteration):
+    #Y = train_obj_true.detach()
+    #pareto_mask = is_non_dominated(Y)
+    #pareto_Y = Y[pareto_mask]
+
+    bd = DominatedPartitioning(ref_point=REF_POINT, Y=train_obj_true)
+    volume = bd.compute_hypervolume().item()
+
+    with open(HV_LOG_PATH, "a") as f:
+        f.write(f"{iteration},{volume}\n")
+
+    print(f"Hypervolume at iteration {iteration}: {volume:.6f}")
+    return volume
 
 # =========================================================
-# OPTIMIZATION STEP
+# BO LOOP
 # =========================================================
-def optimize_qnehvi_and_get_observation(model, train_x):
+if os.path.exists(CHECKPOINT_PATH):
+    checkpoint = torch.load(CHECKPOINT_PATH)
+    train_x = checkpoint["train_x"]
+    train_obj = checkpoint["train_obj"]
+    train_obj_true = checkpoint["train_obj_true"]
+    start_iter = checkpoint["iteration"]
+else:
+    train_x, train_obj, train_obj_true = generate_initial_data()
+    start_iter = 0
+    compute_and_log_hv(train_obj_true, iteration=0)
+
+mll, model = initialize_model(train_x, train_obj)
+
+for iteration in range(start_iter, args.n_batch):
+
+    print(f"\n=== BO Iteration {iteration+1} ===")
+
+    fit_gpytorch_mll(mll)
+
     acq_func = qNoisyExpectedHypervolumeImprovement(
         model=model,
         ref_point=REF_POINT.tolist(),
@@ -502,47 +497,15 @@ def optimize_qnehvi_and_get_observation(model, train_x):
         raw_samples=args.raw_samples,
     )
 
-    new_x_unnorm = unnormalize(candidates, bounds)
-    new_obj_true = evaluate_decoding_params(new_x_unnorm)
-    noise_std = torch.tensor(NOISE_SE)
-    new_obj = new_obj_true + noise_std * torch.randn_like(new_obj_true)
-
-    return candidates, new_obj, new_obj_true
-
-
-# =========================================================
-# MAIN BO LOOP
-# =========================================================
-if os.path.exists(CHECKPOINT_PATH):
-    checkpoint = torch.load(CHECKPOINT_PATH)
-    train_x = checkpoint["train_x"]
-    train_obj = checkpoint["train_obj"]
-    train_obj_true = checkpoint["train_obj_true"]
-    start_iter = checkpoint["iteration"]
-else:
-    train_x, train_obj, train_obj_true = generate_initial_data()
-    start_iter = 0
-
-mll, model = initialize_model(train_x, train_obj)
-
-for iteration in range(start_iter, args.n_batch):
-    print(f"\n=== BO Iteration {iteration+1} ===")
-
-    fit_gpytorch_mll(mll)
-
-    new_x, new_obj, new_obj_true = optimize_qnehvi_and_get_observation(
-        model, train_x)
+    new_x = unnormalize(candidates, bounds)
+    new_obj_true = evaluate_decoding_params(new_x)
+    new_obj = new_obj_true + NOISE_SE * torch.randn_like(new_obj_true)
 
     train_x = torch.cat([train_x, new_x])
     train_obj = torch.cat([train_obj, new_obj])
     train_obj_true = torch.cat([train_obj_true, new_obj_true])
 
-    hv = Hypervolume(ref_point=REF_POINT)
-    pareto_mask = is_non_dominated(train_obj_true)
-    hv_value = hv.compute(train_obj_true[pareto_mask])
-
-    with open(HV_LOG_PATH, "a") as f:
-        f.write(f"{iteration+1},{hv_value}\n")
+    compute_and_log_hv(train_obj_true, iteration + 1)
 
     torch.save({
         "iteration": iteration + 1,
@@ -553,24 +516,4 @@ for iteration in range(start_iter, args.n_batch):
 
     mll, model = initialize_model(train_x, train_obj)
 
-
-# =========================================================
-# SAVE RESULTS
-# =========================================================
-print("Saving final results...")
-
-final_x_unnorm = unnormalize(train_x, bounds)
-
-results_df = pd.DataFrame(
-    final_x_unnorm.numpy(),
-    columns=["temperature", "top_p", "top_k", "rep_pen", "max_tokens"]
-)
-results_df["sari"] = train_obj_true[:, 0].numpy()
-results_df["bert"] = train_obj_true[:, 1].numpy()
-results_df.to_csv(os.path.join(RESULTS_DIR, "all_evaluations.csv"), index=False)
-
-pareto_mask = is_non_dominated(train_obj_true)
-pareto_df = results_df[pareto_mask.numpy()]
-pareto_df.to_csv(os.path.join(RESULTS_DIR, "pareto_front.csv"), index=False)
-
-print("Experiment completed successfully.")
+print("\nOptimization completed.")
