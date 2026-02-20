@@ -161,11 +161,6 @@ bo_results_TIMESTAMP/
  ├── bo_timing.csv           # BO optimization time
  └── best_configuration.json # final best decoding setup
 """
-
-
-
-
-
 import os
 import re
 import json
@@ -279,6 +274,20 @@ os.makedirs(CACHE_DIR, exist_ok=True)
 
 CHECKPOINT_PATH = os.path.join(RESULTS_DIR, "bo_checkpoint.pt")
 HV_LOG_PATH = os.path.join(RESULTS_DIR, "hypervolume_log.csv")
+EVAL_LOG_PATH = os.path.join(RESULTS_DIR, "evaluation_log.csv")
+TIME_LOG_PATH = os.path.join(RESULTS_DIR, "time_log.csv")
+
+TEXT_OUTPUT_DIR = os.path.join(RESULTS_DIR, "generated_texts")
+os.makedirs(TEXT_OUTPUT_DIR, exist_ok=True)
+
+if not os.path.exists(EVAL_LOG_PATH):
+    with open(EVAL_LOG_PATH, "w") as f:
+        f.write("phase,iteration,temperature,top_p,top_k,rep_pen,max_tokens,"
+                "sari,bert,llm_time_sec,total_input_tokens,total_output_tokens\n")
+
+if not os.path.exists(TIME_LOG_PATH):
+    with open(TIME_LOG_PATH, "w") as f:
+        f.write("iteration,optimization_time_sec,llm_total_time_sec\n")
 
 # Initialize HV log
 if not os.path.exists(HV_LOG_PATH):
@@ -331,6 +340,8 @@ def generate_simplification(text, temperature, top_p, top_k, rep_pen, max_tokens
     )
 
     inputs = tokenizer(prompt_text, return_tensors="pt")
+    input_tokens = inputs["input_ids"].shape[1]
+
     inputs = {k: v.to(DEVICE) for k, v in inputs.items()}
 
     with torch.no_grad():
@@ -345,8 +356,12 @@ def generate_simplification(text, temperature, top_p, top_k, rep_pen, max_tokens
             use_cache=True,
         )
 
+    output_tokens = outputs.shape[1] - input_tokens
+
     decoded = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    return clean_string(extract_assistant_response(decoded))
+    cleaned = clean_string(extract_assistant_response(decoded))
+
+    return cleaned, input_tokens, output_tokens
 
 
 def config_hash(params):
@@ -355,8 +370,9 @@ def config_hash(params):
 # =========================================================
 # OBJECTIVE FUNCTION
 # =========================================================
-def evaluate_decoding_params(x_unnorm: torch.Tensor):
+def evaluate_decoding_params(x_unnorm: torch.Tensor, phase="sobol", iteration=0):
     results = []
+    total_llm_time = 0.0
 
     for row in x_unnorm:
         temperature, top_p, top_k, rep_pen, max_tokens = row.tolist()
@@ -380,6 +396,13 @@ def evaluate_decoding_params(x_unnorm: torch.Tensor):
 
         preds, sources, refs_all = [], [], []
 
+        # --- Per-text logging containers ---
+        inference_times = []
+        input_tokens_list = []
+        output_tokens_list = []
+
+        llm_start = time.time()
+
         for _, row_data in tqdm(df_global.iterrows(), total=len(df_global), leave=False):
             source = str(row_data["Segmento"])
             refs = [
@@ -389,18 +412,33 @@ def evaluate_decoding_params(x_unnorm: torch.Tensor):
                 str(row_data["P_Vivian"]),
             ]
 
-            pred = generate_simplification(source, **params)
+            # ---- Measure inference time per text ----
+            inf_start = time.time()
+            pred, in_tokens, out_tokens = generate_simplification(source, **params)
+            inf_time = time.time() - inf_start
 
             preds.append(pred)
             sources.append(source)
             refs_all.append(refs)
 
+            inference_times.append(inf_time)
+            input_tokens_list.append(in_tokens)
+            output_tokens_list.append(out_tokens)
+
+        llm_time = time.time() - llm_start
+        total_llm_time += llm_time
+
+        # ---- Measure SARI time ----
+        sari_start = time.time()
         sari = sari_metric.compute(
             sources=sources,
             predictions=preds,
             references=refs_all
         )["sari"]
+        sari_time = time.time() - sari_start
 
+        # ---- Measure BERTScore time ----
+        bert_start = time.time()
         bert = np.mean(
             bertscore_metric.compute(
                 predictions=preds,
@@ -409,22 +447,73 @@ def evaluate_decoding_params(x_unnorm: torch.Tensor):
                 nthreads=8,
             )["f1"]
         )
+        bert_time = time.time() - bert_start
 
-        metrics = {"sari": sari, "bert": float(bert), "params": params}
+        metrics = {
+            "sari": sari,
+            "bert": float(bert),
+            "params": params,
+            "llm_time": llm_time,
+            "sari_time": sari_time,
+            "bert_time": bert_time,
+        }
 
+        # ==========================================
+        # SAVE GENERATED TEXTS + PER-TEXT METADATA
+        # ==========================================
+        config_filename = (
+            f"temp_{temperature:.3f}_"
+            f"top_p_{top_p:.3f}_"
+            f"top_k_{int(top_k)}_"
+            f"rep_{rep_pen:.3f}_"
+            f"max_{int(max_tokens)}.csv"
+        )
+
+        config_path = os.path.join(TEXT_OUTPUT_DIR, config_filename)
+
+        df_texts = pd.DataFrame({
+            "source_text": sources,
+            "generated_text": preds,
+            "ref_1": [r[0] for r in refs_all],
+            "ref_2": [r[1] for r in refs_all],
+            "ref_3": [r[2] for r in refs_all],
+            "ref_4": [r[3] for r in refs_all],
+            "inference_time_sec": inference_times,
+            "input_tokens": input_tokens_list,
+            "output_tokens": output_tokens_list,
+        })
+
+        df_texts.to_csv(config_path, index=False)
+
+        # ---- Save config-level metrics ----
         with open(cache_file, "w") as f:
             json.dump(metrics, f)
 
+        # ---- LOG EACH CONFIG EVALUATION ----
+        with open(EVAL_LOG_PATH, "a") as f:
+            f.write(
+                f"{phase},{iteration},"
+                f"{temperature},{top_p},{int(top_k)},"
+                f"{rep_pen},{int(max_tokens)},"
+                f"{sari},{bert},"
+                f"{llm_time},{sari_time},{bert_time}\n"
+            )
+
         results.append([sari, bert])
 
-    return torch.tensor(results, dtype=torch.double)
+    return torch.tensor(results, dtype=torch.double), total_llm_time
 
 # =========================================================
 # INITIAL DATA
 # =========================================================
 def generate_initial_data(n=args.n_init):
     train_x = draw_sobol_samples(bounds=bounds, n=n, q=1).squeeze(1)
-    train_obj_true = evaluate_decoding_params(train_x)
+    train_obj_true, llm_time = evaluate_decoding_params(
+        train_x, phase="sobol", iteration=0
+    )
+
+    with open(TIME_LOG_PATH, "a") as f:
+        f.write(f"0,0,{llm_time}\n")
     train_obj = train_obj_true + NOISE_SE * torch.randn_like(train_obj_true)
     return train_x, train_obj, train_obj_true
 
@@ -479,6 +568,9 @@ for iteration in range(start_iter, args.n_batch):
 
     print(f"\n=== BO Iteration {iteration+1} ===")
 
+    # ---- OPTIMIZATION TIME ----
+    opt_start = time.time()
+
     fit_gpytorch_mll(mll)
 
     acq_func = qNoisyExpectedHypervolumeImprovement(
@@ -497,9 +589,20 @@ for iteration in range(start_iter, args.n_batch):
         raw_samples=args.raw_samples,
     )
 
+    optimization_time = time.time() - opt_start
+
+    # ---- LLM EVALUATION ----
     new_x = unnormalize(candidates, bounds)
-    new_obj_true = evaluate_decoding_params(new_x)
+
+    new_obj_true, llm_time = evaluate_decoding_params(
+        new_x, phase="bo", iteration=iteration+1
+    )
+
     new_obj = new_obj_true + NOISE_SE * torch.randn_like(new_obj_true)
+
+    # ---- SAVE TIMES ----
+    with open(TIME_LOG_PATH, "a") as f:
+        f.write(f"{iteration+1},{optimization_time},{llm_time}\n")
 
     train_x = torch.cat([train_x, new_x])
     train_obj = torch.cat([train_obj, new_obj])
@@ -515,5 +618,42 @@ for iteration in range(start_iter, args.n_batch):
     }, CHECKPOINT_PATH)
 
     mll, model = initialize_model(train_x, train_obj)
+
+# =========================================================
+# SAVE ALL FINAL EVALUATIONS
+# =========================================================
+print("Saving all evaluations...")
+
+# Convert tensors to numpy
+train_x_np = train_x.detach().cpu().numpy()
+train_obj_np = train_obj.detach().cpu().numpy()
+train_obj_true_np = train_obj_true.detach().cpu().numpy()
+
+# Build dataframe
+columns_x = ["temperature", "top_p", "top_k", "rep_pen", "max_tokens"]
+columns_obj = ["sari_noisy", "bert_noisy"]
+columns_obj_true = ["sari_true", "bert_true"]
+
+df_results = pd.DataFrame(
+    np.hstack([train_x_np, train_obj_np, train_obj_true_np]),
+    columns=columns_x + columns_obj + columns_obj_true
+)
+
+# Pareto front
+pareto_mask = is_non_dominated(torch.tensor(train_obj_true_np))
+df_results["is_pareto"] = pareto_mask.numpy()
+
+# Final hypervolume
+bd = DominatedPartitioning(ref_point=REF_POINT, Y=train_obj_true)
+final_hv = bd.compute_hypervolume().item()
+df_results["final_hypervolume"] = final_hv
+
+# Save CSV
+FINAL_RESULTS_PATH = os.path.join(RESULTS_DIR, "all_evaluations.csv")
+df_results.to_csv(FINAL_RESULTS_PATH, index=False)
+
+print(f"Saved results to {FINAL_RESULTS_PATH}")
+print(f"Final Hypervolume: {final_hv:.6f}")
+
 
 print("\nOptimization completed.")
