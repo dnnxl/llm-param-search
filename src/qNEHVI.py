@@ -161,6 +161,7 @@ bo_results_TIMESTAMP/
  ├── bo_timing.csv           # BO optimization time
  └── best_configuration.json # final best decoding setup
 """
+
 import os
 import re
 import json
@@ -327,6 +328,33 @@ def extract_assistant_response(raw_text):
             parts = re.split(r"\bassistant[:\s]*\b", raw_text, flags=re.IGNORECASE)
             if len(parts) >= 2:
                 return clean_string(parts[-1])
+    # -------------------------
+    # Phi
+    # -------------------------
+    elif "phi" in MODEL_NAME.lower():
+        # Common Phi chat template patterns
+        # 1) assistant:
+        # 2) <|assistant|>
+        # 3) <assistant>
+        pattern = re.compile(
+            r"(?:assistant[:\s]*|<\|assistant\|>|<assistant>)\s*(.+)$",
+            re.IGNORECASE | re.DOTALL
+        )
+        match = pattern.search(raw_text)
+        if match:
+            return clean_string(match.group(1))
+    # -------------------------
+    # Mistral (NEW)
+    # -------------------------
+    elif "mistral" in MODEL_NAME.lower():
+        match = re.search(
+            r"Segmento simplificado:\s*(.+)$",
+            raw_text,
+            flags=re.IGNORECASE | re.DOTALL
+        )
+        if match:
+            return clean_string(match.group(1))
+
     return clean_string(raw_text)
 
 def generate_simplification(text, temperature, top_p, top_k, rep_pen, max_tokens):
